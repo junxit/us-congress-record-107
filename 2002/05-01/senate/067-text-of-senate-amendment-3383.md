@@ -1,0 +1,8578 @@
+---
+granule: CREC-2002-05-01-pt1-PgS3639-3
+date: 2002-05-01
+edition: CREC
+section: SENATE
+page: S3639
+citation: 148 Cong. Rec. S3639
+---
+
+# Text of Senate Amendment 3383
+
+**Speaking:** Landrieu, Mary L. (L000550) [D-LA]
+
+**Measures:** H.R. 1646, S. 2189, H.R. 3009
+
+```
+  SA 3383. Ms. LANDRIEU submitted an amendment intended to be proposed 
+by her to the bill H.R. 3009, to extend the Andean Trade Preference 
+Act, to grant additional trade benefits under that Act, and for other 
+purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place in the bill, insert the following:
+
+     SEC. ____. CONDITIONS ON ANY SUSPENSION OF IMMIGRATION 
+                   PROCESSING OF ALIEN ORPHANS.
+
+       (a) Requirements of the Department of Justice.--
+       (1) Report to congress.--Neither the Commissioner nor any 
+     other official of the Department of Justice shall suspend, 
+     with respect to a country, the processing of petitions for 
+     classification of natives of that country as alien orphans, 
+     unless the Attorney General first submits a report to each 
+     House of Congress, in accordance with subsection (c), 
+     containing the following:
+       (A) Certification required.--A certification that the 
+     Commissioner or other official of the Department of Justice, 
+     as appropriate, has determined, based upon clear and 
+     convincing evidence, that one or more of the following 
+     circumstances is applicable with respect to that country:
+       (i) Inadequate ins processing system.--The system of the 
+     Immigration and Naturalization Service in that country for 
+     the processing of petitions for the classification of natives 
+     of that country as alien orphans is wholly inadequate, and as 
+     a result the Service is unable to make the determinations 
+     described in section 101(b)(1) (F) or (G) of the Immigration 
+     and Nationality Act (8 U.S.C. 1101(b)(1) (F) or (G).
+       (ii) Sending country adoption system compromised.--The 
+     system utilized by the sending country for the arrangement of 
+     international adoptions of alien orphans who are natives of 
+     that country has been compromised to the extent that 
+     processing cases according to the requirements of the 
+     Immigration and Nationality Act is no longer possible.
+       (iii) Failure to obtain birth parent consent.--In the 
+     majority of the cases processed in the period beginning 90 
+     days before the date of transmittal of the certification and 
+     ending on such date, the consent of a birth parent to 
+     termination of parental rights or to the adoption was not 
+     obtained.
+       (iv) Fraud, duress, or improper inducement.--In the 
+     majority of the cases processed in the period beginning 90 
+     days before the date of transmittal of the certification and 
+     ending on such date, the consent of a birth parent to the 
+     termination of parental rights or the adoption was obtained 
+     as a result of fraud, duress, or improper inducement.
+       (B) Plan.--A detailed plan that would remedy the 
+     circumstance or circumstances described in subparagraph (A) 
+     justifying the suspension, including efforts by the 
+     Department of Justice to communicate with United States 
+     citizen family members who might be affected by the impending 
+     suspension.
+       (C) Estimate of time to remedy circumstances.--A good faith 
+     estimate of the time needed to remedy the circumstance or 
+     circumstances described in subparagraph (A) justifying the 
+     suspension.
+       (2) Limitation.--In no case may a suspension last longer 
+     than one year.
+       (3) Transition provision.--Not later than 30 days after the 
+     date of enactment of this Act, the Commissioner shall certify 
+     to Congress that any suspension in effect on the date of the 
+     transmittal of that certification is justified by one or more 
+     of the circumstances described in paragraph (1)(A).
+       (b) Requirements of the Department of State.--Neither the 
+     Secretary of State nor any other official of the Department 
+     of State shall urge a foreign government to suspend the 
+     processing of international adoptions by United States 
+     citizens unless the Secretary of State provides notice in 
+     writing to each House of Congress, in accordance with 
+     subsection (c), of his intention to take such action.
+       (c) Submission of reports and notices to congress.--The 
+     submission of a report under subsection (a) or a notice under 
+     subsection (b) is satisfied if the report or notice, as 
+     appropriate, is submitted--
+       (1) in the case of the Senate, not less than 30 session 
+     days (excluding days in which the Senate stands in recess) in 
+     advance of the action; and
+       (2) in the case of the House of Representatives, not less 
+     than 30 legislative days in advance of the action.
+       (d) Definitions.--In this section:
+       (1) Alien orphan.--The term ``alien orphan'' means an alien 
+     child described in section 101(b)(1) (F) or (G) of the 
+     Immigration and Nationality Act (8 U.S.C. 1101(b)(1) (F) or 
+     (G)).
+       (2) Clear and convincing evidence.--The term ``clear and 
+     convincing evidence'' means specific, well documented, and 
+     substantiated proof that the underlying assertion is true.
+       (3) Commissioner.--The term ``Commissioner'' means the 
+     Commissioner of Immigration and Naturalization, subject to 
+     the authority, supervision, and control of the Attorney 
+     General.
+       (4) Sending country.--The term ``sending country'' means 
+     the country with legal authority to process the adoption of 
+     the child in question.
+       (5) Suspension.--The term ``suspension'' means, with 
+     respect to a country, the decision by the Commissioner to 
+     suspend the processing of petitions for classification of 
+     alien orphans who are natives of that country.
+                                  ____
+
+  SA 3384. Ms. LANDRIEU submitted an amendment intended to be proposed 
+by her to the bill H.R. 3009, to extend the Andean Trade Preference 
+Act, to grant additional trade benefits under that Act, and for other 
+purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following new section:
+
+     SEC. ____. TRADE ADJUSTMENT ASSISTANCE FOR MARITIME 
+                   EMPLOYEES.
+
+       Not later than 6 months after the date of enactment of the 
+     Trade Adjustment Assistance for Workers, Farmers, Fishermen, 
+     Communities, and Firms Act of 2002, the Secretary of Labor 
+     shall establish a program to provide health insurance 
+     benefits under title VI of that Act, and program benefits 
+     under chapter 2 of title II of the Trade Act of 1974 (19 
+     U.S.C. 2271 et seq.) to longshoremen, harbor and port pilots, 
+     port personnel, stevedores, crane operators, warehouse 
+     personnel, and other maritime workers who have become totally 
+     or partially separated, or are threatened to become totally 
+     or partially separated, as a result of the decline in the 
+     importation of steel products into the United States caused 
+     by the safeguard measures taken by the United States on March 
+     5, 2002, under chapter 1 of title II of such Act (19 U.S.C. 
+     2251 et seq.).
+                                  ____
+
+  SA 3385. Mr. REID (for Mr. Biden) proposed an amendment to the bill 
+H.R. 1646, to authorize appropriations for the Department of State for 
+fiscal years 2002 and 2003, and for other purposes; as follows:
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the ``Security 
+     Assistance Act of 2001''.
+       (b) Table of Contents.--The table of contents for this Act 
+     is as follows:
+
+
+[[Page S3640]]
+
+
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+
+ TITLE I--VERIFICATION OF ARMS CONTROL AND NONPROLIFERATION AGREEMENTS
+
+Sec. 101. Verification and Compliance Bureau personnel.
+Sec. 102. Key Verification Assets Fund.
+Sec. 103. Revised verification and compliance reporting requirements.
+
+               TITLE II--MILITARY AND RELATED ASSISTANCE
+
+      Subtitle A--Foreign Military Sales and Financing Authorities
+
+Sec. 201. Authorization of appropriations.
+Sec. 202. Relationship of foreign military sales to United States 
+              nonproliferation interests.
+Sec. 203. Special Defense Acquisition Fund for nonproliferation and 
+              counter-narcotics purposes.
+Sec. 204. Representation allowances.
+Sec. 205. Arms Export Control Act prohibition on transactions with 
+              countries that have repeatedly provided support for acts 
+              of international terrorism.
+Sec. 206. Congressional notification of small arms and light weapons 
+              license approvals; annual reports.
+
+       Subtitle B--International Military Education and Training
+
+Sec. 211. Authorization of appropriations.
+Sec. 212. Annual human rights reports.
+
+          Subtitle C--Security Assistance for Select Countries
+
+Sec. 221. Security assistance for Israel and Egypt.
+Sec. 222. Security assistance for Greece and Turkey.
+Sec. 223. Security assistance for certain other countries.
+
+      Subtitle D--Excess Defense Article and Drawdown Authorities
+
+Sec. 231. Excess defense articles for certain countries.
+Sec. 232. Annual briefing on projected availability of excess defense 
+              articles.
+Sec. 233. Expanded drawdown authority.
+Sec. 234. Duration of security assistance leases.
+
+            Subtitle E--Other Political-Military Assistance
+
+Sec. 241. Destruction of surplus weapons stockpiles.
+Sec. 242. Identification of funds for demining programs.
+
+                  Subtitle F--Antiterrorism Assistance
+
+Sec. 251. Authorization of appropriations.
+Sec. 252. Specific program objectives.
+
+                       Subtitle G--Other Matters
+
+Sec. 261. Revised military assistance reporting requirements.
+
+       TITLE III--NONPROLIFERATION AND EXPORT CONTROL ASSISTANCE
+
+                     Subtitle A--General Provisions
+
+Sec. 301. Authorization of appropriations.
+Sec. 302. Joint State Department-Defense Department programs.
+Sec. 303. Nonproliferation technology acquisition programs for friendly 
+              foreign countries.
+Sec. 304. International nonproliferation and export control training.
+Sec. 305. Relocation of scientists.
+Sec. 306. Audits of the International Science and Technology Centers 
+              Program.
+Sec. 307. International Atomic Energy Agency regular budget 
+              assessments.
+Sec. 308. Revised nonproliferation reporting requirements.
+
+   Subtitle B--Russian Federation Debt Reduction for Nonproliferation
+
+Sec. 311. Short title.
+Sec. 312. Findings and purposes.
+Sec. 313. Definitions.
+Sec. 314. Establishment of the Russian Nonproliferation Investment 
+              Facility.
+Sec. 315. Reduction of the Russian Federation's Soviet-era debt owed to 
+              the United States, generally.
+Sec. 316. Reduction of Soviet-era debt owed to the United States as a 
+              result of credits extended under title I of the 
+              Agricultural Trade Development and Assistance Act of 
+              1954.
+Sec. 317. Authority to engage in debt-for-nonproliferation exchanges 
+              and debt buybacks.
+Sec. 318. Russian Nonproliferation Investment Agreement.
+Sec. 319. Structure of debt-for-nonproliferation arrangements.
+Sec. 320. Independent media and the rule of law.
+Sec. 321. Nonproliferation requirement.
+Sec. 322. Discussion of Russian Federation debt reduction for 
+              nonproliferation with other creditor states.
+Sec. 323. Implementation of United States policy.
+Sec. 324. Consultations with Congress.
+Sec. 325. Annual report to Congress.
+
+          Subtitle C--Nonproliferation Assistance Coordination
+
+Sec. 331. Short title.
+Sec. 332. Findings.
+Sec. 333. Independent states of the former Soviet Union defined.
+Sec. 334. Establishment of Committee on Nonproliferation Assistance to 
+              the Independent States of the Former Soviet Union.
+Sec. 335. Duties of the Committee.
+Sec. 336. Administrative support.
+Sec. 337. Confidentiality of information.
+Sec. 338. Statutory construction.
+
+          TITLE IV--EXPEDITING THE MUNITIONS LICENSING PROCESS
+
+Sec. 401. License officer staffing.
+Sec. 402. Funding for database automation.
+Sec. 403. Information management priorities.
+Sec. 404. Improvements to the Automated Export System.
+Sec. 405. Adjustment of threshold amounts for congressional review 
+              purposes.
+Sec. 406. Periodic notification of pending applications for export 
+              licenses.
+
+             TITLE V--NATIONAL SECURITY ASSISTANCE STRATEGY
+
+Sec. 501. Establishment of the Strategy.
+Sec. 502. Security assistance surveys.
+
+                   TITLE VI--MISCELLANEOUS PROVISIONS
+
+Sec. 601. Nuclear and missile nonproliferation in South Asia.
+Sec. 602. Real-time public availability of raw seismological data.
+Sec. 603. Detailing United States governmental personnel to 
+              international arms control and nonproliferation 
+              organizations.
+Sec. 604. Diplomatic presence overseas.
+Sec. 605. Protection against agricultural bioterrorism.
+Sec. 606. Compliance with the Chemical Weapons Convention.
+
+             TITLE VII--AUTHORITY TO TRANSFER NAVAL VESSELS
+
+Sec. 701. Authority to transfer naval vessels to certain foreign 
+              countries.
+
+     SEC. 2. DEFINITIONS.
+
+       In this Act:
+       (1) Appropriate committees of congress.--The term 
+     ``appropriate committees of Congress'' means the Committee on 
+     Foreign Relations of the Senate and the Committee on 
+     International Relations of the House of Representatives.
+       (2) Defense article.--The term ``defense article'' has the 
+     meaning given the term in section 47(3) of the Arms Export 
+     Control Act (22 U.S.C. 2794 note).
+       (3) Defense service.--The term ``defense service'' has the 
+     meaning given the term in section 47(4) of the Arms Export 
+     Control Act (22 U.S.C. 2794 note).
+       (4) Excess defense article.--The term ``excess defense 
+     article'' has the meaning given the term in section 644(g) of 
+     the Foreign Assistance Act of 1961 (22 U.S.C. 2403(g)).
+       (5) Secretary.--Except as otherwise provided, the term 
+     ``Secretary'' means the Secretary of State.
+
+ TITLE I--VERIFICATION OF ARMS CONTROL AND NONPROLIFERATION AGREEMENTS
+
+     SEC. 101. VERIFICATION AND COMPLIANCE BUREAU PERSONNEL.
+
+       (a) In General.--Of the total amounts made available to the 
+     Department of State for fiscal years 2002 and 2003, not less 
+     than $14,000,000 each such fiscal year shall be provided to 
+     the Bureau of Verification and Compliance of the Department 
+     of State for Bureau-administered activities, including the 
+     Key Verification Assets Fund.
+       (b) Additional Personnel.--In addition to the amounts made 
+     available under subsection (a), not less than $1,800,000 
+     shall be made available from the Department's American 
+     Salaries Account, for the purpose of hiring new personnel to 
+     carry out the Bureau's responsibilities, as set forth in 
+     section 112 of the Arms Export Control and Nonproliferation 
+     Act of 1999 (113 Stat. 1501A-486), as enacted into law by 
+     section 1000(a)(7) of Public Law 106-113.
+
+     SEC. 102. KEY VERIFICATION ASSETS FUND.
+
+       Of the total amounts made available to the Department of 
+     State for fiscal years 2002 and 2003, not less than 
+     $7,000,000 shall be made available within the Verification 
+     and Compliance Bureau's account for each such fiscal year to 
+     carry out section 1111 of the Arms Control and 
+     Nonproliferation Act of 1999 (113 Stat. 1501A-486), as 
+     enacted into law by section 1000(a)(7) of Public Law 106-113.
+
+     SEC. 103. REVISED VERIFICATION AND COMPLIANCE REPORTING 
+                   REQUIREMENTS.
+
+       Section 403(a) of the Arms Control and Disarmament Act (22 
+     U.S.C. 2593a(a)) is amended by striking ``January 31'' and 
+     inserting ``April 15''.
+
+               TITLE II--MILITARY AND RELATED ASSISTANCE
+
+      Subtitle A--Foreign Military Sales and Financing Authorities
+
+     SEC. 201. AUTHORIZATION OF APPROPRIATIONS.
+
+       There are authorized to be appropriated to the President 
+     for grant assistance under section 23 of the Arms Export 
+     Control Act (22 U.S.C. 2763) and for the subsidy cost, as 
+     defined in section 502(5) of the Federal Credit Reform Act of 
+     1990, of direct loans under such section $3,674,000,000 for 
+     fiscal year 2002 and $4,267,000,000 for fiscal year 2003.
+
+     SEC. 202. RELATIONSHIP OF FOREIGN MILITARY SALES TO UNITED 
+                   STATES NONPROLIFERATION INTERESTS.
+
+       (a) Authorized Purposes.--The first sentence of section 4 
+     of the Arms Export Control Act (22 U.S.C. 2754) is amended by 
+     inserting ``for preventing or hindering the proliferation of 
+     weapons of mass destruction and of the means of delivering 
+     such weapons,'' after ``self-defense,''.
+       (b) Definition of ``Weapons of Mass Destruction''.--Section 
+     47 of the Arms Export Control Act (22 U.S.C. 2794) is 
+     amended--
+
+[[Page S3641]]
+
+       (1) by striking ``and'' at the end of paragraph (8);
+       (2) by striking the period at the end of paragraph (9) and 
+     inserting ``; and''; and
+       (3) by adding at the end the following new paragraph:
+       ``(10) `weapons of mass destruction' has the meaning 
+     provided by section 1403(1) of the Defense Against Weapons of 
+     Mass Destruction Act of 1996 (title XIV of Public Law 104-
+     201; 110 Stat. 2717; 50 U.S.C. 2302(1)).''.
+       (c) Sense of Congress.--It is the sense of Congress that 
+     the Secretary should ensure, in circumstances where the sale 
+     of defense articles or defense services to a friendly country 
+     would serve the nonproliferation interests of the United 
+     States, but that country cannot afford to purchase such 
+     defense articles or defense services, that grant assistance 
+     is provided pursuant to section 23 of the Arms Export Control 
+     Act to facilitate such acquisition.
+
+     SEC. 203. SPECIAL DEFENSE ACQUISITION FUND FOR 
+                   NONPROLIFERATION AND COUNTER-NARCOTICS 
+                   PURPOSES.
+
+       (a) Establishment.--Notwithstanding any other provision of 
+     law, the President shall direct that the Special Defense 
+     Acquisition Fund be established pursuant to section 51 of the 
+     Arms Export Control Act (22 U.S.C. 2795).
+       (b) Use of the Special Defense Acquisition Fund.--Section 
+     51(a)(4) of the Arms Export Control Act (22 U.S.C. 
+     2795(a)(4)) is amended by striking ``for use for'' and all 
+     that follows through ``equipment'' and inserting the 
+     following: ``for use for--
+       ``(A) narcotics control purposes and are appropriate to the 
+     needs of recipient countries, such as small boats, planes 
+     (including helicopters), and communications equipment; and
+       ``(B) nonproliferation and export control purposes, such as 
+     nuclear, radiological, chemical, and biological warfare 
+     materials detection equipment.''.
+       (c) Limitation.--Section 51(c) of the Arms Export Control 
+     Act (22 U.S.C. 2795(c)) is amended--
+       (1) in paragraph (1), by striking all after ``exceed'' 
+     through the period and inserting ``$200,000,000.''; and
+       (2) in paragraph (2), by striking ``provided'' and all that 
+     follows through ``Acts'' and inserting ``specifically 
+     authorized by law in advance''.
+       (d) Authorization.--For fiscal year 2003, not more than 
+     $20,000,000 may be made available for obligation for the 
+     procurement of items pursuant to section 51 of the Arms 
+     Export Control Act.
+
+     SEC. 204. REPRESENTATION ALLOWANCES.
+
+       Section 43(c) of the Arms Export Control Act (22 U.S.C. 
+     2792(c)) is amended by striking ``$72,500'' and inserting 
+     ``$86,500''.
+
+     SEC. 205. ARMS EXPORT CONTROL ACT PROHIBITION ON TRANSACTIONS 
+                   WITH COUNTRIES THAT HAVE REPEATEDLY PROVIDED 
+                   SUPPORT FOR ACTS OF INTERNATIONAL TERRORISM.
+
+       The second sentence of section 40(d) of the Arms Export 
+     Control Act (22 U.S.C. 2780(d)) is amended--
+       (1) by inserting ``or chemical, biological, or radiological 
+     agents'' after ``nuclear explosive devices''; and
+       (2) by inserting ``or chemical, biological, or radiological 
+     agents'' after ``nuclear material''.
+
+     SEC. 206. CONGRESSIONAL NOTIFICATION OF SMALL ARMS AND LIGHT 
+                   WEAPONS LICENSE APPROVALS; ANNUAL REPORTS.
+
+       (a) Congressional Notification of Export License 
+     Approvals.--Section 36(c) of the Arms Export Control Act (22 
+     U.S.C. 2776(c)) is amended by inserting ``(or, in the case of 
+     a defense article that is a firearm controlled under category 
+     I of the United States Munitions List, $1,000,000 or more)'' 
+     after ``$50,000,000 or more''.
+       (b) Report.--Not later than six months after the date of 
+     enactment of this Act, and annually thereafter, the Secretary 
+     of State shall submit an unclassified report to the 
+     appropriate congressional committees on the numbers, range, 
+     and findings of end-use monitoring of United States transfers 
+     in small arms and light weapons.
+       (c) Annual Military Assistance Reports.--Section 655(b)(3) 
+     of the Foreign Assistance Act of 1961 (22 U.S.C. 2415(b)(3)) 
+     is amended by inserting before the period at the end the 
+     following: ``, including, in the case of defense articles 
+     that are firearms controlled under category I of the United 
+     States Munitions List, a statement of the aggregate dollar 
+     value and quantity of semiautomatic assault weapons, or 
+     related equipment, the manufacture, transfer, or possession 
+     of which is unlawful under section 922 of title 18, United 
+     States Code, that were licensed for export during the period 
+     covered by the report''.
+       (d) Annual Report on Arms Brokering.--Not later than six 
+     months after the date of enactment of this Act, and annually 
+     thereafter, the Secretary of State shall submit a report to 
+     the appropriate committees of Congress on activities of 
+     registered arms brokers, including violations of the Arms 
+     Export Control Act.
+       (e) Annual Report on Investigations of the Bureau of 
+     Alcohol, Tobacco and Firearms.--Not later than six months 
+     after the date of enactment of this Act, and annually 
+     thereafter, the Secretary of the Treasury shall submit a 
+     report to the appropriate committees of Congress on 
+     investigations and other efforts undertaken by the Bureau of 
+     Alcohol, Tobacco and Firearms (including cooperation with 
+     other agencies) to stop United States-source weapons from 
+     being used in terrorist acts and international crime.
+
+       Subtitle B--International Military Education and Training
+
+     SEC. 211. AUTHORIZATION OF APPROPRIATIONS.
+
+       There are authorized to be appropriated to the President 
+     $75,000,000 for fiscal year 2002 and $85,290,000 for fiscal 
+     year 2003 to carry out chapter 5 of part II of the Foreign 
+     Assistance Act of 1961 (22 U.S.C. 2347 et seq.; relating to 
+     international military education and training).
+
+     SEC. 212. ANNUAL HUMAN RIGHTS REPORTS.
+
+       (a) With Respect to Prohibitions on Nonmilitary 
+     Assistance.--Section 116(d) of the Foreign Assistance Act of 
+     1961 (22 U.S.C. 2151n(d)) is amended by redesignating 
+     paragraphs (7) and (8) as paragraphs (8) and (9), 
+     respectively, and by inserting after paragraph (6) the 
+     following:
+       ``(7) to the extent practicable, for any violation of 
+     internationally recognized human rights reported under this 
+     subsection, whether any foreign military or defense ministry 
+     civilian participant in education and training activities 
+     under chapter 5 of part II of this Act was involved;''.
+       (b) Records Regarding Foreign Participants.--Section 548 of 
+     the Foreign Assistance Act of 1961 (22 U.S.C. 2347e) is 
+     amended--
+       (1) by striking ``In'' and inserting ``(a) Development and 
+     Maintenance of Database.--In''; and
+       (2) by adding at the end the following new subsections:
+       ``(b) Annual List of Foreign Personnel.--For the purposes 
+     of preparing the report required pursuant to section 116(d), 
+     the Secretary of State may annually request the Secretary of 
+     Defense to provide information contained in the database with 
+     respect to a list submitted to the Secretary of Defense by 
+     the Secretary of State, containing the names of foreign 
+     personnel or military units. To the extent practicable, the 
+     Secretary of Defense shall provide, and the Secretary of 
+     State may take into account, the information contained in the 
+     database, if any, relating to the Secretary of State's 
+     submission.
+       ``(c) Updating of Database.--If the Secretary of State 
+     determines and reports to Congress under section 116(d) that 
+     a foreign person identified in the database maintained 
+     pursuant to this section was involved in a violation of 
+     internationally recognized human rights, the Secretary of 
+     Defense shall ensure that the database is updated to contain 
+     such fact and all relevant information.''.
+
+          Subtitle C--Security Assistance for Select Countries
+
+     SEC. 221. SECURITY ASSISTANCE FOR ISRAEL AND EGYPT.
+
+       (a) Authorization of Appropriations.--
+       (1) Israel.--Section 513 of the Security Assistance Act of 
+     2000 (Public Law 106-280) is amended by striking ``2001 and 
+     2002'' each place that it appears and inserting ``2002 and 
+     2003''.
+       (2) Egypt.--Section 514 of the Security Assistance Act of 
+     2000 (Public Law 106-280) is amended by striking ``2001 and 
+     2002'' each place that it appears and inserting ``2002 and 
+     2003''.
+       (b) Ballistic Missile Defense.--Of the amounts made 
+     available for fiscal years 2002 and 2003 under section 513 of 
+     the Security Assistance Act of 2000 (Public Law 106-280), as 
+     amended by subsection (a), $100,000,000 may be used each such 
+     fiscal year for the establishment, in cooperation with a 
+     United States company, of a production line for the Arrow 
+     missile in the United States.
+
+     SEC. 222. SECURITY ASSISTANCE FOR GREECE AND TURKEY.
+
+       (a) In General.--Of the amounts made available for the 
+     fiscal years 2002 and 2003 to carry out chapter 5 of part II 
+     of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et 
+     seq.)--
+       (1) $1,000,000 for fiscal year 2002 and $1,170,000 for 
+     fiscal year 2003 are authorized to be available for Greece; 
+     and
+       (2) $2,500,000 for fiscal year 2002 and $2,920,000 for 
+     fiscal year 2003 are authorized to be available for Turkey.
+       (b) Use for Professional Military Education.--Of the 
+     amounts available under paragraphs (1) and (2) of subsection 
+     (a) for each of fiscal years 2002 and 2003, $500,000 of each 
+     such amount should be available for purposes of professional 
+     military education.
+       (c) Use for Joint Training.--It is the sense of Congress 
+     that, to the maximum extent practicable, amounts available 
+     under subsection (a) that are used in accordance with 
+     subsection (b) should be used for joint training of Greek and 
+     Turkish officers.
+       (d) Repeal.--Section 512 of the Security Assistance Act of 
+     2000 (Public Law 106-280; 114 Stat. 856) is repealed.
+
+     SEC. 223. SECURITY ASSISTANCE FOR CERTAIN OTHER COUNTRIES.
+
+       (a) FMF for Certain Other Countries.--Of the amounts made 
+     available for the fiscal years 2002 and 2003 under section 23 
+     of the Arms Export Control Act (22 U.S.C. 2763), the 
+     following amounts are authorized to be available on a grant 
+     basis for the following countries for the fiscal years 
+     specified:
+       (1) The baltic states.--For all of the Baltic states of 
+     Estonia, Latvia, and Lithuania, $21,000,000 for fiscal year 
+     2002 and $24,400,000 for fiscal year 2003.
+       (2) Bulgaria.--For Bulgaria, $10,000,000 for fiscal year 
+     2002 and $11,620,000 for fiscal year 2003.
+
+[[Page S3642]]
+
+       (3) The czech republic.--For the Czech Republic, 
+     $12,000,000 for fiscal year 2002 and $14,000,000 for fiscal 
+     year 2003.
+       (4) Georgia.--For Georgia, $5,650,000 for fiscal year 2002 
+     and $6,560,000 for fiscal year 2003.
+       (5) Hungary.--For Hungary, $12,000,000 for fiscal year 2002 
+     and $14,000,000 for fiscal year 2003.
+       (6) Jordan.--For Jordan, $75,000,000 for fiscal year 2002 
+     and $87,300,000 for fiscal year 2003.
+       (7) Malta.--For Malta, $1,000,000 for fiscal year 2002 and 
+     $1,170,000 for fiscal year 2003.
+       (8) The philippines.--For the Philippines, $19,000,000 for 
+     fiscal year 2002 and $22,100,000 for fiscal year 2003.
+       (9) Poland.--For Poland, $15,000,000 for fiscal year 2002 
+     and $17,500,000 for fiscal year 2003.
+       (10) Romania.--For Romania, $11,500,000 for fiscal year 
+     2002 and $13,400,000 for fiscal year 2003.
+       (11) Slovakia.-- For Slovakia, $8,500,000 for fiscal year 
+     2002 and $9,900,000 for fiscal year 2003.
+       (12) Slovenia.--For Slovenia, $4,500,000 for fiscal year 
+     2002 and $5,250,000 for fiscal year 2003.
+       (b) IMET.--Of the amounts made available for the fiscal 
+     years 2002 and 2003 to carry out chapter 5 of part II of the 
+     Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq.), the 
+     following amounts are authorized to be available for the 
+     following countries for the fiscal years specified:
+       (1) The baltic states.--For all of the Baltic states of 
+     Estonia, Latvia, and Lithuania, $3,000,000 for fiscal year 
+     2002 and $3,420,000 for fiscal year 2003.
+       (2) Bulgaria.--For Bulgaria, $1,200,000 for fiscal year 
+     2002 and $1,370,000 for fiscal year 2003.
+       (3) The czech republic.--For the Czech Republic, $1,800,000 
+     for fiscal year 2002 and $2,050,000 for fiscal year 2003.
+       (4) Georgia.--For Georgia, $850,000 for fiscal year 2002 
+     and $970,000 for fiscal year 2003.
+       (5) Hungary.--For Hungary, $1,800,000 for fiscal year 2002 
+     and $2,050,000 for fiscal year 2003.
+       (6) Jordan.--For Jordan, $1,800,000 for fiscal year 2002 
+     and $2,050,000 for fiscal year 2003.
+       (7) Malta.--For Malta, $300,000 for fiscal year 2002 and 
+     $350,000 for fiscal year 2003.
+       (8) The philippines.--For the Philippines, $1,710,000 for 
+     fiscal year 2002 and $2,000,000 for fiscal year 2003.
+       (9) Poland.--For Poland, $1,900,000 for fiscal year 2002 
+     and $2,160,000 for fiscal year 2003.
+       (10) Romania.--For Romania, $1,400,000 for fiscal year 2002 
+     and $1,600,000 for fiscal year 2003.
+       (11) Slovakia.--For Slovakia, $850,000 for fiscal year 2002 
+     and $970,000 for fiscal year 2003.
+       (12) Slovenia.--For Slovenia, $800,000 for fiscal year 2002 
+     and $910,000 for fiscal year 2003.
+       (c) Written Explanation of Presidential Determinations.--In 
+     the event that the President determines not to provide, or 
+     determines to exceed, the funding allocated for any country 
+     specified in this section by an amount that is more than five 
+     percent of that specified in this section, the President 
+     shall submit to the appropriate committees of Congress within 
+     15 days of such determination a written explanation of the 
+     reasons therefor.
+       (d) Repeals.--Sections 511 (a) and (b) and 515 of the 
+     Security Assistance Act of 2000 are repealed.
+
+      Subtitle D--Excess Defense Article and Drawdown Authorities
+
+     SEC. 231. EXCESS DEFENSE ARTICLES FOR CERTAIN COUNTRIES.
+
+       (a) Authority.--Notwithstanding section 516(e) of the 
+     Foreign Assistance Act of 1961 (22 U.S.C. 2321j(e), during 
+     each of the fiscal years 2002 and 2003, funds available to 
+     the Department of Defense may be expended for crating, 
+     packing, handling, and transportation of excess defense 
+     articles transferred under the authority of section 516 of 
+     such Act to Albania, Bulgaria, Croatia, Estonia, Former 
+     Yugoslavia Republic of Macedonia, Georgia, India, Kazakhstan, 
+     Kyrgyzstan, Latvia, Lithuania, Moldova, Mongolia, Pakistan, 
+     Romania, Slovakia, Slovenia, Tajikistan, Turkmenistan, 
+     Ukraine, and Uzbekistan.
+       (b) Sense of Congress.--The authority provided under this 
+     section should be utilized only for those countries 
+     demonstrating a genuine commitment to democracy and human 
+     rights.
+
+     SEC. 232. ANNUAL BRIEFING ON PROJECTED AVAILABILITY OF EXCESS 
+                   DEFENSE ARTICLES.
+
+       Not later than 90 days prior to the commencement of each 
+     fiscal year, the Department of Defense shall brief the 
+     Department of State and the appropriate committees of 
+     Congress regarding the expected availability of excess 
+     defense articles during the next fiscal year, for the purpose 
+     of enabling the Department of State to factor such 
+     availability into annual security assistance plans.
+
+     SEC. 233. EXPANDED DRAWDOWN AUTHORITY.
+
+       Section 506(c) of the Foreign Assistance Act of 1961 (22 
+     U.S.C. 2318(c)) is amended to read as follows:
+       ``(c) For the purposes of any provision of law that 
+     authorizes the drawdown of defense or other articles or 
+     commodities, or defense or other services from an agency of 
+     the United States Government, such drawdown may include the 
+     supply of commercial transportation and related services and 
+     defense or other articles or commodities, or defense or other 
+     services, that are acquired by contract for the purposes of 
+     the drawdown in question, if the cost to acquire such items 
+     or services is less than the cost to the United States 
+     Government of providing such items or services from existing 
+     agency assets.''.
+
+     SEC. 234. DURATION OF SECURITY ASSISTANCE LEASES.
+
+       Section 61 of the Arms Export Control Act (22 U.S.C. 2796) 
+     is amended--
+       (1) in subsection (b), by striking ``of not to exceed five 
+     years'' and inserting ``that may not exceed 5 years, plus a 
+     period of time specified in the lease as may be necessary for 
+     major refurbishment work to be performed prior to final 
+     delivery by the lessor of the defense articles,''; and
+       (2) by adding at the end the following new subsection:
+       ``(d) In this section, the term `major refurbishment work' 
+     means refurbishment work performed over a period estimated to 
+     be 6 months or more.''.
+
+            Subtitle E--Other Political-Military Assistance
+
+     SEC. 241. DESTRUCTION OF SURPLUS WEAPONS STOCKPILES.
+
+       Of the funds authorized to be appropriated to the President 
+     for fiscal years 2002 and 2003 to carry out chapters 1 and 10 
+     of part I of the Foreign Assistance Act of 1961 (22 U.S.C. 
+     2151 et seq.), relating to development assistance, up to 
+     $10,000,000 is authorized to be made available each such 
+     fiscal year for the destruction of surplus stockpiles of 
+     small arms, light weapons, and other munitions.
+
+     SEC. 242. IDENTIFICATION OF FUNDS FOR DEMINING PROGRAMS.
+
+        Of the funds authorized to be appropriated under section 
+     201 for nonproliferation, antiterrorism, demining, and 
+     related programs, $40,000,000 is authorized to be 
+     appropriated for fiscal year 2002 for demining programs and 
+     program support costs.
+
+                  Subtitle F--Antiterrorism Assistance
+
+     SEC. 251. AUTHORIZATION OF APPROPRIATIONS.
+
+       Section 574(a) of the Foreign Assistance Act of 1961 (22 
+     U.S.C. 2349aa-4(a)) is amended by striking ``$72,000,000 for 
+     fiscal year 2001 and $73,000,000 for fiscal year 2002'' and 
+     inserting ``$73,000,000 for fiscal year 2002 and $75,000,000 
+     for fiscal year 2003''.
+
+     SEC. 252. SPECIFIC PROGRAM OBJECTIVES.
+
+       Of the amounts authorized to be appropriated to the 
+     President pursuant to section 574(a) of the Foreign 
+     Assistance Act of 1961 (22 U.S.C. 2349aa-4(a)), $2,000,000 
+     may be made available for the provision of the Pisces system 
+     to the governments of the Philippines and Pakistan.
+
+                       Subtitle G--Other Matters
+
+     SEC. 261. REVISED MILITARY ASSISTANCE REPORTING REQUIREMENTS.
+
+       (a) Annual Foreign Military Training Reports.--Section 
+     656(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2416) 
+     does not apply to any NATO or major non-NATO ally unless the 
+     chairman or ranking member of one of the appropriate 
+     committees of Congress has specifically requested, in 
+     writing, inclusion of such country in the report. Such 
+     request shall be made not later than 45 calendar days prior 
+     to the date on which the report is required to be 
+     transmitted.
+       (b) Annual Military Assistance Reports.--Section 655 of the 
+     Foreign Assistance Act of 1961 (22 U.S.C. 2415) is amended--
+       (1) by striking subsection (c); and
+       (2) by redesignating subsection (d) as subsection (c).
+       (c) Quarterly Reports on Government-To-Government Arms 
+     Exports.--Section 36(a) of the Arms Export Control Act (22 
+     U.S.C. 2776(a)) is amended--
+       (1) by striking paragraph (7); and
+       (2) by redesignating paragraphs (8), (9), (10), (11), (12), 
+     and (13) as paragraphs (7), (8), (9), (10), (11), and (12), 
+     respectively.
+
+       TITLE III--NONPROLIFERATION AND EXPORT CONTROL ASSISTANCE
+
+                     Subtitle A--General Provisions
+
+     SEC. 301. AUTHORIZATION OF APPROPRIATIONS.
+
+       (a) Authorization.--Section 585 of the Foreign Assistance 
+     Act of 1961 (22 U.S.C. 2349bb-4) is amended--
+       (1) in subsection (a), by striking all after ``chapter'' 
+     and inserting ``$142,000,000 for fiscal year 2002 and 
+     $152,000,000 for fiscal year 2003.''; and
+       (2) in subsection (c), by striking ``2001'' each place that 
+     it appears and inserting ``2002''.
+       (b) Suballocations.--Of the amounts authorized to be 
+     appropriated to the President for fiscal years 2002 and 2003 
+     under chapter 9 of part II of the Foreign Assistance Act of 
+     1961 (22 U.S.C. 2349bb et seq.)--
+       (1) not less than $2,000,000 shall be made available each 
+     such fiscal year for the purpose of carrying out section 584 
+     of the Foreign Assistance Act of 1961, as added by section 
+     304 of this Act; and
+       (2) $65,000,000 for fiscal year 2002 and $65,000,000 for 
+     fiscal year 2003 are authorized to be appropriated for 
+     science and technology centers in the independent states of 
+     the former Soviet Union.
+       (c) Conforming Amendment.--Section 302 of the Security 
+     Assistance Act of 2000 (Public Law 106-280) is repealed.
+
+     SEC. 302. JOINT STATE DEPARTMENT-DEFENSE DEPARTMENT PROGRAMS.
+
+       Of the amounts authorized to be appropriated to the 
+     President for fiscal years 2002 and 2003 under chapter 9 of 
+     part II of the Foreign Assistance Act of 1961 (22 U.S.C. 
+     2349bb
+
+[[Page S3643]]
+
+     et seq.), the Secretary is authorized to make available not 
+     more than $1,000,000 for international counterproliferation 
+     programs administered by the Department of Defense.
+
+     SEC. 303. NONPROLIFERATION TECHNOLOGY ACQUISITION PROGRAMS 
+                   FOR FRIENDLY FOREIGN COUNTRIES.
+
+       (a) In General.--For the purpose of enhancing the 
+     nonproliferation and export control capabilities of friendly 
+     countries, of the amounts authorized to be appropriated for 
+     fiscal years 2002 and 2003 under chapter 9 of part II of the 
+     Foreign Assistance Act of 1961 (22 U.S.C. 2349bb et seq.), 
+     the Secretary is authorized to expend not more than--
+       (1) $5,000,000 for the procurement and provision of 
+     nuclear, chemical, and biological detection systems, 
+     including spectroscopic and pulse echo technologies; and
+       (2) $10,000,000 for the procurement and provision of x-ray 
+     systems capable of imaging sea-cargo containers.
+       (b) Training Requirement.--The Secretary shall not provide 
+     any equipment or technology pursuant to this section without 
+     having first developed and budgeted for a multiyear training 
+     plan to assist foreign personnel in the utilization of those 
+     items.
+       (c) Procurement Authorities.--For fiscal year 2003, the 
+     Secretary shall utilize, to the maximum extent practicable, 
+     the Special Defense Acquisition Fund for procurements 
+     authorized under this section.
+
+     SEC. 304. INTERNATIONAL NONPROLIFERATION AND EXPORT CONTROL 
+                   TRAINING.
+
+       Chapter 9 of part II of the Foreign Assistance Act of 1961 
+     (22 U.S.C. 2349bb et seq.) is amended--
+       (1) by redesignating sections 584 and 585 as sections 585 
+     and 586, respectively; and
+       (2) by inserting after section 583 the following:
+
+     ``SEC. 584. INTERNATIONAL NONPROLIFERATION EXPORT CONTROL 
+                   TRAINING.
+
+       ``(a) General Authority.--The President is authorized to 
+     furnish, on such terms and conditions consistent with this 
+     chapter (but whenever feasible on a reimbursable basis), 
+     education and training to foreign personnel for the purpose 
+     of enhancing the nonproliferation and export control 
+     capabilities of such personnel through their attendance in 
+     special courses of instruction conducted by the United 
+     States.
+       ``(b) Administration of Courses.--The Secretary of State 
+     shall have overall responsibility for the development and 
+     conduct of international nonproliferation education and 
+     training programs, but may utilize other departments and 
+     agencies, as appropriate, to recommend personnel for the 
+     education and training, and to administer specific courses of 
+     instruction.
+       ``(c) Purposes.--Education and training activities 
+     conducted under this section shall be--
+       ``(1) of a technical nature, emphasizing techniques for 
+     detecting, deterring, monitoring, interdicting, and 
+     countering proliferation;
+       ``(2) designed to encourage effective and mutually 
+     beneficial relations and increased understanding between the 
+     United States and friendly countries; and
+       ``(3) designed to improve the ability of friendly countries 
+     to utilize their resources with maximum effectiveness, 
+     thereby contributing to greater self-reliance by such 
+     countries.
+       ``(d) Priority to Certain Countries.--In selecting military 
+     and foreign governmental personnel for education and training 
+     pursuant to this section, priority shall be given to 
+     personnel from countries for which the Secretary of State has 
+     given priority under section 583(b).''.
+
+     SEC. 305. RELOCATION OF SCIENTISTS.
+
+       (a) Reinstatement of Classification Authority.--Section 4 
+     of the Soviet Scientists Immigration Act of 1992 (Public Law 
+     102-509; 106 Stat. 3316; 8 U.S.C. 1153 note) is amended by 
+     striking subsection (d) and inserting the following:
+       ``(d) Duration of Authority.--The authority under 
+     subsection (a) shall be in effect during the following 
+     periods:
+       ``(1) The period beginning on the date of the enactment of 
+     this Act and ending 4 years after such date.
+       ``(2) The period beginning on the date of the enactment of 
+     the Security Assistance Act of 2001 and ending 4 years after 
+     such date.''.
+       (b) Limitation on Number of Scientists Eligible for Visas 
+     Under Authority.--Subsection (c) of such section is amended 
+     by striking ``750'' and inserting ``950''.
+       (c) Limitation on Eligibility.--Subsection (a) of such 
+     section is amended by adding at the end the following new 
+     sentence: ``A scientist is not eligible for designation under 
+     this subsection if the scientist has previously been granted 
+     the status of an alien lawfully admitted for permanent 
+     residence (as defined in section 101(a)(20) of the 
+     Immigration and Nationality Act (8 U.S.C. 1101(a)(20))).''.
+       (d) Consultation Requirement.--The Attorney General shall 
+     consult with the Secretary, the Secretary of Defense, the 
+     Secretary of Energy, and the heads of other appropriate 
+     agencies of the United States regarding--
+       (1) previous experience in implementing the Soviet 
+     Scientists Immigration Act of 1992; and
+       (2) any changes that those officials would recommend in the 
+     regulations prescribed under that Act.
+
+     SEC. 306. AUDITS OF THE INTERNATIONAL SCIENCE AND TECHNOLOGY 
+                   CENTERS PROGRAM.
+
+       Consistent with section 303(b) of the Security Assistance 
+     Act of 2000 (Public Law 106-280; 114 Stat. 853), not later 
+     than 60 days after the date of enactment of this Act, the 
+     Secretary shall submit a detailed report to the appropriate 
+     committees of Congress on United States audit practices with 
+     respect to the ``International Science and Technology Centers 
+     Program''.
+
+     SEC. 307. INTERNATIONAL ATOMIC ENERGY AGENCY REGULAR BUDGET 
+                   ASSESSMENTS.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) The Department of State has concluded that the 
+     International Atomic Energy Agency (hereafter in this section 
+     referred to as the ``IAEA'') is a critical and effective 
+     instrument for verifying compliance with international 
+     nuclear nonproliferation agreements, and that it serves as an 
+     essential barrier to the spread of nuclear weapons.
+       (2) The IAEA furthers United States national security 
+     objectives by helping to prevent the proliferation of nuclear 
+     weapons material, especially through its work on effective 
+     verification and safeguards measures.
+       (3) The IAEA can also perform a critical role in monitoring 
+     and verifying aspects of nuclear weapons reduction agreements 
+     between nuclear weapons states.
+       (4) As the IAEA has negotiated and developed more effective 
+     verification and safeguards measures, it has experienced 
+     significant real growth in its mission, especially in the 
+     vital area of nuclear safeguards inspections.
+       (5) Nearly two decades of zero budget growth have affected 
+     the ability of the IAEA to carry out its mission and to hire 
+     and retain the most qualified inspectors and managers, as 
+     evidenced in the decreasing proportion of such personnel who 
+     hold doctorate degrees.
+       (6) Although voluntary contributions by the United States 
+     lessen the IAEA's budgetary constraints, they cannot readily 
+     be used for the long-term capital investments or permanent 
+     staff increases necessary to an effective IAEA safeguards 
+     regime.
+       (7) It was not the intent of Congress that the United 
+     States contributions to all United Nations-related 
+     organizations and activities be reduced pursuant to the 
+     Admiral James W. Nance and Meg Donovan Foreign Relations 
+     Authorization Act, Fiscal Years 2000 and 2001 (as enacted 
+     into law by section 1000(a)(7) of Public Law 106-113; 113 
+     Stat. 1501A-405 et seq.), which sets 22 percent assessment 
+     rates as benchmarks for the general United Nations budget, 
+     the Food and Agricultural Organization, the World Health 
+     Organization, and the International Labor Organization. 
+     Rather, contributions for important and effective agencies 
+     such as the IAEA should be maintained at levels commensurate 
+     with the criticality of its mission.
+       (b) Additional Funding for the International Atomic Energy 
+     Agency.--It is the sense of Congress that--
+       (1) the Secretary should negotiate a gradual and sustained 
+     increase in the regular budget of the International Atomic 
+     Energy Agency, which should begin with the 2002 budget;
+       (2) if a regular budget increase for the IAEA is achieved, 
+     the Secretary should seek to gain consensus within the IAEA 
+     Board of Governors for allocation of a larger proportion of 
+     that budget to nuclear nonproliferation activities; and
+       (3) if such a reallocation of the regular IAEA budget 
+     cannot be obtained, the United States should decrease its 
+     voluntary contribution by $400,000 for each $1,000,000 
+     increase in its annual assessment.
+       (c) Authorization of Appropriations.--Of the funds 
+     authorized to be appropriated for international 
+     organizations, $60,000,000 are authorized to be appropriated 
+     in fiscal year 2002 for the payment of the United States 
+     assessment to the International Atomic Energy Agency, and 
+     $75,000,000 shall be available for that purpose in fiscal 
+     year 2003.
+
+     SEC. 308. REVISED NONPROLIFERATION REPORTING REQUIREMENTS.
+
+       Section 308 of Public Law 102-182 (22 U.S.C. 5606) is 
+     hereby repealed.
+
+   Subtitle B--Russian Federation Debt Reduction for Nonproliferation
+
+     SEC. 311. SHORT TITLE.
+
+       This subtitle may be cited as the ``Russian Federation Debt 
+     Reduction for Nonproliferation Act of 2001''.
+
+     SEC. 312. FINDINGS AND PURPOSES.
+
+       (a) Findings.--Congress finds the following:
+       (1) It is in the vital security interests of the United 
+     States to prevent the spread of weapons of mass destruction 
+     to additional states or to terrorist organizations, and to 
+     ensure that other nations' obligations to reduce their 
+     stockpiles of such arms in accordance with treaties, 
+     executive agreements, or political commitments are fulfilled.
+       (2) In particular, it is in the vital national security 
+     interests of the United States to ensure that--
+       (A) all stocks of nuclear weapons and weapons-usable 
+     nuclear material in the Russian Federation are secure and 
+     accounted for;
+       (B) stocks of nuclear weapons and weapons-usable nuclear 
+     material that are excess to military needs in the Russian 
+     Federation are monitored and reduced;
+       (C) any chemical or biological weapons, related materials, 
+     and facilities in the Russian Federation are destroyed;
+       (D) the Russian Federation's nuclear weapons complex is 
+     reduced to a size appropriate to its post-Cold War missions, 
+     and its experts in weapons of mass destruction technologies
+
+[[Page S3644]]
+
+     are shifted to gainful and sustainable civilian employment;
+       (E) the Russian Federation's export control system blocks 
+     any proliferation of weapons of mass destruction, the means 
+     of delivering such weapons, and materials, equipment, know-
+     how, or technology that would be used to develop, produce, or 
+     deliver such weapons; and
+       (F) these objectives are accomplished with sufficient 
+     monitoring and transparency to provide confidence that they 
+     have in fact been accomplished and that the funds provided to 
+     accomplish these objectives have been spent efficiently and 
+     effectively.
+       (3) United States programs should be designed to accomplish 
+     these vital objectives in the Russian Federation as rapidly 
+     as possible, and the President should develop and present to 
+     Congress a plan for doing so.
+       (4) Substantial progress has been made in United States-
+     Russian Federation cooperative programs to achieve these 
+     objectives, but much more remains to be done to reduce the 
+     urgent risks to United States national security posed by the 
+     current state of the Russian Federation's weapons of mass 
+     destruction stockpiles and complexes.
+       (5) The threats posed by inadequate management of weapons 
+     of mass destruction stockpiles and complexes in the Russian 
+     Federation remain urgent. Incidents in years immediately 
+     preceding 2001, which have been cited by the Russia Task 
+     Force of the Secretary of Energy's Advisory Board, include--
+       (A) a conspiracy at one of the Russian Federation's largest 
+     nuclear weapons facilities to steal nearly enough highly 
+     enriched uranium for a nuclear bomb;
+       (B) an attempt by an employee of the Russian Federation's 
+     premier nuclear weapons facility to sell nuclear weapons 
+     designs to agents of Iraq and Afghanistan; and
+       (C) the theft of radioactive material from a Russian 
+     Federation submarine base.
+       (6) Addressing these threats to United States and world 
+     security will ultimately consume billions of dollars, a 
+     burden that will have to be shared by the Russian Federation, 
+     the United States, and other governments, if this objective 
+     is to be achieved.
+       (7) The creation of new funding streams could accelerate 
+     progress in reducing these threats to United States security 
+     and help the government of the Russian Federation to fulfill 
+     its responsibility for secure management of its weapons 
+     stockpiles and complexes as United States assistance phases 
+     out.
+       (8) The Russian Federation suffers from a significant 
+     foreign debt burden, a substantial proportion of which it 
+     inherited from the Soviet Union. The Russian Federation is 
+     taking full responsibility for this debt, but the burden of 
+     debt repayment could threaten Russian Federation economic 
+     reform, particularly in 2003 and beyond.
+       (9) The Russian Federation's need for debt relief has been 
+     the subject of discussions between the United States and the 
+     Russian Federation at the highest levels and is cited by 
+     United States officials as one reason why the Russian 
+     Federation has recognized that its future lies with the West.
+       (10) Past debt-for-environment exchanges, in which a 
+     portion of a country's foreign debt is canceled in return for 
+     certain environmental commitments or payments by that 
+     country, provide a model for a possible debt-for-
+     nonproliferation exchange with the Russian Federation, which 
+     could be designed to provide additional funding for 
+     nonproliferation and arms reduction initiatives.
+       (11) Most of the Russian Federation's official bilateral 
+     debt is held by United States allies that are advanced 
+     industrial democracies. Since the issues described pose 
+     threats to United States allies as well, United States 
+     leadership that results in a larger contribution from United 
+     States allies to cooperative threat reduction activities will 
+     be needed.
+       (b) Purposes.--The purposes of this subtitle are--
+       (1) to recognize the vital interests of the United States, 
+     its allies, and the Russian Federation in reducing the 
+     threats to international security described in the findings 
+     set forth in subsection (a);
+       (2) to facilitate the accomplishment of the United States 
+     objectives described in the findings set forth in subsection 
+     (a) by providing for the alleviation of a portion of the 
+     Russian Federation's foreign debt, thus allowing the use of 
+     additional resources for these purposes; and
+       (3) to ensure that resources freed from debt in the Russian 
+     Federation are targeted to the accomplishment of the United 
+     States objectives described in the findings set forth in 
+     subsection (a).
+
+     SEC. 313. DEFINITIONS.
+
+       In this subtitle:
+       (1) Agreement.--The term ``Agreement'' means the Russian 
+     Nonproliferation Investment Agreement provided for in section 
+     318.
+       (2) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' means--
+       (A) the Committee on International Relations and the 
+     Committee on Appropriations of the House of Representatives; 
+     and
+       (B) the Committee on Foreign Relations and the Committee on 
+     Appropriations of the Senate.
+       (3) Cost.--The term ``cost'' has the meaning given that 
+     term in section 502(5) of the Federal Credit Reform Act of 
+     1990 (2 U.S.C. 661a(5)).
+       (4) Facility.--The term ``Facility'' means the Russian 
+     Nonproliferation Investment Facility established in the 
+     Department of the Treasury by section 314.
+       (5) Soviet-era debt.--The term ``Soviet-era debt'' means 
+     debt owed as a result of loans or credits provided by the 
+     United States (or any agency of the United States) to the 
+     Union of Soviet Socialist Republics.
+
+     SEC. 314. ESTABLISHMENT OF THE RUSSIAN NONPROLIFERATION 
+                   INVESTMENT FACILITY.
+
+       There is established in the Department of the Treasury an 
+     entity to be known as the ``Russian Nonproliferation 
+     Investment Facility'' for the purpose of providing for the 
+     administration of debt reduction in accordance with this 
+     subtitle.
+
+     SEC. 315. REDUCTION OF THE RUSSIAN FEDERATION'S SOVIET-ERA 
+                   DEBT OWED TO THE UNITED STATES, GENERALLY.
+
+       (a) Authority To Reduce Soviet-Era Debt.--
+       (1) Authority.--
+       (A) In general.--Except as provided in subparagraph (B), 
+     and subject to section 321, the President may reduce the 
+     amount of Soviet-era debt owed by the Russian Federation to 
+     the United States (or any agency of the United States) that 
+     is outstanding as of October 1, 2001.
+       (B) Exception.--The authority of subparagraph (A) to reduce 
+     Soviet-era debt does not include any debt that is described 
+     in section 316(a)(1).
+       (2) Congressional notification.--The President shall notify 
+     the appropriate congressional committees of his intention to 
+     reduce the amount of the Russian Federation's Soviet-era debt 
+     at least 15 days in advance of any formal determination to do 
+     so.
+       (3) Authorization of appropriations.--
+       (A) In general.--For the cost of the reduction of any 
+     Soviet-era debt pursuant to this section, there are 
+     authorized to be appropriated to the President--
+       (i) $50,000,000 for fiscal year 2002; and
+       (ii) $100,000,000 for fiscal year 2003.
+       (B) Limitation.--The authority provided by this section 
+     shall be available only to the extent that appropriations for 
+     the cost of the modification of any Soviet-era debt pursuant 
+     to this section are made in advance.
+       (4) Certain prohibitions inapplicable.--
+       (A) In general.--A reduction of Soviet-era debt pursuant to 
+     this section shall not be considered assistance for the 
+     purposes of any provision of law limiting assistance to a 
+     country.
+       (B) Additional requirement.--The authority of this section 
+     may be exercised notwithstanding section 620(r) of the 
+     Foreign Assistance Act of 1961 or section 321 of the 
+     International Development and Food Assistance Act of 1975.
+       (b) Implementation of Soviet-Era Debt Reduction.--
+       (1) In general.--Any reduction of Soviet-era debt pursuant 
+     to subsection (a) shall be--
+       (A) implemented pursuant to the terms of a Russian 
+     Nonproliferation Investment Agreement authorized under 
+     section 318; and
+       (B) accomplished at the direction of the Facility by the 
+     exchange of a new obligation for obligations of the type 
+     referred to in such subsection that are outstanding as of 
+     October 1, 2001.
+       (2) Exchange of obligations.--
+       (A) In general.--The Facility shall notify the agency 
+     primarily responsible for administering part I of the Foreign 
+     Assistance Act of 1961 of an agreement entered into under 
+     paragraph (1) with the Russian Federation to exchange a new 
+     obligation for outstanding obligations.
+       (B) Additional requirement.--At the direction of the 
+     Facility, the old obligations that are the subject of the 
+     agreement shall be canceled and a new debt obligation for the 
+     Russian Federation shall be established relating to the 
+     agreement, and the agency primarily responsible for 
+     administering part I of the Foreign Assistance Act of 1961 
+     shall make an adjustment in its accounts to reflect the debt 
+     reduction.
+       (c) Additional Terms and Conditions.--The following 
+     additional terms and conditions shall apply to the reduction 
+     of Soviet-era debt under subsection (a)(1) in the same manner 
+     as such terms and conditions apply to the reduction of debt 
+     under section 704(a)(1) of the Foreign Assistance Act of 
+     1961:
+       (1) The provisions relating to repayment of principal under 
+     section 705 of the Foreign Assistance Act of 1961.
+       (2) The provisions relating to interest on new obligations 
+     under section 706 of the Foreign Assistance Act of 1961.
+
+     SEC. 316. REDUCTION OF SOVIET-ERA DEBT OWED TO THE UNITED 
+                   STATES AS A RESULT OF CREDITS EXTENDED UNDER 
+                   TITLE I OF THE AGRICULTURAL TRADE DEVELOPMENT 
+                   AND ASSISTANCE ACT OF 1954.
+
+       (a) Authority To Reduce Certain Soviet-Era Debt.--
+       (1) Authority.--Notwithstanding any other provision of law, 
+     and subject to section 321, the President may reduce the 
+     amount of Soviet-era debt owed to the United States (or any 
+     agency of the United States) by the Russian Federation that 
+     is outstanding as of October 1, 2001, as a result of any 
+     credits extended under title I of the Agricultural Trade 
+     Development and Assistance Act of 1954 (7 U.S.C. 1701 et 
+     seq.).
+       (2) Congressional notification.--The President shall notify 
+     the appropriate congressional committees of his intention to 
+     reduce the amount of the Russian Federation's Soviet-era debt 
+     described in paragraph (1) at least 15 days in advance of any 
+     formal determination to do so.
+
+[[Page S3645]]
+
+       (3) Authorization of appropriations.--
+       (A) In general.--For the cost of the reduction of any 
+     Soviet-era debt pursuant to this section, there are 
+     authorized to be appropriated to the President--
+       (i) $50,000,000 for fiscal year 2002; and
+       (ii) $100,000,000 for fiscal year 2003.
+       (B) Limitation.--The authority provided by this section 
+     shall be available only to the extent that appropriations for 
+     the cost of the modification of any Soviet-era debt pursuant 
+     to this section are made in advance.
+       (b) Implementation of Soviet-Era Debt Reduction.--
+       (1) In general.--Any reduction of Soviet-era debt pursuant 
+     to subsection (a) shall be--
+       (A) implemented pursuant to the terms of a Russian 
+     Nonproliferation Investment Agreement authorized under 
+     section 318; and
+       (B) accomplished at the direction of the Facility by the 
+     exchange of a new obligation for obligations of the type 
+     referred to in such subsection that are outstanding as of 
+     October 1, 2001.
+       (2) Exchange of obligations.--
+       (A) In general.--The Facility shall notify the Commodity 
+     Credit Corporation of an agreement entered into under 
+     paragraph (1) with an eligible country to exchange a new 
+     obligation for outstanding obligations.
+       (B) Additional requirement.--At the direction of the 
+     Facility, the old obligations that are the subject of the 
+     agreement shall be canceled and a new debt obligation shall 
+     be established for the Russian Federation relating to the 
+     agreement, and the Commodity Credit Corporation shall make an 
+     adjustment in its accounts to reflect the debt reduction.
+       (c) Additional Terms and Conditions.--The following 
+     additional terms and conditions shall apply to the reduction 
+     of Soviet-era debt under subsection (a)(1) in the same manner 
+     as such terms and conditions apply to the reduction of debt 
+     under section 604(a)(1) of the Agricultural Trade Development 
+     and Assistance Act of 1954 (7 U.S.C. 1738c):
+       (1) The provisions relating to repayment of principal under 
+     section 605 of such Act.
+       (2) The provisions relating to interest on new obligations 
+     under section 606 of such Act.
+
+     SEC. 317. AUTHORITY TO ENGAGE IN DEBT-FOR-NONPROLIFERATION 
+                   EXCHANGES AND DEBT BUYBACKS.
+
+       (a) Loans and Credits Eligible for Sale, Reduction, or 
+     Cancellation.--
+       (1) Debt-for-nonproliferation exchanges.--
+       (A) In general.--Notwithstanding any other provision of 
+     law, and subject to section 321, the President may, in 
+     accordance with this section, sell to any purchaser eligible 
+     under subparagraph (B), any loan or credit described in 
+     section 315(a)(1), or any credit described in section 
+     316(a)(1), or on receipt of payment from an eligible 
+     purchaser, reduce or cancel any such loan or credit or 
+     portion thereof, only for the purpose of facilitating a debt-
+     for-nonproliferation exchange to support activities that 
+     further United States objectives described in the findings 
+     set forth in section 312(a).
+       (B) Eligible purchaser.--A loan or credit may be sold, 
+     reduced, or canceled under subparagraph (A) with respect to a 
+     purchaser who presents plans satisfactory to the President 
+     for using the loan or credit for the purpose of engaging in 
+     debt-for-nonproliferation exchange to support activities that 
+     further United States objectives described in the findings 
+     set forth in section 312(a).
+       (C) Consultation requirement.--Before the sale under 
+     subparagraph (A) to any purchaser eligible under subparagraph 
+     (B), or any reduction or cancellation under subparagraph (A), 
+     of any loan or credit made to the Russian Federation, the 
+     President shall consult with that country concerning the 
+     amount of loans or credits to be sold, reduced, or canceled 
+     and their uses for debt-for-nonproliferation exchanges to 
+     support activities that further United States objectives 
+     described in the findings set forth in section 312(a).
+       (D) Authorization of appropriations.--For the cost of the 
+     reduction of any debt pursuant to subparagraph (A), amounts 
+     authorized to be appropriated under sections 315(a)(3) and 
+     316(a)(3) shall be made available for such reduction of debt 
+     pursuant to subparagraph (A).
+       (2) Debt buybacks.--Notwithstanding any other provision of 
+     law, the President may, in accordance with this section, sell 
+     to the Russian Federation any loan or credit described in 
+     section 315(a)(1) or any credit described in section 
+     316(a)(1), or on receipt of payment from the Russian 
+     Federation, reduce or cancel such loan or credit or portion 
+     thereof, if the purpose of doing so is to facilitate a debt 
+     buyback by the Russian Federation of its own qualified debt 
+     and the Russian Federation uses a substantial additional 
+     amount of its local currency to support activities that 
+     further United States objectives described in the findings 
+     set forth in section 312(a).
+       (3) Limitation.--The authority provided by paragraphs (1) 
+     and (2) shall be available only to the extent that 
+     appropriations for the cost of the modification of any debt 
+     pursuant to such paragraphs are made in advance.
+       (4) Terms and conditions.--Notwithstanding any other 
+     provision of law, the President shall, in accordance with 
+     this section, establish the terms and conditions under which 
+     loans and credits may be sold, reduced, or canceled pursuant 
+     to this section.
+       (5) Administration.--
+       (A) In general.--The Facility shall notify the 
+     Administrator of the agency primarily responsible for 
+     administering part I of the Foreign Assistance Act of 1961 or 
+     the Commodity Credit Corporation, as the case may be, of 
+     purchasers that the President has determined to be eligible 
+     under paragraph (1)(B), and shall direct such agency or 
+     Corporation, as the case may be, to carry out the sale, 
+     reduction, or cancellation of a loan pursuant to such 
+     paragraph.
+       (B) Additional requirement.--Such agency or Corporation, as 
+     the case may be, shall make an adjustment in its accounts to 
+     reflect the sale, reduction, or cancellation.
+       (b) Deposit of Proceeds.--The proceeds from a sale, 
+     reduction, or cancellation of a loan sold, reduced, or 
+     canceled pursuant to this section shall be deposited in the 
+     United States Government account or accounts established for 
+     the repayment of such loan.
+
+     SEC. 318. RUSSIAN NONPROLIFERATION INVESTMENT AGREEMENT.
+
+       (a) Authority.--Subject to section 321, the Secretary is 
+     authorized, in consultation with other appropriate officials 
+     of the Federal Government, to enter into an agreement with 
+     the Russian Federation concerning the use of the funds saved 
+     by that country as a result of any debt relief provided 
+     pursuant to this subtitle. An agreement entered into under 
+     this section may be referred to as the ``Russian 
+     Nonproliferation Investment Agreement''.
+       (b) Content of Agreement.--The Russian Nonproliferation 
+     Investment Agreement shall ensure that--
+       (1) a significant proportion of the funds saved by the 
+     Russian Federation as a result of any debt relief provided 
+     pursuant to this subtitle is devoted to nonproliferation 
+     programs and projects;
+       (2) funding of each such program or project is approved by 
+     the United States Government, either directly or through its 
+     representation on any governing board that may be directed or 
+     established to manage these funds;
+       (3) administration and oversight of nonproliferation 
+     programs and projects incorporate best practices from 
+     established threat reduction and nonproliferation assistance 
+     programs;
+       (4) each program or project funded pursuant to the 
+     Agreement is subject to audits conducted by or for the United 
+     States Government;
+       (5) unobligated funds for investments pursuant to the 
+     Agreement are segregated from other Russian Federation funds 
+     and invested in financial instruments guaranteed or insured 
+     by the United States Government;
+       (6) the funds that are devoted to programs and projects 
+     pursuant to the Agreement are not subject to any taxation by 
+     the Russian Federation;
+       (7) all matters relating to the intellectual property 
+     rights and legal liabilities of United States firms in a 
+     given project are agreed upon before the expenditure of funds 
+     is authorized for that project; and
+       (8) not less than 75 percent of the funds made available 
+     for each nonproliferation program or project under the 
+     Agreement is spent in the Russian Federation.
+       (c) Use of Existing Mechanisms.--It is the sense of 
+     Congress that, to the extent practicable, the boards and 
+     administrative mechanisms of existing threat reduction and 
+     nonproliferation programs should be used in the 
+     administration and oversight of programs and projects under 
+     the Agreement.
+
+     SEC. 319. STRUCTURE OF DEBT-FOR-NONPROLIFERATION 
+                   ARRANGEMENTS.
+
+       It is the sense of Congress that any debt-for-
+     nonproliferation arrangements with the Russian Federation 
+     should provide for gradual debt relief over a period of 
+     years, with debt relief to be suspended if more than two 
+     years' worth of funds remain unobligated for approved 
+     nonproliferation programs or projects.
+
+     SEC. 320. INDEPENDENT MEDIA AND THE RULE OF LAW.
+
+       Subject to section 321, of the agreed funds saved by the 
+     Russian Federation as a result of any debt relief provided 
+     pursuant to this subtitle, up to 10 percent may be used to 
+     promote a vibrant, independent media sector and the rule of 
+     law in the Russian Federation through an endowment to support 
+     the establishment of a ``Center for an Independent Press and 
+     the Rule of Law'' in the Russian Federation, which shall be 
+     directed by a joint United States-Russian Board of Directors 
+     in which the majority of members, including the chairman, 
+     shall be United States personnel, and which shall be 
+     responsible for management of the endowment, its funds, and 
+     the Center's programs.
+
+     SEC. 321. NONPROLIFERATION REQUIREMENT.
+
+       (a) Proliferation to State Sponsors of Terrorism.--The 
+     authorities granted under sections 315, 316, 317, 318, and 
+     320 may not be exercised, and funds may not be expended, 
+     unless and until--
+       (1) the Russian Federation makes material progress in 
+     stemming the flow of sensitive goods, technologies, material, 
+     and know-how related to the design, development, and 
+     production of weapons of mass destruction and the means to 
+     deliver them to countries that have been determined by the 
+     Secretary, for the purposes of section 40 of the Arms Export 
+     Control Act, section 620A of the Foreign Assistance Act, or 
+     section 6(j) of the Export Administration Act of 1979, to 
+     have repeatedly provided support for acts of international 
+     terrorism; and
+       (2) the President certifies to the appropriate 
+     congressional committees that the condition required in 
+     paragraph (1) has been met.
+
+[[Page S3646]]
+
+       (b) Annual Determination.--If, in any annual report to 
+     Congress submitted pursuant to section 325, the President 
+     cannot certify that the Russian Federation continues to meet 
+     the condition required in subsection (a)(1), then, subject to 
+     the provisions of subsection (c), the authorities granted 
+     under under sections 315, 316, 317, 318, and 320 may not be 
+     exercised, and funds may not be expended, unless and until 
+     such certification is made to the appropriate congressional 
+     committees.
+       (c) Presidential Waiver.--The President may waive the 
+     requirements of subsection (b) for a fiscal year if the 
+     President determines that imposition of those requirements in 
+     that fiscal year would be counter to the national interest of 
+     the United States and so reports to the appropriate 
+     congressional committees.
+
+     SEC. 322. DISCUSSION OF RUSSIAN FEDERATION DEBT REDUCTION FOR 
+                   NONPROLIFERATION WITH OTHER CREDITOR STATES.
+
+       The President and such other appropriate officials as the 
+     President may designate shall institute discussions in the 
+     Paris Club of creditor states with the objectives of--
+       (1) reaching agreement that each member of the Paris Club 
+     is authorized to negotiate debt exchanges with the Russian 
+     Federation covering a portion of its bilateral debt, to 
+     finance the accomplishment of nonproliferation and arms 
+     reduction activities;
+       (2) convincing other member states of the Paris Club, 
+     especially the largest holders of Soviet-era Russian debt, to 
+     dedicate significant proportions of their bilateral debt with 
+     the Russian Federation to these purposes; and
+       (3) reaching agreement, as appropriate, to establish a 
+     unified debt exchange fund to manage and provide financial 
+     transparency for the resources provided through the debt 
+     exchanges.
+
+     SEC. 323. IMPLEMENTATION OF UNITED STATES POLICY.
+
+       It is the sense of Congress that implementation of debt-
+     for-nonproliferation programs with the Russian Federation 
+     should be overseen by the Committee on Nonproliferation 
+     Assistance to the Independent States of the Former Soviet 
+     Union (established pursuant to section 334 of this Act).
+
+     SEC. 324. CONSULTATIONS WITH CONGRESS.
+
+       The President shall consult with the appropriate 
+     congressional committees on a periodic basis to review the 
+     operations of the Facility and the Russian Federation's 
+     eligibility for benefits from the Facility.
+
+     SEC. 325. ANNUAL REPORT TO CONGRESS.
+
+       Not later than December 31, 2002, and not later than 
+     December 31 of each year thereafter, the President shall 
+     prepare and transmit to Congress a report concerning the 
+     operation of the Facility during the fiscal year preceding 
+     the fiscal year in which the report is transmitted. The 
+     report on a fiscal year shall include--
+       (1) a description of the activities undertaken by the 
+     Facility during the fiscal year;
+       (2) a description of any agreement entered into under this 
+     subtitle;
+       (3) a description of any grants that have been provided 
+     pursuant to the agreement; and
+       (4) a summary of the results of audits performed in the 
+     fiscal year pursuant to the agreement.
+
+          Subtitle C--Nonproliferation Assistance Coordination
+
+     SEC. 331. SHORT TITLE.
+
+       This subtitle may be cited as the ``Nonproliferation 
+     Assistance Coordination Act of 2001''.
+
+     SEC. 332. FINDINGS.
+
+       Congress finds that--
+       (1) United States nonproliferation efforts in the 
+     independent states of the former Soviet Union have achieved 
+     important results in ensuring that weapons of mass 
+     destruction, weapons-usable material and technology, and 
+     weapons-related knowledge remain beyond the reach of 
+     terrorists and weapons-proliferating states;
+       (2) although these efforts are in the United States 
+     national security interest, the effectiveness of these 
+     efforts suffers from a lack of coordination within and among 
+     United States Government agencies;
+       (3) increased spending and investment by the United States 
+     private sector on nonproliferation efforts in the independent 
+     states of the former Soviet Union, specifically, spending and 
+     investment by the United States private sector in job 
+     creation initiatives and proposals for unemployed Russian 
+     Federation weapons scientists and technicians, are making an 
+     important contribution in ensuring that knowledge related to 
+     weapons of mass destruction remains beyond the reach of 
+     terrorists and weapons-proliferating states; and
+       (4) increased spending and investment by the United States 
+     private sector on nonproliferation efforts in the independent 
+     states of the former Soviet Union require the establishment 
+     of a coordinating body to ensure that United States public 
+     and private efforts are not in conflict, and to ensure that 
+     public spending on efforts by the independent states of the 
+     former Soviet Union is maximized to ensure efficiency and 
+     further United States national security interests.
+
+     SEC. 333. INDEPENDENT STATES OF THE FORMER SOVIET UNION 
+                   DEFINED.
+
+       In this subtitle, the term ``independent states of the 
+     former Soviet Union'' has the meaning given the term in 
+     section 3 of the FREEDOM Support Act (22 U.S.C. 5801).
+
+     SEC. 334. ESTABLISHMENT OF COMMITTEE ON NONPROLIFERATION 
+                   ASSISTANCE TO THE INDEPENDENT STATES OF THE 
+                   FORMER SOVIET UNION.
+
+       (a) Establishment.--There is established within the 
+     executive branch of the Government an interagency committee 
+     known as the ``Committee on Nonproliferation Assistance to 
+     the Independent States of the Former Soviet Union'' (in this 
+     subtitle referred to as the ``Committee'').
+       (b) Membership.--
+       (1) In general.--The Committee shall be composed of five 
+     members, as follows:
+       (A) A representative of the Department of State designated 
+     by the Secretary of State.
+       (B) A representative of the Department of Energy designated 
+     by the Secretary of Energy.
+       (C) A representative of the Department of Defense 
+     designated by the Secretary of Defense.
+       (D) A representative of the Department of Commerce 
+     designated by the Secretary of Commerce.
+       (E) A representative of the Assistant to the President for 
+     National Security Affairs designated by the Assistant to the 
+     President.
+       (2) Level of representation.--The Secretary of a department 
+     named in subparagraph (A), (B), (C), or (D) of paragraph (1) 
+     shall designate as the department's representative an 
+     official of that department who is not below the level of an 
+     Assistant Secretary of the department.
+       (c) Chair.--The representative of the Assistant to the 
+     President for National Security Affairs shall serve as Chair 
+     of the Committee. The Chair may invite the head of any other 
+     department or agency of the United States to designate a 
+     representative of that department or agency to participate 
+     from time to time in the activities of the Committee.
+
+     SEC. 335. DUTIES OF THE COMMITTEE.
+
+       (a) In General.--The Committee shall have primary 
+     continuing responsibility within the executive branch of the 
+     Government for--
+       (1) monitoring United States nonproliferation efforts in 
+     the independent states of the former Soviet Union; and
+       (2) coordinating the implementation of United States policy 
+     with respect to such efforts.
+       (b) Duties Specified.--In carrying out the responsibilities 
+     described in subsection (a), the Committee shall--
+       (1) arrange for the preparation of analyses on the issues 
+     and problems relating to coordination within and among United 
+     States departments and agencies on nonproliferation efforts 
+     of the independent states of the former Soviet Union;
+       (2) arrange for the preparation of analyses on the issues 
+     and problems relating to coordination between the United 
+     States public and private sectors on nonproliferation efforts 
+     in the independent states of the former Soviet Union, 
+     including coordination between public and private spending on 
+     nonproliferation programs of the independent states of the 
+     former Soviet Union and coordination between public spending 
+     and private investment in defense conversion activities of 
+     the independent states of the former Soviet Union;
+       (3) provide guidance on arrangements that will coordinate, 
+     de-conflict, and maximize the utility of United States public 
+     spending on nonproliferation programs of the independent 
+     states of the former Soviet Union to ensure efficiency and 
+     further United States national security interests;
+       (4) encourage companies and nongovernmental organizations 
+     involved in nonproliferation efforts of the independent 
+     states of the former Soviet Union to voluntarily report these 
+     efforts to the Committee;
+       (5) arrange for the preparation of analyses on the issues 
+     and problems relating to the coordination between the United 
+     States and other countries with respect to nonproliferation 
+     efforts in the independent states of the former Soviet Union; 
+     and
+       (6) consider, and make recommendations to the President and 
+     Congress with respect to, proposals for new legislation or 
+     regulations relating to United States nonproliferation 
+     efforts in the independent states of the former Soviet Union 
+     as may be necessary.
+
+     SEC. 336. ADMINISTRATIVE SUPPORT.
+
+       All United States departments and agencies shall provide, 
+     to the extent permitted by law, such information and 
+     assistance as may be requested by the Committee in carrying 
+     out its functions and activities under this subtitle.
+
+     SEC. 337. CONFIDENTIALITY OF INFORMATION.
+
+       Information which has been submitted or received in 
+     confidence shall not be publicly disclosed, except to the 
+     extent required by law, and such information shall be used by 
+     the Committee only for the purpose of carrying out the 
+     functions and activities set forth in this subtitle.
+
+     SEC. 338. STATUTORY CONSTRUCTION.
+
+       Nothing in this subtitle--
+       (1) applies to the data-gathering, regulatory, or 
+     enforcement authority of any existing United States 
+     department or agency over nonproliferation efforts in the 
+     independent states of the former Soviet Union, and the review 
+     of those efforts undertaken by the Committee shall not in any 
+     way supersede or prejudice any other process provided by law; 
+     or
+       (2) applies to any activity that is reportable pursuant to 
+     title V of the National Security Act of 1947 (50 U.S.C. 413 
+     et seq.).
+
+[[Page S3647]]
+
+          TITLE IV--EXPEDITING THE MUNITIONS LICENSING PROCESS
+
+     SEC. 401. LICENSE OFFICER STAFFING.
+
+       (a) Funding.--Of the amounts authorized to be appropriated 
+     under the appropriations account entitled ``Diplomatic and 
+     Consular Programs'' for fiscal years 2002 and 2003, not less 
+     than $10,000,000 shall be made available each such fiscal 
+     year for the Office of Defense Trade Controls of the 
+     Department of State for salaries and expenses.
+       (b) Assignment of License Review Officers.--Effective 
+     January 1, 2002, the Secretary shall assign to the Office of 
+     Defense Trade Controls of the Department of State a 
+     sufficient number of license review officers to ensure that 
+     the average weekly caseload for each officer does not exceed 
+     40.
+       (c) Detailees.--For the purpose of expediting license 
+     reviews, the Secretary of Defense should ensure that 10 
+     military officers are continuously detailed to the Office of 
+     Defense Trade Controls of the Department of State on a 
+     nonreimbursable basis.
+
+     SEC. 402. FUNDING FOR DATABASE AUTOMATION.
+
+       Of the amounts authorized to be appropriated under the 
+     appropriations account entitled ``Capital Investment Fund'' 
+     for fiscal years 2002 and 2003, not less than $4,000,000 
+     shall be made available each such fiscal year for the Office 
+     of Defense Trade Controls of the Department of State for the 
+     modernization of information management systems.
+
+     SEC. 403. INFORMATION MANAGEMENT PRIORITIES.
+
+       (a) Objective.--The Secretary shall establish a secure, 
+     Internet-based system for the filing and review of 
+     applications for export of Munitions List items.
+       (b) Establishment of an Electronic System.--Of the amounts 
+     made available pursuant to section 402, not less than 
+     $3,000,000 each such fiscal year shall be made available to 
+     fully automate the Defense Trade Application System, and to 
+     ensure that the system--
+       (1) is a secure, electronic system for the filing and 
+     review of Munitions List license applications;
+       (2) is accessible by United States companies through the 
+     Internet for the purpose of filing and tracking their 
+     Munitions List license applications; and
+       (3) is capable of exchanging data with--
+       (A) the Export Control Automated Support System of the 
+     Department of Commerce;
+       (B) the Foreign Disclosure and Technology Information 
+     System and the USXPORTS systems of the Department of Defense;
+       (C) the Export Control System of the Central Intelligence 
+     Agency; and
+       (D) the Proliferation Information Network System of the 
+     Department of Energy.
+       (c) Munitions List Defined.--In this section, the term 
+     ``Munitions List'' means the United States Munitions List of 
+     defense articles and defense services controlled under 
+     section 38 of the Arms Export Control Act (22 U.S.C. 2778).
+
+     SEC. 404. IMPROVEMENTS TO THE AUTOMATED EXPORT SYSTEM.
+
+       (a) Contribution to the Automated Export System.--Not less 
+     than $250,000 of the amounts provided under section 302 for 
+     each fiscal year shall be available for the purpose of--
+       (1) providing the Department of State with full access to 
+     the Automated Export System;
+       (2) ensuring that the system is modified to meet the needs 
+     of the Department of State, if such modifications are 
+     consistent with the needs of other United States Government 
+     agencies; and
+       (3) providing operational support.
+       (b) Mandatory Filing.--The Secretary of Commerce, with the 
+     concurrence of the Secretary of State and the Secretary of 
+     Treasury, shall publish regulations in the Federal Register 
+     to require, upon the effective date of those regulations, 
+     that all persons who are required to file export information 
+     under chapter 9 of title 13, United States Code, to file such 
+     information through the Automated Export System.
+       (c) Requirement for Information Sharing.--The Secretary 
+     shall conclude an information-sharing arrangement with the 
+     heads of United States Customs Service and the Census 
+     Bureau--
+       (1) to allow the Department of State to access information 
+     on controlled exports made through the United States Postal 
+     Service; and
+       (2) to adjust the Automated Export System to parallel 
+     information currently collected by the Department of State.
+       (d) Secretary of Treasury Functions.--Section 303 of title 
+     13, United States Code, is amended by striking ``, other than 
+     by mail,''.
+       (e) Filing Export Information, Delayed Filings, Penalties 
+     for Failure To File.--Section 304 of title 13, United States 
+     Code, is amended--
+       (1) in subsection (a)--
+       (A) in the first sentence, by striking ``the penal sum of 
+     $1,000'' and inserting ``a penal sum of $10,000''; and
+       (B) in the third sentence, by striking ``a penalty not to 
+     exceed $100 for each day's delinquency beyond the prescribed 
+     period, but not more than $1,000,'' and inserting ``a penalty 
+     not to exceed $1,000 for each day's delinquency beyond the 
+     prescribed period, but not more than $10,000 per violation'';
+       (2) by redesignating subsection (b) as subsection (c); and
+       (3) by inserting after subsection (a) the following:
+       ``(b) Any person, other than a person described in 
+     subsection (a), required to submit export information, shall 
+     file such information in accordance with any rule, 
+     regulation, or order issued pursuant to this chapter. In the 
+     event any such information or reports are not filed within 
+     such prescribed period, the Secretary of Commerce (and 
+     officers of the Department of Commerce designated by the 
+     Secretary) may impose a civil penalty not to exceed $1,000 
+     for each day's delinquency beyond the prescribed period, but 
+     not more than $10,000 per violation.''.
+       (f) Additional Penalties.--
+       (1) In general.--Section 305 of title 13, United States 
+     Code, is amended to read as follows:
+
+     ``SEC. 305. PENALTIES FOR UNLAWFUL EXPORT INFORMATION 
+                   ACTIVITIES.
+
+       ``(a) Criminal Penalties.--(1) Any person who knowingly 
+     fails to file or knowingly submits false or misleading export 
+     information through the Shippers Export Declaration (SED) (or 
+     any successor document) or the Automated Export System (AES) 
+     shall be subject to a fine not to exceed $10,000 per 
+     violation or imprisonment for not more than 5 years, or both.
+       ``(2) Any person who knowingly reports any information on 
+     or uses the SED or the AES to further any illegal activity 
+     shall be subject to a fine not to exceed $10,000 per 
+     violation or imprisonment for not more than 5 years, or both.
+       ``(3) Any person who is convicted under this subsection 
+     shall, in addition to any other penalty, be subject to 
+     forfeiting to the United States--
+       ``(A) any of that person's interest in, security of, claim 
+     against, or property or contractual rights of any kind in the 
+     goods or tangible items that were the subject of the 
+     violation;
+       ``(B) any of that person's interest in, security of, claim 
+     against, or property or contractual rights of any kind in 
+     tangible property that was used in the export or attempt to 
+     export that was the subject of the violation; and
+       ``(C) any of that person's property constituting, or 
+     derived from, any proceeds obtained directly or indirectly as 
+     a result of the violation.
+       ``(b) Civil Penalties.--The Secretary (and officers of the 
+     Department of Commerce specifically designated by the 
+     Secretary) may impose a civil penalty not to exceed $10,000 
+     per violation on any person violating the provisions of this 
+     chapter or any rule, regulation, or order issued thereunder, 
+     except as provided in section 304. Such penalty may be in 
+     addition to any other penalty imposed by law.
+       ``(c) Civil Penalty Procedure.--(1) When a civil penalty is 
+     sought for a violation of this section or of section 304, the 
+     charged party is entitled to receive a formal complaint 
+     specifying the charges and, at his or her request, to contest 
+     the charges in a hearing before an administrative law judge. 
+     Any such hearing shall be conducted in accordance with 
+     sections 556 and 557 of title 5, United States Code.
+       ``(2) If any person fails to pay a civil penalty imposed 
+     under this chapter, the Secretary may ask the Attorney 
+     General to commence a civil action in an appropriate district 
+     court of the United States to recover the amount imposed 
+     (plus interest at currently prevailing rates from the date of 
+     the final order). No such action may be commenced more than 5 
+     years after the order imposing the civil penalty becomes 
+     final. In such action, the validity, amount, and 
+     appropriateness of such penalty shall not be subject to 
+     review.
+       ``(3) The Secretary may remit or mitigate any penalties 
+     imposed under paragraph (1) if, in his or her opinion--
+       ``(A) the penalties were incurred without willful 
+     negligence or fraud; or
+       ``(B) other circumstances exist that justify a remission or 
+     mitigation.
+       ``(4) If, pursuant to section 306, the Secretary delegates 
+     functions under this section to another agency, the 
+     provisions of law of that agency relating to penalty 
+     assessment, remission or mitigation of such penalties, 
+     collection of such penalties, and limitations of actions and 
+     compromise of claims, shall apply.
+       ``(5) Any amount paid in satisfaction of a civil penalty 
+     imposed under this section or section 304 shall be deposited 
+     into the general fund of the Treasury and credited as 
+     miscellaneous receipts.
+       ``(d) Enforcement.--(1) The Secretary of Commerce may 
+     designate officers or employees of the Office of Export 
+     Enforcement to conduct investigations pursuant to this 
+     chapter. In conducting such investigations, those officers or 
+     employees may, to the extent necessary or appropriate to the 
+     enforcement of this chapter, exercise such authorities as are 
+     conferred upon them by other laws of the United States, 
+     subject to policies and procedures approved by the Attorney 
+     General.
+       ``(2) The Commissioner of Customs may designate officers or 
+     employees of the Customs Service to enforce the provisions of 
+     this chapter, or to conduct investigations pursuant to this 
+     chapter.
+       ``(e) Regulations.--The Secretary of Commerce shall 
+     promulgate regulations for the implementation and enforcement 
+     of this section.
+       ``(f) Exemption.--The criminal fines provided for in this 
+     section are exempt from the provisions of section 3571 of 
+     title 18, United States Code.''.
+       (2) Clerical amendment.--The table of sections at the 
+     beginning of chapter 9 of title 13, United States Code, is 
+     amended by striking the item relating to section 305 and 
+     inserting the following:
+
+``305. Penalties for unlawful export information activities.''.
+
+[[Page S3648]]
+
+     SEC. 405. ADJUSTMENT OF THRESHOLD AMOUNTS FOR CONGRESSIONAL 
+                   REVIEW PURPOSES.
+
+       The Arms Export Control Act is amended--
+       (1) in section 3(d) (22 U.S.C. 2753(d))--
+       (A) in paragraphs (1) and (3)(A), by striking ``The 
+     President may not'' and inserting ``Subject to paragraph (5), 
+     the President may not''; and
+       (B) by adding at the end of the following new paragraph:
+       ``(5) In the case of a transfer to a member country of the 
+     North Atlantic Treaty Organization (NATO) or Australia, 
+     Japan, or New Zealand that does not authorize a new sales 
+     territory that includes any country other than such 
+     countries, the limitations on consent of the President set 
+     forth in paragraphs (1) and (3)(A) shall apply only if the 
+     transfer is--
+       ``(A) a transfer of major defense equipment valued (in 
+     terms of its original acquisition cost) at $25,000,000 or 
+     more; or
+       ``(B) a transfer of defense articles or defense services 
+     valued (in terms of its original acquisition cost) at 
+     $100,000,000 or more).'';
+       (2) in section 36 (22 U.S.C. 2776)--
+       (A) in subsection (b)--
+       (i) in paragraph (1), by striking ``(1) In the case of'' 
+     and inserting ``(1) Subject to paragraph (6), in the case 
+     of'';
+       (ii) in paragraph (5)(C), by striking ``(C) If'' and 
+     inserting ``(C) Subject to paragraph (6), if''; and
+       (iii) by adding at the end of the following new paragraph:
+       ``(6) The limitation in paragraph (1) and the requirement 
+     in paragraph (5)(C) shall apply in the case of a letter of 
+     offer to sell to a member country of the North Atlantic 
+     Treaty Organization (NATO) or Australia, Japan, or New 
+     Zealand that does not authorize a new sales territory that 
+     includes any country other than such countries only if the 
+     letter of offer involves--
+       ``(A) sale of major defense equipment under this Act for, 
+     or enhancement or upgrade of major defense equipment at a 
+     cost of, $25,000,000 or more, as the case may be; and
+       ``(B) sale of defense articles or services for, or 
+     enhancement or upgrade of defense articles or services at a 
+     cost of, $100,000,000 or more, as the case may be; or
+       ``(C) sale of design and construction services for, or 
+     enhancement or upgrade of design and construction services at 
+     a cost of, $300,000,000 or more, as the case may be.''; and
+       (B) in subsection (c)--
+       (i) in paragraph (1), by striking ``(1) In the case of'' 
+     and inserting ``(1) Subject to paragraph (5), in the case 
+     of''; and
+       (ii) by adding at the end the following new paragraph:
+       ``(5) In the case of an application by a person (other than 
+     with regard to a sale under section 21 or 22 of this Act) for 
+     a license for the export to a member country of the North 
+     Atlantic Treaty Organization (NATO) or Australia, Japan, or 
+     New Zealand that does not authorize a new sales territory 
+     that includes any country other than such countries, the 
+     limitation on the issuance of the license set forth in 
+     paragraph (1) shall apply only if the license is for export 
+     of--
+       ``(A) major defense equipment sold under a contract in the 
+     amount of $25,000,000 or more; or
+       ``(B) defense articles or defense services sold under a 
+     contract in the amount of $100,000,000 or more.''; and
+       (3) in section 63(a) (22 U.S.C. 2796b(a))--
+       (A) by striking ``In the case of'' and inserting ``(1) 
+     Subject to paragraph (2), in the case of''; and
+       (B) by adding at the end the following new paragraph:
+       ``(2) In the case of an agreement described in paragraph 
+     (1) that is entered into with a member country of the North 
+     Atlantic Treaty Organization (NATO) or Australia, Japan, or 
+     New Zealand, the limitation in paragraph (1) shall apply only 
+     if the agreement involves a lease or loan of--
+       ``(A) major defense equipment valued (in terms of its 
+     replacement cost less any depreciation in its value) at 
+     $25,000,000 or more; or
+       ``(B) defense articles valued (in terms of their 
+     replacement cost less any depreciation in their value) at 
+     $100,000,000 or more.''.
+
+     SEC. 406. PERIODIC NOTIFICATION OF PENDING APPLICATIONS FOR 
+                   EXPORT LICENSES.
+
+       The Secretary shall submit, on a biannual basis, to the 
+     appropriate committees of Congress a report identifying--
+       (1) each outstanding application for a license to export 
+     under section 38 of the Arms Export Control Act for which 
+     final administrative action has been withheld for longer than 
+     180 days; and
+       (2) the referral status of each such application and any 
+     other relevant information.
+
+             TITLE V--NATIONAL SECURITY ASSISTANCE STRATEGY
+
+     SEC. 501. ESTABLISHMENT OF THE STRATEGY.
+
+       (a) Requirement.--Not later than 180 days after the date of 
+     enactment of this Act, and annually thereafter in connection 
+     with submission of congressional presentation materials for 
+     the foreign operations appropriations budget request, the 
+     Secretary shall submit to the appropriate committees of 
+     Congress a report setting forth a National Security 
+     Assistance Strategy for the United States.
+       (b) Elements of the Strategy.--The National Security 
+     Assistance Strategy shall--
+       (1) set forth a 5-year plan for security assistance 
+     programs;
+       (2) be consistent with the National Security Strategy of 
+     the United States;
+       (3) be coordinated with the Secretary of Defense and the 
+     Chairman of the Joint Chiefs of Staff;
+       (4) identify overarching security assistance objectives, 
+     including identification of the role that specific security 
+     assistance programs will play in achieving such objectives;
+       (5) identify a primary security assistance objective, as 
+     well as specific secondary objectives, for individual 
+     countries;
+       (6) identify, on a country-by-country basis, how specific 
+     resources will be allocated to accomplish both primary and 
+     secondary objectives;
+       (7) discuss how specific types of assistance, such as 
+     foreign military financing and international military 
+     education and training, will be combined at the country level 
+     to achieve United States objectives; and
+       (8) detail, with respect to each of the paragraphs (1) 
+     through (7), how specific types of assistance provided 
+     pursuant to the Arms Export Control Act and Foreign 
+     Assistance Act of 1961 are coordinated with United States 
+     assistance programs administered by the Department of Defense 
+     and other agencies.
+       (c) Covered Assistance.--The National Security Assistance 
+     Strategy shall cover assistance provided under--
+       (1) section 23 of the Arms Export Control Act (22 U.S.C. 
+     2763);
+       (2) chapter 5 of part II of the Foreign Assistance Act of 
+     1961 (22 U.S.C. 2347 et seq.); and
+       (3) section 516 of the Foreign Assistance Act of 1961 (22 
+     U.S.C. 2321i).
+
+     SEC. 502. SECURITY ASSISTANCE SURVEYS.
+
+       (a) Utilization.--The Secretary shall utilize security 
+     assistance surveys in preparation of the National Security 
+     Assistance Strategy required pursuant to section 501 of this 
+     Act.
+       (b) Funding.--Of the amounts made available for fiscal year 
+     2002 under section 23 of the Arms Export Control Act (22 
+     U.S.C. 2763), $2,000,000 is authorized to be available to the 
+     Secretary to conduct security assistance surveys, or to 
+     request such a survey, on a reimbursable basis, by the 
+     Department of Defense or other United States Government 
+     agencies. Such surveys shall be conducted consistent with the 
+     requirements of section 26 of the Arms Export Control Act.
+
+                   TITLE VI--MISCELLANEOUS PROVISIONS
+
+     SEC. 601. NUCLEAR AND MISSILE NONPROLIFERATION IN SOUTH ASIA.
+
+       (a) United States Policy.--It shall be the policy of the 
+     United States, consistent with its obligations under the 
+     Treaty on the Non-Proliferation of Nuclear Weapons, to 
+     encourage and work with the governments of India and Pakistan 
+     to achieve the following objectives by September 30, 2003:
+       (1) Continuation of a nuclear testing moratorium.
+       (2) Commitment not to deploy nuclear weapons.
+       (3) Agreement by both governments to bring their export 
+     controls in line with the guidelines and requirements of the 
+     Nuclear Suppliers Group.
+       (4) Agreement by both governments to bring their export 
+     controls in line with the guidelines and requirements of the 
+     Zangger Committee.
+       (5) Agreement by both governments to bring their export 
+     controls in line with the guidelines, requirements, and 
+     annexes of the Missile Technology Control Regime.
+       (6) Establishment of a modern, effective system to protect 
+     and secure nuclear devices and materiel from unauthorized 
+     use, accidental employment, theft, espionage, misuse, or 
+     abuse.
+       (7) Establishment of a modern, effective system to control 
+     the export of sensitive dual-use items, technology, technical 
+     information, and materiel that can be used in the design, 
+     development, or production of weapons of mass destruction and 
+     ballistic missiles.
+       (8) Conduct of bilateral meetings between Indian and 
+     Pakistani senior officials to discuss security issues, 
+     establish confidence building measures, and increase 
+     transparency with regard to nuclear policies, programs, 
+     stockpiles, capabilities, and delivery systems.
+       (b) Report.--Not later than March 1, 2003, the President 
+     shall submit to the appropriate committees of Congress a 
+     report describing United States efforts in pursuit of the 
+     objectives listed in subsection (a), the progress made toward 
+     the achievement of those objectives, and the likelihood that 
+     each objective will be achieved by September 30, 2003.
+
+     SEC. 602. REAL-TIME PUBLIC AVAILABILITY OF RAW SEISMOLOGICAL 
+                   DATA.
+
+       The head of the Air Force Technical Applications Center 
+     shall make available to the public, immediately upon receipt 
+     or as soon after receipt as is possible, all raw 
+     seismological data provided to the United States Government 
+     by any international monitoring organization that is directly 
+     responsible for seismological monitoring.
+
+     SEC. 603. DETAILING UNITED STATES GOVERNMENTAL PERSONNEL TO 
+                   INTERNATIONAL ARMS CONTROL AND NONPROLIFERATION 
+                   ORGANIZATIONS.
+
+       (a) In General.--The Secretary, in consultation with the 
+     Secretaries of Defense and Energy and the heads of other 
+     relevant United States departments and agencies, as 
+     appropriate, shall develop measures to improve the process by 
+     which United States Government personnel may be detailed to 
+     international arms control and nonproliferation organizations 
+     without adversely affecting the pay or career advancement of 
+     such personnel.
+
+[[Page S3649]]
+
+       (b) Report Required.--Not later than May 1, 2002, the 
+     Secretary shall submit a report to the Committee on Foreign 
+     Relations of the Senate and the Committee on International 
+     Relations of the House of Representatives setting forth the 
+     measures taken under subsection (a).
+
+     SEC. 604. DIPLOMATIC PRESENCE OVERSEAS.
+
+       (a) Purpose.--The purpose of this section is to--
+       (1) elevate the stature given United States diplomatic 
+     initiatives relating to nonproliferation and political-
+     military issues; and
+       (2) develop a group of highly specialized, technical 
+     experts with country expertise capable of administering the 
+     nonproliferation and political-military affairs functions of 
+     the Department of State.
+       (b) Authority.--To carry out the purposes of subsection 
+     (a), the Secretary is authorized to establish the position of 
+     Counselor for Nonproliferation and Political Military Affairs 
+     in United States diplomatic missions overseas to be filled by 
+     individuals who are career Civil Service officers or Foreign 
+     Service officers committed to follow-on assignments in the 
+     Nonproliferation or Political Military Affairs Bureaus of the 
+     Department of State.
+       (c) Training.--After being selected to serve as Counselor, 
+     any person so selected shall spend not less than 10 months in 
+     language training courses at the Foreign Service Institute, 
+     or in technical courses administered by the Department of 
+     Defense, the Department of Energy, or other appropriate 
+     departments and agencies of the United States, except that 
+     such requirement for training may be waived by the Secretary.
+
+     SEC. 605. PROTECTION AGAINST AGRICULTURAL BIOTERRORISM.
+
+       Of funds made available to carry out programs under the 
+     Foreign Assistance Act of 1961, $1,500,000 may be made 
+     available to North Carolina State University for the purpose 
+     of fingerprinting crop and livestock pathogens in order to 
+     enhance the ability of the United States Government to detect 
+     new strains, determine their origin, and to facilitate 
+     research in pathogen epidemiology.
+
+     SEC. 606. COMPLIANCE WITH THE CHEMICAL WEAPONS CONVENTION.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) On April 24, 1997, the Senate provided its advice and 
+     consent to ratification of the Chemical Weapons Convention 
+     subject to the condition that no sample collected in the 
+     United States pursuant to the Convention would be transferred 
+     for analysis to any laboratory outside the territory of the 
+     United States.
+       (2) Congress enacted the same condition into law as section 
+     304(f)(1) of the Chemical Weapons Convention Implementation 
+     Act of 1998 (22 U.S.C. 6724(f)(1)).
+       (3) Part II, paragraph 57, of the Verification Annex of the 
+     Convention requires that all samples taken during a challenge 
+     inspection under the Convention shall be analyzed by at least 
+     two laboratories that have been designated as capable of 
+     conducting such testing by the OPCW.
+       (4) The only United States laboratory currently designated 
+     by the OPCW is the United States Army Edgewood Forensic 
+     Science Laboratory.
+       (5) In order to meet the requirements of condition (18) of 
+     the resolution of ratification of the Chemical Weapons 
+     Convention, and section 304 of the Chemical Weapons 
+     Convention Implementation Act of 1998 (22 U.S.C. 6724), the 
+     United States must possess, at a minimum, a second OPCW-
+     designated laboratory.
+       (6) The possession of a second laboratory is necessary in 
+     view of the potential for a challenge inspection to be 
+     initiated against the United States by a foreign nation.
+       (7) To qualify as a designated laboratory, a laboratory 
+     must be certified under ISO Guide 25 or a higher standard, 
+     and complete three proficiency tests. The laboratory must 
+     have the full capability to handle substances listed on 
+     Schedule 1 of the Annex on Schedules of Chemicals of the 
+     Chemical Weapons Convention. In order to handle such 
+     substances in the United States, a laboratory also must 
+     operate under a bailment agreement with the United States 
+     Army.
+       (8) Several existing United States commercial laboratories 
+     have approved quality control systems, already possess 
+     bailment agreements with the United States Army, and have the 
+     capabilities necessary to obtain OPCW designation.
+       (9) In order to bolster the legitimacy of United States 
+     analysis of samples taken on its national territory, it is 
+     preferable that the second designated laboratory is not a 
+     United States Government facility. Further, it is not cost-
+     effective to build and equip another Government laboratory to 
+     meet OPCW designation standards when such capability already 
+     exists in the private sector.
+       (b) Establishment of Second Designated Laboratory.--
+       (1) Directive.--Not later than February 1, 2002, the United 
+     States National Authority, as designated under section 101 of 
+     the Chemical Weapons Convention Implementation Act of 1998 
+     (22 U.S.C. 6711), shall select, through competitive 
+     procedures, a commercial laboratory within the United States 
+     to pursue designation by the OPCW.
+       (2) Delegation.--The National Authority may delegate the 
+     authority and administrative responsibility for carrying out 
+     paragraph (1) to one or more of the heads of the agencies 
+     described in section 101(b)(2) of the Chemical Weapons 
+     Convention Implementation Act of 1998 (22 U.S.C. 6711(b)(2)).
+       (3) Report.--Not later than March 1, 2002, the National 
+     Authority shall submit to the appropriate committees of 
+     Congress a report detailing a plan for securing OPCW 
+     designation of a third United States laboratory by December 
+     1, 2003.
+       (c) Definitions.--In this section:
+       (1) Chemical weapons convention.--The term ``Chemical 
+     Weapons Convention'' means the Convention on the Prohibition 
+     of Development, Production, Stockpiling and Use of Chemical 
+     Weapons and on Their Destruction, Opened for Signature and 
+     Signed by the United States at Paris on January 13, 1993, 
+     including the following protocols and memorandum of 
+     understanding:
+       (A) The Annex on Chemicals.
+       (B) The Annex on Implementation and Verification.
+       (C) The Annex on the Protection of Confidential 
+     Information.
+       (D) The Resolution Establishing the Preparatory Commission 
+     for the Organization for the Prohibition of Chemical Weapons.
+       (E) The Text on the Establishment of a Preparatory 
+     Commission.
+       (2) OPCW.--The term ``OPCW'' means the Organization for the 
+     Prohibition of Chemical Weapons established under the 
+     Convention.
+
+             TITLE VII--AUTHORITY TO TRANSFER NAVAL VESSELS
+
+     SEC. 701. AUTHORITY TO TRANSFER NAVAL VESSELS TO CERTAIN 
+                   FOREIGN COUNTRIES.
+
+       (a) Authority To Transfer.--
+       (1) Brazil.--The President is authorized to transfer to the 
+     Government of Brazil the ``Newport'' class tank landing ship 
+     Peoria (LST1183). Such transfer shall be on a sale basis 
+     under section 21 of the Arms Export Control Act (22 U.S.C. 
+     2761).
+       (2) Poland.--The President is authorized to transfer to the 
+     Government of Poland the ``Oliver Hazard Perry'' class guided 
+     missile frigate Wadsworth (FFG 9). Such transfer shall be on 
+     a grant basis under section 516 of the Foreign Assistance Act 
+     of 1961 (22 U.S.C. 2321j).
+       (3) Turkey.--The President is authorized to transfer to the 
+     Government of Turkey the ``Oliver Hazard Perry'' class guided 
+     missile frigates Estocin (FFG 15) and Samuel Eliot Morrison 
+     (FFG 13). Each such transfer shall be on a sale basis under 
+     section 21 of the Arms Export Control Act (22 U.S.C. 2761). 
+     The President is further authorized to transfer to the 
+     Government of Turkey the ``Knox'' class frigates Capadanno 
+     (FF 1093), Thomas C. Hart (FF 1092), Donald B. Beary (FF 
+     1085), McCandless (FF 1084), Reasoner (FF 1063), and Bowen 
+     (FF 1079). The transfer of these 6 ``Knox'' class frigates 
+     shall be on a grant basis under section 516 of the Foreign 
+     Assistance Act of 1961 (22 U.S.C. 2321j).
+       (4) Taiwan.--The President is authorized to transfer to the 
+     Taipei Economic and Cultural Representative Office in the 
+     United States (which is the Taiwan instrumentality designated 
+     pursuant to section 10(a) of the Taiwan Relations Act) the 
+     ``Kidd'' class guided missile destroyers Kidd (DDG 993), 
+     Callaghan (DDG 994), Scott (DDG 995), and Chandler (DDG 996). 
+     The transfer of these 4 ``Kidd'' class guided missile 
+     destroyers shall be on a sale basis under section 21 of the 
+     Arms Export Control Act (22 U.S.C. 2761).
+       (b) Grants Not Counted in Annual Total of Transferred 
+     Excess Defense Articles.--The value of a vessel transferred 
+     to another country on a grant basis under section 516 of the 
+     Foreign Assistance Act of 1961 (22 U.S.C. 2321j) pursuant to 
+     authority provided by subsection (a) shall not be counted for 
+     the purposes of subsection (g) of that section in the 
+     aggregate value of excess defense articles transferred to 
+     countries under that section in any fiscal year.
+       (c) Costs of Transfers.--Notwithstanding section 516(e)(1) 
+     of the Foreign Assistance Act of 1961 (22 U.S.C. 
+     2321j(e)(1)), any expense incurred by the United States in 
+     connection with a transfer authorized to be made on a grant 
+     basis under subsection (a) or (b) shall be charged to the 
+     recipient.
+       (d) Repair and Refurbishment in United States Shipyards.--
+     To the maximum extent practicable, the President shall 
+     require, as a condition of the transfer of a vessel under 
+     this section, that the country to which the vessel is 
+     transferred have such repair or refurbishment of the vessel 
+     as is needed, before the vessel joins the naval forces of 
+     that country, performed at a United States Navy shipyard or 
+     other shipyard located in the United States.
+       (e) Expiration of Authority.--The authority provided under 
+     subsection (a) shall expire at the end of the 2-year period 
+     beginning on the date of the enactment of this Act.
+                                  ____
+
+  SA 3386. Mr. DASCHLE proposed an amendment to the bill H.R. 3009, to 
+extend the Andean Trade Preference Act, to grant additional trade 
+benefits under that Act, and for other purposes; as follows:
+
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Trade Act of 2002''.
+
+     SEC. 2. ORGANIZATION OF ACT INTO DIVISIONS; TABLE OF 
+                   CONTENTS.
+
+       (a) Divisions.--This Act is organized into 3 divisions as 
+     follows:
+       (1) Division a.--Trade Adjustment Assistance.
+       (2) Division b.--Trade Promotion Authority.
+
+[[Page S3650]]
+
+       (3) Division c.--Extension and Modification of Certain 
+     Preferential Trade Treatment.
+       (b) Table of Contents.--The table of contents for this Act 
+     is as follows:
+
+Sec. 1. Short title.
+Sec. 2. Organization of Act into divisions; table of contents.
+
+                DIVISION A--TRADE ADJUSTMENT ASSISTANCE
+
+Sec. 101. Short title.
+
+            TITLE I--TRADE ADJUSTMENT ASSISTANCE FOR WORKERS
+
+Sec. 111. Adjustment assistance for workers.
+Sec. 112. Displaced worker self-employment training pilot program.
+
+            TITLE II--TRADE ADJUSTMENT ASSISTANCE FOR FIRMS
+
+Sec. 201. Reauthorization of program.
+
+         TITLE III--TRADE ADJUSTMENT ASSISTANCE FOR COMMUNITIES
+
+Sec. 301. Purpose.
+Sec. 302. Trade adjustment assistance for communities.
+
+           TITLE IV--TRADE ADJUSTMENT ASSISTANCE FOR FARMERS
+
+Sec. 401. Trade adjustment assistance for farmers.
+
+           TITLE V--TRADE ADJUSTMENT ASSISTANCE FOR FISHERMEN
+
+Sec. 501. Trade adjustment assistance for fishermen.
+
+ TITLE VI--HEALTH INSURANCE COVERAGE OPTIONS FOR WORKERS ELIGIBLE FOR 
+                      TRADE ADJUSTMENT ASSISTANCE
+
+Sec. 601. Trade adjustment assistance health insurance credit.
+Sec. 602. Advance payment of trade adjustment assistance health 
+              insurance credit.
+Sec. 603. Health insurance coverage for eligible individuals.
+
+          TITLE VII--CONFORMING AMENDMENTS AND EFFECTIVE DATE
+
+Sec. 701. Conforming amendments.
+
+           TITLE VIII--SAVINGS PROVISIONS AND EFFECTIVE DATE
+
+Sec. 801. Savings provisions.
+Sec. 802. Effective date.
+
+                      TITLE IX--REVENUE PROVISIONS
+
+Sec. 901. Custom user fees.
+
+                   TITLE X--MISCELLANEOUS PROVISIONS
+
+Sec. 1001. Country of origin labeling of fish and shellfish products.
+Sec. 1002. Sugar policy.
+
+                   TITLE XI--CUSTOMS REAUTHORIZATION
+
+Sec. 1101. Short title.
+
+               Subtitle A--United States Customs Service
+
+  Chapter 1--Drug Enforcement and Other Noncommercial and Commercial 
+                               Operations
+
+Sec. 1111. Authorization of appropriations for noncommercial 
+              operations, commercial operations, and air and marine 
+              interdiction.
+Sec. 1112. Antiterrorist and illicit narcotics detection equipment for 
+              the United States-Mexico border, United States-Canada 
+              border, and Florida and the Gulf Coast seaports.
+Sec. 1113. Compliance with performance plan requirements.
+
+     Chapter 2--Child Cyber-Smuggling Center of the Customs Service
+
+Sec. 1121. Authorization of appropriations for program to prevent child 
+              pornography/child sexual exploitation.
+
+                  Chapter 3--Miscellaneous Provisions
+
+Sec. 1131. Additional Customs Service officers for United States-Canada 
+              border.
+Sec. 1132. Study and report relating to personnel practices of the 
+              Customs Service.
+Sec. 1133. Study and report relating to accounting and auditing 
+              procedures of the Customs Service.
+Sec. 1134. Establishment and implementation of cost accounting system; 
+              reports.
+Sec. 1135. Study and report relating to timeliness of prospective 
+              rulings.
+Sec. 1136. Study and report relating to customs user fees.
+
+                  Chapter 4--Antiterrorism Provisions
+
+Sec. 1141. Emergency adjustments to offices, ports of entry, or 
+              staffing of the Customs Service.
+Sec. 1142. Mandatory advanced electronic information for cargo and 
+              passengers.
+Sec. 1143. Border search authority for certain contraband in outbound 
+              mail.
+Sec. 1144. Authorization of appropriations for reestablishment of 
+              Customs operations in New York City.
+
+              Chapter 5--Textile Transshipment Provisions
+
+Sec. 1151. GAO audit of textile transshipment monitoring by Customs 
+              Service.
+Sec. 1152. Authorization of appropriations for textile transshipment 
+              enforcement operations.
+Sec. 1153. Implementation of the African Growth and Opportunity Act.
+
+      Subtitle B--Office of the United States Trade Representative
+
+Sec. 1161. Authorization of appropriations.
+
+        Subtitle C--United States International Trade Commission
+
+Sec. 1171. Authorization of appropriations.
+
+                   Subtitle D--Other Trade Provisions
+
+Sec. 1181. Increase in aggregate value of articles exempt from duty 
+              acquired abroad by United States residents.
+Sec. 1182. Regulatory audit procedures.
+
+                      Subtitle E--Sense of Senate
+
+Sec. 1191. Sense of Senate.
+
+            DIVISION B--BIPARTISAN TRADE PROMOTION AUTHORITY
+
+                  TITLE XXI--TRADE PROMOTION AUTHORITY
+
+Sec. 2101. Short title; findings.
+Sec. 2102. Trade negotiating objectives.
+Sec. 2103. Trade agreements authority.
+Sec. 2104. Consultations and assessment.
+Sec. 2105. Implementation of trade agreements.
+Sec. 2106. Treatment of certain trade agreements for which negotiations 
+              have already begun.
+Sec. 2107. Congressional oversight group.
+Sec. 2108. Additional implementation and enforcement requirements.
+Sec. 2109. Committee staff.
+Sec. 2110. Conforming amendments.
+Sec. 2111. Report on impact of trade promotion authority.
+Sec. 2112. Identification of small business advocate at WTO.
+Sec. 2113. Definitions.
+
+                DIVISION C--ANDEAN TRADE PREFERENCE ACT
+
+                  TITLE XXXI--ANDEAN TRADE PREFERENCE
+
+Sec. 3101. Short title; findings.
+Sec. 3102. Temporary provisions.
+Sec. 3103. Termination.
+
+               TITLE XXXII--MISCELLANEOUS TRADE BENEFITS
+
+Sec. 3201. Wool provisions.
+Sec. 3202. Ceiling fans.
+Sec. 3203. Certain steam or other vapor generating boilers used in 
+              nuclear facilities.
+
+                   DIVISION D--AGRICULTURE ASSISTANCE
+
+                DIVISION A--TRADE ADJUSTMENT ASSISTANCE
+
+     SEC. 101. SHORT TITLE.
+
+       This division may be cited as the ``Trade Adjustment 
+     Assistance Reform Act of 2002''.
+
+            TITLE I--TRADE ADJUSTMENT ASSISTANCE FOR WORKERS
+
+     SEC. 111. ADJUSTMENT ASSISTANCE FOR WORKERS.
+
+       Chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 
+     2271 et seq.) is amended to read as follows:
+
+             ``CHAPTER 2--ADJUSTMENT ASSISTANCE FOR WORKERS
+
+                   ``Subchapter A--General Provisions
+
+     ``SEC. 221. DEFINITIONS.
+
+       ``In this chapter:
+       ``(1) Additional compensation.--The term `additional 
+     compensation' has the meaning given that term in section 
+     205(3) of the Federal-State Extended Unemployment 
+     Compensation Act of 1970 (26 U.S.C. 3304 note).
+       ``(2) Adversely affected employment.--The term `adversely 
+     affected employment' means employment in a firm or 
+     appropriate subdivision of a firm, if workers of that firm or 
+     subdivision are eligible to apply for adjustment assistance 
+     under this chapter.
+       ``(3) Adversely affected worker.--
+       ``(A) In general.--The term `adversely affected worker' 
+     means a worker who is a member of a group of workers 
+     certified by the Secretary under section 231(a)(1) as 
+     eligible for trade adjustment assistance.
+       ``(B) Adversely affected secondary worker.--The term 
+     `adversely affected worker' includes an adversely affected 
+     secondary worker who is a member of a group of workers 
+     employed at a downstream producer or a supplier, that is 
+     certified by the Secretary under section 231(a)(2) as 
+     eligible for trade adjustment assistance.
+       ``(4) Average weekly hours.--The term `average weekly 
+     hours' means the average hours worked by a worker (excluding 
+     overtime) in the employment from which the worker has been or 
+     claims to have been separated in the 52 weeks (excluding 
+     weeks during which the worker was on leave for purposes of 
+     vacation, sickness, maternity, military service, or any other 
+     employer-authorized leave) preceding the week specified in 
+     paragraph (5)(B)(ii).
+       ``(5) Average weekly wage.--
+       ``(A) In general.--The term `average weekly wage' means \1/
+     13\ of the total wages paid to an individual in the high 
+     quarter.
+       ``(B) Definitions.--For purposes of computing the average 
+     weekly wage--
+       ``(i) the term `high quarter' means the quarter in which 
+     the individual's total wages were highest among the first 4 
+     of the last 5 completed calendar quarters immediately 
+     preceding the quarter in which occurs the week with respect 
+     to which the computation is made; and
+       ``(ii) the term `week' means the week in which total 
+     separation occurred, or, in cases where partial separation is 
+     claimed, an appropriate week, as defined in regulations 
+     prescribed by the Secretary.
+       ``(6) Benefit period.--The term `benefit period' means, 
+     with respect to an individual, the following:
+       ``(A) State law.--The benefit year and any ensuing period, 
+     as determined under applicable State law, during which the 
+     individual is eligible for regular compensation, additional 
+     compensation, or extended compensation.
+       ``(B) Federal law.--The equivalent to the benefit year or 
+     ensuing period provided for
+
+[[Page S3651]]
+
+     under the applicable Federal unemployment insurance law.
+       ``(7) Benefit year.--The term `benefit year' has the same 
+     meaning given that term in the Federal-State Extended 
+     Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
+       ``(8) Contributed importantly.--The term `contributed 
+     importantly' means a cause that is important but not 
+     necessarily more important than any other cause.
+       ``(9) Cooperating state.--The term `cooperating State' 
+     means any State that has entered into an agreement with the 
+     Secretary under section 222.
+       ``(10) Customized training.--The term `customized training' 
+     means training that is designed to meet the special 
+     requirements of an employer (including a group of employers) 
+     and that is conducted with a commitment by the employer to 
+     employ an individual on successful completion of the 
+     training.
+       ``(11) Downstream producer.--The term `downstream producer' 
+     means a firm that performs additional, value-added production 
+     processes for a firm or subdivision, including a firm that 
+     performs final assembly or finishing, directly for another 
+     firm (or subdivision), for articles that were the basis for a 
+     certification of eligibility under section 231(a)(1) of a 
+     group of workers employed by such other firm.
+       ``(12) Extended compensation.--The term `extended 
+     compensation' has the meaning given that term in section 
+     205(4) of the Federal-State Extended Unemployment 
+     Compensation Act of 1970 (26 U.S.C. 3304 note).
+       ``(13) Job finding club.--The term `job finding club' means 
+     a job search workshop which includes a period of structured, 
+     supervised activity in which participants attempt to obtain 
+     jobs.
+       ``(14) Job search program.--The term `job search program' 
+     means a job search workshop or job finding club.
+       ``(15) Job search workshop.--The term `job search workshop' 
+     means a short (1- to 3-day) seminar, covering subjects such 
+     as labor market information, resume writing, interviewing 
+     techniques, and techniques for finding job openings, that is 
+     designed to provide participants with knowledge that will 
+     enable the participants to find jobs.
+       ``(16) On-the-job training.--The term `on-the-job training' 
+     has the same meaning as that term has in section 101(31) of 
+     the Workforce Investment Act.
+       ``(17) Partial separation.--A partial separation shall be 
+     considered to exist with respect to an individual if--
+       ``(A) the individual has had a 20-percent or greater 
+     reduction in the average weekly hours worked by that 
+     individual in adversely affected employment; and
+       ``(B) the individual has had a 20-percent or greater 
+     reduction in the average weekly wage of the individual with 
+     respect to adversely affected employment.
+       ``(18) Regular compensation.--The term `regular 
+     compensation' has the meaning given that term in section 
+     205(2) of the Federal-State Extended Unemployment 
+     Compensation Act of 1970 (26 U.S.C. 3304 note).
+       ``(19) Regular state unemployment.--The term `regular State 
+     unemployment' means unemployment insurance benefits other 
+     than an extension of unemployment insurance by a State using 
+     its own funds beyond either the 26-week period mandated by 
+     Federal law or any additional period provided for under the 
+     Federal-State Extended Unemployment Compensation Act of 1970 
+     (26 U.S.C. 3304 note).
+       ``(20) Secretary.--The term `Secretary' means the Secretary 
+     of Labor.
+       ``(21) State.--The term `State' includes each State of the 
+     United States, the District of Columbia, and the Commonwealth 
+     of Puerto Rico.
+       ``(22) State agency.--The term `State agency' means the 
+     agency of the State that administers the State law.
+       ``(23) State law.--The term `State law' means the 
+     unemployment insurance law of the State approved by the 
+     Secretary under section 3304 of the Internal Revenue Code of 
+     1986.
+       ``(24) Supplier.--The term `supplier' means a firm that 
+     produces and supplies directly to another firm (or 
+     subdivision) component parts for articles that were the basis 
+     for a certification of eligibility under section 231(a)(1) of 
+     a group of workers employed by such other firm. The term 
+     `supplier' also includes a firm that has provided services 
+     under a contract to a firm (or subdivision) that employs a 
+     group of workers covered by a certification of eligibility 
+     under section 231(a)(1).
+       ``(25) Total separation.--The term `total separation' means 
+     the layoff or severance of an individual from employment with 
+     a firm in which or in a subdivision of which, adversely 
+     affected employment exists.
+       ``(26) Unemployment insurance.--The term `unemployment 
+     insurance' means the unemployment compensation payable to an 
+     individual under any State law or Federal unemployment 
+     compensation law, including chapter 85 of title 5, United 
+     States Code, and the Railroad Unemployment Insurance Act (45 
+     U.S.C. 351 et seq.).
+       ``(27) Week.--Except as provided in paragraph 5(B)(ii), the 
+     term `week' means a week as defined in the applicable State 
+     law.
+       ``(28) Week of unemployment.--The term `week of 
+     unemployment' means a week of total, part-total, or partial 
+     unemployment as determined under the applicable State law or 
+     Federal unemployment insurance law.
+
+     ``SEC. 222. AGREEMENTS WITH STATES.
+
+       ``(a) In General.--The Secretary is authorized on behalf of 
+     the United States to enter into an agreement with any State 
+     or with any State agency (referred to in this chapter as 
+     `cooperating State' and `cooperating State agency', 
+     respectively) to facilitate the provision of services under 
+     this chapter.
+       ``(b) Provisions of Agreements.--Under an agreement entered 
+     into under subsection (a)--
+       ``(1) the cooperating State agency as an agent of the 
+     United States shall--
+       ``(A) facilitate the early filing of petitions under 
+     section 231(b) for any group of workers that the State 
+     considers is likely to be eligible for benefits under this 
+     chapter;
+       ``(B) assist the Secretary in the review of any petition 
+     submitted from that State by verifying the information and 
+     providing other assistance as the Secretary may request;
+       ``(C) advise each worker who applies for unemployment 
+     insurance of the available benefits under this chapter and 
+     the procedures and deadlines for applying for those benefits 
+     and of the worker's potential eligibility for assistance with 
+     health care coverage through the trade adjustment assistance 
+     health insurance credit under section 6429 of the Internal 
+     Revenue Code of 1986 or under funds made available to the 
+     State to carry out section 173(f) of the Workforce Investment 
+     Act of 1998;
+       ``(D) receive applications for services under this chapter;
+       ``(E) provide payments on the basis provided for in this 
+     chapter;
+       ``(F) advise each adversely affected worker to apply for 
+     training under section 240, and of the deadlines for benefits 
+     related to enrollment in training under this chapter;
+       ``(G) ensure that the State employees with responsibility 
+     for carrying out an agreement entered into under subsection 
+     (a)--
+       ``(i) inform adversely affected workers covered by a 
+     certification issued under section 231(c) of the workers' 
+     (and individual member's of the worker's family) potential 
+     eligibility for--
+
+       ``(I) medical assistance under the medicaid program 
+     established under title XIX of the Social Security Act (42 
+     U.S.C. 1396a et seq.);
+       ``(II) child health assistance under the State children's 
+     health insurance program established under title XXI of that 
+     Act (42 U.S.C. 1397aa et seq.);
+       ``(III) child care services for which assistance is 
+     provided under the Child Care and Development Block Grant Act 
+     of 1990 (42 U.S.C. 9858 et seq.);
+       ``(IV) the trade adjustment assistance health insurance 
+     credit under section 6429 of the Internal Revenue Code of 
+     1986 and health care coverage assistance under funds made 
+     available to the State to carry out section 173(f) of the 
+     Workforce Investment Act of 1998; and
+       ``(V) other Federal- and State-funded health care, child 
+     care, transportation, and assistance programs for which the 
+     workers may be eligible; and
+
+       ``(ii) provide such workers with information regarding how 
+     to apply for such assistance, services, and programs, 
+     including notification that the election period for COBRA 
+     continuation may be extended for certain workers under 
+     section 603 of the Trade Adjustment Assistance Reform Act of 
+     2002;
+       ``(H) provide adversely affected workers referral to 
+     training services approved under title I of the Workforce 
+     Investment Act of 1998 (29 U.S.C. 2801 et seq.), and any 
+     other appropriate Federal or State program designed to assist 
+     dislocated workers or unemployed individuals, consistent with 
+     the requirements of subsection (b)(2);
+       ``(I) collect and transmit to the Secretary any data as the 
+     Secretary shall reasonably require to assist the Secretary in 
+     assuring the effective and efficient performance of the 
+     programs carried out under this chapter; and
+       ``(J) otherwise actively cooperate with the Secretary and 
+     with other Federal and State agencies in providing payments 
+     and services under this chapter, including participation in 
+     the performance measurement system established by the 
+     Secretary under section 224.
+       ``(2) the cooperating State shall--
+       ``(A) arrange for the provision of services under this 
+     chapter through the one-stop delivery system established in 
+     section 134(c) of the Workforce Investment Act of 1998 (29 
+     U.S.C. 2864(c)) where available;
+       ``(B) provide to adversely affected workers statewide rapid 
+     response activities under section 134(a)(2)(A) of the 
+     Workforce Investment Act of 1998 (29 U.S.C. 2864(a)(2)(A)) in 
+     the same manner and to the same extent as any other worker 
+     eligible for those activities;
+       ``(C) afford adversely affected workers the services 
+     provided under section 134(d) of the Workforce Investment Act 
+     of 1998 (29 U.S.C. 92864(d)) in the same manner and to the 
+     same extent as any other worker eligible for those services; 
+     and
+       ``(D) provide training services under this chapter using 
+     training providers approved under title I of the Workforce 
+     Investment Act of 1998 (29 U.S.C. 2801 et seq.) which may 
+     include community colleges, and other effective providers of 
+     training services.
+       ``(c) Other Provisions.--
+       ``(1) Approval of training providers.--The Secretary shall 
+     ensure that the training services provided by cooperating 
+     States are provided by organizations approved by the 
+     Secretary to effectively assist workers eligible for 
+     assistance under this chapter.
+       ``(2) Amendment, suspension, or termination of 
+     agreements.--Each agreement entered into under this section 
+     shall provide
+
+[[Page S3652]]
+
+     the terms and conditions upon which the agreement may be 
+     amended, suspended, or terminated.
+       ``(3) Effect on unemployment insurance.--Each agreement 
+     entered into under this section shall provide that 
+     unemployment insurance otherwise payable to any adversely 
+     affected worker will not be denied or reduced for any week by 
+     reason of any right to payments under this chapter.
+       ``(4) Coordination of workforce investment activities.--In 
+     order to promote the coordination of Workforce Investment Act 
+     activities in each State with activities carried out under 
+     this chapter, each agreement entered into under this section 
+     shall provide that the State shall submit to the Secretary, 
+     in such form as the Secretary may require, the description 
+     and information described in paragraphs (8) and (14) of 
+     section 112(b) of the Workforce Investment Act of 1998 (29 
+     U.S.C. 2822(b) (8) and (14)).
+       ``(d) Review of State Determinations.--
+       ``(1) In general.--A determination by a cooperating State 
+     regarding entitlement to program benefits under this chapter 
+     is subject to review in the same manner and to the same 
+     extent as determinations under the applicable State law.
+       ``(2) Appeal.--A review undertaken by a cooperating State 
+     under paragraph (1) may be appealed to the Secretary pursuant 
+     to such regulations as the Secretary may prescribe.
+
+     ``SEC. 231. CERTIFICATION AS ADVERSELY AFFECTED WORKERS.
+
+       ``(a) Eligibility for Certification.--
+       ``(1) General rule.--A group of workers (including workers 
+     in any agricultural firm or subdivision of an agricultural 
+     firm) shall be certified by the Secretary as adversely 
+     affected workers and eligible for trade adjustment assistance 
+     benefits under this chapter pursuant to a petition filed 
+     under subsection (b) if the Secretary determines that a 
+     significant number or proportion of the workers in the 
+     workers' firm or an appropriate subdivision of the firm have 
+     become totally or partially separated, or are threatened to 
+     become totally or partially separated, that either--
+       ``(A)(i) the sales or production, or both, of such firm or 
+     subdivision have decreased absolutely;
+       ``(ii) the value or volume of imports of articles like or 
+     directly competitive with articles produced by that firm or 
+     subdivision have increased; and
+       ``(iii) the increase in the value or volume of imports 
+     described in clause (ii) contributed importantly to the 
+     workers' separation or threat of separation and to the 
+     decline in the sales or production of such firm or 
+     subdivision; or
+       ``(B) there has been a shift in production by the workers' 
+     firm or subdivision to a foreign country of articles like or 
+     directly competitive with articles which are produced by that 
+     firm or subdivision.
+       ``(2) Adversely affected secondary worker.--A group of 
+     workers (including workers in any agricultural firm or 
+     subdivision of an agricultural firm) shall be certified by 
+     the Secretary as adversely affected and eligible for trade 
+     adjustment assistance benefits under this chapter pursuant to 
+     a petition filed under subsection (b) if the Secretary 
+     determines that--
+       ``(A) a significant number or proportion of the workers in 
+     the workers' firm or an appropriate subdivision of the firm 
+     have become totally or partially separated, or are threatened 
+     to become totally or partially separated;
+       ``(B) the workers' firm (or subdivision) is a supplier to a 
+     firm (or subdivision) or downstream producer to a firm (or 
+     subdivision) described in paragraph (1) (A) or (B); and
+       ``(C) a loss of business with a firm (or subdivision) 
+     described in paragraph (1) (A) or (B) contributed importantly 
+     to the workers' separation or threat of separation determined 
+     under subparagraph (A).
+       ``(3) Special rule for secondary workers.--Notwithstanding 
+     paragraph (2), the Secretary may, pursuant to standards 
+     established by the Secretary and for good cause shown, 
+     certify as eligible for trade adjustment assistance under 
+     this chapter a group of workers who meet the requirements for 
+     certification as adversely affected secondary workers in 
+     paragraph (2), except that the Secretary has neither received 
+     nor declined to certify a petition under paragraph (1) on 
+     behalf of workers at a firm to which the petitioning workers' 
+     firm is a supplier or downstream producer as defined in 
+     section 221 (11) and (24).
+       ``(4) Special provisions.--
+       ``(A) Oil and natural gas producers.--For purposes of this 
+     section, any firm, or appropriate subdivision of a firm, that 
+     engages in exploration or drilling for oil or natural gas 
+     shall be considered to be a firm producing oil or natural 
+     gas.
+       ``(B) Oil and natural gas imports.--For purposes of this 
+     section, any firm, or appropriate subdivision of a firm, that 
+     engages in exploration or drilling for oil or natural gas, or 
+     otherwise produces oil or natural gas, shall be considered to 
+     be producing articles directly competitive with imports of 
+     oil and with imports of natural gas.
+       ``(C) Taconite.--For purposes of this section, taconite 
+     pellets produced in the United States shall be considered to 
+     be an article that is like or directly competitive with 
+     imports of semifinished steel slab.
+       ``(D) Service workers.--
+       ``(i) In general.--Not later than 6 months after the date 
+     of enactment of the Trade Adjustment Assistance Reform Act of 
+     2002, the Secretary shall establish a program to provide 
+     assistance under this chapter to domestic operators of motor 
+     carriers who are adversely affected by competition from 
+     foreign owned and operated motor carriers.
+       ``(ii) Data collection system.--Not later than 6 months 
+     after the date of enactment of the Trade Adjustment 
+     Assistance Reform Act of 2002, the Secretary shall put in 
+     place a system to collect data on adversely affected service 
+     workers that includes the number of workers by State, 
+     industry, and cause of dislocation for each worker.
+       ``(iii) Report.--Not later than 2 years after the date of 
+     enactment of the Trade Adjustment Assistance Reform Act of 
+     2002, the Secretary shall report to Congress the results of a 
+     study on ways for extending the programs in this chapter to 
+     adversely affected service workers, including recommendations 
+     for legislation.
+       ``(b) Petitions.--
+       ``(1) In general.--A petition for certification of 
+     eligibility for trade adjustment assistance under this 
+     chapter for a group of adversely affected workers shall be 
+     filed simultaneously with the Secretary and with the Governor 
+     of the State in which the firm or subdivision of the firm 
+     employing the workers is located.
+       ``(2) Persons who may file a petition.--A petition under 
+     paragraph (1) may be filed by any of the following:
+       ``(A) Workers.--A group of workers (including workers in an 
+     agricultural firm or subdivision of any agricultural firm).
+       ``(B) Worker representatives.--The certified or recognized 
+     union or other duly appointed representative of the workers.
+       ``(C) Worker adjustment and retraining notification.--Any 
+     entity to which notice of a plant closing or mass layoff must 
+     be given under section 3 of the Worker Adjustment and 
+     Retraining Notification Act (29 U.S.C. 2102).
+       ``(D) Other.--Employers of workers described in 
+     subparagraph (A), one-stop operators or one-stop partners (as 
+     defined in section 101 of the Workforce Investment Act of 
+     1998 (29 U.S.C. 2801)), or State employment agencies, on 
+     behalf of the workers.
+       ``(E) Request to initiate certification.--The President, or 
+     the Committee on Finance of the Senate or the Committee on 
+     Ways and Means of the House of Representatives (by 
+     resolution), may petition the Secretary to initiate a 
+     certification process under this chapter to determine the 
+     eligibility for trade adjustment assistance of a group of 
+     workers.
+       ``(3) Actions by governor.--
+       ``(A) Cooperating state.--Upon receipt of a petition, the 
+     Governor of a cooperating State shall ensure that the 
+     requirements of the agreement entered into under section 222 
+     are met.
+       ``(B) Other states.--Upon receipt of a petition, the 
+     Governor of a State that has not entered into an agreement 
+     under section 222 shall coordinate closely with the Secretary 
+     to ensure that workers covered by a petition are--
+       ``(i) provided with all available services, including rapid 
+     response activities under section 134 of the Workforce 
+     Investment Act (29 U.S.C. 2864);
+       ``(ii) informed of the workers' (and individual member's of 
+     the worker's family) potential eligibility for--
+
+       ``(I) medical assistance under the medicaid program 
+     established under title XIX of the Social Security Act (42 
+     U.S.C. 1396a et seq.);
+       ``(II) child health assistance under the State children's 
+     health insurance program established under title XXI of that 
+     Act (42 U.S.C. 1397aa et seq.);
+       ``(III) child care services for which assistance is 
+     provided under the Child Care and Development Block Grant Act 
+     of 1990 (42 U.S.C. 9858 et seq.); and
+       ``(IV) the trade adjustment assistance health insurance 
+     credit under section 6429 of the Internal Revenue Code of 
+     1986 and health care coverage assistance under funds made 
+     available to the State to carry out section 173(f) of the 
+     Workforce Investment Act of 1998; and
+       ``(V) other Federal and State funded health care, child 
+     care, transportation, and assistance programs that the 
+     workers may be eligible for; and
+
+       ``(iii) provided with information regarding how to apply 
+     for the assistance, services, and programs described in 
+     clause (ii).
+
+     ``SEC. 232. INFORMATION TO WORKERS AND OTHER AFFECTED 
+                   PARTIES.
+
+       ``(a) In General.--The Secretary shall, in accordance with 
+     the provisions of section 222 or 223, as appropriate, provide 
+     prompt and full information to adversely affected workers 
+     covered by a certification issued under section 231(c), 
+     including information regarding--
+       ``(1) benefit allowances, training, and other employment 
+     services available under this chapter;
+       ``(2) petition and application procedures under this 
+     chapter;
+       ``(3) appropriate filing dates for the allowances, 
+     training, and services available under this chapter; and
+       ``(4) procedures for applying for and receiving all other 
+     Federal benefits and services available to separated workers 
+     during a period of unemployment.
+       ``(b) Assistance to Groups of Workers.--
+       ``(1) In general.--The Secretary shall provide any 
+     necessary assistance to enable groups of workers to prepare 
+     petitions or applications for program benefits.
+       ``(2) Assistance from states.--The Secretary shall ensure 
+     that cooperating States
+
+[[Page S3653]]
+
+     fully comply with the agreements entered into under section 
+     222 and shall periodically review that compliance.
+       ``(c) Notice.--
+       ``(1) In general.--Not later that 15 days after a 
+     certification is issued under section 231 (or as soon as 
+     practicable after separation), the Secretary shall provide 
+     written notice of the benefits available under this chapter 
+     to each worker whom the Secretary has reason to believe is 
+     covered by the certification.
+       ``(2) Publication of notice.--The Secretary shall publish 
+     notice of the benefits available under this chapter to 
+     workers covered by each certification made under section 231 
+     in newspapers of general circulation in the areas in which 
+     those workers reside.
+       ``(3) Notice to other parties affected by these provisions 
+     regarding health assistance.--The Secretary shall notify each 
+     provider of health insurance within the meaning of section 
+     7527 of the Internal Revenue Code of 1986 of the availability 
+     of health care coverage assistance under title VI of the 
+     Trade Adjustment Assistance Reform Act of 2002 and of the 
+     temporary extension of the election period for COBRA 
+     continuation coverage for certain workers under section 603 
+     of that Act.
+
+     ``SEC. 223. ADMINISTRATION ABSENT STATE AGREEMENT.
+
+       ``(a) In General.--In any State in which there is no 
+     agreement in force under section 222, the Secretary shall 
+     arrange, under regulations prescribed by the Secretary, for 
+     the performance of all necessary functions under this 
+     chapter, including providing a hearing for any worker whose 
+     application for payment is denied.
+       ``(b) Finality of Determination.--A final determination 
+     under subsection (a) regarding entitlement to program 
+     benefits under this chapter is subject to review by the 
+     courts in the same manner and to the same extent as is 
+     provided by section 205(g) of the Social Security Act (42 
+     U.S.C. 405(g)).
+
+     ``SEC. 224. DATA COLLECTION; EVALUATIONS; REPORTS.
+
+       ``(a) Data Collection.--The Secretary shall, pursuant to 
+     regulations prescribed by the Secretary, collect any data 
+     necessary to meet the requirements of this chapter.
+       ``(b) Performance Evaluations.--The Secretary shall 
+     establish an effective performance measuring system to 
+     evaluate the following:
+       ``(1) Program performance.--
+       ``(A) speed of petition processing;
+       ``(B) quality of petition processing;
+       ``(C) cost of training programs;
+       ``(D) coordination of programs under this title with 
+     programs under the Workforce Investment Act (29 U.S.C. 2801 
+     et seq.);
+       ``(E) length of time participants take to enter and 
+     complete training programs;
+       ``(F) the effectiveness of individual contractors in 
+     providing appropriate retraining information;
+       ``(G) the effectiveness of individual approved training 
+     programs in helping workers obtain employment;
+       ``(H) best practices related to the provision of benefits 
+     and retraining; and
+       ``(I) other data to evaluate how individual States are 
+     implementing the requirements of this title.
+       ``(2) Participant outcomes.--
+       ``(A) reemployment rates;
+       ``(B) types of jobs in which displaced workers have been 
+     placed;
+       ``(C) wage and benefit maintenance results;
+       ``(D) training completion rates; and
+       ``(E) other data to evaluate how effective programs under 
+     this chapter are for participants, taking into consideration 
+     current economic conditions in the State.
+       ``(3) Program participation data.--
+       ``(A) the number of workers receiving benefits and the type 
+     of benefits being received;
+       ``(B) the number of workers enrolled in, and the duration 
+     of, training by major types of training;
+       ``(C) earnings history of workers that reflects wages 
+     before separation and wages in any job obtained after 
+     receiving benefits under this Act;
+       ``(D) the cause of dislocation identified in each certified 
+     petition;
+       ``(E) the number of petitions filed and workers certified 
+     in each United States congressional district; and
+       ``(F) the number of workers who received waivers under each 
+     category identified in section 235(c)(1) and the average 
+     duration of such waivers.
+       ``(c) State Participation.--The Secretary shall ensure, to 
+     the extent practicable, through oversight and effective 
+     internal control measures the following:
+       ``(1) State participation.--Participation by each State in 
+     the performance measurement system established under 
+     subsection (b).
+       ``(2) Monitoring.--Monitoring by each State of internal 
+     control measures with respect to performance measurement data 
+     collected by each State.
+       ``(3) Response.--The quality and speed of the rapid 
+     response provided by each State under section 134(a)(2)(A) of 
+     the Workforce Investment Act of 1998 (29 U.S.C. 
+     2864(a)(2)(A)).
+       ``(d) Reports.--
+       ``(1) Reports by the secretary.--
+       ``(A) Initial report.--Not later than 6 months after the 
+     date of enactment of the Trade Adjustment Assistance Reform 
+     Act of 2002, the Secretary shall submit to the Committee on 
+     Finance of the Senate and the Committee on Ways and Means of 
+     the House of Representatives a report that--
+       ``(i) describes the performance measurement system 
+     established under subsection (b);
+       ``(ii) includes analysis of data collected through the 
+     system established under subsection (b);
+       ``(iii) includes information identifying the number of 
+     workers who received waivers under section 235(c) and the 
+     average duration of those during the preceding year;
+       ``(iv) describes and analyzes State participation in the 
+     system;
+       ``(v) analyzes the quality and speed of the rapid response 
+     provided by each State under section 134(a)(2)(A) of the 
+     Workforce Investment Act of 1998 (29 U.S.C. 2864(a)(2)(A)); 
+     and
+       ``(vi) provides recommendations for program improvements.
+       ``(B) Annual report.--Not later than 1 year after the date 
+     the report is submitted under subparagraph (A), and annually 
+     thereafter, the Secretary shall submit to the Committee on 
+     Finance of the Senate and the Committee on Ways and Means of 
+     the House of Representatives a report that includes the 
+     information collected under clauses (ii) through (v) of 
+     subparagraph (A).
+       ``(2) State reports.--Pursuant to regulations prescribed by 
+     the Secretary, each State shall submit to the Secretary a 
+     report that details its participation in the programs 
+     established under this chapter, and that contains the data 
+     necessary to allow the Secretary to submit the report 
+     required under paragraph (1).
+       ``(3) Publication.--The Secretary shall make available to 
+     each State, and other public and private organizations as 
+     determined by the Secretary, the data gathered and evaluated 
+     through the performance measurement system established under 
+     paragraph (1).
+
+     ``SEC. 225. STUDY BY SECRETARY OF LABOR WHEN INTERNATIONAL 
+                   TRADE COMMISSION BEGINS INVESTIGATION.
+
+       ``(a) Notification of Investigation.--Whenever the 
+     International Trade Commission begins an investigation under 
+     section 202 with respect to an industry, the Commission shall 
+     immediately notify the Secretary of that investigation, and 
+     the Secretary shall immediately begin a study of--
+       ``(1) the number of workers in the domestic industry 
+     producing the like or directly competitive article who have 
+     been or are likely to be certified as eligible for adjustment 
+     assistance under this chapter; and
+       ``(2) the extent to which the adjustment of those workers 
+     to the import competition may be facilitated through the use 
+     of existing programs.
+       ``(b) Report.--
+       ``(1) In general.--The Secretary shall provide a report 
+     based on the study conducted under subsection (a) to the 
+     President not later than 15 days after the day on which the 
+     Commission makes its report under section 202(f).
+       ``(2) Publication.--The Secretary shall promptly make 
+     public the report provided to the President under paragraph 
+     (1) (with the exception of information which the Secretary 
+     determines to be confidential) and shall have a summary of 
+     the report published in the Federal Register.
+
+     ``SEC. 226. REPORT BY SECRETARY OF LABOR ON LIKELY IMPACT OF 
+                   TRADE AGREEMENTS.
+
+       ``(a) In General.--At least 90 calendar days before the day 
+     on which the President enters into a trade agreement under 
+     section 2103(b) of the Bipartisan Trade Promotion Authority 
+     Act of 2002, the President shall provide the Secretary with 
+     details of the agreement as it exists at that time and direct 
+     the Secretary to prepare and submit the assessment described 
+     in subsection (b). Between the time the President instructs 
+     the Secretary to prepare the assessment under this section 
+     and the time the Secretary submits the assessment to 
+     Congress, the President shall keep the Secretary current with 
+     respect to the details of the agreement.
+       ``(b) Assessment.--Not later than 90 calendar days after 
+     the President enters into the agreement, the Secretary shall 
+     submit to the President, the Committee on Finance of the 
+     Senate, the Committee on Ways and Means of the House of 
+     Representatives, and the Committees on Appropriations of the 
+     Senate and the House of Representatives, a report assessing 
+     the likely impact of the agreement on employment in the 
+     United States economy as a whole and in specific industrial 
+     sectors, including the extent of worker dislocations likely 
+     to result from implementation of the agreement. The report 
+     shall include an estimate of the financial and administrative 
+     resources necessary to provide trade adjustment assistance to 
+     all potentially adversely affected workers.
+
+                     ``Subchapter B--Certifications
+
+     ``SEC. 231. CERTIFICATION AS ADVERSELY AFFECTED WORKERS.
+
+       ``(a) Eligibility for Certification.--
+       ``(1) General rule.--A group of workers (including workers 
+     in any agricultural firm or subdivision of an agricultural 
+     firm) shall be certified by the Secretary as adversely 
+     affected workers and eligible for trade adjustment assistance 
+     benefits under this chapter pursuant to a petition filed 
+     under subsection (b) if the Secretary determines that a 
+     significant number or proportion of the workers in the 
+     workers' firm or an appropriate subdivision of the firm have 
+     become totally or partially separated, or are threatened to 
+     become totally or partially separated, and that either--
+
+[[Page S3654]]
+
+       ``(A)(i) the sales or production, or both, of such firm or 
+     subdivision have decreased absolutely;
+       ``(ii) the value or volume of imports of articles like or 
+     directly competitive with articles produced by that firm or 
+     subdivision have increased; and
+       ``(iii) the increase in the value or volume of imports 
+     described in clause (ii) contributed importantly to the 
+     workers' separation or threat of separation and to the 
+     decline in the sales or production of such firm or 
+     subdivision; or
+       ``(B) there has been a shift in production by the workers' 
+     firm or subdivision to a foreign country of articles like or 
+     directly competitive with articles which are produced by that 
+     firm or subdivision and the shift in production contributed 
+     importantly to the workers' separation or threat of 
+     separation.
+       ``(2) Adversely affected secondary worker.--A group of 
+     workers (including workers in any agricultural firm or 
+     subdivision of an agricultural firm) shall be certified by 
+     the Secretary as adversely affected and eligible for trade 
+     adjustment assistance benefits under this chapter pursuant to 
+     a petition filed under subsection (b) if the Secretary 
+     determines that--
+       ``(A) a significant number or proportion of the workers in 
+     the workers' firm or an appropriate subdivision of the firm 
+     have become totally or partially separated, or are threatened 
+     to become totally or partially separated;
+       ``(B) the workers' firm (or subdivision) is a supplier or 
+     downstream producer to a firm (or subdivision) that employed 
+     a group of workers who received a certification of 
+     eligibility under paragraph (1), and such supply or 
+     production is related to the article that was the basis for 
+     such certification (as defined in section 221 (11) and (24)); 
+     and
+       ``(C) a loss of business by the workers' firm with the firm 
+     (or subdivision) described in subparagraph (B) contributed 
+     importantly to the workers' separation or threat of 
+     separation determined under subparagraph (A).
+       ``(3) Special rule for secondary workers.--Notwithstanding 
+     paragraph (2), the Secretary may, pursuant to standards 
+     established by the Secretary and for good cause shown, 
+     certify as eligible for trade adjustment assistance under 
+     this chapter a group of workers who meet the requirements for 
+     certification as adversely affected secondary workers in 
+     paragraph (2), except that the Secretary has not received a 
+     petition under paragraph (1) on behalf of workers at a firm 
+     to which the petitioning workers' firm is a supplier or 
+     downstream producer as defined in section 221 (11) and (24).
+       ``(4) Special provisions.--
+       ``(A) Oil and natural gas producers.--For purposes of this 
+     section, any firm, or appropriate subdivision of a firm, that 
+     engages in exploration or drilling for oil or natural gas 
+     shall be considered to be a firm producing oil or natural 
+     gas.
+       ``(B) Oil and natural gas imports.--For purposes of this 
+     section, any firm, or appropriate subdivision of a firm, that 
+     engages in exploration or drilling for oil or natural gas, or 
+     otherwise produces oil or natural gas, shall be considered to 
+     be producing articles directly competitive with imports of 
+     oil and with imports of natural gas.
+       ``(C) Taconite.--For purposes of this section, taconite 
+     pellets produced in the United States shall be considered to 
+     be an article that is like or directly competitive with 
+     imports of semifinished steel slab.
+       ``(D) Service workers.--
+       ``(i) In general.--Not later than 6 months after the date 
+     of enactment of the Trade Adjustment Assistance Reform Act of 
+     2002, the Secretary shall establish a program to provide 
+     assistance under this chapter to domestic operators of motor 
+     carriers who are adversely affected by competition from 
+     foreign owned and operated motor carriers.
+       ``(ii) Data collection system.--Not later than 6 months 
+     after the date of enactment of the Trade Adjustment 
+     Assistance Reform Act of 2002, the Secretary shall put in 
+     place a system to collect data on adversely affected service 
+     workers that includes the number of workers by State, 
+     industry, and cause of dislocation for each worker.
+       ``(iii) Report.--Not later than 2 years after the date of 
+     enactment of the Trade Adjustment Assistance Reform Act of 
+     2002, the Secretary shall report to Congress the results of a 
+     study on ways for extending the programs in this chapter to 
+     adversely affected service workers, including recommendations 
+     for legislation.
+       ``(b) Petitions.--
+       ``(1) In general.--A petition for certification of 
+     eligibility for trade adjustment assistance under this 
+     chapter for a group of adversely affected workers shall be 
+     filed simultaneously with the Secretary and with the Governor 
+     of the State in which the firm or subdivision of the firm 
+     employing the workers is located.
+       ``(2) Persons who may file a petition.--A petition under 
+     paragraph (1) may be filed by any of the following:
+       ``(A) Workers.--A group of workers (including workers in an 
+     agricultural firm or subdivision of any agricultural firm).
+       ``(B) Worker representatives.--The certified or recognized 
+     union or other duly appointed representative of the workers.
+       ``(C) Worker adjustment and retraining notification.--Any 
+     entity to which notice of a plant closing or mass layoff must 
+     be given under section 3 of the Worker Adjustment and 
+     Retraining Notification Act (29 U.S.C. 2102).
+       ``(D) Other.--Employers of workers described in 
+     subparagraph (A), one-stop operators or one-stop partners (as 
+     defined in section 101 of the Workforce Investment Act of 
+     1998 (29 U.S.C. 2801)), or State employment agencies, on 
+     behalf of the workers.
+       ``(E) Request to initiate certification.--The President, or 
+     the Committee on Finance of the Senate or the Committee on 
+     Ways and Means of the House of Representatives (by 
+     resolution), may petition the Secretary to initiate a 
+     certification process under this chapter to determine the 
+     eligibility for trade adjustment assistance of a group of 
+     workers.
+       ``(3) Actions by governor.--
+       ``(A) Cooperating state.--Upon receipt of a petition, the 
+     Governor of a cooperating State shall ensure that the 
+     requirements of the agreement entered into under section 222 
+     are met.
+       ``(B) Other states.--Upon receipt of a petition, the 
+     Governor of a State that has not entered into an agreement 
+     under section 222 shall coordinate closely with the Secretary 
+     to ensure that workers covered by a petition are--
+       ``(i) provided with all available services, including rapid 
+     response activities under section 134 of the Workforce 
+     Investment Act (29 U.S.C. 2864);
+       ``(ii) informed of the workers' (and individual member's of 
+     the worker's family) potential eligibility for--
+
+       ``(I) medical assistance under the medicaid program 
+     established under title XIX of the Social Security Act (42 
+     U.S.C. 1396a et seq.);
+       ``(II) child health assistance under the State children's 
+     health insurance program established under title XXI of that 
+     Act (42 U.S.C. 1397aa et seq.);
+       ``(III) child care services for which assistance is 
+     provided under the Child Care and Development Block Grant Act 
+     of 1990 (42 U.S.C. 9858 et seq.); and
+       ``(IV) other Federal and State funded health care, child 
+     care, transportation, and assistance programs that the 
+     workers may be eligible for; and
+
+       ``(iii) provided with information regarding how to apply 
+     for the assistance, services, and programs described in 
+     clause (ii).
+       ``(c) Actions by Secretary.--
+       ``(1) In general.--As soon as possible after the date on 
+     which a petition is filed under subsection (b), but not later 
+     than 40 days after that date, the Secretary shall determine 
+     whether the petitioning group meets the requirements of 
+     subsection (a), and if warranted, shall issue a certification 
+     of eligibility for trade adjustment assistance pursuant to 
+     this subchapter. In making the determination, the Secretary 
+     shall consult with all petitioning entities.
+       ``(2) Publication of determination.--Upon making a 
+     determination under paragraph (1), the Secretary shall 
+     promptly publish a summary of the determination in the 
+     Federal Register together with the reasons for making that 
+     determination.
+       ``(3) Date specified in certification.--Each certification 
+     made under this subsection shall specify the date on which 
+     the total or partial separation began or threatened to begin 
+     with respect to a group of certified workers.
+       ``(4) Projected training needs.--The Secretary shall inform 
+     the State Workforce Investment Board or equivalent agency, 
+     and other public or private agencies, institutions, 
+     employers, and labor organizations, as appropriate, of each 
+     certification issued under section 231 and of projections, if 
+     available, of the need for training under section 240 as a 
+     result of that certification.
+       ``(d) Scope of Certification.--
+       ``(1) In general.--A certification issued under subsection 
+     (c) shall cover adversely affected workers in any group that 
+     meets the requirements of subsection (a), whose total or 
+     partial separation occurred on or after the date on which the 
+     petition was filed under subsection (b).
+       ``(2) Workers separated prior to certification.--A 
+     certification issued under subsection (c) shall cover 
+     adversely affected workers whose total or partial separation 
+     occurred not more than 1 year prior to the date on which the 
+     petition was filed under subsection (b).
+       ``(e) Termination of Certification.--
+       ``(1) In general.--If the Secretary determines, with 
+     respect to any certification of eligibility, that workers 
+     separated from a firm or subdivision covered by a 
+     certification of eligibility are no longer adversely affected 
+     workers, the Secretary shall terminate the certification.
+       ``(2) Publication of termination.--The Secretary shall 
+     promptly publish notice of any termination made under 
+     paragraph (1) in the Federal Register together with the 
+     reasons for making that determination.
+       ``(3) Application.--Any determination made under paragraph 
+     (1) shall apply only to total or partial separations 
+     occurring after the termination date specified by the 
+     Secretary.
+
+     ``SEC. 232. BENEFIT INFORMATION TO WORKERS.
+
+       ``(a) In General.--The Secretary shall, in accordance with 
+     the provisions of section 222 or 223, as appropriate, provide 
+     prompt and full information to adversely affected workers 
+     covered by a certification issued under section 231(c), 
+     including information regarding--
+       ``(1) benefit allowances, training, and other employment 
+     services available under this chapter;
+       ``(2) petition and application procedures under this 
+     chapter;
+
+[[Page S3655]]
+
+       ``(3) appropriate filing dates for the allowances, 
+     training, and services available under this chapter; and
+       ``(4) procedures for applying for and receiving all other 
+     Federal benefits and services available to separated workers 
+     during a period of unemployment.
+       ``(b) Assistance to Groups of Workers.--
+       ``(1) In general.--The Secretary shall provide any 
+     necessary assistance to enable groups of workers to prepare 
+     petitions or applications for program benefits.
+       ``(2) Assistance from states.--The Secretary shall ensure 
+     that cooperating States fully comply with the agreements 
+     entered into under section 222 and shall periodically review 
+     that compliance.
+       ``(c) Notice.--
+       ``(1) In general.--Not later that 15 days after a 
+     certification is issued under section 231 (or as soon as 
+     practicable after separation), the Secretary shall provide 
+     written notice of the benefits available under this chapter 
+     to each worker whom the Secretary has reason to believe is 
+     covered by the certification.
+       ``(2) Publication of notice.--The Secretary shall publish 
+     notice of the benefits available under this chapter to 
+     workers covered by each certification made under section 231 
+     in newspapers of general circulation in the areas in which 
+     those workers reside.
+
+                    ``Subchapter C--Program Benefits
+
+                      ``PART I--GENERAL PROVISIONS
+
+     ``SEC. 234. COMPREHENSIVE ASSISTANCE.
+
+       ``Workers covered by a certification issued by the 
+     Secretary under section 231 shall be eligible for the 
+     following:
+       ``(1) Trade adjustment allowances as described in sections 
+     235 through 238.
+       ``(2) Employment services as described in section 239.
+       ``(3) Training as described in section 240.
+       ``(4) Job search allowances as described in section 241.
+       ``(5) Relocation allowances as described in section 242.
+       ``(6) Supportive services and wage insurance as described 
+     in section 243.
+       ``(7) Health care coverage assistance under title VI of the 
+     Trade Adjustment Assistance Reform Act of 2002.
+
+                 ``PART II--TRADE ADJUSTMENT ALLOWANCES
+
+     ``SEC. 235. QUALIFYING REQUIREMENTS FOR WORKERS.
+
+       ``(a) In General.--Payment of a trade adjustment allowance 
+     shall be made to an adversely affected worker covered by a 
+     certification under section 231 who files an application for 
+     the allowance for any week of unemployment that begins more 
+     than 60 days after the date on which the petition that 
+     resulted in the certification was filed under section 231, if 
+     the following conditions are met:
+       ``(1) Time of total or partial separation from 
+     employment.--The adversely affected worker's total or partial 
+     separation before the worker's application under this chapter 
+     occurred--
+       ``(A) within the period specified in either section 231 (d) 
+     (1) or (2);
+       ``(B) before the expiration of the 2-year period beginning 
+     on the date on which the certification under section 231 was 
+     issued; and
+       ``(C) before the termination date (if any) determined 
+     pursuant to section 231(e).
+       ``(2) Employment required.--
+       ``(A) In general.--The adversely affected worker had, in 
+     the 52-week period ending with the week in which the total or 
+     partial separation occurred, at least 26 weeks of 
+     employment at wages of $30 or more a week with a single 
+     firm or subdivision of a firm.
+       ``(B) Unavailability of data.--If data with respect to 
+     weeks of employment with a firm are not available, the worker 
+     had equivalent amounts of employment computed under 
+     regulations prescribed by the Secretary.
+       ``(C) Week of employment.--For the purposes of this 
+     paragraph any week shall be treated as a week of employment 
+     at wages of $30 or more, if an adversely affected worker--
+       ``(i) is on employer-authorized leave for purposes of 
+     vacation, sickness, injury, or maternity, or inactive duty 
+     training or active duty for training in the Armed Forces of 
+     the United States;
+       ``(ii) does not work because of a disability that is 
+     compensable under a workmen's compensation law or plan of a 
+     State or the United States;
+       ``(iii) had employment interrupted in order to serve as a 
+     full-time representative of a labor organization in that firm 
+     or subdivision; or
+       ``(iv) is on call-up for purposes of active duty in a 
+     reserve status in the Armed Forces of the United States, 
+     provided that active duty is `Federal service' as defined in 
+     section 8521(a)(1) of title 5, United States Code.
+       ``(D) Exceptions.--
+       ``(i) In the case of weeks described in clause (i) or (iii) 
+     of subparagraph (C), or both, not more than 7 weeks may be 
+     treated as weeks of employment under subparagraph (C).
+       ``(ii) In the case of weeks described in clause (ii) or 
+     (iv) of subparagraph (C), not more than 26 weeks may be 
+     treated as weeks of employment under subparagraph (C).
+       ``(3) Unemployment compensation.--The adversely affected 
+     worker meets all of the following requirements:
+       ``(A) Entitlement to unemployment insurance.--The worker 
+     was entitled to (or would be entitled to if the worker 
+     applied for) unemployment insurance for a week within the 
+     benefit period--
+       ``(i) in which total or partial separation took place; or
+       ``(ii) which began (or would have begun) by reason of the 
+     filing of a claim for unemployment insurance by the worker 
+     after total or partial separation.
+       ``(B) Exhaustion of unemployment insurance.--The worker has 
+     exhausted all rights to any regular State unemployment 
+     insurance to which the worker was entitled (or would be 
+     entitled if the worker had applied for any regular State 
+     unemployment insurance).
+       ``(C) No unexpired waiting period.--The worker does not 
+     have an unexpired waiting period applicable to the worker for 
+     any unemployment insurance.
+       ``(4) Extended unemployment compensation.--The adversely 
+     affected worker, with respect to a week of unemployment, 
+     would not be disqualified for extended compensation payable 
+     under the Federal-State Extended Unemployment Compensation 
+     Act of 1970 (26 U.S.C. 3304 note) by reason of the work 
+     acceptance and job search requirements in section 202(a)(3) 
+     of that Act.
+       ``(5) Training.--The adversely affected worker is enrolled 
+     in a training program approved by the Secretary under section 
+     240(a), and the enrollment occurred not later than the latest 
+     of the periods described in subparagraph (A), (B), or (C).
+       ``(A) 16 weeks.--The worker enrolled not later than the 
+     last day of the 16th week after the worker's most recent 
+     total separation that meets the requirements of paragraphs 
+     (1) and (2).
+       ``(B) 8 weeks.--The worker enrolled not later than the last 
+     day of the 8th week after the week in which the Secretary 
+     issues a certification covering the worker.
+       ``(C) Extenuating circumstances.--Notwithstanding 
+     subparagraphs (A) and (B), the adversely affected worker is 
+     eligible for trade adjustment assistance if the worker 
+     enrolled not later than 45 days after the later of the dates 
+     specified in subparagraph (A) or (B), and the Secretary 
+     determines there are extenuating circumstances that justify 
+     an extension in the enrollment period.
+       ``(b) Failure To Participate in Training.--
+       ``(1) In general.--Until the adversely affected worker 
+     begins or resumes participation in a training program 
+     approved under section 240(a), no trade adjustment allowance 
+     may be paid under subsection (a) to an adversely affected 
+     worker for any week or any succeeding week in which--
+       ``(A) the Secretary determines that--
+       ``(i) the adversely affected worker--
+
+       ``(I) has failed to begin participation in a training 
+     program the enrollment in which meets the requirement of 
+     subsection (a)(5); or
+       ``(II) has ceased to participate in such a training program 
+     before completing the training program; and
+
+       ``(ii) there is no justifiable cause for the failure or 
+     cessation; or
+       ``(B) the waiver issued to that worker under subsection 
+     (c)(1) is revoked under subsection (c)(2).
+       ``(2) Exception.--The provisions of subsection (a)(5) and 
+     paragraph (1) shall not apply with respect to any week of 
+     unemployment that begins before the first week following the 
+     week in which the certification is issued under section 231.
+       ``(c) Waivers of Training Requirements.--
+       ``(1) Issuance of waivers.--The Secretary may issue a 
+     written statement to an adversely affected worker waiving the 
+     requirement to be enrolled in training described in 
+     subsection (a) if the Secretary determines that the training 
+     requirement is not feasible or appropriate for the worker, 
+     because of 1 or more of the following reasons:
+       ``(A) Recall.--The worker has been notified that the worker 
+     will be recalled by the firm from which the separation 
+     occurred.
+       ``(B) Marketable skills.--The worker possesses marketable 
+     skills for suitable employment (as determined pursuant to an 
+     assessment of the worker, which may include the profiling 
+     system under section 303(j) of the Social Security Act (42 
+     U.S.C. 503(j)), carried out in accordance with guidelines 
+     issued by the Secretary) and there is a reasonable 
+     expectation of employment at equivalent wages in the 
+     foreseeable future.
+       ``(C) Retirement.--The worker is within 2 years of meeting 
+     all requirements for entitlement to either--
+       ``(i) old-age insurance benefits under title II of the 
+     Social Security Act (42 U.S.C. 401 et seq.) (except for 
+     application therefore); or
+       ``(ii) a private pension sponsored by an employer or labor 
+     organization.
+       ``(D) Health.--The worker is unable to participate in 
+     training due to the health of the worker, except that a 
+     waiver under this subparagraph shall not be construed to 
+     exempt a worker from requirements relating to the 
+     availability for work, active search for work, or refusal to 
+     accept work under Federal or State unemployment compensation 
+     laws.
+       ``(E) Enrollment unavailable.--The first available 
+     enrollment date for the approved training of the worker is 
+     within 60 days after the date of the determination made under 
+     this paragraph, or, if later, there are extenuating 
+     circumstances for the delay in enrollment, as determined 
+     pursuant to guidelines issued by the Secretary.
+       ``(F) Training not available.--Training approved by the 
+     Secretary is not reasonably available to the worker from 
+     either governmental agencies or private sources (which
+
+[[Page S3656]]
+
+     may include area vocational education schools, as defined in 
+     section 3 of the Carl D. Perkins Vocational and Technical 
+     Education Act of 1998 (20 U.S.C. 2302), and employers), no 
+     training that is suitable for the worker is available at a 
+     reasonable cost, or no training funds are available.
+       ``(G) Other.--The Secretary may, at his discretion, issue a 
+     waiver if the Secretary determines that a worker has set 
+     forth in writing reasons other than those provided for in 
+     subparagraphs (A) through (F) justifying the grant of such 
+     waiver.
+       ``(2) Duration of waivers.--
+       ``(A) In general.--A waiver issued under paragraph (1) 
+     shall be effective for not more than 6 months after the date 
+     on which the waiver is issued, unless the Secretary 
+     determines otherwise.
+       ``(B) Revocation.--The Secretary shall revoke a waiver 
+     issued under paragraph (1) if the Secretary determines that 
+     the basis of a waiver is no longer applicable to the worker.
+       ``(3) Amendments under section 222.--
+       ``(A) Issuance by cooperating states.--Pursuant to an 
+     agreement under section 222, the Secretary may authorize a 
+     cooperating State to issue waivers as described in paragraph 
+     (1).
+       ``(B) Submission of statements.--An agreement under section 
+     222 shall include a requirement that the cooperating State 
+     submit to the Secretary the written statements provided under 
+     paragraph (1) and a statement of the reasons for the waiver.
+
+     ``SEC. 236. WEEKLY AMOUNTS.
+
+       ``(a) In General.--Subject to subsections (b) and (c), the 
+     trade adjustment allowance payable to an adversely affected 
+     worker for a week of total unemployment shall be an amount 
+     equal to the most recent weekly benefit amount of the 
+     unemployment insurance payable to the worker for a week of 
+     total unemployment preceding the worker's first exhaustion of 
+     unemployment insurance (as determined for purposes of section 
+     235(a)(3)(B)) reduced (but not below zero) by--
+       ``(1) any training allowance deductible under subsection 
+     (c); and
+       ``(2) any income that is deductible from unemployment 
+     insurance under the disqualifying income provisions of the 
+     applicable State law or Federal unemployment insurance law.
+       ``(b) Adjustment for Workers Receiving Training.--
+       ``(1) In general.--Any adversely affected worker who is 
+     entitled to a trade adjustment allowance and who is receiving 
+     training approved by the Secretary, shall receive for each 
+     week in which the worker is undergoing that training, a trade 
+     adjustment allowance in an amount (computed for such week) 
+     equal to the greater of--
+       ``(A) the amount computed under subsection (a); or
+       ``(B) the amount of any weekly allowance for that training 
+     to which the worker would be entitled under any other Federal 
+     law for the training of workers, if the worker applied for 
+     that allowance.
+       ``(2) Allowance paid in lieu of.--Any trade adjustment 
+     allowance calculated under paragraph (1) shall be paid in 
+     lieu of any training allowance to which the worker would be 
+     entitled under any other Federal law.
+       ``(3) Coordination with unemployment insurance.--Any week 
+     in which a worker undergoing training approved by the 
+     Secretary receives payments from unemployment insurance shall 
+     be subtracted from the total number of weeks for which a 
+     worker may receive trade adjustment allowance under this 
+     chapter.
+       ``(c) Adjustment for Workers Receiving Allowances Under 
+     Other Federal Law.--
+       ``(1) Reduction in weeks for which allowance will be 
+     paid.--If a training allowance under any Federal law (other 
+     than this Act) is paid to an adversely affected worker for 
+     any week of unemployment with respect to which the worker 
+     would be entitled (determined without regard to any 
+     disqualification under section 235(b)) to a trade adjustment 
+     allowance if the worker applied for that allowance, each week 
+     of unemployment shall be deducted from the total number of 
+     weeks of trade adjustment allowance otherwise payable to that 
+     worker under section 235(a) when the worker applies for a 
+     trade adjustment allowance and is determined to be entitled 
+     to the allowance.
+       ``(2) Payment of difference.--If the training allowance 
+     paid to a worker for any week of unemployment is less than 
+     the amount of the trade adjustment allowance to which the 
+     worker would be entitled if the worker applied for the trade 
+     adjustment allowance, the worker shall receive, when the 
+     worker applies for a trade adjustment allowance and is 
+     determined to be entitled to the allowance, a trade 
+     adjustment allowance for that week equal to the difference 
+     between the training allowance and the trade adjustment 
+     allowance computed under subsection (b).
+
+     ``SEC. 237. LIMITATIONS ON TRADE ADJUSTMENT ALLOWANCES.
+
+       ``(a) Amount Payable.--The maximum amount of trade 
+     adjustment allowance payable to an adversely affected worker, 
+     with respect to the period covered by any certification, 
+     shall be the amount that is the product of 104 multiplied by 
+     the trade adjustment allowance payable to the worker for a 
+     week of total unemployment (as determined under section 236) 
+     reduced by the total sum of the regular State unemployment 
+     insurance to which the worker was entitled (or would have 
+     been entitled if the worker had applied for unemployment 
+     insurance) in the worker's first benefit period described in 
+     section 235(a)(3)(A).
+       ``(b) Duration of Payments.--
+       ``(1) In general.--Except as provided in paragraph (2), a 
+     trade adjustment allowance shall not be paid for any week 
+     occurring after the close of the 104-week period that begins 
+     with the first week following the week in which the adversely 
+     affected worker was most recently totally separated--
+       ``(A) within the period that is described in section 
+     235(a)(1); and
+       ``(B) with respect to which the worker meets the 
+     requirements of section 235(a)(2).
+       ``(2) Special rules.--
+       ``(A) Break in training.--For purposes of this chapter, a 
+     worker shall be treated as participating in a training 
+     program approved by the Secretary under section 240(a) during 
+     any week that is part of a break in a training that does not 
+     exceed 30 days if--
+       ``(i) the worker was participating in a training program 
+     approved under section 240(a) before the beginning of the 
+     break in training; and
+       ``(ii) the break is provided under the training program.
+       ``(B) On-the-job training.--No trade adjustment allowance 
+     shall be paid to a worker under this chapter for any week 
+     during which the worker is receiving on-the-job training, 
+     except that a trade adjustment allowance shall be paid if a 
+     worker is enrolled in a non-paid customized training program.
+       ``(C) Small business administration pilot program.--An 
+     adversely affected worker who is participating in a self-
+     employment training program established by the Director of 
+     the Small Business Administration pursuant to section 102 of 
+     the Trade Adjustment Assistance Reform Act of 2002, shall not 
+     be ineligible to receive benefits under this chapter.
+       ``(c) Adjustment of Amounts Payable.--Amounts payable to an 
+     adversely affected worker under this chapter shall be subject 
+     to adjustment on a week-to-week basis as may be required by 
+     section 236.
+       ``(d) Year-End Adjustment.--
+       ``(1) In general.--Notwithstanding any other provision of 
+     this Act or any other provision of law, if the benefit year 
+     of a worker ends within an extended benefit period, the 
+     number of weeks of extended benefits that the worker would, 
+     but for this subsection, be entitled to in that extended 
+     benefit period shall not be reduced by the number of weeks 
+     for which the worker was entitled, during that benefit year, 
+     to trade adjustment allowances under this part.
+       ``(2) Extended benefits period.--For the purpose of this 
+     section the term `extended benefit period' has the same 
+     meaning given that term in the Federal-State Extended 
+     Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
+
+     ``SEC. 238. APPLICATION OF STATE LAWS.
+
+       ``(a) In General.--Except where inconsistent with the 
+     provisions of this chapter and subject to such regulations as 
+     the Secretary may prescribe, the availability and 
+     disqualification provisions of the State law under which an 
+     adversely affected worker is entitled to unemployment 
+     insurance (whether or not the worker has filed a claim for 
+     such insurance), or, if the worker is not so entitled to 
+     unemployment insurance, of the State in which the worker was 
+     totally or partially separated, shall apply to a worker that 
+     files an application for trade adjustment assistance.
+       ``(b) Duration of Applicability.--The State law determined 
+     to be applicable with respect to a separation of an adversely 
+     affected worker shall remain applicable for purposes of 
+     subsection (a), with respect to a separation until the worker 
+     becomes entitled to unemployment insurance under another 
+     State law (whether or not the worker has filed a claim for 
+     that insurance).
+
+    ``PART III--EMPLOYMENT SERVICES, TRAINING, AND OTHER ALLOWANCES
+
+     ``SEC. 239. EMPLOYMENT SERVICES.
+
+       ``The Secretary shall, in accordance with section 222 or 
+     223, as applicable, make every reasonable effort to secure 
+     for adversely affected workers covered by a certification 
+     under section 231, counseling, testing, placement, and other 
+     services provided for under any other Federal law.
+
+     ``SEC. 240. TRAINING.
+
+       ``(a) Approved Training Programs.--
+       ``(1) In general.--The Secretary shall approve training 
+     programs that include--
+       ``(A) on-the-job training or customized training;
+       ``(B) any employment or training activity provided through 
+     a one-stop delivery system under chapter 5 of subtitle B of 
+     title I of the Workforce Investment Act of 1998 (29 U.S.C. 
+     2861 et seq.);
+       ``(C) any program of adult education;
+       ``(D) any training program (other than a training program 
+     described in paragraph (3)) for which all, or any portion, of 
+     the costs of training the worker are paid--
+       ``(i) under any Federal or State program other than this 
+     chapter; or
+       ``(ii) from any source other than this section; and
+       ``(E) any other training program that the Secretary 
+     determines is acceptable to meet the needs of an adversely 
+     affected worker.
+     In making the determination under subparagraph (E), the 
+     Secretary shall consult with interested parties.
+       ``(2) Training agreements.--Before approving any training 
+     to which subsection (f)(1)(C) may apply, the Secretary may 
+     require that the adversely affected worker
+
+[[Page S3657]]
+
+     enter into an agreement with the Secretary under which the 
+     Secretary will not be required to pay under subsection (b) 
+     the portion of the costs of the training that the worker has 
+     reason to believe will be paid under the program, or by the 
+     source, described in clause (i) or (ii) of subsection 
+     (f)(1)(C).
+       ``(3) Limitation on approvals.--The Secretary shall not 
+     approve a training program if all of the following apply:
+       ``(A) Payment by plan.--Any portion of the costs of the 
+     training program are paid under any nongovernmental plan or 
+     program.
+       ``(B) Right to obtain.--The adversely affected worker has a 
+     right to obtain training or funds for training under that 
+     plan or program.
+       ``(C) Reimbursement.--The plan or program requires the 
+     worker to reimburse the plan or program from funds provided 
+     under this chapter, or from wages paid under the training 
+     program, for any portion of the costs of that training 
+     program paid under the plan or program.
+       ``(b) Payment of Training Costs.--
+       ``(1) In general.--Upon approval of a training program 
+     under subsection (a), and subject to the limitations imposed 
+     by this section, an adversely affected worker covered by a 
+     certification issued under section 231 may be eligible to 
+     have payment of the costs of that training, including any 
+     costs of an approved training program incurred by a worker 
+     before a certification was issued under section 231, made on 
+     behalf of the worker by the Secretary directly or through a 
+     voucher system.
+       ``(2) On-the-job training and customized training.--
+       ``(A) Provision of training on the job or customized 
+     training.--If the Secretary approves training under 
+     subsection (a), the Secretary shall, insofar as possible, 
+     provide or assure the provision of that training on the job 
+     or customized training, and any training on the job or 
+     customized training that is approved by the Secretary under 
+     subsection (a) shall include related education necessary for 
+     the acquisition of skills needed for a position within a 
+     particular occupation.
+       ``(B) Monthly installments.--If the Secretary approves 
+     payment of any on-the-job training or customized training 
+     under subsection (a), the Secretary shall pay the costs of 
+     that training in equal monthly installments.
+       ``(C) Limitations.--The Secretary may pay the costs of on-
+     the-job training or customized training only if--
+       ``(i) no employed worker is displaced by the adversely 
+     affected worker (including partial displacement such as a 
+     reduction in the hours of nonovertime work, wages, or 
+     employment benefits);
+       ``(ii) the training does not impair contracts for services 
+     or collective bargaining agreements;
+       ``(iii) in the case of training that would affect a 
+     collective bargaining agreement, the written concurrence of 
+     the labor organization concerned has been obtained;
+       ``(iv) no other individual is on layoff from the same, or 
+     any substantially equivalent, job for which the adversely 
+     affected worker is being trained;
+       ``(v) the employer has not terminated the employment of any 
+     regular employee or otherwise reduced the workforce of the 
+     employer with the intention of filling the vacancy so created 
+     by hiring the adversely affected worker;
+       ``(vi) the job for which the adversely affected worker is 
+     being trained is not being created in a promotional line that 
+     will infringe in any way upon the promotional opportunities 
+     of employed individuals;
+       ``(vii) the training is not for the same occupation from 
+     which the worker was separated and with respect to which the 
+     worker's group was certified pursuant to section 231;
+       ``(viii) the employer is provided reimbursement of not more 
+     than 50 percent of the wage rate of the participant, for the 
+     cost of providing the training and additional supervision 
+     related to the training;
+       ``(ix) the employer has not received payment under 
+     subsection (b)(1) with respect to any other on-the-job 
+     training provided by the employer or customized training that 
+     failed to meet the requirements of clauses (i) through (vi); 
+     and
+       ``(x) the employer has not taken, at any time, any action 
+     that violated the terms of any certification described in 
+     clause (viii) made by that employer with respect to any other 
+     on-the-job training provided by the employer or customized 
+     training for which the Secretary has made a payment under 
+     paragraph (1).
+       ``(c) Certain Workers Eligible for Training Benefits.--An 
+     adversely affected worker covered by a certification issued 
+     under section 231, who is not qualified to receive a trade 
+     adjustment allowance under section 235, may be eligible to 
+     have payment of the costs of training made under this 
+     section, if the worker enters a training program approved by 
+     the Secretary not later than 6 months after the date on which 
+     the certification that covers the worker is issued or the 
+     Secretary determines that one of the following applied:
+       ``(1) Funding was not available at the time at which the 
+     adversely affected worker was required to enter training 
+     under paragraph (1).
+       ``(2) The adversely affected worker was covered by a waiver 
+     issued under section 235(c).
+       ``(d) Exhaustion of Unemployment Insurance Not Required.--
+     The Secretary may approve training, and pay the costs 
+     thereof, for any adversely affected worker who is a member of 
+     a group certified under section 231 at any time after the 
+     date on which the group is certified, without regard to 
+     whether the worker has exhausted all rights to any 
+     unemployment insurance to which the worker is entitled.
+       ``(e) Supplemental Assistance.--
+       ``(1) In general.--Subject to paragraphs (2) and (3), when 
+     training is provided under a training program approved by the 
+     Secretary under subsection (a) in facilities that are not 
+     within commuting distance of a worker's regular place of 
+     residence, the Secretary may authorize supplemental 
+     assistance to defray reasonable transportation and 
+     subsistence expenses for separate maintenance.
+       ``(2) Transportation expenses.--The Secretary may not 
+     authorize payments for travel expenses exceeding the 
+     prevailing mileage rate authorized under the Federal travel 
+     regulations.
+       ``(3) Subsistence expenses.--The Secretary may not 
+     authorize payments for subsistence that exceed the lesser 
+     of--
+       ``(A) the actual per diem expenses for subsistence of the 
+     worker; or
+       ``(B) an amount equal to 50 percent of the prevailing per 
+     diem allowance rate authorized under Federal travel 
+     regulations.
+       ``(f) Special Provisions; Limitations.--
+       ``(1) Limitation on making payments.--
+       ``(A) Disallowance of other payment.--If the costs of 
+     training an adversely affected worker are paid by the 
+     Secretary under subsection (b), no other payment for those 
+     training costs may be made under any other provision of 
+     Federal law.
+       ``(B) No payment of reimbursable costs.--No payment for the 
+     costs of approved training may be made under subsection (b) 
+     if those costs--
+       ``(i) have already been paid under any other provision of 
+     Federal law; or
+       ``(ii) are reimbursable under any other provision of 
+     Federal law and a portion of those costs has already been 
+     paid under that other provision of Federal law.
+       ``(C) No payment of costs paid elsewhere.--The Secretary is 
+     not required to pay the costs of any training approved under 
+     subsection (a) to the extent that those costs are paid under 
+     any Federal or State program other than this chapter.
+       ``(D) Exception.--The provisions of this paragraph shall 
+     not apply to, or take into account, any funds provided under 
+     any other provision of Federal law that are used for any 
+     purpose other than the direct payment of the costs incurred 
+     in training a particular adversely affected worker, even if 
+     the use of those funds has the effect of indirectly paying 
+     for or reducing any portion of the costs involved in training 
+     the adversely affected worker.
+       ``(2) Unemployment eligibility.--A worker may not be 
+     determined to be ineligible or disqualified for unemployment 
+     insurance or program benefits under this subchapter because 
+     the individual is in training approved under subsection (a), 
+     because of leaving work which is not suitable employment to 
+     enter the training, or because of the application to any week 
+     in training of provisions of State law or Federal 
+     unemployment insurance law relating to availability for work, 
+     active search for work, or refusal to accept work.
+       ``(3) Definition.--For purposes of this section the term 
+     `suitable employment' means, with respect to a worker, work 
+     of a substantially equal or higher skill level than the 
+     worker's past adversely affected employment, and wages for 
+     such work at not less than 80 percent of the worker's average 
+     weekly wage.
+       ``(4) Payments after reemployment.--
+       ``(A) In general.--In the case of an adversely affected 
+     worker who secures reemployment, the Secretary may approve 
+     and pay the costs of training (or shall continue to pay the 
+     costs of training previously approved) for that adversely 
+     affected worker, for the completion of the training program 
+     or up to 26 weeks, whichever is less, after the date the 
+     adversely affected worker becomes reemployed.
+       ``(B) Trade adjustment allowance.--An adversely affected 
+     worker who is reemployed and is undergoing training approved 
+     by the Secretary pursuant to subparagraph (A) may continue to 
+     receive a trade adjustment allowance, subject to the income 
+     offsets provided for in the worker's State unemployment 
+     compensation law in accordance with the provisions of section 
+     237.
+       ``(5) Funding.--The total amount of payments that may be 
+     made under this section for any fiscal year shall not exceed 
+     $300,000,000.
+
+     ``SEC. 241. JOB SEARCH ALLOWANCES.
+
+       ``(a) Job Search Allowance Authorized.--
+       ``(1) In general.--An adversely affected worker covered by 
+     a certification issued under section 231 may file an 
+     application with the Secretary for payment of a job search 
+     allowance.
+       ``(2) Approval of applications.--The Secretary may grant an 
+     allowance pursuant to an application filed under paragraph 
+     (1) when all of the following apply:
+       ``(A) Assist adversely affected worker.--The allowance is 
+     paid to assist an adversely affected worker who has been 
+     totally separated in securing a job within the United States.
+       ``(B) Local employment not available.--The Secretary 
+     determines that the worker cannot reasonably be expected to 
+     secure suitable employment in the commuting area in which the 
+     worker resides.
+
+[[Page S3658]]
+
+       ``(C) Application.--The worker has filed an application for 
+     the allowance with the Secretary before--
+       ``(i) the later of--
+
+       ``(I) the 365th day after the date of the certification 
+     under which the worker is certified as eligible; or
+
+       ``(II) the 365th day after the date of the worker's last 
+     total separation; or
+
+       ``(ii) the date that is the 182d day after the date on 
+     which the worker concluded training, unless the worker 
+     received a waiver under section 235(c).
+       ``(b) Amount of Allowance.--
+       ``(1) In general.--An allowance granted under subsection 
+     (a) shall provide reimbursement to the worker of 90 percent 
+     of the cost of necessary job search expenses as prescribed by 
+     the Secretary in regulations.
+       ``(2) Maximum allowance.--Reimbursement under this 
+     subsection may not exceed $1,250 for any worker.
+       ``(3) Allowance for subsistence and transportation.--
+     Reimbursement under this subsection may not be made for 
+     subsistence and transportation expenses at levels exceeding 
+     those allowable under section 240(e).
+       ``(c) Exception.--Notwithstanding subsection (b), the 
+     Secretary shall reimburse any adversely affected worker for 
+     necessary expenses incurred by the worker in participating in 
+     a job search program approved by the Secretary.
+
+     ``SEC. 242. RELOCATION ALLOWANCES.
+
+       ``(a) Relocation Allowance Authorized.--
+       ``(1) In general.--Any adversely affected worker covered by 
+     a certification issued under section 231 may file an 
+     application for a relocation allowance with the Secretary, 
+     and the Secretary may grant the relocation allowance, subject 
+     to the terms and conditions of this section.
+       ``(2) Conditions for granting allowance.--A relocation 
+     allowance may be granted if all of the following terms and 
+     conditions are met:
+       ``(A) Assist an adversely affected worker.--The relocation 
+     allowance will assist an adversely affected worker in 
+     relocating within the United States.
+       ``(B) Local employment not available.--The Secretary 
+     determines that the worker cannot reasonably be expected to 
+     secure suitable employment in the commuting area in which the 
+     worker resides.
+       ``(C) Total separation.--The worker is totally separated 
+     from employment at the time relocation commences.
+       ``(D) Suitable employment obtained.--The worker--
+       ``(i) has obtained suitable employment affording a 
+     reasonable expectation of long-term duration in the area in 
+     which the worker wishes to relocate; or
+       ``(ii) has obtained a bona fide offer of such employment.
+       ``(E) Application.--The worker filed an application with 
+     the Secretary before--
+       ``(i) the later of--
+
+       ``(I) the 425th day after the date of the certification 
+     under section 231; or
+       ``(II) the 425th day after the date of the worker's last 
+     total separation; or
+
+       ``(ii) the date that is the 182d day after the date on 
+     which the worker concluded training, unless the worker 
+     received a waiver under section 235(c).
+       ``(b) Amount of Allowance.--The relocation allowance 
+     granted to a worker under subsection (a) includes--
+       ``(1) 90 percent of the reasonable and necessary expenses 
+     (including, but not limited to, subsistence and 
+     transportation expenses at levels not exceeding those 
+     allowable under section 240(e)) specified in regulations 
+     prescribed by the Secretary, incurred in transporting the 
+     worker, the worker's family, and household effects; and
+       ``(2) a lump sum equivalent to 3 times the worker's average 
+     weekly wage, up to a maximum payment of $1,250.
+       ``(c) Limitations.--A relocation allowance may not be 
+     granted to a worker unless--
+       ``(1) the relocation occurs within 182 days after the 
+     filing of the application for relocation assistance; or
+       ``(2) the relocation occurs within 182 days after the 
+     conclusion of training, if the worker entered a training 
+     program approved by the Secretary under section 240(a).
+
+     ``SEC. 243. SUPPORTIVE SERVICES; WAGE INSURANCE.
+
+       ``(a) Supportive Services.--
+       ``(1) Application.--
+       ``(A) In general.--The State may, on behalf of any 
+     adversely affected worker or group of workers covered by a 
+     certification issued under section 231--
+       ``(i) file an application with the Secretary for services 
+     under section 173 of the Workforce Investment Act of 1998 
+     (relating to National Emergency Grants); and
+       ``(ii) provide other services under title I of the 
+     Workforce Investment Act of 1998.
+       ``(B) Services.--The services available under this 
+     paragraph include transportation, child care, and dependent 
+     care that are necessary to enable a worker to participate in 
+     activities authorized under this chapter.
+       ``(2) Conditions.--The Secretary may approve an application 
+     filed under paragraph (1)(A)(i) and provide supportive 
+     services to an adversely affected worker only if the 
+     Secretary determines that all of the following apply:
+       ``(A) Necessity.--Providing services is necessary to enable 
+     the worker to participate in or complete training.
+       ``(B) Consistent with workforce investment act.--The 
+     services are consistent with the supportive services provided 
+     to participants under the provisions relating to dislocated 
+     worker employment and training activities set forth in 
+     chapter 5 of subtitle B of title I of the Workforce 
+     Investment Act of 1998 (29 U.S.C. 2861 et seq.).
+       ``(b) Wage Insurance Program.--
+       ``(1) In general.--Not later than 1 year after the date of 
+     enactment of the Trade Adjustment Assistance Reform Act of 
+     2002, the Secretary shall establish a Wage Insurance Program 
+     under which a State shall use the funds provided to the State 
+     for trade adjustment allowances to pay to an adversely 
+     affected worker certified under section 231 a wage subsidy of 
+     up to 50 percent of the difference between the wages received 
+     by the adversely affected worker from reemployment and the 
+     wages received by the adversely affected worker at the time 
+     of separation for a period not to exceed 2 years.
+       ``(2) Amount of payment.--
+       ``(A) Wages under $40,000.--If the wages the worker 
+     receives from reemployment are less than $40,000 a year, the 
+     wage subsidy shall be 50 percent of the difference between 
+     the amount of the wages received by the worker from 
+     reemployment and the amount of the wages received by the 
+     worker at the time of separation.
+       ``(B) Wages between $40,000 and $50,000.--If the wages 
+     received by the worker from reemployment are greater than 
+     $40,000 a year but less than $50,000 a year, the wage subsidy 
+     shall be 25 percent of the difference between the amount of 
+     the wages received by the worker from reemployment and the 
+     amount of the wages received by the worker at the time of 
+     separation.
+       ``(3) Eligibility.--An adversely affected worker may be 
+     eligible to receive a wage subsidy under this subsection if 
+     the worker--
+       ``(A) enrolls in the Wage Insurance Program;
+       ``(B) obtains reemployment not more than 26 weeks after the 
+     date of separation from the adversely affected employment;
+       ``(C) is at least 50 years of age;
+       ``(D) earns not more than $50,000 a year in wages from 
+     reemployment;
+       ``(E) is employed at least 30 hours a week in the 
+     reemployment; and
+       ``(F) does not return to the employment from which the 
+     worker was separated.
+       ``(4) Amount of payments.--The payments made under 
+     paragraph (1) to an adversely affected worker may not exceed 
+     $10,000 over the 2-year period.
+       ``(5) Limitation on other benefits.--At the time a worker 
+     begins to receive a wage subsidy under this subsection the 
+     worker shall not be eligible to receive any benefits under 
+     this Act other than the wage subsidy unless the Secretary 
+     determines, pursuant to standards established by the 
+     Secretary, that the worker has shown circumstances that 
+     warrant eligibility for training benefits under section 240.
+       ``(6) Funding.--The total amount of payments that may be 
+     made under this subsection for any fiscal year shall not 
+     exceed $100,000,000.
+       ``(c) Studies of Assistance Available to Economically 
+     Distressed Workers.--
+       ``(1) Study by the general accounting office.--
+       ``(A) In general.--The Comptroller General of the United 
+     States shall conduct a study of all assistance provided by 
+     the Federal Government for workers facing job loss and 
+     economic distress.
+       ``(B) Report.--Not later than 1 year after the date of 
+     enactment of the Trade Adjustment Assistance Reform Act of 
+     2002, the Comptroller General shall submit to the Committee 
+     on Finance of the Senate and the Committee on Ways and Means 
+     of the House of Representatives a report on the study 
+     conducted under subparagraph (A). The report shall include a 
+     description of--
+       ``(i) all Federal programs designed to assist workers 
+     facing job loss and economic distress, including all benefits 
+     and services;
+       ``(ii) eligibility requirements for each of the programs; 
+     and
+       ``(iii) procedures for applying for and receiving benefits 
+     and services under each of the programs.
+       ``(C) Distribution of gao report.--The report described in 
+     subparagraph (B) shall be distributed to all one-stop 
+     partners authorized under the Workforce Investment Act of 
+     1998.
+       ``(2) Studies by the states.--
+       ``(A) In general.--Each State may conduct a study of its 
+     assistance programs for workers facing job loss and economic 
+     distress.
+       ``(B) Grants.--The Secretary may award to each State a 
+     grant, not to exceed $50,000, to enable the State to conduct 
+     the study described in subparagraph (A). Each study shall be 
+     undertaken in consultation with affected parties.
+       ``(C) Report.--Not later than 1 year after the date of the 
+     grant, each State that receives a grant under subparagraph 
+     (B) shall submit to the Committee on Finance of the Senate 
+     and the Committee on Ways and Means of the House of 
+     Representatives the report described in subparagraph (A).
+       ``(D) Distribution of state reports.--A report prepared by 
+     a State under this paragraph shall be distributed to all the 
+     one-stop partners in the State.
+
+           ``Subchapter D--Payment and Enforcement Provisions
+
+     ``SEC. 244. PAYMENTS TO STATES.
+
+       ``(a) In General.--The Secretary, from time to time, shall 
+     certify to the Secretary of the Treasury for payment to each 
+     cooperating State, the sums necessary to enable
+
+[[Page S3659]]
+
+     that State as agent of the United States to make payments 
+     provided for by this chapter.
+       ``(b) Limitation on Use of Funds.--
+       ``(1) In general.--All money paid to a cooperating State 
+     under this section shall be used solely for the purposes for 
+     which it is paid.
+       ``(2) Return of funds not so used.--Money paid that is not 
+     used for the purpose for which it is paid under subsection 
+     (a) shall be returned to the Secretary of the Treasury at the 
+     time specified in the agreement entered into under section 
+     222.
+       ``(c) Surety Bond.--Any agreement under section 222 may 
+     require any officer or employee of the cooperating State 
+     certifying payments or disbursing funds under the agreement 
+     or otherwise participating in the performance of the 
+     agreement, to give a surety bond to the United States in an 
+     amount the Secretary deems necessary, and may provide for the 
+     payment of the cost of that bond from funds for carrying out 
+     the purposes of this chapter.
+
+     ``SEC. 245. LIABILITIES OF CERTIFYING AND DISBURSING 
+                   OFFICERS.
+
+       ``(a) Liability of Certifying Officials.--No person 
+     designated by the Secretary, or designated pursuant to an 
+     agreement entered into under section 222, as a certifying 
+     officer, in the absence of gross negligence or intent to 
+     defraud the United States, shall be liable with respect to 
+     any payment certified by that person under this chapter.
+       ``(b) Liability of Disbursing Officers.--No disbursing 
+     officer, in the absence of gross negligence or intent to 
+     defraud the United States, shall be liable with respect to 
+     any payment by that officer under this chapter if the payment 
+     was based on a voucher signed by a certifying officer 
+     designated according to subsection (a).
+
+     ``SEC. 246. FRAUD AND RECOVERY OF OVERPAYMENTS.
+
+       ``(a) In General.--
+       ``(1) Overpayment.--If a cooperating State, the Secretary, 
+     or a court of competent jurisdiction determines that any 
+     person has received any payment under this chapter to which 
+     the person was not entitled, including a payment referred to 
+     in subsection (b), that person shall be liable to repay that 
+     amount to the cooperating State or the Secretary, as the case 
+     may be.
+       ``(2) Exception.--The cooperating State or the Secretary 
+     may waive repayment if the cooperating State or the Secretary 
+     determines, in accordance with guidelines prescribed by the 
+     Secretary, that all of the following apply:
+       ``(A) No fault.--The payment was made without fault on the 
+     part of the person.
+       ``(B) Repayment contrary to equity.--Requiring repayment 
+     would be contrary to equity and good conscience.
+       ``(3) Procedure for recovery.--
+       ``(A) Recovery from other allowances authorized.--Unless an 
+     overpayment is otherwise recovered or waived under paragraph 
+     (2), the cooperating State or the Secretary shall recover the 
+     overpayment by deductions from any sums payable to that 
+     person under this chapter, under any Federal unemployment 
+     compensation law administered by the cooperating State or the 
+     Secretary, or under any other Federal law administered by the 
+     cooperating State or the Secretary that provides for the 
+     payment of assistance or an allowance with respect to 
+     unemployment.
+       ``(B) Recovery from state allowances authorized.--
+     Notwithstanding any other provision of Federal or State law, 
+     the Secretary may require a cooperating State to recover any 
+     overpayment under this chapter by deduction from any 
+     unemployment insurance payable to that person under State 
+     law, except that no single deduction under this paragraph 
+     shall exceed 50 percent of the amount otherwise payable.
+       ``(b) Ineligibility for Further Payments.--Any person, in 
+     addition to any other penalty provided by law, shall be 
+     ineligible for any further payments under this chapter if a 
+     cooperating State, the Secretary, or a court of competent 
+     jurisdiction determines that one of the following applies:
+       ``(1) False statement.--The person knowingly made, or 
+     caused another to make, a false statement or representation 
+     of a material fact, and as a result of the false statement or 
+     representation, the person received any payment under this 
+     chapter to which the person was not entitled.
+       ``(2) Failure to disclose.--The person knowingly failed, or 
+     caused another to fail, to disclose a material fact, and as a 
+     result of the nondisclosure, the person received any payment 
+     under this chapter to which the person was not entitled.
+       ``(c) Hearing.--Except for overpayments determined by a 
+     court of competent jurisdiction, no repayment may be 
+     required, and no deduction may be made, under this section 
+     until a determination under subsection (a) by the cooperating 
+     State or the Secretary, as the case may be, has been made, 
+     notice of the determination and an opportunity for a fair 
+     hearing has been given to the person concerned, and the 
+     determination has become final.
+       ``(d) Recovered Funds.--Any amount recovered under this 
+     section shall be returned to the Treasury of the United 
+     States.
+
+     ``SEC. 247. CRIMINAL PENALTIES.
+
+       ``Whoever makes a false statement of a material fact 
+     knowing it to be false, or knowingly fails to disclose a 
+     material fact, for the purpose of obtaining or increasing for 
+     that person or for any other person any payment authorized to 
+     be furnished under this chapter or pursuant to an agreement 
+     under section 222 shall be fined not more than $10,000, 
+     imprisoned for not more than 1 year, or both.
+
+     ``SEC. 248. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``There are authorized to be appropriated to the Department 
+     of Labor, for the period beginning October 1, 2001, and 
+     ending September 30, 2007, such sums as may be necessary to 
+     carry out the purposes of this chapter, including such 
+     additional sums for administrative expenses as may be 
+     necessary for the department to meet the increased workload 
+     created by the Trade Adjustment Assistance Reform Act of 
+     2002, provided that funding provided for training services 
+     shall not be used for expenses of administering the trade 
+     adjustment assistance for workers program. Amounts 
+     appropriated under this section shall remain available until 
+     expended.
+
+     ``SEC. 249. REGULATIONS.
+
+       ``The Secretary shall prescribe such regulations as may be 
+     necessary to carry out the provisions of this chapter.
+
+     ``SEC. 250. SUBPOENA POWER.
+
+       ``(a) In General.--The Secretary may require by subpoena 
+     the attendance of witnesses and the production of evidence 
+     necessary to make a determination under the provisions of 
+     this chapter.
+       ``(b) Court Order.--If a person refuses to obey a subpoena 
+     issued under subsection (a), a competent United States 
+     district court, upon petition by the Secretary, may issue an 
+     order requiring compliance with such subpoena.''.
+
+     SEC. 112. DISPLACED WORKER SELF-EMPLOYMENT TRAINING PILOT 
+                   PROGRAM.
+
+       (a) Establishment.--Not later than 6 months after the date 
+     of enactment of this Act, the Administrator of the Small 
+     Business Administration (in this section referred to as the 
+     ``Administrator'') shall establish a self-employment training 
+     program (in this section referred to as the ``Program'') for 
+     adversely affected workers (as defined in chapter 2 of title 
+     II of the Trade Act of 1974), to be administered by the Small 
+     Business Administration.
+       (b) Eligibility for Assistance.--If an adversely affected 
+     worker seeks or receives assistance through the Program, such 
+     action shall not affect the eligibility of that worker to 
+     receive benefits under chapter 2 of title II of the Trade Act 
+     of 1974.
+       (c) Training Assistance.--The Program shall include, at a 
+     minimum, training in--
+       (1) pre-business startup planning;
+       (2) awareness of basic credit practices and credit 
+     requirements; and
+       (3) developing business plans, financial packages, and 
+     credit applications.
+       (d) Outreach.--The Program should include outreach to 
+     adversely affected workers and counseling and lending 
+     partners of the Small Business Administration.
+       (e) Reports to Congress.--Beginning not later than 180 days 
+     after the date of enactment of this Act, the Administrator 
+     shall submit quarterly reports to the Committee on Finance 
+     and the Committee on Small Business and Entrepreneurship of 
+     the Senate and the Committee on Ways and Means and the 
+     Committee on Small Business of the House of Representatives 
+     regarding the implementation of the Program, including 
+     Program delivery, staffing, and administrative expenses 
+     related to such implementation.
+       (f) Guidelines.--Not later than 180 days after the date of 
+     enactment of this Act, the Administrator shall issue such 
+     guidelines as the Administrator determines to be necessary to 
+     carry out the Program.
+       (g) Effective Date.--The Program shall terminate 3 years 
+     after the date of final publication of guidelines under 
+     subsection (f).
+
+            TITLE II--TRADE ADJUSTMENT ASSISTANCE FOR FIRMS
+
+     SEC. 201. REAUTHORIZATION OF PROGRAM.
+
+       (a) In General.--Section 256(b) of chapter 3 of title II of 
+     the Trade Act of 1974 (19 U.S.C. 2346(b)) is amended to read 
+     as follows:
+       ``(b) There are authorized to be appropriated to the 
+     Secretary $16,000,000 for each of fiscal years 2002 through 
+     2007, to carry out the Secretary's functions under this 
+     chapter in connection with furnishing adjustment assistance 
+     to firms. Amounts appropriated under this subsection shall 
+     remain available until expended.''.
+       (b) Eligibility Criteria.--Section 251(c) of chapter 3 of 
+     title II of the Trade Act of 1974 (19 U.S.C. 2341(c)) is 
+     amended--
+       (1) by amending paragraph (1) to read as follows:
+       ``(1) The Secretary shall certify a firm (including any 
+     agricultural firm) as eligible to apply for adjustment 
+     assistance under this chapter if the Secretary determines 
+     that a significant number or proportion of the workers in 
+     such firm have become totally or partially separated, or are 
+     threatened to become totally or partially separated, and that 
+     either--
+       ``(A)(i)(I) sales or production, or both, of the firm have 
+     decreased absolutely, or
+       ``(II) sales or production, or both, of an article that 
+     accounted for not less than 25 percent of the total 
+     production or sales of the firm during the 12-month period 
+     for which data are available have decreased absolutely; and
+       ``(ii) increases in the value or volume of imports of 
+     articles like or directly competitive with articles which are 
+     produced by such firm contributed importantly to such total 
+     or partial separation, or threat thereof, and to such decline 
+     in sales or production; or
+       ``(B) a shift in production by the workers' firm or 
+     subdivision to a foreign country of articles like or directly 
+     competitive with articles which are produced by that firm or
+
+[[Page S3660]]
+
+     subdivision contributed importantly to the workers' 
+     separation or threat of separation.''; and
+       (2) in paragraph (2), by striking ``paragraph (1)(C)'' and 
+     inserting ``paragraph (1)''.
+
+         TITLE III--TRADE ADJUSTMENT ASSISTANCE FOR COMMUNITIES
+
+     SEC. 301. PURPOSE.
+
+       The purpose of this title is to assist communities with 
+     economic adjustment through the integration of political and 
+     economic organizations, the coordination of Federal, State, 
+     and local resources, the creation of community-based 
+     development strategies, and the provision of economic 
+     transition assistance.
+
+     SEC. 302. TRADE ADJUSTMENT ASSISTANCE FOR COMMUNITIES.
+
+       Chapter 4 of title II of the Trade Act of 1974 (19 U.S.C. 
+     2371 et seq.) is amended to read as follows:
+
+               ``CHAPTER 4--COMMUNITY ECONOMIC ADJUSTMENT
+
+     ``SEC. 271. DEFINITIONS.
+
+       ``In this chapter:
+       ``(1) Civilian labor force.--The term `civilian labor 
+     force' has the meaning given that term in regulations 
+     prescribed by the Secretary of Labor.
+       ``(2) Community.--The term `community' means a county or 
+     equivalent political subdivision of a State.
+       ``(A) Rural community.--The term `rural community' means a 
+     community that has a rural-urban continuum code of 4 through 
+     9.
+       ``(B) Urban community.--The term `urban community' means a 
+     community that has a rural-urban continuum code of 0 through 
+     3.
+       ``(3) Community economic development coordinating 
+     committee.--The term `Community Economic Development 
+     Coordinating Committee' means a community group established 
+     under section 274 that consists of major groups significantly 
+     affected by an increase in imports or a shift in production, 
+     including local, regional, tribal, and State governments, 
+     regional councils of governments and economic development, 
+     and business, labor, education, health, religious, and other 
+     community-based organizations.
+       ``(4) Director.--The term `Director' means the Director of 
+     the Office of Community Trade Adjustment.
+       ``(5) Eligible community.--The term `eligible community' 
+     means a community certified under section 273 as eligible for 
+     assistance under this chapter.
+       ``(6) Job loss.--The term `job loss' means the total or 
+     partial separation of an individual, as those terms are 
+     defined in section 221.
+       ``(7) Office.--The term `Office' means the Office of 
+     Community Trade Adjustment established under section 272.
+       ``(8) Rural-urban continuum code.--The term `rural-urban 
+     continuum code' means a code assigned to a community 
+     according to the rural-urban continuum code system, as 
+     defined by the Economic Research Service of the Department of 
+     Agriculture.
+       ``(9) Secretary.--The term `Secretary' means the Secretary 
+     of Commerce.
+
+     ``SEC. 272. OFFICE OF COMMUNITY TRADE ADJUSTMENT.
+
+       ``(a) Establishment.--Within 6 months of the date of 
+     enactment of the Trade Adjustment Assistance Reform Act of 
+     2002, there shall be established in the Office of Economic 
+     Adjustment of the Economic Development Administration of the 
+     Department of Commerce an Office of Community Trade 
+     Adjustment.
+       ``(b) Personnel.--The Office shall be headed by a Director, 
+     and shall have such staff as may be necessary to carry out 
+     the responsibilities described in this chapter.
+       ``(c) Coordination of Federal Response.--The Office shall--
+       ``(1) provide leadership, support, and coordination for a 
+     comprehensive management program to address economic 
+     dislocation in eligible communities;
+       ``(2) establish an easily accessible, one-stop 
+     clearinghouse for States and eligible communities to obtain 
+     information regarding economic development assistance 
+     available under Federal law;
+       ``(3) coordinate the Federal response to an eligible 
+     community--
+       ``(A) by identifying all Federal, State, and local 
+     resources that are available to assist the eligible community 
+     in recovering from economic distress;
+       ``(B) by ensuring that all Federal agencies offering 
+     assistance to an eligible community do so in a targeted, 
+     integrated manner that ensures that an eligible community has 
+     access to all available Federal assistance;
+       ``(C) by assuring timely consultation and cooperation 
+     between Federal, State, and regional officials concerning 
+     community economic adjustment;
+       ``(D) by identifying and strengthening existing agency 
+     mechanisms designed to assist communities in economic 
+     adjustment and workforce reemployment;
+       ``(E) by applying consistent policies, practices, and 
+     procedures in the administration of Federal programs that are 
+     used to assist communities adversely impacted by an increase 
+     in imports or a shift in production;
+       ``(F) by creating, maintaining, and using a uniform 
+     economic database to analyze community adjustment activities; 
+     and
+       ``(G) by assigning a community economic adjustment advisor 
+     to work with each eligible community;
+       ``(4) provide comprehensive technical assistance to any 
+     eligible community in the efforts of that community to--
+       ``(A) identify serious economic problems in the community 
+     that result from an increase in imports or shift in 
+     production;
+       ``(B) integrate the major groups and organizations 
+     significantly affected by the economic adjustment;
+       ``(C) organize a Community Economic Development 
+     Coordinating Committee;
+       ``(D) access Federal, State, and local resources designed 
+     to assist in economic development and trade adjustment 
+     assistance;
+       ``(E) diversify and strengthen the community economy; and
+       ``(F) develop a community-based strategic plan to address 
+     workforce dislocation and economic development;
+       ``(5) establish specific criteria for submission and 
+     evaluation of a strategic plan submitted under section 
+     276(d);
+       ``(6) administer the grant programs established under 
+     sections 276 and 277; and
+       ``(7) establish an interagency Trade Adjustment Assistance 
+     Working Group, consisting of the representatives of any 
+     Federal department or agency with responsibility for economic 
+     adjustment assistance, including the Department of 
+     Agriculture, the Department of Defense, the Department of 
+     Education, the Department of Labor, the Department of Housing 
+     and Urban Development, the Department of Health and Human 
+     Services, the Small Business Administration, the Department 
+     of the Treasury, the Department of Commerce, the Office of 
+     the United States Trade Representative, and the National 
+     Economic Council.
+       ``(d) Working Group.--The working group established under 
+     subsection (c)(7) shall examine other options for addressing 
+     trade impacts on communities, such as:
+       ``(1) Seeking legislative language directing the Foreign 
+     Trade Zone (`FTZ') Board to expedite consideration of FTZ 
+     applications from communities or businesses that have been 
+     found eligible for trade adjustment assistance.
+       ``(2) Seeking legislative language to make new markets tax 
+     credits available in communities impacted by trade.
+       ``(3) Seeking legislative language to make work opportunity 
+     tax credits available for hiring unemployed workers who are 
+     certified eligible for trade adjustment assistance.
+       ``(4) Examining ways to assist trade impacted rural 
+     communities and industries take advantage of the Department 
+     of Agriculture's rural development program.
+
+     ``SEC. 273. NOTIFICATION AND CERTIFICATION AS AN ELIGIBLE 
+                   COMMUNITY.
+
+       ``(a) Notification.--The Secretary of Labor, not later than 
+     15 days after making a determination that a group of workers 
+     is eligible for trade adjustment assistance under section 
+     231, shall notify the Governor of the State in which the 
+     community in which the worker's firm is located and the 
+     Director, of the Secretary's determination.
+       ``(b) Certification.--Not later than 30 days after 
+     notification by the Secretary of Labor described in 
+     subsection (a), the Director shall certify as eligible for 
+     assistance under this chapter a community in which both of 
+     the following conditions applies:
+       ``(1) Number of job losses.--The Director finds that--
+       ``(A) in an urban community, at least 500 workers have been 
+     certified for assistance under section 231 in the most recent 
+     36-month period preceding the date of certification under 
+     this section for which data are available; or
+       ``(B) in a rural community, at least 300 workers have been 
+     certified for assistance under section 231 in the most recent 
+     36-month period preceding the date of certification under 
+     this section for which data are available.
+       ``(2) Percent of workforce unemployed.--The Director finds 
+     that the unemployment rate for the community is at least 1 
+     percent greater than the national unemployment rate for the 
+     most recent 12-month period for which data are available.
+       ``(c) Notification to Eligible Communities.--Not later than 
+     15 days after the Director certifies a community as eligible 
+     under subsection (b), the Director shall notify the 
+     community--
+       ``(1) of its determination under subsection (b);
+       ``(2) of the provisions of this chapter;
+       ``(3) how to access the clearinghouse established under 
+     section 272(c)(2); and
+       ``(4) how to obtain technical assistance provided under 
+     section 272(c)(4).
+
+     ``SEC. 274. COMMUNITY ECONOMIC DEVELOPMENT COORDINATING 
+                   COMMITTEE.
+
+       ``(a) Establishment.--In order to apply for and receive 
+     benefits under this chapter, an eligible community shall 
+     establish a Community Economic Development Coordinating 
+     Committee certified by the Director as meeting the 
+     requirements of subsection (b)(1).
+       ``(b) Composition of the Committee.--
+       ``(1) Local participation.--The Community Economic 
+     Development Coordinating Committee established by an eligible 
+     community under subsection (a) shall include representatives 
+     of those groups significantly affected by economic 
+     dislocation, such as local, regional, tribal, and State 
+     governments, regional councils of governments and economic 
+     development, business, labor, education, health 
+     organizations, religious, and other community-based groups 
+     providing assistance to workers, their families, and 
+     communities.
+       ``(2) Federal participation.--Pursuant to section 
+     275(b)(3), the community economic adjustment advisor, 
+     assigned by the Director to assist an eligible community, 
+     shall serve
+
+[[Page S3661]]
+
+     as an ex officio member of the Community Economic Development 
+     Coordinating Committee, and shall arrange for participation 
+     by representatives of other Federal agencies on that 
+     Committee as necessary.
+       ``(3) Existing organization.--An eligible community may 
+     designate an existing organization in that community as the 
+     Community Economic Development Coordinating Committee if that 
+     organization meets the requirements of paragraph (1) for the 
+     purposes of this chapter.
+       ``(c) Duties.--The Community Economic Development 
+     Coordinating Committee shall--
+       ``(1) ascertain the severity of the community economic 
+     adjustment required as a result of the increase in imports or 
+     shift in production;
+       ``(2) assess the capacity of the community to respond to 
+     the required economic adjustment and the needs of the 
+     community as it undertakes economic adjustment, taking into 
+     consideration such factors as the number of jobs lost, the 
+     size of the community, the diversity of industries, the 
+     skills of the labor force, the condition of the current labor 
+     market, the availability of financial resources, the quality 
+     and availability of educational facilities, the adequacy and 
+     availability of public services, and the existence of a basic 
+     and advanced infrastructure in the community;
+       ``(3) facilitate a dialogue between concerned interests in 
+     the community, represent the impacted community, and ensure 
+     all interests in the community work collaboratively toward 
+     collective goals without duplication of effort or resources;
+       ``(4) oversee the development of a strategic plan for 
+     community economic development, taking into consideration the 
+     factors mentioned under paragraph (2), and consistent with 
+     the criteria established by the Secretary for the strategic 
+     plan developed under section 276;
+       ``(5) create an executive council of members of the 
+     Community Economic Development Coordinating Committee to 
+     promote the strategic plan within the community and ensure 
+     coordination and cooperation among all stakeholders; and
+       ``(6) apply for any grant, loan, or loan guarantee 
+     available under Federal law to develop or implement the 
+     strategic plan, and be an eligible recipient for funding for 
+     economic adjustment for that community.
+
+     ``SEC. 275. COMMUNITY ECONOMIC ADJUSTMENT ADVISORS.
+
+       ``(a) In General.--Pursuant to section 272(c)(3)(G), the 
+     Director shall assign a community economic adjustment advisor 
+     to each eligible community.
+       ``(b) Duties.--The community economic adjustment advisor 
+     shall--
+       ``(1) provide technical assistance to the eligible 
+     community, assist in the development and implementation of a 
+     strategic plan, including applying for any grant available 
+     under this or any other Federal law to develop or implement 
+     that plan;
+       ``(2) at the local and regional level, coordinate the 
+     response of all Federal agencies offering assistance to the 
+     eligible community;
+       ``(3) serve as an ex officio member of the Community 
+     Economic Development Coordinating Committee established by an 
+     eligible community under section 274;
+       ``(4) act as liaison between the Community Economic 
+     Development Coordinating Committee established by the 
+     eligible community and all other Federal agencies that offer 
+     assistance to eligible communities, including the Department 
+     of Agriculture, the Department of Defense, the Department of 
+     Education, the Department of Labor, the Department of Housing 
+     and Urban Development, the Department of Health and Human 
+     Services, the Small Business Administration, the Department 
+     of the Treasury, the National Economic Council, and other 
+     offices or agencies of the Department of Commerce;
+       ``(5) report regularly to the Director regarding the 
+     progress of development activities in the community to which 
+     the community economic adjustment advisor is assigned; and
+       ``(6) perform other duties as directed by the Secretary or 
+     the Director.
+
+     ``SEC. 276. STRATEGIC PLANS.
+
+       ``(a) In General.--With the assistance of the community 
+     economic adjustment advisor, an eligible community may 
+     develop a strategic plan for community economic adjustment 
+     and diversification.
+       ``(b) Requirements for Strategic Plan.--A strategic plan 
+     shall contain, at a minimum, the following:
+       ``(1) A description and justification of the capacity for 
+     economic adjustment, including the method of financing to be 
+     used, the anticipated management structure of the Community 
+     Economic Development Coordinating Committee, and the 
+     commitment of the community to the strategic plan over the 
+     long term.
+       ``(2) A description of, and a plan to accomplish, the 
+     projects to be undertaken by the eligible community.
+       ``(3) A description of how the plan and the projects to be 
+     undertaken by the eligible community will lead to job 
+     creation and job retention in the community.
+       ``(4) A description of any alternative development plans 
+     that were considered, particularly less costly alternatives, 
+     and why those plans were rejected in favor of the proposed 
+     plan.
+       ``(5) A description of any additional steps the eligible 
+     community will take to achieve economic adjustment and 
+     diversification, including how the plan and the projects will 
+     contribute to establishing or maintaining a level of public 
+     services necessary to attract and retain economic investment.
+       ``(6) A description and justification for the cost and 
+     timing of proposed basic and advanced infrastructure 
+     improvements in the eligible community.
+       ``(7) A description of the occupational and workforce 
+     conditions in the eligible community, including but not 
+     limited to existing levels of workforce skills and 
+     competencies, and educational programs available for 
+     workforce training and future employment needs.
+       ``(8) A description of how the plan will adapt to changing 
+     markets, business cycles, and other variables.
+       ``(9) A graduation strategy through which the eligible 
+     community demonstrates that the community will terminate the 
+     need for Federal assistance.
+       ``(c) Grants To Develop Strategic Plans.--
+       ``(1) In general.--The Director, upon receipt of an 
+     application from a Community Economic Development 
+     Coordinating Committee on behalf of an eligible community, 
+     shall award a grant to that community to be used to develop 
+     the strategic plan.
+       ``(2) Amount.--The amount of a grant made under paragraph 
+     (1) shall be determined by the Secretary, but may not exceed 
+     $50,000 to each community.
+       ``(3) Limit.--Each community can only receive 1 grant under 
+     this subsection for the purpose of developing a strategic 
+     plan in any 5-year period.
+       ``(d) Submission of Plan.--A strategic plan developed under 
+     subsection (a) shall be submitted to the Director for 
+     evaluation and approval.
+
+     ``SEC. 277. GRANTS FOR ECONOMIC DEVELOPMENT.
+
+       ``The Director, upon receipt of an application from the 
+     Community Economic Development Coordinating Committee on 
+     behalf of an eligible community, may award a grant to that 
+     community to carry out any project or program included in the 
+     strategic plan approved under section 276(d) that--
+       ``(1) will be located in, or will create or preserve high-
+     wage jobs, in that eligible community; and
+       ``(2) implements the strategy of that eligible community to 
+     create high-wage jobs in sectors that are expected to expand, 
+     including projects that--
+       ``(A) encourage industries to locate in that eligible 
+     community, if such funds are not used to encourage the 
+     relocation of any employer in a manner that causes the 
+     dislocation of employees of that employer at another facility 
+     in the United States;
+       ``(B) leverage resources to create or improve Internet or 
+     telecommunications capabilities to make the community more 
+     attractive for business;
+       ``(C) establish a funding pool for job creation through 
+     entrepreneurial activities;
+       ``(D) assist existing firms in that community to 
+     restructure or retool to become more competitive in world 
+     markets and prevent job loss; or
+       ``(E) assist the community in acquiring the resources and 
+     providing the level of public services necessary to meet the 
+     objectives set out in the strategic plan.
+
+     ``SEC. 278. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``There are authorized to be appropriated to the Department 
+     of Commerce, for the period beginning October 1, 2001, and 
+     ending September 30, 2007, such sums as may be necessary to 
+     carry out the purposes of this chapter.
+
+     ``SEC. 279. GENERAL PROVISIONS.
+
+       ``(a) Report by the Director.--Not later than 6 months 
+     after the date of enactment of the Trade Adjustment 
+     Assistance Reform Act of 2002, and annually thereafter, the 
+     Director shall submit to the Committee on Finance of the 
+     Senate and the Committee on Ways and Means of the House of 
+     Representatives a report regarding the programs established 
+     under this title.
+       ``(b) Regulations.--The Secretary shall prescribe such 
+     regulations as are necessary to carry out the provisions of 
+     this chapter.
+       ``(c) Supplement Not Supplant.--Funds appropriated under 
+     this chapter shall be used to supplement and not supplant 
+     other Federal, State, and local public funds expended to 
+     provide economic development assistance for communities.''.
+
+           TITLE IV--TRADE ADJUSTMENT ASSISTANCE FOR FARMERS
+
+     SEC. 401. TRADE ADJUSTMENT ASSISTANCE FOR FARMERS.
+
+       (a) In General.--Title II of the Trade Act of 1974 (19 
+     U.S.C. 2251 et seq.) is amended by adding at the end the 
+     following new chapter:
+
+             ``CHAPTER 6--ADJUSTMENT ASSISTANCE FOR FARMERS
+
+     ``SEC. 291. DEFINITIONS.
+
+       ``In this chapter:
+       ``(1) Agricultural commodity.--The term `agricultural 
+     commodity' means any agricultural commodity (including 
+     livestock), except fish as defined in section 299(1) of this 
+     Act, in its raw or natural state.
+       ``(2) Agricultural commodity producer.--The term 
+     `agricultural commodity producer' has the same meaning as the 
+     term `person' as prescribed by regulations promulgated under 
+     section 1001(5) of the Food Security Act of 1985 (7 U.S.C. 
+     1308(5)). The term does not include any person described in 
+     section 299(2) of this Act.
+
+[[Page S3662]]
+
+       ``(3) Contributed importantly.--
+       ``(A) In general.--The term `contributed importantly' means 
+     a cause which is important but not necessarily more important 
+     than any other cause.
+       ``(B) Determination of contributed importantly.--The 
+     determination of whether imports of articles like or directly 
+     competitive with an agricultural commodity with respect to 
+     which a petition under this chapter was filed contributed 
+     importantly to a decline in the price of the agricultural 
+     commodity shall be made by the Secretary.
+       ``(4) Duly authorized representative.--The term `duly 
+     authorized representative' means an association of 
+     agricultural commodity producers.
+       ``(5) National average price.--The term `national average 
+     price' means the national average price paid to an 
+     agricultural commodity producer for an agricultural commodity 
+     in a marketing year as determined by the Secretary.
+       ``(6) Secretary.--The term `Secretary' means the Secretary 
+     of Agriculture.
+
+     ``SEC. 292. PETITIONS; GROUP ELIGIBILITY.
+
+       ``(a) In General.--A petition for a certification of 
+     eligibility to apply for adjustment assistance under this 
+     chapter may be filed with the Secretary by a group of 
+     agricultural commodity producers or by their duly authorized 
+     representative. Upon receipt of the petition, the Secretary 
+     shall promptly publish notice in the Federal Register that 
+     the Secretary has received the petition and initiated an 
+     investigation.
+       ``(b) Hearings.--If the petitioner, or any other person 
+     found by the Secretary to have a substantial interest in the 
+     proceedings, submits not later than 10 days after the date of 
+     the Secretary's publication under subsection (a) a request 
+     for a hearing, the Secretary shall provide for a public 
+     hearing and afford such interested person an opportunity to 
+     be present, to produce evidence, and to be heard.
+       ``(c) Group Eligibility Requirements.--The Secretary shall 
+     certify a group of agricultural commodity producers as 
+     eligible to apply for adjustment assistance under this 
+     chapter if the Secretary determines--
+       ``(1) that the national average price for the agricultural 
+     commodity, or a class of goods within the agricultural 
+     commodity, produced by the group for the most recent 
+     marketing year for which the national average price is 
+     available is less than 80 percent of the average of the 
+     national average price for such agricultural commodity, or 
+     such class of goods, for the 5 marketing years preceding the 
+     most recent marketing year; and
+       ``(2) that increases in imports of articles like or 
+     directly competitive with the agricultural commodity, or 
+     class of goods within the agricultural commodity, produced by 
+     the group contributed importantly to the decline in price 
+     described in paragraph (1).
+       ``(d) Special Rule for Qualified Subsequent Years.--A group 
+     of agricultural commodity producers certified as eligible 
+     under section 293 shall be eligible to apply for assistance 
+     under this chapter in any qualified year after the year the 
+     group is first certified, if the Secretary determines that--
+       ``(1) the national average price for the agricultural 
+     commodity, or class of goods within the agricultural 
+     commodity, produced by the group for the most recent 
+     marketing year for which the national average price is 
+     available is equal to or less than the price determined under 
+     subsection (c)(1); and
+       ``(2) the requirements of subsection (c)(2) are met.
+       ``(e) Determination of Qualified Year and Commodity.--In 
+     this chapter:
+       ``(1) Qualified year.--The term `qualified year', with 
+     respect to a group of agricultural commodity producers 
+     certified as eligible under section 293, means each 
+     consecutive year after the year in which the group is 
+     certified that the Secretary makes the determination under 
+     subsection (c) or (d), as the case may be.
+       ``(2) Classes of goods within a commodity.--In any case in 
+     which there are separate classes of goods within an 
+     agricultural commodity, the Secretary shall treat each class 
+     as a separate commodity in determining group eligibility, the 
+     national average price, and level of imports under this 
+     section and section 296.
+
+     ``SEC. 293. DETERMINATIONS BY SECRETARY OF AGRICULTURE.
+
+       ``(a) In General.--As soon as practicable after the date on 
+     which a petition is filed under section 292, but in any event 
+     not later than 40 days after that date, the Secretary shall 
+     determine whether the petitioning group meets the 
+     requirements of section 292 (c) or (d), as the case may be, 
+     and shall, if the group meets the requirements, issue a 
+     certification of eligibility to apply for assistance under 
+     this chapter covering agricultural commodity producers in any 
+     group that meets the requirements. Each certification shall 
+     specify the date on which eligibility under this chapter 
+     begins.
+       ``(b) Notice.--Upon making a determination on a petition, 
+     the Secretary shall promptly publish a summary of the 
+     determination in the Federal Register, together with the 
+     Secretary's reasons for making the determination.
+       ``(c) Termination of Certification.--Whenever the Secretary 
+     determines, with respect to any certification of eligibility 
+     under this chapter, that the decline in price for the 
+     agricultural commodity covered by the certification is no 
+     longer attributable to the conditions described in section 
+     292, the Secretary shall terminate such certification and 
+     promptly cause notice of such termination to be published in 
+     the Federal Register, together with the Secretary's reasons 
+     for making such determination.
+
+     ``SEC. 294. STUDY BY SECRETARY OF AGRICULTURE WHEN 
+                   INTERNATIONAL TRADE COMMISSION BEGINS 
+                   INVESTIGATION.
+
+       ``(a) In General.--Whenever the International Trade 
+     Commission (in this chapter referred to as the `Commission') 
+     begins an investigation under section 202 with respect to an 
+     agricultural commodity, the Commission shall immediately 
+     notify the Secretary of the investigation. Upon receipt of 
+     the notification, the Secretary shall immediately conduct a 
+     study of--
+       ``(1) the number of agricultural commodity producers 
+     producing a like or directly competitive agricultural 
+     commodity who have been or are likely to be certified as 
+     eligible for adjustment assistance under this chapter, and
+       ``(2) the extent to which the adjustment of such producers 
+     to the import competition may be facilitated through the use 
+     of existing programs.
+       ``(b) Report.--Not later than 15 days after the day on 
+     which the Commission makes its report under section 202(f), 
+     the Secretary shall submit a report to the President setting 
+     forth the findings of the study described in subsection (a). 
+     Upon making the report to the President, the Secretary shall 
+     also promptly make the report public (with the exception of 
+     information which the Secretary determines to be 
+     confidential) and shall have a summary of the report 
+     published in the Federal Register.
+
+     ``SEC. 295. BENEFIT INFORMATION TO AGRICULTURAL COMMODITY 
+                   PRODUCERS.
+
+       ``(a) In General.--The Secretary shall provide full 
+     information to producers about the benefit allowances, 
+     training, and other employment services available under this 
+     title and about the petition and application procedures, and 
+     the appropriate filing dates, for such allowances, training, 
+     and services. The Secretary shall provide whatever assistance 
+     is necessary to enable groups to prepare petitions or 
+     applications for program benefits under this title.
+       ``(b) Notice of Benefits.--
+       ``(1) In general.--The Secretary shall mail written notice 
+     of the benefits available under this chapter to each 
+     agricultural commodity producer that the Secretary has reason 
+     to believe is covered by a certification made under this 
+     chapter.
+       ``(2) Other notice.--The Secretary shall publish notice of 
+     the benefits available under this chapter to agricultural 
+     commodity producers that are covered by each certification 
+     made under this chapter in newspapers of general circulation 
+     in the areas in which such producers reside.
+       ``(3) Other federal assistance.--The Secretary shall also 
+     provide information concerning procedures for applying for 
+     and receiving all other Federal assistance and services 
+     available to workers facing economic distress.
+
+     ``SEC. 296. QUALIFYING REQUIREMENTS FOR AGRICULTURAL 
+                   COMMODITY PRODUCERS.
+
+       ``(a) In General.--
+       ``(1) Requirements.--Payment of a trade adjustment 
+     allowance shall be made to an adversely affected agricultural 
+     commodity producer covered by a certification under this 
+     chapter who files an application for such allowance within 90 
+     days after the date on which the Secretary makes a 
+     determination and issues a certification of eligibility under 
+     section 293, if the following conditions are met:
+       ``(A) The producer submits to the Secretary sufficient 
+     information to establish the amount of agricultural commodity 
+     covered by the application filed under subsection (a) that 
+     was produced by the producer in the most recent year.
+       ``(B) The producer certifies that the producer has not 
+     received cash benefits under any provision of this title 
+     other than this chapter.
+       ``(C) The producer's net farm income (as determined by the 
+     Secretary) for the most recent year is less than the 
+     producer's net farm income for the latest year in which no 
+     adjustment assistance was received by the producer under this 
+     chapter.
+       ``(D) The producer certifies that the producer has met with 
+     an Extension Service employee or agent to obtain, at no cost 
+     to the producer, information and technical assistance that 
+     will assist the producer in adjusting to import competition 
+     with respect to the adversely affected agricultural 
+     commodity, including--
+       ``(i) information regarding the feasibility and 
+     desirability of substituting 1 or more alternative 
+     commodities for the adversely affected agricultural 
+     commodity; and
+       ``(ii) technical assistance that will improve the 
+     competitiveness of the production and marketing of the 
+     adversely affected agricultural commodity by the producer, 
+     including yield and marketing improvements.
+       ``(2) Limitation.--
+       ``(A) In general.--Notwithstanding any other provision of 
+     this chapter, an agricultural commodity producer shall not be 
+     eligible for assistance under this chapter in any year in 
+     which the average adjusted gross income of the producer 
+     exceeds $2,500,000.
+       ``(B) Certification.--To comply with the limitation under 
+     subparagraph (A), an individual or entity shall provide to 
+     the Secretary--
+
+[[Page S3663]]
+
+       ``(i) a certification by a certified public accountant or 
+     another third party that is acceptable to the Secretary that 
+     the average adjusted gross income of the producer does not 
+     exceed $2,500,000; or
+       ``(ii) information and documentation regarding the adjusted 
+     gross income of the producer through other procedures 
+     established by the Secretary.
+       ``(C) Definitions.--In this subsection:
+       ``(i) Adjusted gross income.--The term `adjusted gross 
+     income' means adjusted gross income of an agricultural 
+     commodity producer--
+
+       ``(I) as defined in section 62 of the Internal Revenue Code 
+     of 1986 and implemented in accordance with procedures 
+     established by the Secretary; and
+       ``(II) that is earned directly or indirectly from all 
+     agricultural and nonagricultural sources of an individual or 
+     entity for a fiscal or corresponding crop year.
+
+       ``(ii) Average adjusted gross income.--
+
+       ``(I) In general.--The term `average adjusted gross income' 
+     means the average adjusted gross income of a producer for 
+     each of the 3 preceding taxable years.
+       ``(II) Effective adjusted gross income.--In the case of a 
+     producer that does not have an adjusted gross income for each 
+     of the 3 preceding taxable years, the Secretary shall 
+     establish rules that provide the producer with an effective 
+     adjusted gross income for the applicable year.
+
+       ``(b) Amount of Cash Benefits.--
+       ``(1) In general.--Subject to the provisions of section 
+     298, an adversely affected agricultural commodity producer 
+     described in subsection (a) shall be entitled to adjustment 
+     assistance under this chapter in an amount equal to the 
+     product of--
+       ``(A) one-half of the difference between--
+       ``(i) an amount equal to 80 percent of the average of the 
+     national average price of the agricultural commodity covered 
+     by the application described in subsection (a) for the 5 
+     marketing years preceding the most recent marketing year, and
+       ``(ii) the national average price of the agricultural 
+     commodity for the most recent marketing year, and
+       ``(B) the amount of the agricultural commodity produced by 
+     the agricultural commodity producer in the most recent 
+     marketing year.
+       ``(2) Special rule for subsequent qualified years.--The 
+     amount of cash benefits for a qualified year shall be 
+     determined in the same manner as cash benefits are determined 
+     under paragraph (1) except that the average national price of 
+     the agricultural commodity shall be determined under 
+     paragraph (1)(A)(i) by using the 5-marketing-year period used 
+     to determine the amount of cash benefits for the first 
+     certification.
+       ``(c) Maximum Amount of Cash Assistance.--The maximum 
+     amount of cash benefits an agricultural commodity producer 
+     may receive in any 12-month period shall not exceed $10,000.
+       ``(d) Limitations on Other Assistance.--An agricultural 
+     commodity producer entitled to receive a cash benefit under 
+     this chapter--
+       ``(1) shall not be eligible for any other cash benefit 
+     under this title, and
+       ``(2) shall be entitled to employment services and training 
+     benefits under part III of subchapter C of chapter 2.
+
+     ``SEC. 297. FRAUD AND RECOVERY OF OVERPAYMENTS.
+
+       ``(a) In General.--
+       ``(1) Repayment.--If the Secretary, or a court of competent 
+     jurisdiction, determines that any person has received any 
+     payment under this chapter to which the person was not 
+     entitled, such person shall be liable to repay such amount to 
+     the Secretary, except that the Secretary may waive such 
+     repayment if the Secretary determines, in accordance with 
+     guidelines prescribed by the Secretary, that--
+       ``(A) the payment was made without fault on the part of 
+     such person; and
+       ``(B) requiring such repayment would be contrary to equity 
+     and good conscience.
+       ``(2) Recovery of overpayment.--Unless an overpayment is 
+     otherwise recovered, or waived under paragraph (1), the 
+     Secretary shall recover the overpayment by deductions from 
+     any sums payable to such person under this chapter.
+       ``(b) False Statement.--A person shall, in addition to any 
+     other penalty provided by law, be ineligible for any further 
+     payments under this chapter--
+       ``(1) if the Secretary, or a court of competent 
+     jurisdiction, determines that the person--
+       ``(A) knowingly has made, or caused another to make, a 
+     false statement or representation of a material fact; or
+       ``(B) knowingly has failed, or caused another to fail, to 
+     disclose a material fact; and
+       ``(2) as a result of such false statement or 
+     representation, or of such nondisclosure, such person has 
+     received any payment under this chapter to which the person 
+     was not entitled.
+       ``(c) Notice and Determination.--Except for overpayments 
+     determined by a court of competent jurisdiction, no repayment 
+     may be required, and no deduction may be made, under this 
+     section until a determination under subsection (a)(1) by the 
+     Secretary has been made, notice of the determination and an 
+     opportunity for a fair hearing thereon has been given to the 
+     person concerned, and the determination has become final.
+       ``(d) Payment to Treasury.--Any amount recovered under this 
+     section shall be returned to the Treasury of the United 
+     States.
+       ``(e) Penalties.--Whoever makes a false statement of a 
+     material fact knowing it to be false, or knowingly fails to 
+     disclose a material fact, for the purpose of obtaining or 
+     increasing for himself or for any other person any payment 
+     authorized to be furnished under this chapter shall be fined 
+     not more than $10,000 or imprisoned for not more than 1 year, 
+     or both.
+
+     ``SEC. 298. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``(a) In General.--There are authorized to be appropriated 
+     and there are appropriated to the Department of Agriculture 
+     not to exceed $90,000,000 for each of the fiscal years 2002 
+     through 2007 to carry out the purposes of this chapter.
+       ``(b) Proportionate Reduction.--If in any year, the amount 
+     appropriated under this chapter is insufficient to meet the 
+     requirements for adjustment assistance payable under this 
+     chapter, the amount of assistance payable under this chapter 
+     shall be reduced proportionately.''.
+       (b) Effective Date.--The amendments made by this title 
+     shall take effect on the date that is 180 days after the date 
+     of enactment of this Act.
+
+           TITLE V--TRADE ADJUSTMENT ASSISTANCE FOR FISHERMEN
+
+     SEC. 501. TRADE ADJUSTMENT ASSISTANCE FOR FISHERMEN.
+
+       (a) In General.--Title II of the Trade Act of 1974 (19 
+     U.S.C. 2251 et seq.), as amended by title IV of this Act, is 
+     amended by adding at the end the following new chapter:
+
+            ``CHAPTER 7--ADJUSTMENT ASSISTANCE FOR FISHERMEN
+
+     ``SEC. 299. DEFINITIONS.
+
+       ``In this chapter:
+       ``(1) Commercial fishing, fish, fishery, fishing, fishing 
+     vessel, person, and united states fish processor.--The terms 
+     `commercial fishing', `fish', `fishery', `fishing', `fishing 
+     vessel', `person', and `United States fish processor' have 
+     the same meanings as such terms have in the Magnuson-Stevens 
+     Fishery Conservation and Management Act (16 U.S.C. 1802).
+       ``(2) Producer.--The term `producer' means any person who--
+       ``(A) is engaged in commercial fishing; or
+       ``(B) is a United States fish processor.
+       ``(3) Contributed importantly.--
+       ``(A) In general.--The term `contributed importantly' means 
+     a cause which is important but not necessarily more important 
+     than any other cause.
+       ``(B) Determination of contributed importantly.--The 
+     determination of whether imports of articles like or directly 
+     competitive with a fish caught through commercial fishing or 
+     processed by a United States fish processor with respect to 
+     which a petition under this chapter was filed contributed 
+     importantly to a decline in the price of the fish shall be 
+     made by the Secretary.
+       ``(4) Duly authorized representative.--The term `duly 
+     authorized representative' means an association of producers.
+       ``(5) National average price.--The term `national average 
+     price' means the national average price paid to a producer 
+     for fish in a marketing year as determined by the Secretary.
+       ``(6) Secretary.--The term `Secretary' means the Secretary 
+     of Commerce.
+       ``(7) Trade adjustment assistance center.--The term `Trade 
+     Adjustment Assistance Center' shall have the same meaning as 
+     such term has in section 253.
+
+     ``SEC. 299A. PETITIONS; GROUP ELIGIBILITY.
+
+       ``(a) In General.--A petition for a certification of 
+     eligibility to apply for adjustment assistance under this 
+     chapter may be filed with the Secretary by a group of 
+     producers or by their duly authorized representative. Upon 
+     receipt of the petition, the Secretary shall promptly publish 
+     notice in the Federal Register that the Secretary has 
+     received the petition and initiated an investigation.
+       ``(b) Hearings.--If the petitioner, or any other person 
+     found by the Secretary to have a substantial interest in the 
+     proceedings, submits not later than 10 days after the date of 
+     the Secretary's publication under subsection (a) a request 
+     for a hearing, the Secretary shall provide for a public 
+     hearing and afford such interested person an opportunity to 
+     be present, to produce evidence, and to be heard.
+       ``(c) Group Eligibility Requirements.--The Secretary shall 
+     certify a group of producers as eligible to apply for 
+     adjustment assistance under this chapter if the Secretary 
+     determines--
+       ``(1) that the national average price for the fish, or a 
+     class of fish, produced by the group for the most recent 
+     marketing year for which the national average price is 
+     available is less than 80 percent of the average of the 
+     national average price for such fish, or such class of fish, 
+     for the 5 marketing years preceding the most recent marketing 
+     year; and
+       ``(2) that increases in imports of articles like or 
+     directly competitive with the fish, or class of fish, 
+     produced by the group contributed importantly to the decline 
+     in price described in paragraph (1).
+       ``(d) Special Rule for Qualified Subsequent Years.--A group 
+     of producers certified as eligible under section 299B shall 
+     be eligible to apply for assistance under this chapter in any 
+     qualified year after the year the group is first certified, 
+     if the Secretary determines that--
+       ``(1) the national average price for the fish, or class of 
+     fish, produced by the group for the most recent marketing 
+     year for which the national average price is available is 
+     equal
+
+[[Page S3664]]
+
+     to or less than the price determined under subsection (c)(1); 
+     and
+       ``(2) the requirements of subsection (c)(2) are met.
+       ``(e) Determination of Qualified Year and Commodity.--In 
+     this chapter:
+       ``(1) Qualified year.--The term `qualified year', with 
+     respect to a group of producers certified as eligible under 
+     section 299B, means each consecutive year after the year in 
+     which the group is certified that the Secretary makes the 
+     determination under subsection (c) or (d), as the case may 
+     be.
+       ``(2) Classes of goods within a commodity.--In any case in 
+     which there are separate classes of fish, the Secretary shall 
+     treat each class as a separate commodity in determining group 
+     eligibility, the national average price, and level of imports 
+     under this section and section 299E.
+
+     ``SEC. 299B. DETERMINATIONS BY SECRETARY.
+
+       ``(a) In General.--As soon as practicable after the date on 
+     which a petition is filed under section 299A, but in any 
+     event not later than 40 days after that date, the Secretary 
+     shall determine whether the petitioning group meets the 
+     requirements of section 299A (c) or (d), as the case may be, 
+     and shall, if the group meets the requirements, issue a 
+     certification of eligibility to apply for assistance under 
+     this chapter covering producers in any group that meets the 
+     requirements. Each certification shall specify the date on 
+     which eligibility under this chapter begins.
+       ``(b) Notice.--Upon making a determination on a petition, 
+     the Secretary shall promptly publish a summary of the 
+     determination in the Federal Register, together with the 
+     Secretary's reasons for making the determination.
+       ``(c) Termination of Certification.--Whenever the Secretary 
+     determines, with respect to any certification of eligibility 
+     under this chapter, that the decline in price for the fish 
+     covered by the certification is no longer attributable to the 
+     conditions described in section 299A, the Secretary shall 
+     terminate such certification and promptly cause notice of 
+     such termination to be published in the Federal Register, 
+     together with the Secretary's reasons for making such 
+     determination.
+
+     ``SEC. 299C. STUDY BY SECRETARY WHEN INTERNATIONAL TRADE 
+                   COMMISSION BEGINS INVESTIGATION.
+
+       ``(a) In General.--Whenever the International Trade 
+     Commission (in this chapter referred to as the `Commission') 
+     begins an investigation under section 202 with respect to a 
+     fish, the Commission shall immediately notify the Secretary 
+     of the investigation. Upon receipt of the notification, the 
+     Secretary shall immediately conduct a study of--
+       ``(1) the number of producers producing a like or directly 
+     competitive agricultural commodity who have been or are 
+     likely to be certified as eligible for adjustment assistance 
+     under this chapter, and
+       ``(2) the extent to which the adjustment of such producers 
+     to the import competition may be facilitated through the use 
+     of existing programs.
+       ``(b) Report.--Not later than 15 days after the day on 
+     which the Commission makes its report under section 202(f), 
+     the Secretary shall submit a report to the President setting 
+     forth the findings of the study under subsection (a). Upon 
+     making his report to the President, the Secretary shall also 
+     promptly make the report public (with the exception of 
+     information which the Secretary determines to be 
+     confidential) and shall have a summary of it published in the 
+     Federal Register.
+
+     ``SEC. 299D. BENEFIT INFORMATION TO PRODUCERS.
+
+       ``(a) In General.--The Secretary shall provide full 
+     information to producers about the benefit allowances, 
+     training, and other employment services available under this 
+     title and about the petition and application procedures, and 
+     the appropriate filing dates, for such allowances, training, 
+     and services. The Secretary shall provide whatever assistance 
+     is necessary to enable groups to prepare petitions or 
+     applications for program benefits under this title.
+       ``(b) Notice of Benefits.--
+       ``(1) In general.--The Secretary shall mail written notice 
+     of the benefits available under this chapter to each producer 
+     that the Secretary has reason to believe is covered by a 
+     certification made under this chapter.
+       ``(2) Other notice.--The Secretary shall publish notice of 
+     the benefits available under this chapter to producers that 
+     are covered by each certification made under this chapter in 
+     newspapers of general circulation in the areas in which such 
+     producers reside.
+
+     ``SEC. 299E. QUALIFYING REQUIREMENTS FOR PRODUCERS.
+
+       ``(a) In General.--Payment of a trade adjustment allowance 
+     shall be made to an adversely affected producer covered by a 
+     certification under this chapter who files an application for 
+     such allowance within 90 days after the date on which the 
+     Secretary makes a determination and issues a certification of 
+     eligibility under section 299B, if the following conditions 
+     are met:
+       ``(1) The producer submits to the Secretary sufficient 
+     information to establish the amount of fish covered by the 
+     application filed under subsection (a) that was produced by 
+     the producer in the most recent year.
+       ``(2) The producer certifies that the producer has not 
+     received cash benefits under any provision of this title 
+     other than this chapter.
+       ``(3) The producer's net fishing or processing income (as 
+     determined by the Secretary) for the most recent year is less 
+     than the producer's net fishing or processing income for the 
+     latest year in which no adjustment assistance was received by 
+     the producer under this chapter.
+       ``(4) The producer certifies that--
+       ``(A) the producer has met with an employee or agent from a 
+     Trade Adjustment Assistance Center to obtain, at no cost to 
+     the producer, information and technical assistance that will 
+     assist the producer in adjusting to import competition with 
+     respect to the adversely affected fish, including--
+       ``(i) information regarding the feasibility and 
+     desirability of substituting 1 or more alternative fish for 
+     the adversely affected fish; and
+       ``(ii) technical assistance that will improve the 
+     competitiveness of the production and marketing of the 
+     adversely affected fish by the producer, including yield and 
+     marketing improvements; and
+       ``(B) none of the benefits will be used to purchase, lease, 
+     or finance any new fishing vessel, add capacity to any 
+     fishery, or otherwise add to the overcapitalization of any 
+     fishery.
+       ``(b) Amount of Cash Benefits.--
+       ``(1) In general.--Subject to the provisions of section 
+     299G, an adversely affected producer described in subsection 
+     (a) shall be entitled to adjustment assistance under this 
+     chapter in an amount equal to the product of--
+       ``(A) one-half of the difference between--
+       ``(i) an amount equal to 80 percent of the average of the 
+     national average price of the fish covered by the application 
+     described in subsection (a) for the 5 marketing years 
+     preceding the most recent marketing year; and
+       ``(ii) the national average price of the fish for the most 
+     recent marketing year; and
+       ``(B) the amount of the fish produced by the producer in 
+     the most recent marketing year.
+       ``(2) Special rule for subsequent qualified years.--The 
+     amount of cash benefits for a qualified year shall be 
+     determined in the same manner as cash benefits are determined 
+     under paragraph (1) except that the average national price of 
+     the fish shall be determined under paragraph (1)(A)(i) by 
+     using the 5-marketing-year period used to determine the 
+     amount of cash benefits for the first certification. A 
+     producer shall only be eligible for benefits for subsequent 
+     qualified years if the Secretary or his designee determines 
+     that sufficient progress has been made implementing the plans 
+     developed under section 299E(a)(4) of this title.
+       ``(c) Maximum Amount of Cash Assistance.--The maximum 
+     amount of cash benefits a producer may receive in any 12-
+     month period shall not exceed $10,000.
+       ``(d) Limitations on Other Assistance.--A producer entitled 
+     to receive a cash benefit under this chapter--
+       ``(1) shall not be eligible for any other cash benefit 
+     under this title, and
+       ``(2) shall be entitled to employment services and training 
+     benefits under part III of subchapter C of chapter 2.
+
+     ``SEC. 299F. FRAUD AND RECOVERY OF OVERPAYMENTS.
+
+       ``(a) In General.--
+       ``(1) Repayment.--If the Secretary, or a court of competent 
+     jurisdiction, determines that any person has received any 
+     payment under this chapter to which the person was not 
+     entitled, such person shall be liable to repay such amount to 
+     the Secretary, except that the Secretary may waive such 
+     repayment if the Secretary determines, in accordance with 
+     guidelines prescribed by the Secretary, that--
+       ``(A) the payment was made without fault on the part of 
+     such person; and
+       ``(B) requiring such repayment would be contrary to equity 
+     and good conscience.
+       ``(2) Recovery of overpayment.--Unless an overpayment is 
+     otherwise recovered, or waived under paragraph (1), the 
+     Secretary shall recover the overpayment by deductions from 
+     any sums payable to such person under this chapter.
+       ``(b) False Statement.--A person shall, in addition to any 
+     other penalty provided by law, be ineligible for any further 
+     payments under this chapter--
+       ``(1) if the Secretary, or a court of competent 
+     jurisdiction, determines that the person--
+       ``(A) knowingly has made, or caused another to make, a 
+     false statement or representation of a material fact; or
+       ``(B) knowingly has failed, or caused another to fail, to 
+     disclose a material fact; and
+       ``(2) as a result of such false statement or 
+     representation, or of such nondisclosure, such person has 
+     received any payment under this chapter to which the person 
+     was not entitled.
+       ``(c) Notice and Determination.--Except for overpayments 
+     determined by a court of competent jurisdiction, no repayment 
+     may be required, and no deduction may be made, under this 
+     section until a determination under subsection (a)(1) by the 
+     Secretary has been made, notice of the determination and an 
+     opportunity for a fair hearing thereon has been given to the 
+     person concerned, and the determination has become final.
+       ``(d) Payment to Treasury.--Any amount recovered under this 
+     section shall be returned to the Treasury of the United 
+     States.
+       ``(e) Penalties.--Whoever makes a false statement of a 
+     material fact knowing it to be false, or knowingly fails to 
+     disclose a material fact, for the purpose of obtaining or 
+     increasing for himself or for any other person
+
+[[Page S3665]]
+
+     any payment authorized to be furnished under this chapter 
+     shall be fined not more than $10,000 or imprisoned for not 
+     more than 1 year, or both.
+
+     ``SEC. 299G. AUTHORIZATION OF APPROPRIATIONS.
+
+       ``(a) In General.--There are authorized to be appropriated 
+     and there are appropriated to the Department of Commerce not 
+     to exceed $10,000,000 for each of the fiscal years 2002 
+     through 2007 to carry out the purposes of this chapter.
+       ``(b) Proportionate Reduction.--If in any year, the amount 
+     appropriated under this chapter is insufficient to meet the 
+     requirements for adjustment assistance payable under this 
+     chapter, the amount of assistance payable under this chapter 
+     shall be reduced proportionately.''.
+       (b) Effective Date.--The amendments made by this title 
+     shall take effect on the date that is 180 days after the date 
+     of enactment of this Act.
+
+ TITLE VI--HEALTH CARE COVERAGE OPTIONS FOR WORKERS ELIGIBLE FOR TRADE 
+                         ADJUSTMENT ASSISTANCE
+
+     SEC. 601. TRADE ADJUSTMENT ASSISTANCE HEALTH INSURANCE 
+                   CREDIT.
+
+       (a) In General.--Subchapter B of chapter 65 of the Internal 
+     Revenue Code of 1986 (relating to abatements, credits, and 
+     refunds) is amended by inserting after section 6428 the 
+     following new section:
+
+     ``SEC. 6429. TRADE ADJUSTMENT ASSISTANCE HEALTH INSURANCE 
+                   CREDIT.
+
+       ``(a) In General.--In the case of an individual, there 
+     shall be allowed as a credit against the tax imposed by 
+     subtitle A an amount equal to 73 percent of the amount paid 
+     during the taxable year for coverage for the taxpayer, the 
+     taxpayer's spouse, and dependents of the taxpayer under 
+     qualified health insurance during eligible coverage months.
+       ``(b) Eligible Coverage Month.--For purposes of this 
+     section--
+       ``(1) In general.--The term `eligible coverage month' means 
+     any month if, as of the first day of such month--
+       ``(A) the taxpayer is an eligible individual,
+       ``(B) the taxpayer is covered by qualified health 
+     insurance,
+       ``(C) the premium for coverage under such insurance for 
+     such month is paid by the taxpayer, and
+       ``(D) in the case of a taxpayer who is an eligible 
+     individual described in subsection (c)(1), the taxpayer does 
+     not have other specified coverage.
+       ``(2) Special rules.--
+       ``(A) Joint returns.--In the case of a joint return, the 
+     requirements of paragraph (1) shall be treated as met if at 
+     least 1 spouse satisfies such requirements.
+       ``(B) Exclusion of months in which individual is 
+     imprisoned.--Such term shall not include any month with 
+     respect to an individual if, as of the first day of such 
+     month, such individual is imprisoned under Federal, State, or 
+     local authority.
+       ``(3) Other specified coverage.--For purposes of this 
+     subsection, an eligible individual described in subsection 
+     (c)(1) has other specified coverage for any month if, as of 
+     the first day of such month--
+       ``(A) Subsidized coverage.--
+       ``(i) In general.--Such individual is covered under any 
+     qualified health insurance under which at least 50 percent of 
+     the cost of coverage (determined under section 4980B) is paid 
+     or incurred by an employer (or former employer) of the 
+     taxpayer or the taxpayer's spouse.
+       ``(ii) Treatment of cafeteria plans and flexible spending 
+     accounts.--For purposes of clause (i), the cost of benefits--
+
+       ``(I) which are chosen under a cafeteria plan (as defined 
+     in section 125(d)), or provided under a flexible spending or 
+     similar arrangement, of such an employer, and
+       ``(II) which are not includible in gross income under 
+     section 106,
+
+     shall be treated as borne by such employer.
+       ``(B) Coverage under medicare, medicaid, or schip.--Such 
+     individual--
+       ``(i) is entitled to benefits under part A of title XVIII 
+     of the Social Security Act or is enrolled under part B of 
+     such title, or
+       ``(ii) is enrolled in the program under title XIX or XXI of 
+     such Act (other than under section 1928).
+       ``(C) Certain other coverage.--Such individual--
+       ``(i) is enrolled in a health benefits plan under chapter 
+     89 of title 5, United States Code,
+       ``(ii) is entitled to receive benefits under chapter 55 of 
+     title 10, United States Code,
+       ``(iii) is entitled to receive benefits under chapter 17 of 
+     title 38, United States Code, or
+       ``(iv) is eligible for benefits under the Indian Health 
+     Care Improvement Act.
+       ``(4) Special rule.--For purposes of this subsection, an 
+     individual does not have other specified coverage for any 
+     month if such coverage is under a qualified long-term care 
+     insurance contract (as defined in section 7702B(b)(1)).
+       ``(c) Eligible Individual.--
+       ``(1) In general.--For purposes of this section, the term 
+     `eligible individual' means an individual who is qualified to 
+     receive payment of a trade adjustment allowance under section 
+     235 of the Trade Act of 1974, as amended by section 111 of 
+     the Trade Adjustment Assistance Reform Act of 2002.
+       ``(2) Steelworker retirees.--Such term includes an 
+     individual not described in paragraph (1) who would have been 
+     eligible to be certified as an eligible retiree or eligible 
+     beneficiary for purposes of participating in the Steel 
+     Industry Retiree Benefits Protection program under the Trade 
+     Act of 1974, as amended by S.2189, as introduced on April 17, 
+     2002.
+       ``(d) Qualified Health Insurance.--For purposes of this 
+     section, the term `qualified health insurance' means health 
+     insurance coverage described under section 173(f) of the 
+     Workforce Investment Act of 1998 (29 U.S.C. 2918(f)).
+       ``(e) Coordination With Advance Payments of Credit.--
+       ``(1) Recapture of excess advance payments.--If any payment 
+     is made by the Secretary under section 7527 during any 
+     calendar year to a provider of qualified health insurance for 
+     an individual, then the tax imposed by this chapter for the 
+     individual's last taxable year beginning in such calendar 
+     year shall be increased by the aggregate amount of such 
+     payments.
+       ``(2) Reconciliation of payments advanced and credit 
+     allowed.--Any increase in tax under paragraph (1) shall not 
+     be treated as tax imposed by this chapter for purposes of 
+     determining the amount of any credit (other than the credit 
+     allowed by subsection (a)) allowable under part IV of 
+     subchapter A of chapter 1.
+       ``(f) Special Rules.--
+       ``(1) Coordination with other deductions.--Amounts taken 
+     into account under subsection (a) shall not be taken into 
+     account in determining any deduction allowed under section 
+     162(l) or 213.
+       ``(2) MSA distributions.--Amounts distributed from an 
+     Archer MSA (as defined in section 220(d)) shall not be taken 
+     into account under subsection (a).
+       ``(3) Denial of credit to dependents.--No credit shall be 
+     allowed under this section to any individual with respect to 
+     whom a deduction under section 151 is allowable to another 
+     taxpayer for a taxable year beginning in the calendar year in 
+     which such individual's taxable year begins.
+       ``(4) Credit treated as refundable credit.--For purposes of 
+     this title, the credit allowed under this section shall be 
+     treated as a credit allowable under subpart C of part IV of 
+     subchapter A of chapter 1.
+       ``(5) Expenses must be substantiated.--A payment for 
+     qualified health insurance to which subsection (a) applies 
+     may be taken into account under this section only if the 
+     taxpayer substantiates such payment in such form as the 
+     Secretary may prescribe.
+       ``(6) Regulations.--The Secretary may prescribe such 
+     regulations and other guidance as may be necessary or 
+     appropriate to carry out this section and section 7527.''.
+       (b) Information Reporting.--
+       (1) In general.--Subpart B of part III of subchapter A of 
+     chapter 61 of the Internal Revenue Code of 1986 (relating to 
+     information concerning transactions with other persons) is 
+     amended by inserting after section 6050S the following new 
+     section:
+
+     ``SEC. 6050T. RETURNS RELATING TO TRADE ADJUSTMENT ASSISTANCE 
+                   HEALTH INSURANCE CREDIT.
+
+       ``(a) Requirement of Reporting.--Every person--
+       ``(1) who, in connection with a trade or business conducted 
+     by such person, receives payments during any calendar year 
+     from any individual for coverage of such individual or any 
+     other individual under qualified health insurance (as defined 
+     in section 6429(d)), and
+       ``(2) who claims a reimbursement for an advance credit 
+     amount,
+     shall, at such time as the Secretary may prescribe, make the 
+     return described in subsection (b) with respect to each 
+     individual from whom such payments were received or for whom 
+     such a reimbursement is claimed.
+       ``(b) Form and Manner of Returns.--A return is described in 
+     this subsection if such return--
+       ``(1) is in such form as the Secretary may prescribe, and
+       ``(2) contains--
+       ``(A) the name, address, and TIN of each individual 
+     referred to in subsection (a),
+       ``(B) the aggregate of the advance credit amounts provided 
+     to such individual and for which reimbursement is claimed,
+       ``(C) the number of months for which such advance credit 
+     amounts are so provided, and
+       ``(D) such other information as the Secretary may 
+     prescribe.
+       ``(c) Statements To Be Furnished to Individuals With 
+     Respect to Whom Information Is Required.--Every person 
+     required to make a return under subsection (a) shall furnish 
+     to each individual whose name is required to be set forth in 
+     such return a written statement showing--
+       ``(1) the name and address of the person required to make 
+     such return and the phone number of the information contact 
+     for such person, and
+       ``(2) the information required to be shown on the return 
+     with respect to such individual.
+     The written statement required under the preceding sentence 
+     shall be furnished on or before January 31 of the year 
+     following the calendar year for which the return under 
+     subsection (a) is required to be made.
+       ``(d) Advance Credit Amount.--For purposes of this section, 
+     the term `advance credit amount' means an amount for which 
+     the person can claim a reimbursement pursuant to a program 
+     established by the Secretary under section 7527.''.
+       (2) Assessable penalties.--
+       (A) Subparagraph (B) of section 6724(d)(1) of such Code 
+     (relating to definitions) is amended by redesignating clauses 
+     (xi) through (xvii) as clauses (xii) through (xviii), 
+     respectively, and by inserting after clause (x) the following 
+     new clause:
+
+[[Page S3666]]
+
+       ``(xi) section 6050T (relating to returns relating to trade 
+     adjustment assistance health insurance credit),''.
+       (B) Paragraph (2) of section 6724(d) of such Code is 
+     amended by striking ``or'' at the end of subparagraph (Z), by 
+     striking the period at the end of subparagraph (AA) and 
+     inserting ``, or'', and by adding after subparagraph (AA) the 
+     following new subparagraph:
+       ``(BB) section 6050T (relating to returns relating to trade 
+     adjustment assistance health insurance credit).''.
+       (3) Clerical amendment.--The table of sections for subpart 
+     B of part III of subchapter A of chapter 61 of such Code is 
+     amended by inserting after the item relating to section 6050S 
+     the following new item:
+
+``Sec. 6050T. Returns relating to trade adjustment assistance health 
+              insurance credit.''.
+       (c) Criminal Penalty for Fraud.--
+       (1) In general.--Subchapter B of chapter 75 of the Internal 
+     Revenue Code of 1986 (relating to other offenses) is amended 
+     by adding at the end the following:
+
+     ``SEC. 7276. PENALTIES FOR OFFENSES RELATING TO TRADE 
+                   ADJUSTMENT ASSISTANCE HEALTH INSURANCE CREDIT.
+
+       ``Any person who knowingly misuses Department of the 
+     Treasury names, symbols, titles, or initials to convey the 
+     false impression of association with, or approval or 
+     endorsement by, the Department of the Treasury of any 
+     insurance products or group health coverage in connection 
+     with the credit for trade adjustment assistance health 
+     insurance under section 6429 shall on conviction thereof be 
+     fined not more than $10,000, or imprisoned not more than 1 
+     year, or both.''.
+       (2) The table of sections for subchapter B of chapter 75 of 
+     such Code is amended by adding at the end the following:
+
+``Sec. 7276. Penalties for offenses relating to trade adjustment 
+              assistance health insurance credit.''.
+       (d) Conforming Amendments.--
+       (1) Paragraph (2) of section 1324(b) of title 31, United 
+     States Code, is amended by inserting before the period ``, or 
+     from section 6429 of such Code''.
+       (2) The table of sections for subchapter B of chapter 65 of 
+     the Internal Revenue Code of 1986 is amended by adding at the 
+     end the following new item:
+
+``Sec. 6429. Trade adjustment assistance health insurance credit.''.
+       (e) Effective Dates.--
+       (1) In general.--Except as provided in paragraph (2), the 
+     amendments made by this section shall apply to taxable years 
+     beginning after December 31, 2001, without regard to whether 
+     final regulations to carry out such amendments have been 
+     promulgated by such date.
+       (2) Penalties.--The amendments made by subsection (c) shall 
+     take effect on the date of the enactment of this Act.
+
+     SEC. 602. ADVANCE PAYMENT OF TRADE ADJUSTMENT ASSISTANCE 
+                   HEALTH INSURANCE CREDIT.
+
+       (a) In General.--Chapter 77 of the Internal Revenue Code of 
+     1986 (relating to miscellaneous provisions) is amended by 
+     adding at the end the following new section:
+
+     ``SEC. 7527. ADVANCE PAYMENT OF TRADE ADJUSTMENT ASSISTANCE 
+                   HEALTH INSURANCE CREDIT.
+
+       ``(a) General Rule.--The Secretary shall establish a 
+     program for making payments on behalf of eligible individuals 
+     (as defined in section 6429(c)) to providers of health 
+     insurance for such individuals for whom a qualified health 
+     insurance credit eligibility certificate is in effect.
+       ``(b) Qualified Health Insurance Credit Eligibility 
+     Certificate.--For purposes of this section, a qualified 
+     health insurance credit eligibility certificate is a 
+     statement certified by a designated local agency (as defined 
+     in section 51(d)(11)) (or by any other entity designated by 
+     the Secretary) which--
+       ``(1) certifies that the individual was an eligible 
+     individual (as defined in section 6429(c)) as of the first 
+     day of any month, and
+       ``(2) provides such other information as the Secretary may 
+     require for purposes of this section.''.
+       (b) Clerical Amendment.--The table of sections for chapter 
+     77 of the Internal Revenue Code of 1986 is amended by adding 
+     at the end the following new item:
+
+``Sec. 7527. Advance payment of trade adjustment assistance health 
+              insurance credit.''.
+       (c) Effective Date.--The amendments made by this section 
+     shall take effect on the date of the enactment of this Act, 
+     without regard to whether final regulations to carry out such 
+     amendments have been promulgated by such date.
+
+     SEC. 603. HEALTH INSURANCE COVERAGE FOR ELIGIBLE INDIVIDUALS.
+
+       (a) Eligibility for Grants.--Section 173(a) of the 
+     Workforce Investment Act of 1998 (29 U.S.C. 2918(a)) is 
+     amended--
+       (1) in paragraph (2), by striking ``and'' at the end;
+       (2) in paragraph (3) by striking the period and inserting 
+     ``; and''; and
+       (3) by adding at the end the following:
+       ``(4) from funds appropriated under section 174(c)--
+       ``(A) to a State to provide the assistance described in 
+     subsection (f) to any eligible worker (as defined in 
+     subsection (f)(5)(B)); and
+       ``(B) to a State to provide the assistance described in 
+     subsection (g) to any eligible worker (as defined in 
+     subsection (g)(5)).''.
+       (b) Use of Funds for Health Insurance Coverage.--Section 
+     173 of the Workforce Investment Act of 1998 (29 U.S.C. 2918) 
+     is amended by adding at the end the following:
+       ``(f) Health Insurance Coverage Assistance for Eligible 
+     Workers.--
+       ``(1) In general.--Funds made available to a State under 
+     paragraph (4)(A) of subsection (a) may be used by the State 
+     for the following:
+       ``(A) Health insurance coverage.--To assist an eligible 
+     worker (as defined in paragraph (5)(B)) in enrolling in 
+     health insurance coverage through--
+       ``(i) COBRA continuation coverage;
+       ``(ii) State-based continuation coverage provided by the 
+     State under a State law that requires such coverage even 
+     though the coverage would not otherwise be required under the 
+     provisions of law referred to in paragraph (5)(A);
+       ``(iii) the enrollment of the eligible worker and the 
+     eligible worker's spouse and dependents in health insurance 
+     coverage offered through a qualified State high risk pool or 
+     other comparable State-based health insurance coverage 
+     alternative;
+       ``(iv) the enrollment of the eligible worker and the 
+     eligible worker's spouse and dependents in the health 
+     insurance program offered for State employees;
+       ``(v) the enrollment of the eligible worker and the 
+     eligible worker's spouse and dependents in a State-based 
+     health insurance program that is comparable to the health 
+     insurance program offered for State employees;
+       ``(vi) a direct payment arrangement entered into by the 
+     State and a group health plan (including a multiemployer plan 
+     as defined in section 3(37) of the Employee Retirement Income 
+     Security Act of 1974 (29 U.S.C. 1002(37))), an issuer of 
+     health insurance coverage, an administrator, or an employer, 
+     as appropriate, on behalf of the eligible worker and the 
+     eligible worker's spouse and dependents;
+       ``(vii) the enrollment of the eligible worker and the 
+     eligible worker's spouse and dependents in a State-operated, 
+     State-funded health plan;
+       ``(viii) the enrollment of the eligible worker and the 
+     eligible worker's spouse and dependents in health insurance 
+     coverage offered through a State arrangement with a private 
+     sector health care coverage purchasing pool; or
+       ``(ix) in the case of an eligible worker who was enrolled 
+     in individual health insurance coverage during the 6-month 
+     period that ends on the date on which the worker became 
+     unemployed, enrollment in such individual health insurance 
+     coverage.
+       ``(B) Establishment of health insurance coverage 
+     mechanisms.--To establish or administer--
+       ``(i) a qualified State high risk pool for the purpose of 
+     providing health insurance coverage to an eligible worker and 
+     the eligible worker's spouse and dependents;
+       ``(ii) a State-based program for the purpose of providing 
+     health insurance coverage to an eligible worker and the 
+     eligible worker's spouse and dependents that is comparable to 
+     the State health insurance program for State employees; or
+       ``(iii) a program under which the State enters into 
+     arrangements described in subparagraph (A)(vi).
+       ``(C) Administrative expenses.--Subject to paragraph (3), 
+     to pay the administrative expenses related to the enrollment 
+     of eligible workers and the eligible workers spouses and 
+     dependents in health insurance coverage described in 
+     subparagraph (A), including--
+       ``(i) eligibility verification activities;
+       ``(ii) the notification of eligible workers of available 
+     health insurance coverage options;
+       ``(iii) processing qualified health insurance credit 
+     eligibility certificates provided for under section 7527 of 
+     the Internal Revenue Code of 1986;
+       ``(iv) providing assistance to eligible workers in 
+     enrolling in health insurance coverage;
+       ``(v) the development or installation of necessary data 
+     management systems; and
+       ``(vi) any other expenses determined appropriate by the 
+     Secretary.
+       ``(D) Enrollment losses.--
+       ``(i) In general.--Subject to paragraph (3), to reimburse 
+     the State or an issuer of health insurance coverage for 
+     losses, in connection with the enrollment of high cost 
+     eligible workers, that are in excess of 100 percent of the 
+     standard loss ratio (as defined in clause (iv)) for the 
+     State-based programs described in clauses (iii), (iv), (v), 
+     (vi), or (vii) of subparagraph (A) as a result of the 
+     enrollment of eligible workers, and the eligible workers 
+     spouses and dependents, in such programs.
+       ``(ii) Determination.--Such losses shall be determined 
+     based on the standard loss ratio applicable to the State in 
+     the year immediately prior to year in which the enrollment of 
+     eligible workers commences.
+       ``(iii) Amount.--
+
+       ``(I) In general.--With respect to a State-based program 
+     described in clause (i) that experiences a loss that is in 
+     excess of 150 percent of the standard loss ratio, the amount 
+     of reimbursement that a State may receive under such clause 
+     with respect to a year shall not exceed an amount equal to 90 
+     percent of the amount that is in excess of such standard loss 
+     ratio.
+       ``(II) Reimbursement for certain states.--If a State 
+     establishes, or provides for the enrollment of eligible 
+     workers in health insurance coverage provided through, a 
+     State-based program described in clause (i) during the 1-year 
+     period that begins on the date of enactment of this 
+     subsection, the amount of reimbursement that a State may
+
+[[Page S3667]]
+
+     receive under such clause with respect to a year shall not 
+     exceed the greater of--
+
+       ``(aa) in the case of a State-based program that 
+     experiences a loss that is in excess of 120 percent, but less 
+     than 150 percent, of the standard loss ratio, an amount equal 
+     to 50 percent of the amount that is in excess of such 
+     standard loss ratio; or
+       ``(bb) the amount determined under subclause (I) if 
+     applicable.
+       ``(iv) Definition of standard loss ratio.--In this 
+     subsection, the term `standard loss ratio', with respect to 
+     the pool of insured individuals under coverage described in 
+     clauses (ii) through (viii) of subparagraph (A) for a year, 
+     means--
+
+       ``(I) the amount of claims incurred by the program; divided 
+     by
+       ``(II) the premiums paid for enrollment in health insurance 
+     coverage provided under such program.
+
+       ``(2) Requirements relating to health insurance coverage.--
+     With respect to health insurance coverage provided to 
+     eligible workers under any of clauses (ii) through (viii) of 
+     paragraph (1)(A), the State shall ensure that--
+       ``(A) enrollment is guaranteed for workers who provide a 
+     qualified health insurance credit eligibility certificate 
+     described in section 7527 of the Internal Revenue Code of 
+     1986 and who pay the remainder of the premium for such 
+     enrollment;
+       ``(B) no pre-existing condition limitations are imposed 
+     with respect to such eligible workers;
+       ``(C) the worker is not required (as a condition of 
+     enrollment or continued enrollment under the coverage) to pay 
+     a premium or contribution that is greater than the premium or 
+     contribution for a similarly situated individual who is not 
+     an eligible worker;
+       ``(D) benefits under the coverage are the same as (or 
+     substantially similar to) the benefits provided to similarly 
+     situated individuals who are not eligible workers;
+       ``(E) the standard loss ratio for the coverage is not less 
+     than 65 percent;
+       ``(F) in the case of coverage provided under paragraph 
+     (1)(A)(v), the premiums and benefits are comparable to the 
+     premiums and benefits applicable to State employees; and
+       ``(G) such coverage otherwise meets requirements 
+     established by the Secretary.
+       ``(3) Limitation.--A State that fails, during the 2-year 
+     period beginning on the date of enactment of this subsection, 
+     to establish, or provide for the enrollment of eligible 
+     workers in health insurance coverage provided through, a 
+     State-based program described in any of clauses (iii) through 
+     (vii) of paragraph (1)(A), shall not use amounts made 
+     available under subsection (a)(4) for expenditures described 
+     in subparagraphs (C) and (D) of paragraph (1).
+       ``(4) Availability of funds.--
+       ``(A) Expedited procedures.--With respect to applications 
+     submitted by States for grants under this subsection, the 
+     Secretary shall--
+       ``(i) not later than 15 days after the date on which the 
+     Secretary receives a completed application from a State, 
+     notify the State of the determination of the Secretary with 
+     respect to the approval or disapproval of such application;
+       ``(ii) in the case of a State application that is 
+     disapproved by the Secretary, provide technical assistance, 
+     at the request of the State, in a timely manner to enable the 
+     State to submit an approved application; and
+       ``(iii) develop procedures to expedite the provision of 
+     funds to States with approved applications.
+       ``(B) Availability and distribution of funds.--Except as 
+     provided for in paragraph (3), the Secretary shall ensure 
+     that funds made available under section 174(c)(1) to carry 
+     out subsection (a)(4) are available to States throughout the 
+     period described in section 174(c)(2).
+       ``(5) Definitions.--For purposes of this subsection:
+       ``(A) Cobra continuation coverage.--The term `COBRA 
+     continuation coverage' means coverage under a group health 
+     plan provided by an employer pursuant to title XXII of the 
+     Public Health Service Act, section 4980B of the Internal 
+     Revenue Code of 1986, part 6 of subtitle B of title I of the 
+     Employee Retirement Income Security Act of 1974, or section 
+     8905a of title 5, United States Code.
+       ``(B) Eligible worker.--
+       ``(i) In general.--The term `eligible worker' means an 
+     individual who--
+
+       ``(I) is qualified to receive payment of a trade adjustment 
+     allowance under section 235 of the Trade Act of 1974, as 
+     amended by section 111 of the Trade Adjustment Assistance 
+     Reform Act of 2002;
+       ``(II) does not have other specified coverage; and
+       ``(III) is not imprisoned under Federal, State, or local 
+     authority.
+
+       ``(ii) Steelworker retirees.--Such term includes an 
+     individual not described in clause (i) who would have been 
+     eligible to be certified as an eligible retiree or eligible 
+     beneficiary for purposes of participating in the Steel 
+     Industry Retiree Benefits Protection program under the Trade 
+     Act of 1974, as amended by S.2189, as introduced on April 17, 
+     2002.
+       ``(C) Other specified coverage.--With respect to an 
+     eligible worker described in subparagraph (B)(i), the term 
+     `other specified coverage' means--
+       ``(i) Subsidized coverage.--
+
+       ``(I) In general.--Such individual is covered under any 
+     health insurance coverage under which at least 50 percent of 
+     the cost of coverage (determined under section 4980B of the 
+     Internal Revenue Code of 1986) is paid or incurred by an 
+     employer (or former employer) of the individual or the 
+     individual's spouse.
+       ``(II) Treatment of cafeteria plans and flexible spending 
+     accounts.--For purposes of subclause (I), the cost of 
+     benefits which are chosen under a cafeteria plan (as defined 
+     in section 125(d) of such Code), or provided under a flexible 
+     spending or similar arrangement, of such an employer, and 
+     which are not includible in gross income under section 106 of 
+     such Code, shall be treated as borne by such employer.
+
+       ``(ii) Coverage under medicare, medicaid, or schip.--Such 
+     individual--
+
+       ``(I) is entitled to benefits under part A of title XVIII 
+     of the Social Security Act or is enrolled under part B of 
+     such title, or
+       ``(II) is enrolled in the program under title XIX or XXI of 
+     such Act (other than under section 1928).
+
+       ``(iii) Certain other coverage.--Such individual--
+
+       ``(I) is enrolled in a health benefits plan under chapter 
+     89 of title 5, United States Code;
+       ``(II) is entitled to receive benefits under chapter 55 of 
+     title 10, United States Code;
+       ``(III) is entitled to receive benefits under chapter 17 of 
+     title 38, United States Code; or
+       ``(IV) is eligible for benefits under the Indian Health 
+     Care Improvement Act.
+
+     Such term does not include coverage under a qualified long-
+     term care insurance contract (as defined in section 
+     7702B(b)(1) of the Internal Revenue Code of 1986).
+       ``(D) Group health plan.--The term `group health plan' has 
+     the meaning given that term in section 2791(a) of the Public 
+     Health Service Act (42 U.S.C. 300gg-91(a)), section 607(1) of 
+     the Employee Retirement Income Security Act of 1974 (29 
+     U.S.C. 1167(1)), and section 4980B(g)(2) of the Internal 
+     Revenue Code of 1986.
+       ``(E) Health insurance coverage.--The term `health 
+     insurance coverage' has the meaning given that term in 
+     section 2791(b)(1) of the Public Health Service Act (42 
+     U.S.C. 300gg-91(b)(1)) (other than insurance if substantially 
+     all of its coverage is of excepted benefits described in 
+     section 2791(c) of such Act (42 U.S.C. 300gg-91(c)) .
+       ``(F) Individual health insurance coverage.--The term 
+     `individual health insurance coverage' means health insurance 
+     coverage offered to individuals other than in connection with 
+     a group health plan. Such term does not include Federal- or 
+     State-based health insurance coverage.
+       ``(G) Qualified state high risk pool.--The term `qualified 
+     State high risk pool' has the meaning given that term in 
+     section 2744(c)(2) of the Public Health Service Act.
+       ``(g) Interim Health and Other Assistance.--
+       ``(1) In general.--Funds made available to a State under 
+     paragraph (4)(B) of subsection (a) may be used by the State 
+     to provide assistance and support services to eligible 
+     workers, including health care coverage, transportation, 
+     child care, dependent care, and income assistance.
+       ``(2) Income support.--With respect to any income 
+     assistance provided to an eligible worker with such funds, 
+     such assistance shall supplement and not supplant other 
+     income support or assistance provided under chapter 2 of 
+     title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) 
+     (as in effect on the day before the effective date of the 
+     Trade Adjustment Assistance Reform Act of 2002) or the 
+     unemployment compensation laws of the State where the 
+     eligible worker resides.
+       ``(3) Health care coverage.--With respect to any health 
+     care coverage assistance provided to an eligible worker with 
+     such funds, the following rules shall apply:
+       ``(A) The State may provide assistance in obtaining health 
+     care coverage to the eligible worker and to the eligible 
+     worker's spouse and dependents.
+       ``(B) Such assistance may include any or a combination of 
+     the following:
+       ``(i) Direct payment arrangements with a group health plan 
+     (including a multiemployer plan), an issuer of health 
+     insurance coverage, an administrator, or an employer, as 
+     appropriate, on behalf of the eligible worker and the 
+     eligible worker's spouse and dependents.
+       ``(ii) The enrollment of the eligible worker and the 
+     eligible worker's spouse and dependents in the health 
+     insurance program offered for State employees.
+       ``(iii) Subject to section 603(e) of the Trade Adjustment 
+     Assistance Reform Act of 2002, the enrollment of the eligible 
+     worker and the eligible worker's spouse and dependents under 
+     the State medicaid program under title XIX of the Social 
+     Security Act (42 U.S.C. 1396 et seq.) or under the State 
+     children's health insurance program under title XXI of that 
+     Act (42 U.S.C. 1397aa et seq.).
+       ``(C) Such assistance shall supplement and may not supplant 
+     any other State or local funds used to provide health care 
+     coverage and may not be included in determining the amount of 
+     non-Federal contributions required under any program.
+       ``(4) Expedited procedures.--With respect to applications 
+     submitted by States for grants under this subsection, the 
+     Secretary shall--
+       ``(A) not later than 15 days after the date on which the 
+     Secretary receives a completed application from a State, 
+     notify the State of the determination of the Secretary with 
+     respect to the approval or disapproval of such application;
+
+[[Page S3668]]
+
+       ``(B) in the case of a State application that is 
+     disapproved by the Secretary, provide technical assistance, 
+     at the request of the State, in a timely manner to enable the 
+     State to submit an approved application; and
+       ``(C) develop procedures to expedite the provision of funds 
+     to States with approved applications.
+       ``(5) Definitions.--In this subsection:
+       ``(A) Eligible worker.--
+       ``(i) In general.--The term `eligible worker' means an 
+     individual who is a member of a group of workers certified 
+     after April 1, 2002 under chapter 2 of title II of the Trade 
+     Act of 1974 (as in effect on the day before the effective 
+     date of the Trade Adjustment Assistance Reform Act of 2002) 
+     and who is determined to be qualified to receive payment of a 
+     trade adjustment allowance under such chapter (as so in 
+     effect).
+       ``(ii) Steelworker retirees.--Such term includes an 
+     individual not described in clause (i) who would have been 
+     eligible to be certified as an eligible retiree or eligible 
+     beneficiary for purposes of participating in the Steel 
+     Industry Retiree Benefits Protection program under the Trade 
+     Act of 1974, as amended by S.2189, as introduced on April 17, 
+     2002.
+       ``(B) Other terms.--The terms `administrator', `group 
+     health plan', `health insurance coverage', and `multiemployer 
+     plan' have the meanings given those terms in subsection 
+     (f)(5).''.
+       (c) Authorization of Appropriations.--Section 174 of the 
+     Workforce Investment Act of 1998 (29 U.S.C. 2919) is amended 
+     by adding at the end the following:
+       ``(c) Assistance for Eligible Workers.--
+       ``(1) In general.--There are authorized to be 
+     appropriated--
+       ``(A) to carry out subsection (a)(4)(A) of section 173--
+       ``(i) $10,000,000 for fiscal year 2002; and
+       ``(ii) $60,000,000 for each of fiscal years 2003 through 
+     2007; and
+       ``(B) to carry out subsection (a)(4)(B) of section 173--
+       ``(i) $50,000,000 for fiscal year 2002;
+       ``(ii) $100,000,000 for fiscal year 2003; and
+       ``(iii) $50,000,000 for fiscal year 2004.
+       ``(2) Availability of funds.--Funds appropriated under--
+       ``(A) paragraph (1)(A) for each fiscal year shall, 
+     notwithstanding section 189(g), remain available for 
+     obligation during the pendency of any outstanding claim under 
+     the Trade Act of 1974, as amended by the Trade Adjustment 
+     Assistance Reform Act of 2002; and
+       ``(B) paragraph (1)(B), for each fiscal year shall, 
+     notwithstanding section 189(g), remain available during the 
+     period that begins on the date of enactment of the Trade 
+     Adjustment Assistance Reform Act of 2002 and ends on 
+     September 30, 2004.''.
+       (d) Conforming Amendment.--Section 132(a)(2)(A) of the 
+     Workforce Investment Act of 1998 (29 U.S.C. 2862(a)(2)(A)) is 
+     amended by inserting ``, other than under subsection (a)(4), 
+     (f), and (g)'' after ``grants''.
+       (e) Authority and Special Rules For Health Care Coverage 
+     Assistance Provided To Eligible Workers Under Medicaid or 
+     SCHIP.--
+       (1) In general.--Notwithstanding any other provision of 
+     law, in the case of an eligible worker described in section 
+     173(g)(5)(A) of the Workforce Investment Act of 1998 (as 
+     added by subsection (b)) a State may elect, subject to 
+     paragraph (2), to provide such worker and the worker's spouse 
+     and dependents assistance with health care coverage under the 
+     State medicaid program under title XIX of the Social Security 
+     Act (42 U.S.C. 1396 et seq.) or under the State children's 
+     health insurance program under title XXI of such Act (42 
+     U.S.C. 1397aa et seq.) (whether such program is implemented 
+     under that title or title XIX of such Act).
+       (2) Special rules.--In the case of assistance provided 
+     under an election made under this subsection--
+       (A) such assistance shall be provided with funds made 
+     available to the State under section 173(a)(4)(B) of the 
+     Workforce Investment Act of 1998 (as added by subsection (a)) 
+     and without regard to any State share requirement that would 
+     otherwise apply;
+       (B) at a minimum, such assistance shall meet the 
+     requirements of section 2103 of the Social Security Act (42 
+     U.S.C. 1397cc); and
+       (C) with respect to such assistance provided under the 
+     State medicaid program, shall be provided without regard to 
+     requirements relating to statewideness of coverage, or 
+     income, assets, or resources eligibility limitations that 
+     would otherwise apply under title XIX of the Social Security 
+     Act (42 U.S.C. 1396 et seq.).
+       (f) Temporary Extension of COBRA Election Period for 
+     Certain Individuals.--
+       (1) In general.--Notwithstanding any other provision of 
+     law, the election period for COBRA continuation coverage (as 
+     defined in section 6429(d)(2) of the Internal Revenue Code of 
+     1986) with respect to any eligible individual (as defined in 
+     section 6429(c) of such Code) for whom such period has 
+     expired as of the date of the enactment of this Act, shall 
+     not end before the date that is 60 days after the date the 
+     individual becomes such an eligible individual.
+       (2) Preexisting conditions.--If an individual becomes such 
+     an eligible individual, any period before the date of such 
+     eligibility shall be disregarded for purposes of determining 
+     the 63-day periods referred to in section 701(c)(2) of the 
+     Employee Retirement Income Security Act of 1974 (29 U.S.C. 
+     1181(c)(2)), section 2701(c)(2) of the Public Health Service 
+     Act (42 U.S.C. 300gg(c)(2)), and section 9801(c)(2) of the 
+     Internal Revenue Code of 1986.
+
+          TITLE VII--CONFORMING AMENDMENTS AND EFFECTIVE DATE
+
+     SEC. 701. CONFORMING AMENDMENTS.
+
+       (a) Amendments to the Trade Act of 1974.--
+       (1) Assistance to industries.--Section 265 of the Trade Act 
+     of 1974 (19 U.S.C. 2355) is amended by striking ``certified 
+     as eligible to apply for adjustment assistance under sections 
+     231 or 251'', and inserting ``certified as eligible for trade 
+     adjustment assistance benefits under section 231, or as 
+     eligible to apply for adjustment assistance under section 
+     251''.
+       (2) General accounting office report.--Section 280 of the 
+     Trade Act of 1974 (19 U.S.C. 2391) is amended to read as 
+     follows:
+
+     ``SEC. 280. GENERAL ACCOUNTING OFFICE REPORT.
+
+       ``(a) Study and Report.--The Comptroller General of the 
+     United States shall conduct a study of the adjustment 
+     assistance programs established under chapters 2, 3, 4, 6, 
+     and 7 of this title and shall report the results of such 
+     study to the Congress no later than January 31, 2005. Such 
+     report shall include an evaluation of--
+       ``(1) the effectiveness of such programs in aiding workers, 
+     farmers, fishermen, firms, and communities to adjust to 
+     changed economic conditions resulting from changes in the 
+     patterns of international trade; and
+       ``(2) the coordination of the administration of such 
+     programs and other Government programs which provide 
+     unemployment compensation and relief to depressed areas.
+       ``(b) Assistance of Other Departments and Agencies.--In 
+     carrying out his responsibilities under this section, the 
+     Comptroller General shall, to the extent practical, avail 
+     himself of the assistance of the Departments of Labor, 
+     Commerce, and Agriculture and the Small Business 
+     Administration. The Secretaries of Labor, Commerce, and 
+     Agriculture and the Administrator of the Small Business 
+     Administration shall make available to the Comptroller 
+     General any assistance necessary for an effective evaluation 
+     of the adjustment assistance programs established under this 
+     title.''.
+       (3) Coordination.--Section 281 of the Trade Act of 1974 (19 
+     U.S.C. 2392) is amended by striking ``Departments of Labor 
+     and Commerce'' and inserting ``Departments of Labor, 
+     Commerce, and Agriculture''.
+       (4) Trade monitoring system.--Section 282 of the Trade Act 
+     of 1974 (19 U.S.C. 2393) is amended by striking ``The 
+     Secretary of Commerce and the Secretary of Labor'' and 
+     inserting ``The Secretaries of Commerce, Labor, and 
+     Agriculture''.
+       (5) Judicial review.--
+       (A) Section 284(a) of the Trade Act of 1974 (19 U.S.C. 
+     2395(a)) is amended by striking ``under section 223 or 
+     section 250(c)'' and all that follows through ``the Secretary 
+     of Commerce under section 271'' and inserting ``under section 
+     231, a firm or its representative, or any other interested 
+     domestic party aggrieved by a final determination of the 
+     Secretary of Commerce under section 251, an agricultural 
+     commodity producer (as defined in section 291(2)) aggrieved 
+     by a determination of the Secretary of Agriculture under 
+     section 293, or a producer (as defined in section 299(2)) 
+     aggrieved by a determination of the Secretary of Commerce 
+     under section 299B''.
+       (B) Section 284 of such Trade Act of 1974 is amended in the 
+     second sentence of subsection (a) and in subsections (b) and 
+     (c), by inserting ``or the Secretary of Agriculture'' after 
+     ``Secretary of Commerce'' each place it appears.
+       (6) Termination.--Section 285 of the Trade Act of 1974 is 
+     amended to read as follows:
+
+     ``SEC. 285. TERMINATION.
+
+       ``(a) Assistance for Workers.--
+       ``(1) In general.--Except as provided in paragraph (2), 
+     trade adjustment assistance, vouchers, allowances, and other 
+     payments or benefits may not be provided under chapter 2 
+     after September 30, 2007.
+       ``(2) Exception.--Notwithstanding paragraph (1), a worker 
+     shall continue to receive trade adjustment assistance 
+     benefits and other benefits under chapter 2 for any week for 
+     which the worker meets the eligibility requirements of that 
+     chapter, if on or before September 30, 2007, the worker is--
+       ``(A) certified as eligible for trade adjustment assistance 
+     benefits under section 231; and
+       ``(B) otherwise eligible to receive trade adjustment 
+     assistance benefits under chapter 2.
+       ``(b) Other Assistance.--
+       ``(1) Assistance for firms.--Technical assistance may not 
+     be provided under chapter 3 after September 30, 2007.
+       ``(2) Assistance for communities.--Technical assistance and 
+     other payments may not be provided under chapter 4 after 
+     September 30, 2007.
+       ``(3) Assistance for farmers and fishermen.--
+       ``(A) In general.--Except as provided in subparagraph (B), 
+     adjustment assistance, vouchers, allowances, and other 
+     payments or benefits may not be provided under chapter 6 or 7 
+     after September 30, 2007.
+       ``(B) Exception.--Notwithstanding subparagraph (A), an 
+     agricultural commodity producer (as defined in section 
+     291(2)) or producer (as defined in section 299(2)), shall 
+     continue to receive adjustment assistance benefits and other 
+     benefits under chapter 6 or 7, whichever applies, for any 
+     week for which the agricultural commodity producer or 
+     producer meets the eligibility requirements of
+
+[[Page S3669]]
+
+     chapter 6 or 7, whichever applies, if on or before September 
+     30, 2007, the agricultural commodity producer or producer 
+     is--
+       ``(i) certified as eligible for adjustment assistance 
+     benefits under chapter 6 or 7, whichever applies; and
+       ``(ii) is otherwise eligible to receive adjustment 
+     assistance benefits under such chapter 6 or 7.''.
+       (6) Table of contents.--
+       (A) In general.--The table of contents for chapters 2, 3, 
+     and 4 of title II of the Trade Act of 1974 is amended to read 
+     as follows:
+
+             ``Chapter 2--Adjustment Assistance for Workers
+
+
+                   ``SUBCHAPTER A--GENERAL PROVISIONS
+
+``Sec. 221. Definitions.
+``Sec. 222. Agreements with States.
+``Sec. 223. Administration absent State agreement.
+``Sec. 224. Data collection; evaluations; reports.
+``Sec. 225. Study by Secretary of Labor when International Trade 
+              Commission begins investigation.
+``Sec. 226. Report by Secretary of Labor on likely impact of trade 
+              agreements.
+
+
+                     ``SUBCHAPTER B--CERTIFICATIONS
+
+``Sec. 231. Certification as adversely affected workers.
+``Sec. 232. Benefit information to workers.
+
+
+                    ``SUBCHAPTER C--PROGRAM BENEFITS
+
+                      ``Part I--General Provisions
+
+``Sec. 234. Comprehensive assistance.
+
+                 ``Part II--Trade Adjustment Allowances
+
+``Sec. 235. Qualifying requirements for workers.
+``Sec. 236. Weekly amounts.
+``Sec. 237. Limitations on trade adjustment allowances.
+``Sec. 238. Application of State laws.
+
+    ``Part III--Employment Services, Training, and Other Allowances
+
+``Sec. 239. Employment services.
+``Sec. 240. Training.
+``Sec. 241. Job search allowances.
+``Sec. 242. Relocation allowances.
+``Sec. 243. Supportive services; wage insurance.
+
+
+           ``SUBCHAPTER D--PAYMENT AND ENFORCEMENT PROVISIONS
+
+``Sec. 244. Payments to States.
+``Sec. 245. Liabilities of certifying and disbursing officers.
+``Sec. 246. Fraud and recovery of overpayments.
+``Sec. 247. Criminal penalties.
+``Sec. 248. Authorization of appropriations.
+``Sec. 249. Regulations.
+``Sec. 250. Subpoena power.
+
+           ``Chapter 3--Trade Adjustment Assistance for Firms
+
+``Sec. 251. Petitions and determinations.
+``Sec. 252. Approval of adjustment proposals.
+``Sec. 253. Technical assistance.
+``Sec. 254. Financial assistance.
+``Sec. 255. Conditions for financial assistance.
+``Sec. 256. Delegation of functions to Small Business Administration; 
+              authorization of appropriations.
+``Sec. 257. Administration of financial assistance.
+``Sec. 258. Protective provisions.
+``Sec. 259. Penalties.
+``Sec. 260. Suits.
+``Sec. 261. Definition of firm.
+``Sec. 262. Regulations.
+``Sec. 264. Study by Secretary of Commerce when International Trade 
+              Commission begins investigation; action where there is 
+              affirmative finding.
+``Sec. 265. Assistance to industries.
+
+               ``Chapter 4--Community Economic Adjustment
+
+``Sec. 271. Definitions.
+``Sec. 272. Office of Community Trade Adjustment.
+``Sec. 273. Notification and certification as an eligible community.
+``Sec. 274. Community Economic Development Coordinating Committee.
+``Sec. 275. Community economic adjustment advisors.
+``Sec. 276. Strategic plans.
+``Sec. 277. Grants for economic development.
+``Sec. 278. Authorization of appropriations.
+``Sec. 279. General provisions.''.
+       (B) Chapters 6 and 7.--The table of contents for title II 
+     of the Trade Act of 1974, as amended by subparagraph (A), is 
+     amended by inserting after the items relating to chapter 5 
+     the following:
+
+             ``Chapter 6--Adjustment Assistance for Farmers
+
+``Sec. 291. Definitions.
+``Sec. 292. Petitions; group eligibility.
+``Sec. 293. Determinations by Secretary of Agriculture.
+``Sec. 294. Study by Secretary of Agriculture when International Trade 
+              Commission begins investigation.
+``Sec. 295. Benefit information to agricultural commodity producers.
+``Sec. 296. Qualifying requirements for agricultural commodity 
+              producers.
+``Sec. 297. Fraud and recovery of overpayments.
+``Sec. 298. Authorization of appropriations.
+
+            ``Chapter 7--Adjustment Assistance for Fishermen
+
+``Sec. 299. Definitions.
+``Sec. 299A. Petitions; group eligibility.
+``Sec. 299B. Determinations by Secretary.
+``Sec. 299C. Study by Secretary when International Trade Commission 
+              begins investigation.
+``Sec. 299D. Benefit information to producers.
+``Sec. 299E. Qualifying requirements for producers.
+``Sec. 299F. Fraud and recovery of overpayments.
+``Sec. 299G. Authorization of appropriations.''.
+       (b) Internal Revenue Code.--
+       (1) Adjusted gross income.--Section 62(a)(12) of the 
+     Internal Revenue Code of 1986 (relating to the definition of 
+     adjusted gross income) is amended by striking ``trade 
+     readjustment allowances under section 231 or 232'' and 
+     inserting ``trade adjustment allowances under section 235 or 
+     236''.
+       (2) Federal unemployment.--
+       (A) In general.--Section 3304(a)(8) of the Internal Revenue 
+     Code of 1986 (relating to the approval of State unemployment 
+     insurance laws) is amended to read as follows:
+       ``(8) compensation shall not be denied to an individual for 
+     any week because the individual is in training with the 
+     approval of the State agency, or in training approved by the 
+     Secretary of Labor pursuant to chapter 2 of title II of the 
+     Trade Act of 1974 (or because of the application, to any such 
+     week in training, of State law provisions relating to 
+     availability for work, active search for work, or refusal to 
+     accept work);''.
+       (B) Effective date.--
+       (i) In general.--Except as provided in clause (ii), the 
+     amendments made by this paragraph shall apply in the case of 
+     compensation paid for weeks beginning on or after the date 
+     that is 90 days after the date of enactment of this Act.
+       (ii) Meeting of state legislature.--
+
+       (I) In general.--If the Secretary of Labor identifies a 
+     State as requiring a change to its statutes or regulations in 
+     order to comply with the amendments made by subparagraph (A), 
+     the amendments made by subparagraph (A) shall apply in the 
+     case of compensation paid for weeks beginning after the 
+     earlier of--
+
+       (aa) the date the State changes its statutes or regulations 
+     in order to comply with the amendments made by this section; 
+     or
+       (bb) the end of the first session of the State legislature 
+     which begins after the date of enactment of this Act or which 
+     began prior to such date and remained in session for at least 
+     25 calendar days after such date;
+
+     except that in no case shall the amendments made by this Act 
+     apply before the date described in clause (i).
+       (II) Session defined.--In this clause, the term ``session'' 
+     means a regular, special, budget, or other session of a State 
+     legislature.
+
+       (c) Amendments to Title 28.--
+       (1) Civil actions against the united states.--Section 
+     1581(d) of title 28, United States Code, is amended--
+       (A) in paragraph (1), by striking ``section 223'' and 
+     inserting ``section 231'';
+       (B) in paragraph (2), by striking ``and''; and
+       (C) by striking paragraph (3), and inserting the following:
+       ``(3) any final determination of the Secretary of 
+     Agriculture under section 293 of the Trade Act of 1974 with 
+     respect to the eligibility of an agricultural commodity 
+     producer (as defined in section 291(2)) for adjustment 
+     assistance under such Act; and
+       ``(4) any final determination of the Secretary of Commerce 
+     under section 299B of the Trade Act of 1974 with respect to 
+     the eligibility of a producer (as defined in section 299(2)) 
+     for adjustment assistance under such Act.''.
+       (2) Persons entitled to commence a civil action.--Section 
+     2631 of title 28, United States Code, is amended--
+       (A) by amending subsection (d)(1) to read as follows:
+       ``(d)(1) A civil action to review any final determination 
+     of the Secretary of Labor under section 231 of the Trade Act 
+     of 1974 with respect to the certification of workers as 
+     adversely affected and eligible for trade adjustment 
+     assistance under that Act may be commenced by a worker, a 
+     group of workers, a certified or recognized union, or an 
+     authorized representative of such worker or group, that 
+     petitions for certification under that Act or is aggrieved by 
+     the final determination.'';
+       (B) by striking paragraph (3), and inserting the following:
+       ``(3) A civil action to review any final determination of 
+     the Secretary of Agriculture under section 293 of the Trade 
+     Act of 1974 with respect to the eligibility of an 
+     agricultural commodity producer for adjustment assistance may 
+     be commenced in the Court of International Trade by an 
+     agricultural commodity producer that applies for assistance 
+     under such Act and is aggrieved by such final determination, 
+     or by any other interested party that is aggrieved by such 
+     final determination.''; and
+       (C) by adding at the end the following new paragraph:
+       ``(4) A civil action to review any final determination of 
+     the Secretary of Commerce under section 299B of the Trade Act 
+     of 1974 with respect to the eligibility of an producer (as 
+     defined in section 299(2)) for adjustment assistance may be 
+     commenced in the Court of International Trade by a producer 
+     that applies for assistance under such Act and is aggrieved 
+     by such final determination, or by any other interested party 
+     that is aggrieved by such final determination.''.
+
+[[Page S3670]]
+
+       (3) Time for commencement of action.--Section 2636(d) of 
+     title 28, United States Code, is amended by striking ``under 
+     section 223 of the Trade Act of 1974 or a final determination 
+     of the Secretary of Commerce under section 251 or section 271 
+     of such Act'' and inserting ``under section 231 of the Trade 
+     Act of 1974, a final determination of the Secretary of 
+     Commerce under section 251 of that Act, a final determination 
+     of the Secretary of Agriculture under section 293 of that 
+     Act, or a final determination of the Secretary of Commerce 
+     under section 299B of that Act''.
+       (4) Scope and standard of review.--Section 2640(c) of title 
+     28, United States Code, is amended by striking ``under 
+     section 223 of the Trade Act of 1974 or any final 
+     determination of the Secretary of Commerce under section 251 
+     or section 271 of such Act'' and inserting ``under section 
+     231 of the Trade Act of 1974, a final determination of the 
+     Secretary of Commerce under section 251 of that Act, a final 
+     determination of the Secretary of Agriculture under section 
+     293 of that Act, or a final determination of the Secretary of 
+     Commerce under section 299B of that Act''.
+       (5) Relief.--Section 2643(c)(2) of title 28, United States 
+     Code, is amended by striking ``under section 223 of the Trade 
+     Act of 1974 or any final determination of the Secretary of 
+     Commerce under section 251 or section 271 of such Act'' and 
+     inserting ``under section 231 of the Trade Act of 1974, a 
+     final determination of the Secretary of Commerce under 
+     section 251 of that Act, a final determination of the 
+     Secretary of Agriculture under section 293 of that Act, or a 
+     final determination of the Secretary of Commerce under 
+     section 299B of that Act''.
+       (d) Amendment to the Food Stamp Act of 1977.--Section 
+     6(o)(1)(B) of the Food Stamp Act of 1977 (7 U.S.C. 
+     2015(o)(1)(B)) is amended by striking ``section 236'' and 
+     inserting ``section 240''.
+
+           TITLE VIII--SAVINGS PROVISIONS AND EFFECTIVE DATE
+
+     SEC. 801. SAVINGS PROVISIONS.
+
+       (a) Proceedings Not Affected.--
+       (1) In general.--The provisions of this division shall not 
+     affect any petition for certification for benefits under 
+     chapter 2 of title II of the Trade Act of 1974 that was in 
+     effect on September 30, 2001. Determinations shall be issued, 
+     appeals shall be taken therefrom, and payments shall be made 
+     under those determinations, as if this division had not been 
+     enacted, and orders issued in any proceeding shall continue 
+     in effect until modified, terminated, superseded, or revoked 
+     by a duly authorized official, by a court of competent 
+     jurisdiction, or by operation of law.
+       (2) Modification or discontinuance.--Nothing in this 
+     subsection shall be deemed to prohibit the discontinuance or 
+     modification of any proceeding under the same terms and 
+     conditions and to the same extent that the proceeding could 
+     have been discontinued or modified if this division had not 
+     been enacted.
+       (b) Suits Not Affected.--The provisions of this division 
+     shall not affect any suit commenced before October 1, 2001, 
+     and in all those suits, proceedings shall be had, appeals 
+     taken, and judgments rendered in the same manner and with the 
+     same effect as if this division had not been enacted.
+       (c) Nonabatement of Actions.--No suit, action, or other 
+     proceeding commenced by or against the Federal Government, or 
+     by or against any individual in the official capacity of that 
+     individual as an officer of the Federal Government, shall 
+     abate by reason of enactment of this Act.
+
+     SEC. 802. EFFECTIVE DATE.
+
+       (a) In General.--Except as otherwise provided in sections 
+     401(b), 501(b), and 701(b)(2)(B), titles IX, X, and XI, and 
+     subsections (b), (c), and (d) of this section, the amendments 
+     made by this division shall apply to--
+       (1) petitions for certification filed under chapter 2 or 3 
+     of title II of the Trade Act of 1974 on or after the date 
+     that is 90 days after the date of enactment of this Act; and
+       (2) certifications for assistance under chapter 4 of title 
+     II of the Trade Act of 1974 issued on or after the date that 
+     is 90 days after the date of enactment of this Act.
+       (b) Workers Certified as Eligible Before Effective Date.--
+     Notwithstanding subsection (a), a worker shall continue to 
+     receive (or be eligible to receive) trade adjustment 
+     assistance and other benefits under chapter 2 of title II of 
+     the Trade Act of 1974, as in effect on September 30, 2001, 
+     for any week for which the worker meets the eligibility 
+     requirements of such chapter 2 as in effect on such date, if 
+     on or before such date, the worker--
+       (1) was certified as eligible for trade adjustment 
+     assistance benefits under such chapter as in effect on such 
+     date; and
+       (2) would otherwise be eligible to receive trade adjustment 
+     assistance benefits under such chapter as in effect on such 
+     date.
+       (c) Workers Who Became Eligible During Qualified Period.--
+       (1) In general.--Notwithstanding subsection (a) or any 
+     other provision of law, including section 285 of the Trade 
+     Act of 1974, any worker who would have been eligible to 
+     receive trade adjustment assistance or other benefits under 
+     chapter 2 of title II of the Trade Act if 1974 during the 
+     qualified period if such chapter 2 had been in effect during 
+     such period, shall be eligible to receive trade adjustment 
+     assistance and other benefits under chapter 2 of title II of 
+     the Trade Act of 1974, as in effect on September 30, 2001, 
+     for any week during the qualified period for which the worker 
+     meets the eligibility requirements of such chapter 2 as in 
+     effect on September 30, 2001.
+       (2) Qualified period.--For purposes of this subsection, the 
+     term ``qualified period'' means the period beginning on 
+     January 11, 2002 and ending on the date that is 90 days after 
+     the date of enactment of this Act.
+       (d) Adjustment Assistance for Firms.--
+       (1) In general.--Notwithstanding subsection (a) or any 
+     other provision of law, including section 285 of the Trade 
+     Act of 1974, and except as provided in paragraph (2) any firm 
+     that would have been eligible to receive adjustment 
+     assistance under chapter 3 of title II of the Trade Act if 
+     1974 during the qualified period if such chapter 3 had been 
+     in effect during such period, shall be eligible to receive 
+     adjustment assistance under chapter 3 of title II of the 
+     Trade Act of 1974, as in effect on September 30, 2001, for 
+     any week during the qualified period for which the firm meets 
+     the eligibility requirements of such chapter 3 as in effect 
+     on September 30, 2001.
+       (2) Qualified period.--For purposes of this subsection, the 
+     term ``qualified period'' means the period beginning on 
+     October 1, 2001 and ending on the date that is 90 days after 
+     the date of enactment of this Act.
+
+                      TITLE IX--REVENUE PROVISIONS
+
+     SEC. 901. CUSTOM USER FEES.
+
+       Section 13031(j)(3) of the Consolidated Omnibus Budget 
+     Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended 
+     by striking ``2003'' and inserting ``2009''.
+
+                   TITLE X--MISCELLANEOUS PROVISIONS
+
+     SEC. 1001. COUNTRY OF ORIGIN LABELING OF FISH AND SHELLFISH 
+                   PRODUCTS.
+
+       (a) Definitions.--In this section:
+       (1) Covered commodity.--The term ``covered commodity'' 
+     means--
+       (A) a perishable agricultural commodity; and
+       (B) any fish or shellfish, and any fillet, steak, nugget, 
+     or any other flesh from fish or shellfish, whether fresh, 
+     chilled, frozen, canned, smoked, or otherwise preserved.
+       (2) Food service establishment.--The term ``food service 
+     establishment'' means a restaurant, cafeteria, lunch room, 
+     food stand, saloon, tavern, bar, lounge, or other similar 
+     facility operated as an enterprise engaged in the business of 
+     selling food to the public.
+       (3) Perishable agricultural commodity; retailer.--The terms 
+     ``perishable agricultural commodity'' and ``retailer'' have 
+     the meanings given the terms in section 1(b) of the 
+     Perishable Agricultural Commodities Act, 1930 (7 U.S.C. 
+     499a(b)).
+       (4) Secretary.--The term ``Secretary'' means the Secretary 
+     of Agriculture, acting through the Agricultural Marketing 
+     Service.
+       (b) Notice of Country of Origin.--
+       (1) Requirement.--Except as provided in paragraph (3), a 
+     retailer of a covered commodity shall inform consumers, at 
+     the final point of sale of the covered commodity to 
+     consumers, of the country of origin of the covered commodity.
+       (2) United states country of origin.--A retailer of a 
+     covered commodity may designate the covered commodity as 
+     having a United States country of origin only if the covered 
+     commodity is exclusively harvested and processed in the 
+     United States, or in the case of farm-raised fish and 
+     shellfish, is hatched, raised, harvested, and processed in 
+     the United States.
+       (3) Exemption for food service establishments.--Paragraph 
+     (1) shall not apply to a covered commodity if the covered 
+     commodity is prepared or served in a food service 
+     establishment, and--
+       (A) offered for sale or sold at the food service 
+     establishment in normal retail quantities; or
+       (B) served to consumers at the food service establishment.
+       (c) Method of Notification.--
+       (1) In general.--The information required by subsection (b) 
+     may be provided to consumers by means of a label, stamp, 
+     mark, placard, or other clear and visible sign on the covered 
+     commodity or on the package, display, holding unit, or bin 
+     containing the covered commodity at the final point of sale 
+     to consumers.
+       (2) Labeled commodities.--If the covered commodity is 
+     already individually labeled for retail sale regarding 
+     country of origin, the retailer shall not be required to 
+     provide any additional information to comply with this 
+     section.
+       (d) Audit Verification System.--The Secretary may require 
+     that any person that prepares, stores, handles, or 
+     distributes a covered commodity for retail sale maintain a 
+     verifiable recordkeeping audit trail that will permit the 
+     Secretary to ensure compliance with the regulations 
+     promulgated under subsection (g).
+       (e) Information.--Any person engaged in the business of 
+     supplying a covered commodity to a retailer shall provide 
+     information to the retailer indicating the country of origin 
+     of the covered commodity.
+       (f) Enforcement.--
+       (1) In general.--Each Federal agency having jurisdiction 
+     over retailers of covered commodities shall, at such time as 
+     the necessary regulations are adopted under subsection (g), 
+     adopt measures intended to ensure that the requirements of 
+     this section are followed by affected retailers.
+       (2) Violation.--A violation of subsection (b) shall be 
+     treated as a violation under the Agricultural Marketing Act 
+     of 1946 (7 U.S.C. 1621 et seq.).
+       (g) Regulations.--
+       (1) In general.--The Secretary may promulgate such 
+     regulations as are necessary to carry out this section within 
+     1 year after the date of enactment of this Act.
+
+[[Page S3671]]
+
+       (2) Partnerships with states.--In promulgating the 
+     regulations, the Secretary shall, to the maximum extent 
+     practicable, enter into partnerships with States that have 
+     the enforcement infrastructure necessary to carry out this 
+     section.
+       (h) Application.--This section shall apply to the retail 
+     sale of a covered commodity beginning on the date that is 180 
+     days after the date of enactment of this Act.
+
+     SEC. 1002. SUGAR POLICY.
+
+       (a) Findings.--Congress finds that--
+       (1) the tariff-rate quotas imposed on imports of sugar, 
+     syrups and sugar-containing products under chapters 17, 18, 
+     19, and 21 of the Harmonized Tariff Schedule of the United 
+     States are an essential element of United States sugar 
+     policy;
+       (2) circumvention of the tariff-rate quotas will, if 
+     unchecked, make it impossible to achieve the objectives of 
+     United States sugar policy;
+       (3) the tariff-rate quotas have been circumvented 
+     frequently, defeating the purposes of United States sugar 
+     policy and causing disruption to the United States market for 
+     sweeteners, injury to domestic growers, refiners, and 
+     processors of sugar, and adversely affecting legitimate 
+     exporters of sugar to the United States;
+       (4) it is essential to United States sugar policy that the 
+     tariff-rate quotas be enforced and that deceptive practices 
+     be prevented, including the importation of products with no 
+     commercial use and failure to disclose all relevant 
+     information to the United States Customs Service; and
+       (5) unless action is taken to prevent circumvention, 
+     circumvention of the tariff-rate quotas will continue and 
+     will ultimately destroy United States sugar policy.
+       (b) Policy.--It is the policy of the United States to 
+     maintain the integrity of the tariff-rate quotas on sugars, 
+     syrups, and sugar-containing products by stopping 
+     circumvention as soon as it becomes apparent. It is also the 
+     policy of the United States that products not used to 
+     circumvent the tariff-rate quotas, such as molasses used for 
+     animal feed or for rum, not be affected by any action taken 
+     pursuant to this Act.
+       (c) Identification of Imports.--
+       (1) Identification.--Not later than 30 days after the date 
+     of enactment of this Act, and on a regular basis thereafter, 
+     the Secretary of Agriculture shall--
+       (A) identify imports of articles that are circumventing 
+     tariff-rate quotas on sugars, syrups, or sugar-containing 
+     products imposed under chapter 17, 18, 19, or 21 of the 
+     Harmonized Tariff Schedule of the United States; and
+       (B) report to the President the articles found to be 
+     circumventing the tariff-rate quotas.
+       (2) Action by president.--Upon receiving the report from 
+     the Secretary of Agriculture, the President shall, by 
+     proclamation, include any article identified by the Secretary 
+     in the appropriate tariff-rate quota provision of the 
+     Harmonized Tariff Schedule.
+
+                   TITLE XI--CUSTOMS REAUTHORIZATION
+
+     SEC. 1101. SHORT TITLE.
+
+       This title may be cited as the ``Customs Border Security 
+     Act of 2002''.
+
+               Subtitle A--United States Customs Service
+
+  CHAPTER 1--DRUG ENFORCEMENT AND OTHER NONCOMMERCIAL AND COMMERCIAL 
+                               OPERATIONS
+
+     SEC. 1111. AUTHORIZATION OF APPROPRIATIONS FOR NONCOMMERCIAL 
+                   OPERATIONS, COMMERCIAL OPERATIONS, AND AIR AND 
+                   MARINE INTERDICTION.
+
+       (a) Noncommercial Operations.--Section 301(b)(1) of the 
+     Customs Procedural Reform and Simplification Act of 1978 (19 
+     U.S.C. 2075(b)(1)) is amended--
+       (1) in subparagraph (A) to read as follows:
+       ``(A) $886,513,000 for fiscal year 2003.''; and
+       (2) in subparagraph (B) to read as follows:
+       ``(B) $909,471,000 for fiscal year 2004.''.
+       (b) Commercial Operations.--
+       (1) In general.--Section 301(b)(2)(A) of the Customs 
+     Procedural Reform and Simplification Act of 1978 (19 U.S.C. 
+     2075(b)(2)(A)) is amended--
+       (A) in clause (i) to read as follows:
+       ``(i) $1,603,482,000 for fiscal year 2003.''; and
+       (B) in clause (ii) to read as follows:
+       ``(ii) $1,645,009,000 for fiscal year 2004.''.
+       (2) Automated commercial environment computer system.--Of 
+     the amount made available for each of fiscal years 2003 and 
+     2004 under section 301(b)(2)(A) of the Customs Procedural 
+     Reform and Simplification Act of 1978 (19 U.S.C. 
+     2075(b)(2)(A)), as amended by paragraph (1), $308,000,000 
+     shall be available until expended for each such fiscal year 
+     for the development, establishment, and implementation of the 
+     Automated Commercial Environment computer system.
+       (3) Reports.--Not later than 90 days after the date of 
+     enactment of this Act, and not later than each subsequent 90-
+     day period, the Commissioner of Customs shall prepare and 
+     submit to the Committee on Ways and Means of the House of 
+     Representatives and the Committee on Finance of the Senate a 
+     report demonstrating that the development and establishment 
+     of the Automated Commercial Environment computer system is 
+     being carried out in a cost-effective manner and meets the 
+     modernization requirements of title VI of the North American 
+     Free Trade Agreements Implementation Act.
+       (c) Air and Marine Interdiction.--Section 301(b)(3) of the 
+     Customs Procedural Reform and Simplification Act of 1978 (19 
+     U.S.C. 2075(b)(3)) is amended--
+       (1) in subparagraph (A) to read as follows:
+       ``(A) $181,860,000 for fiscal year 2003.''; and
+       (2) in subparagraph (B) to read as follows:
+       ``(B) $186,570,000 for fiscal year 2004.''.
+       (d) Submission of Out-Year Budget Projections.--Section 
+     301(a) of the Customs Procedural Reform and Simplification 
+     Act of 1978 (19 U.S.C. 2075(a)) is amended by adding at the 
+     end the following:
+       ``(3) By not later than the date on which the President 
+     submits to Congress the budget of the United States 
+     Government for a fiscal year, the Commissioner of Customs 
+     shall submit to the Committee on Ways and Means of the House 
+     of Representatives and the Committee on Finance of the Senate 
+     the projected amount of funds for the succeeding fiscal year 
+     that will be necessary for the operations of the Customs 
+     Service as provided for in subsection (b).''.
+
+     SEC. 1112. ANTITERRORIST AND ILLICIT NARCOTICS DETECTION 
+                   EQUIPMENT FOR THE UNITED STATES-MEXICO BORDER, 
+                   UNITED STATES-CANADA BORDER, AND FLORIDA AND 
+                   THE GULF COAST SEAPORTS.
+
+       (a) Fiscal Year 2003.--Of the amounts made available for 
+     fiscal year 2003 under section 301(b)(1)(A) of the Customs 
+     Procedural Reform and Simplification Act of 1978 (19 U.S.C. 
+     2075(b)(1)(A)), as amended by section 1111(a) of this title, 
+     $90,244,000 shall be available until expended for acquisition 
+     and other expenses associated with implementation and 
+     deployment of antiterrorist and illicit narcotics detection 
+     equipment along the United States-Mexico border, the United 
+     States-Canada border, and Florida and the Gulf Coast 
+     seaports, as follows:
+       (1) United states-mexico border.--For the United States-
+     Mexico border, the following:
+       (A) $6,000,000 for 8 Vehicle and Container Inspection 
+     Systems (VACIS).
+       (B) $11,200,000 for 5 mobile truck x-rays with transmission 
+     and backscatter imaging.
+       (C) $13,000,000 for the upgrade of 8 fixed-site truck x-
+     rays from the present energy level of 450,000 electron volts 
+     to 1,000,000 electron volts (1-MeV).
+       (D) $7,200,000 for 8 1-MeV pallet x-rays.
+       (E) $1,000,000 for 200 portable contraband detectors 
+     (busters) to be distributed among ports where the current 
+     allocations are inadequate.
+       (F) $600,000 for 50 contraband detection kits to be 
+     distributed among all southwest border ports based on traffic 
+     volume.
+       (G) $500,000 for 25 ultrasonic container inspection units 
+     to be distributed among all ports receiving liquid-filled 
+     cargo and to ports with a hazardous material inspection 
+     facility.
+       (H) $2,450,000 for 7 automated targeting systems.
+       (I) $360,000 for 30 rapid tire deflator systems to be 
+     distributed to those ports where port runners are a threat.
+       (J) $480,000 for 20 portable Treasury Enforcement 
+     Communications Systems (TECS) terminals to be moved among 
+     ports as needed.
+       (K) $1,000,000 for 20 remote watch surveillance camera 
+     systems at ports where there are suspicious activities at 
+     loading docks, vehicle queues, secondary inspection lanes, or 
+     areas where visual surveillance or observation is obscured.
+       (L) $1,254,000 for 57 weigh-in-motion sensors to be 
+     distributed among the ports with the greatest volume of 
+     outbound traffic.
+       (M) $180,000 for 36 AM traffic information radio stations, 
+     with 1 station to be located at each border crossing.
+       (N) $1,040,000 for 260 inbound vehicle counters to be 
+     installed at every inbound vehicle lane.
+       (O) $950,000 for 38 spotter camera systems to counter the 
+     surveillance of customs inspection activities by persons 
+     outside the boundaries of ports where such surveillance 
+     activities are occurring.
+       (P) $390,000 for 60 inbound commercial truck transponders 
+     to be distributed to all ports of entry.
+       (Q) $1,600,000 for 40 narcotics vapor and particle 
+     detectors to be distributed to each border crossing.
+       (R) $400,000 for license plate reader automatic targeting 
+     software to be installed at each port to target inbound 
+     vehicles.
+       (2) United states-canada border.--For the United States-
+     Canada border, the following:
+       (A) $3,000,000 for 4 Vehicle and Container Inspection 
+     Systems (VACIS).
+       (B) $8,800,000 for 4 mobile truck x-rays with transmission 
+     and backscatter imaging.
+       (C) $3,600,000 for 4 1-MeV pallet x-rays.
+       (D) $250,000 for 50 portable contraband detectors (busters) 
+     to be distributed among ports where the current allocations 
+     are inadequate.
+       (E) $300,000 for 25 contraband detection kits to be 
+     distributed among ports based on traffic volume.
+       (F) $240,000 for 10 portable Treasury Enforcement 
+     Communications Systems (TECS) terminals to be moved among 
+     ports as needed.
+       (G) $400,000 for 10 narcotics vapor and particle detectors 
+     to be distributed to each border crossing based on traffic 
+     volume.
+       (3) Florida and gulf coast seaports.--For Florida and the 
+     Gulf Coast seaports, the following:
+       (A) $4,500,000 for 6 Vehicle and Container Inspection 
+     Systems (VACIS).
+       (B) $11,800,000 for 5 mobile truck x-rays with transmission 
+     and backscatter imaging.
+       (C) $7,200,000 for 8 1-MeV pallet x-rays.
+       (D) $250,000 for 50 portable contraband detectors (busters) 
+     to be distributed among
+
+[[Page S3672]]
+
+     ports where the current allocations are inadequate.
+       (E) $300,000 for 25 contraband detection kits to be 
+     distributed among ports based on traffic volume.
+       (b) Fiscal Year 2004.--Of the amounts made available for 
+     fiscal year 2004 under section 301(b)(1)(B) of the Customs 
+     Procedural Reform and Simplification Act of 1978 (19 U.S.C. 
+     2075(b)(1)(B)), as amended by section 1111(a) of this title, 
+     $9,000,000 shall be available until expended for the 
+     maintenance and support of the equipment and training of 
+     personnel to maintain and support the equipment described in 
+     subsection (a).
+       (c) Acquisition of Technologically Superior Equipment; 
+     Transfer of Funds.--
+       (1) In general.--The Commissioner of Customs may use 
+     amounts made available for fiscal year 2003 under section 
+     301(b)(1)(A) of the Customs Procedural Reform and 
+     Simplification Act of 1978 (19 U.S.C. 2075(b)(1)(A)), as 
+     amended by section 1111(a) of this title, for the acquisition 
+     of equipment other than the equipment described in subsection 
+     (a) if such other equipment--
+       (A)(i) is technologically superior to the equipment 
+     described in subsection (a); and
+       (ii) will achieve at least the same results at a cost that 
+     is the same or less than the equipment described in 
+     subsection (a); or
+       (B) can be obtained at a lower cost than the equipment 
+     described in subsection (a).
+       (2) Transfer of funds.--Notwithstanding any other provision 
+     of this section, the Commissioner of Customs may reallocate 
+     an amount not to exceed 10 percent of--
+       (A) the amount specified in any of subparagraphs (A) 
+     through (R) of subsection (a)(1) for equipment specified in 
+     any other of such subparagraphs (A) through (R);
+       (B) the amount specified in any of subparagraphs (A) 
+     through (G) of subsection (a)(2) for equipment specified in 
+     any other of such subparagraphs (A) through (G); and
+       (C) the amount specified in any of subparagraphs (A) 
+     through (E) of subsection (a)(3) for equipment specified in 
+     any other of such subparagraphs (A) through (E).
+
+     SEC. 1113. COMPLIANCE WITH PERFORMANCE PLAN REQUIREMENTS.
+
+       As part of the annual performance plan for each of the 
+     fiscal years 2003 and 2004 covering each program activity set 
+     forth in the budget of the United States Customs Service, as 
+     required under section 1115 of title 31, United States Code, 
+     the Commissioner of Customs shall establish performance 
+     goals, performance indicators, and comply with all other 
+     requirements contained in paragraphs (1) through (6) of 
+     subsection (a) of such section with respect to each of the 
+     activities to be carried out pursuant to sections 1121 of 
+     this title.
+
+     CHAPTER 2--CHILD CYBER-SMUGGLING CENTER OF THE CUSTOMS SERVICE
+
+     SEC. 1121. AUTHORIZATION OF APPROPRIATIONS FOR PROGRAM TO 
+                   PREVENT CHILD PORNOGRAPHY/CHILD SEXUAL 
+                   EXPLOITATION.
+
+       (a) Authorization of Appropriations.--There is authorized 
+     to be appropriated to the Customs Service $10,000,000 for 
+     fiscal year 2003 to carry out the program to prevent child 
+     pornography/child sexual exploitation established by the 
+     Child Cyber-Smuggling Center of the Customs Service.
+       (b) Use of Amounts for Child Pornography Cyber Tipline.--Of 
+     the amount appropriated under subsection (a), the Customs 
+     Service shall provide 3.75 percent of such amount to the 
+     National Center for Missing and Exploited Children for the 
+     operation of the child pornography cyber tipline of the 
+     Center and for increased public awareness of the tipline.
+
+                  CHAPTER 3--MISCELLANEOUS PROVISIONS
+
+     SEC. 1131. ADDITIONAL CUSTOMS SERVICE OFFICERS FOR UNITED 
+                   STATES-CANADA BORDER.
+
+       Of the amount made available for fiscal year 2003 under 
+     paragraphs (1) and (2)(A) of section 301(b) of the Customs 
+     Procedural Reform and Simplification Act of 1978 (19 U.S.C. 
+     2075(b)), as amended by section 1111 of this title, 
+     $25,000,000 shall be available until expended for the Customs 
+     Service to hire approximately 285 additional Customs Service 
+     officers to address the needs of the offices and ports along 
+     the United States-Canada border.
+
+     SEC. 1132. STUDY AND REPORT RELATING TO PERSONNEL PRACTICES 
+                   OF THE CUSTOMS SERVICE.
+
+       (a) Study.--The Commissioner of Customs shall conduct a 
+     study of current personnel practices of the Customs Service, 
+     including an overview of performance standards and the effect 
+     and impact of the collective bargaining process on drug 
+     interdiction efforts of the Customs Service and a comparison 
+     of duty rotation policies of the Customs Service and other 
+     Federal agencies that employ similarly-situated personnel.
+       (b) Report.--Not later than 120 days after the date of 
+     enactment of this Act, the Commissioner of Customs shall 
+     submit to the Committee on Ways and Means of the House of 
+     Representatives and the Committee on Finance of the Senate a 
+     report containing the results of the study conducted under 
+     subsection (a).
+
+     SEC. 1133. STUDY AND REPORT RELATING TO ACCOUNTING AND 
+                   AUDITING PROCEDURES OF THE CUSTOMS SERVICE.
+
+       (a) Study.--(1) The Commissioner of Customs shall conduct a 
+     study of actions by the Customs Service to ensure that 
+     appropriate training is being provided to Customs Service 
+     personnel who are responsible for financial auditing of 
+     importers.
+       (2) In conducting the study, the Commissioner--
+       (A) shall specifically identify those actions taken to 
+     comply with provisions of law that protect the privacy and 
+     trade secrets of importers, such as section 552(b) of title 
+     5, United States Code, and section 1905 of title 18, United 
+     States Code; and
+       (B) shall provide for public notice and comment relating to 
+     verification of the actions described in subparagraph (A).
+       (b) Report.--Not later than 6 months after the date of 
+     enactment of this Act, the Commissioner of Customs shall 
+     submit to the Committee on Ways and Means of the House of 
+     Representatives and the Committee on Finance of the Senate a 
+     report containing the results of the study conducted under 
+     subsection (a).
+
+     SEC. 1134. ESTABLISHMENT AND IMPLEMENTATION OF COST 
+                   ACCOUNTING SYSTEM; REPORTS.
+
+       (a) Establishment and Implementation.--
+       (1) In general.--Not later than September 30, 2003, the 
+     Commissioner of Customs shall, in accordance with the audit 
+     of the Customs Service's fiscal years 2000 and 1999 financial 
+     statements (as contained in the report of the Office of the 
+     Inspector General of the Department of the Treasury issued on 
+     February 23, 2001), establish and implement a cost accounting 
+     system for expenses incurred in both commercial and 
+     noncommercial operations of the Customs Service.
+       (2) Additional requirement.--The cost accounting system 
+     described in paragraph (1) shall provide for an 
+     identification of expenses based on the type of operation, 
+     the port at which the operation took place, the amount of 
+     time spent on the operation by personnel of the Customs 
+     Service, and an identification of expenses based on any other 
+     appropriate classification necessary to provide for an 
+     accurate and complete accounting of the expenses.
+       (b) Reports.--Beginning on the date of enactment of this 
+     Act and ending on the date on which the cost accounting 
+     system described in subsection (a) is fully implemented, the 
+     Commissioner of Customs shall prepare and submit to Congress 
+     on a quarterly basis a report on the progress of implementing 
+     the cost accounting system pursuant to subsection (a).
+
+     SEC. 1135. STUDY AND REPORT RELATING TO TIMELINESS OF 
+                   PROSPECTIVE RULINGS.
+
+       (a) Study.--The Comptroller General shall conduct a study 
+     on the extent to which the Office of Regulations and Rulings 
+     of the Customs Service has made improvements to decrease the 
+     amount of time to issue prospective rulings from the date on 
+     which a request for the ruling is received by the Customs 
+     Service.
+       (b) Report.--Not later than 1 year after the date of 
+     enactment of this Act, the Comptroller General shall submit 
+     to the Committee on Ways and Means of the House of 
+     Representatives and the Committee on Finance of the Senate a 
+     report containing the results of the study conducted under 
+     subsection (a).
+       (c) Definition.--In this section, the term ``prospective 
+     ruling'' means a ruling that is requested by an importer on 
+     goods that are proposed to be imported into the United States 
+     and that relates to the proper classification, valuation, or 
+     marking of such goods.
+
+     SEC. 1136. STUDY AND REPORT RELATING TO CUSTOMS USER FEES.
+
+       (a) Study.--The Comptroller General shall conduct a study 
+     on the extent to which the amount of each customs user fee 
+     imposed under section 13031(a) of the Consolidated Omnibus 
+     Budget Reconciliation Act of 1985 (19 U.S.C. 58c(a)) is 
+     commensurate with the level of services provided by the 
+     Customs Service relating to the fee so imposed.
+       (b) Report.--Not later than 120 days after the date of 
+     enactment of this Act, the Comptroller General shall submit 
+     to the Committee on Ways and Means of the House of 
+     Representatives and the Committee on Finance of the Senate a 
+     report in classified form containing--
+       (1) the results of the study conducted under subsection 
+     (a); and
+       (2) recommendations for the appropriate amount of the 
+     customs user fees if such results indicate that the fees are 
+     not commensurate with the level of services provided by the 
+     Customs Service.
+
+                  CHAPTER 4--ANTITERRORISM PROVISIONS
+
+     SEC. 1141. EMERGENCY ADJUSTMENTS TO OFFICES, PORTS OF ENTRY, 
+                   OR STAFFING OF THE CUSTOMS SERVICE.
+
+       Section 318 of the Tariff Act of 1930 (19 U.S.C. 1318) is 
+     amended--
+       (1) by striking ``Whenever the President'' and inserting 
+     ``(a) Whenever the President''; and
+       (2) by adding at the end the following:
+       ``(b)(1) Notwithstanding any other provision of law, the 
+     Secretary of the Treasury, when necessary to respond to a 
+     national emergency declared under the National Emergencies 
+     Act (50 U.S.C. 1601 et seq.) or to a specific threat to human 
+     life or national interests, is authorized to take the 
+     following actions on a temporary basis:
+       ``(A) Eliminate, consolidate, or relocate any office or 
+     port of entry of the Customs Service.
+       ``(B) Modify hours of service, alter services rendered at 
+     any location, or reduce the number of employees at any 
+     location.
+
+[[Page S3673]]
+
+       ``(C) Take any other action that may be necessary to 
+     directly respond to the national emergency or specific 
+     threat.
+       ``(2) Notwithstanding any other provision of law, the 
+     Commissioner of Customs, when necessary to respond to a 
+     specific threat to human life or national interests, is 
+     authorized to close temporarily any Customs office or port of 
+     entry or take any other lesser action that may be necessary 
+     to respond to the specific threat.
+       ``(3) The Secretary of the Treasury or the Commissioner of 
+     Customs, as the case may be, shall notify the Committee on 
+     Ways and Means of the House of Representatives and the 
+     Committee on Finance of the Senate not later than 72 hours 
+     after taking any action under paragraph (1) or (2).''.
+
+     SEC. 1142. MANDATORY ADVANCED ELECTRONIC INFORMATION FOR 
+                   CARGO AND PASSENGERS.
+
+       (a) Cargo Information.--
+       (1) In general.--Section 431(b) of the Tariff Act of 1930 
+     (19 U.S.C. 1431(b)) is amended--
+       (A) in the first sentence, by striking ``Any manifest'' and 
+     inserting ``(1) Any manifest''; and
+       (B) by adding at the end the following:
+       ``(2) In addition to any other requirement under this 
+     section, for each land, air, or vessel carrier required to 
+     make entry or obtain clearance under the customs laws of the 
+     United States, the pilot, the master, operator, or owner of 
+     such carrier (or the authorized agent of such operator or 
+     owner) shall provide by electronic transmission cargo 
+     manifest information in advance of such entry or clearance in 
+     such manner, time, and form as prescribed under regulations 
+     by the Secretary. The Secretary may exclude any class of 
+     land, air, or vessel carrier for which the Secretary 
+     concludes the requirements of this subparagraph are not 
+     necessary.''.
+       (2) Conforming amendments.--Subparagraphs (A) and (C) of 
+     section 431(d)(1) of such Act are each amended by inserting 
+     before the semicolon ``or subsection (b)(2)''.
+       (b) Passenger Information.--Part II of title IV of the 
+     Tariff Act of 1930 (19 U.S.C. 1431 et seq.) is amended by 
+     inserting after section 431 the following:
+
+     ``SEC. 432. PASSENGER AND CREW MANIFEST INFORMATION REQUIRED 
+                   FOR LAND, AIR, OR VESSEL CARRIERS.
+
+       ``(a) In General.--For every person arriving or departing 
+     on a land, air, or vessel carrier required to make entry or 
+     obtain clearance under the customs laws of the United States, 
+     the pilot, the master, operator, or owner of such carrier (or 
+     the authorized agent of such operator or owner) shall provide 
+     by electronic transmission manifest information described in 
+     subsection (b) in advance of such entry or clearance in such 
+     manner, time, and form as prescribed under regulations by the 
+     Secretary.
+       ``(b) Information Described.--The information described in 
+     this subsection shall include for each person described in 
+     subsection (a), the person's--
+       ``(1) full name;
+       ``(2) date of birth and citizenship;
+       ``(3) gender;
+       ``(4) passport number and country of issuance;
+       ``(5) United States visa number or resident alien card 
+     number, as applicable;
+       ``(6) passenger name record; and
+       ``(7) such additional information that the Secretary, by 
+     regulation, determines is reasonably necessary to ensure 
+     aviation and maritime safety pursuant to the laws enforced or 
+     administered by the Customs Service.''.
+       (c) Definition.--Section 401 of the Tariff Act of 1930 (19 
+     U.S.C. 1401) is amended by adding at the end the following:
+       ``(t) The term `land, air, or vessel carrier' means a land, 
+     air, or vessel carrier, as the case may be, that transports 
+     goods or passengers for payment or other consideration, 
+     including money or services rendered.''.
+       (d) Effective Date.--The amendments made by this section 
+     shall take effect beginning 45 days after the date of 
+     enactment of this Act.
+
+     SEC. 1143. BORDER SEARCH AUTHORITY FOR CERTAIN CONTRABAND IN 
+                   OUTBOUND MAIL.
+
+       The Tariff Act of 1930 is amended by inserting after 
+     section 582 the following:
+
+     ``SEC. 583. EXAMINATION OF OUTBOUND MAIL.
+
+       ``(a) Examination.--
+       ``(1) In general.--For purposes of ensuring compliance with 
+     the Customs laws of the United States and other laws enforced 
+     by the Customs Service, including the provisions of law 
+     described in paragraph (2), a Customs officer may, subject to 
+     the provisions of this section, stop and search at the 
+     border, without a search warrant, mail of domestic origin 
+     transmitted for export by the United States Postal Service 
+     and foreign mail transiting the United States that is being 
+     imported or exported by the United States Postal Service.
+       ``(2) Provisions of law described.--The provisions of law 
+     described in this paragraph are the following:
+       ``(A) Section 5316 of title 31, United States Code 
+     (relating to reports on exporting and importing monetary 
+     instruments).
+       ``(B) Sections 1461, 1463, 1465, and 1466 and chapter 110 
+     of title 18, United States Code (relating to obscenity and 
+     child pornography).
+       ``(C) Section 1003 of the Controlled Substances Import and 
+     Export Act (21 U.S.C. 953; relating to exportation of 
+     controlled substances).
+       ``(D) The Export Administration Act of 1979 (50 U.S.C. App. 
+     2401 et seq.).
+       ``(E) Section 38 of the Arms Export Control Act (22 U.S.C. 
+     2778).
+       ``(F) The International Emergency Economic Powers Act (50 
+     U.S.C. 1701 et seq.).
+       ``(b) Search of Mail Not Sealed Against Inspection and 
+     Other Mail.--Mail not sealed against inspection under the 
+     postal laws and regulations of the United States, mail which 
+     bears a customs declaration, and mail with respect to which 
+     the sender or addressee has consented in writing to search, 
+     may be searched by a Customs officer.
+       ``(c) Search of Mail Sealed Against Inspection.--(1) Mail 
+     sealed against inspection under the postal laws and 
+     regulations of the United States may be searched by a Customs 
+     officer, subject to paragraph (2), upon reasonable cause to 
+     suspect that such mail contains one or more of the following:
+       ``(A) Monetary instruments, as defined in section 1956 of 
+     title 18, United States Code.
+       ``(B) A weapon of mass destruction, as defined in section 
+     2332a(b) of title 18, United States Code.
+       ``(C) A drug or other substance listed in schedule I, II, 
+     III, or IV in section 202 of the Controlled Substances Act 
+     (21 U.S.C. 812).
+       ``(D) National defense and related information transmitted 
+     in violation of any of sections 793 through 798 of title 18, 
+     United States Code.
+       ``(E) Merchandise mailed in violation of section 1715 or 
+     1716 of title 18, United States Code.
+       ``(F) Merchandise mailed in violation of any provision of 
+     chapter 71 (relating to obscenity) or chapter 110 (relating 
+     to sexual exploitation and other abuse of children) of title 
+     18, United States Code.
+       ``(G) Merchandise mailed in violation of the Export 
+     Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
+       ``(H) Merchandise mailed in violation of section 38 of the 
+     Arms Export Control Act (22 U.S.C. 2778).
+       ``(I) Merchandise mailed in violation of the International 
+     Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
+       ``(J) Merchandise mailed in violation of the Trading with 
+     the Enemy Act (50 U.S.C. App. 1 et seq.).
+       ``(K) Merchandise subject to any other law enforced by the 
+     Customs Service.
+       ``(2) No person acting under authority of paragraph (1) 
+     shall read, or authorize any other person to read, any 
+     correspondence contained in mail sealed against inspection 
+     unless prior to so reading--
+       ``(A) a search warrant has been issued pursuant to Rule 41, 
+     Federal Rules of Criminal Procedure; or
+       ``(B) the sender or addressee has given written 
+     authorization for such reading.''.
+
+     SEC. 1144. AUTHORIZATION OF APPROPRIATIONS FOR 
+                   REESTABLISHMENT OF CUSTOMS OPERATIONS IN NEW 
+                   YORK CITY.
+
+       (a) Authorization of Appropriations.--
+       (1) In general.--There is authorized to be appropriated for 
+     the reestablishment of operations of the Customs Service in 
+     New York, New York, such sums as may be necessary for fiscal 
+     year 2003.
+       (2) Operations described.--The operations referred to in 
+     paragraph (1) include, but are not limited to, the following:
+       (A) Operations relating to the Port Director of New York 
+     City, the New York Customs Management Center (including the 
+     Director of Field Operations), and the Special Agent-In-
+     Charge for New York.
+       (B) Commercial operations, including textile enforcement 
+     operations and salaries and expenses of--
+       (i) trade specialists who determine the origin and value of 
+     merchandise;
+       (ii) analysts who monitor the entry data into the United 
+     States of textiles and textile products; and
+       (iii) Customs officials who work with foreign governments 
+     to examine textile makers and verify entry information.
+       (b) Availability.--Amounts appropriated pursuant to the 
+     authorization of appropriations under subsection (a) are 
+     authorized to remain available until expended.
+
+              CHAPTER 5--TEXTILE TRANSSHIPMENT PROVISIONS
+
+     SEC. 1151. GAO AUDIT OF TEXTILE TRANSSHIPMENT MONITORING BY 
+                   CUSTOMS SERVICE.
+
+       (a) GAO Audit.--The Comptroller General of the United 
+     States shall conduct an audit of the system established and 
+     carried out by the Customs Service to monitor textile 
+     transshipment.
+       (b) Report.--Not later than 9 months after the date of 
+     enactment of this Act, the Comptroller General shall submit 
+     to the Committee on Ways and Means of the House of 
+     Representatives and Committee on Finance of the Senate a 
+     report that contains the results of the study conducted under 
+     subsection (a), including recommendations for improvements to 
+     the transshipment monitoring system if applicable.
+       (c) Transshipment Described.--Transshipment within the 
+     meaning of this section has occurred when preferential 
+     treatment under any provision of law has been claimed for a 
+     textile or apparel article on the basis of material false 
+     information concerning the country of origin, manufacture, 
+     processing, or assembly of the article or any of its 
+     components. For purposes of the preceding sentence, false 
+     information is material if disclosure of the true information 
+     would mean or would have meant that the article is or was 
+     ineligible for preferential treatment under the provision of 
+     law in question.
+
+     SEC. 1152. AUTHORIZATION OF APPROPRIATIONS FOR TEXTILE 
+                   TRANSSHIPMENT ENFORCEMENT OPERATIONS.
+
+       (a) Authorization of Appropriations.--
+
+[[Page S3674]]
+
+       (1) In general.--There is authorized to be appropriated for 
+     textile transshipment enforcement operations of the Customs 
+     Service $9,500,000 for fiscal year 2003.
+       (2) Availability.--Amounts appropriated pursuant to the 
+     authorization of appropriations under paragraph (1) are 
+     authorized to remain available until expended.
+       (b) Use of Funds.--Of the amount appropriated pursuant to 
+     the authorization of appropriations under subsection (a), the 
+     following amounts are authorized to be made available for the 
+     following purposes:
+       (1) Import specialists.--$1,463,000 for 21 Customs import 
+     specialists to be assigned to selected ports for 
+     documentation review to support detentions and exclusions and 
+     1 additional Customs import specialist assigned to the 
+     Customs headquarters textile program to administer the 
+     program and provide oversight.
+       (2) Inspectors.--$652,080 for 10 Customs inspectors to be 
+     assigned to selected ports to examine targeted high-risk 
+     shipments.
+       (3) Investigators.--(A) $1,165,380 for 10 investigators to 
+     be assigned to selected ports to investigate instances of 
+     smuggling, quota and trade agreement circumvention, and use 
+     of counterfeit visas to enter inadmissible goods.
+       (B) $149,603 for 1 investigator to be assigned to Customs 
+     headquarters textile program to coordinate and ensure 
+     implementation of textile production verification team 
+     results from an investigation perspective.
+       (4) International trade specialists.--$226,500 for 3 
+     international trade specialists to be assigned to Customs 
+     headquarters to be dedicated to illegal textile transshipment 
+     policy issues and other free trade agreement enforcement 
+     issues.
+       (5) Permanent import specialists for hong kong.--$500,000 
+     for 2 permanent import specialist positions and $500,000 for 
+     2 investigators to be assigned to Hong Kong to work with Hong 
+     Kong and other government authorities in Southeast Asia to 
+     assist such authorities pursue proactive enforcement of 
+     bilateral trade agreements.
+       (6) Various permanent trade positions.--$3,500,000 for the 
+     following:
+       (A) 2 permanent positions to be assigned to the Customs 
+     attache office in Central America to address trade 
+     enforcement issues for that region.
+       (B) 2 permanent positions to be assigned to the Customs 
+     attache office in South Africa to address trade enforcement 
+     issues pursuant to the African Growth and Opportunity Act 
+     (title I of Public Law 106-200).
+       (C) 4 permanent positions to be assigned to the Customs 
+     attache office in Mexico to address the threat of illegal 
+     textile transshipment through Mexico and other related issues 
+     under the North American Free Trade Agreement Act.
+       (D) 2 permanent positions to be assigned to the Customs 
+     attache office in Seoul, South Korea, to address the trade 
+     issues in the geographic region.
+       (E) 2 permanent positions to be assigned to the proposed 
+     Customs attache office in New Delhi, India, to address the 
+     threat of illegal textile transshipment and other trade 
+     enforcement issues.
+       (F) 2 permanent positions to be assigned to the Customs 
+     attache office in Rome, Italy, to address trade enforcement 
+     issues in the geographic region, including issues under free 
+     trade agreements with Jordan and Israel.
+       (7) Attorneys.--$179,886 for 2 attorneys for the Office of 
+     the Chief Counsel of the Customs Service to pursue cases 
+     regarding illegal textile transshipment.
+       (8) Auditors.--$510,000 for 6 Customs auditors to perform 
+     internal control reviews and document and record reviews of 
+     suspect importers.
+       (9) Additional travel funds.--$250,000 for deployment of 
+     additional textile production verification teams to sub-
+     Saharan Africa.
+       (10) Training.--(A) $75,000 for training of Customs 
+     personnel.
+       (B) $200,000 for training for foreign counterparts in risk 
+     management analytical techniques and for teaching factory 
+     inspection techniques, model law Development, and enforcement 
+     techniques.
+       (11) Outreach.--$60,000 for outreach efforts to United 
+     States importers.
+
+     SEC. 1153. IMPLEMENTATION OF THE AFRICAN GROWTH AND 
+                   OPPORTUNITY ACT.
+
+       Of the amount made available for fiscal year 2003 under 
+     section 301(b)(2)(A) of the Customs Procedural Reform and 
+     Simplification Act of 1978 (19 U.S.C. 2075(b)(2)(A)), as 
+     amended by section 1111(b)(1) of this title, $1,317,000 shall 
+     be available until expended for the Customs Service to 
+     provide technical assistance to help sub-Saharan Africa 
+     countries develop and implement effective visa and anti-
+     transshipment systems as required by the African Growth and 
+     Opportunity Act (title I of Public Law 106-200), as follows:
+       (1) Travel funds.--$600,000 for import specialists, special 
+     agents, and other qualified Customs personnel to travel to 
+     sub-Saharan Africa countries to provide technical assistance 
+     in developing and implementing effective visa and anti-
+     transshipment systems.
+       (2) Import specialists.--$266,000 for 4 import specialists 
+     to be assigned to Customs headquarters to be dedicated to 
+     providing technical assistance to sub-Saharan African 
+     countries for developing and implementing effective visa and 
+     anti-transshipment systems.
+       (3) Data reconciliation analysts.--$151,000 for 2 data 
+     reconciliation analysts to review apparel shipments.
+       (4) Special agents.--$300,000 for 2 special agents to be 
+     assigned to Customs headquarters to be available to provide 
+     technical assistance to sub-Saharan African countries in the 
+     performance of investigations and other enforcement 
+     initiatives.
+
+      Subtitle B--Office of the United States Trade Representative
+
+     SEC. 1161. AUTHORIZATION OF APPROPRIATIONS.
+
+       (a) In General.--Section 141(g)(1) of the Trade Act of 1974 
+     (19 U.S.C. 2171(g)(1)) is amended--
+       (1) in subparagraph (A)--
+       (A) in the matter preceding clause (i), by striking ``not 
+     to exceed'';
+       (B) in clause (i) to read as follows:
+       ``(i) $30,000,000 for fiscal year 2003.''; and
+       (C) in clause (ii) to read as follows:
+       ``(ii) $31,000,000 for fiscal year 2004.''; and
+       (2) in subparagraph (B)--
+       (A) in clause (i), by adding ``and'' at the end;
+       (B) by striking clause (ii); and
+       (C) by redesignating clause (iii) as clause (ii).
+       (b) Submission of Out-Year Budget Projections.--Section 
+     141(g) of the Trade Act of 1974 (19 U.S.C. 2171(g)) is 
+     amended by adding at the end the following:
+       ``(3) By not later than the date on which the President 
+     submits to Congress the budget of the United States 
+     Government for a fiscal year, the United States Trade 
+     Representative shall submit to the Committee on Ways and 
+     Means of the House of Representatives and the Committee on 
+     Finance of the Senate the projected amount of funds for the 
+     succeeding fiscal year that will be necessary for the Office 
+     to carry out its functions.''.
+       (c) Additional Staff for Office of Assistant U.S. Trade 
+     Representative for Congressional Affairs.--
+       (1) In general.--There is authorized to be appropriated 
+     such sums as may be necessary for fiscal year 2003 for the 
+     salaries and expenses of two additional legislative 
+     specialist employee positions within the Office of the 
+     Assistant United States Trade Representative for 
+     Congressional Affairs.
+       (2) Availability.--Amounts appropriated pursuant to the 
+     authorization of appropriations under paragraph (1) are 
+     authorized to remain available until expended.
+
+        Subtitle C--United States International Trade Commission
+
+     SEC. 1171. AUTHORIZATION OF APPROPRIATIONS.
+
+       (a) In General.--Section 330(e)(2)(A) of the Tariff Act of 
+     1930 (19 U.S.C. 1330(e)(2)) is amended--
+       (1) in clause (i) to read as follows:
+       ``(i) $51,400,000 for fiscal year 2003.''; and
+       (2) in clause (ii) to read as follows:
+       ``(ii) $53,400,000 for fiscal year 2004.''.
+       (b) Submission of Out-Year Budget Projections.--Section 
+     330(e) of the Tariff Act of 1930 (19 U.S.C. 1330(e)(2)) is 
+     amended by adding at the end the following:
+       ``(4) By not later than the date on which the President 
+     submits to Congress the budget of the United States 
+     Government for a fiscal year, the Commission shall submit to 
+     the Committee on Ways and Means of the House of 
+     Representatives and the Committee on Finance of the Senate 
+     the projected amount of funds for the succeeding fiscal year 
+     that will be necessary for the Commission to carry out its 
+     functions.''.
+
+                   Subtitle D--Other Trade Provisions
+
+     SEC. 1181. INCREASE IN AGGREGATE VALUE OF ARTICLES EXEMPT 
+                   FROM DUTY ACQUIRED ABROAD BY UNITED STATES 
+                   RESIDENTS.
+
+       (a) In General.--Subheading 9804.00.65 of the Harmonized 
+     Tariff Schedule of the United States is amended in the 
+     article description column by striking ``$400'' and inserting 
+     ``$800''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     shall take effect 90 days after the date of enactment of this 
+     Act.
+
+     SEC. 1182. REGULATORY AUDIT PROCEDURES.
+
+       Section 509(b) of the Tariff Act of 1930 (19 U.S.C. 
+     1509(b)) is amended by adding at the end the following:
+       ``(6)(A) If during the course of any audit concluded under 
+     this subsection, the Customs Service identifies overpayments 
+     of duties or fees or over-declarations of quantities or 
+     values that are within the time period and scope of the audit 
+     that the Customs Service has defined, then in calculating the 
+     loss of revenue or monetary penalties under section 592, the 
+     Customs Service shall treat the overpayments or over-
+     declarations on finally liquidated entries as an offset to 
+     any underpayments or underdeclarations also identified on 
+     finally liquidated entries if such overpayments or over-
+     declarations were not made by the person being audited for 
+     the purpose of violating any provision of law.
+       ``(B) Nothing in this paragraph shall be construed to 
+     authorize a refund not otherwise authorized under section 
+     520.''.
+
+                      Subtitle E--Sense of Senate
+
+     SEC. 1191. SENSE OF SENATE.
+
+       It is the sense of the Senate that fees collected for 
+     certain customs services (commonly referred to as ``customs 
+     user fees'') provided for in section 13031 of the 
+     Consolidated Omnibus Budget Reconciliation Act of 1985 (19 
+     U.S.C. 58c) may be used only for the operations and programs 
+     of the United States Customs Service.
+
+            DIVISION B--BIPARTISAN TRADE PROMOTION AUTHORITY
+
+                  TITLE XXI--TRADE PROMOTION AUTHORITY
+
+     SEC. 2101. SHORT TITLE; FINDINGS.
+
+       (a) Short Title.--This title may be cited as the 
+     ``Bipartisan Trade Promotion Authority Act of 2002''.
+
+[[Page S3675]]
+
+       (b) Findings.--Congress makes the following findings:
+       (1) The expansion of international trade is vital to the 
+     national security of the United States. Trade is critical to 
+     the economic growth and strength of the United States and to 
+     its leadership in the world. Stable trading relationships 
+     promote security and prosperity. Trade agreements today serve 
+     the same purposes that security pacts played during the Cold 
+     War, binding nations together through a series of mutual 
+     rights and obligations. Leadership by the United States in 
+     international trade fosters open markets, democracy, and 
+     peace throughout the world.
+       (2) The national security of the United States depends on 
+     its economic security, which in turn is founded upon a 
+     vibrant and growing industrial base. Trade expansion has been 
+     the engine of economic growth. Trade agreements maximize 
+     opportunities for the critical sectors and building blocks of 
+     the economy of the United States, such as information 
+     technology, telecommunications and other leading 
+     technologies, basic industries, capital equipment, medical 
+     equipment, services, agriculture, environmental technology, 
+     and intellectual property. Trade will create new 
+     opportunities for the United States and preserve the 
+     unparalleled strength of the United States in economic, 
+     political, and military affairs. The United States, secured 
+     by expanding trade and economic opportunities, will meet the 
+     challenges of the twenty-first century.
+       (3) Support for continued trade expansion requires that 
+     dispute settlement procedures under international trade 
+     agreements not add to or diminish the rights and obligations 
+     provided in such agreements. Nevertheless, in several cases, 
+     dispute settlement panels and the WTO Appellate Body have 
+     added to obligations and diminished rights of the United 
+     States under WTO Agreements. In particular, dispute 
+     settlement panels and the Appellate Body have--
+       (A) given insufficient deference to the expertise and fact-
+     finding of the Department of Commerce and the United States 
+     International Trade Commission;
+       (B) imposed an obligation concerning the causal 
+     relationship between increased imports into the United States 
+     and serious injury to domestic industry necessary to support 
+     a safeguard measure that is different from the obligation set 
+     forth in the applicable WTO Agreements;
+       (C) imposed an obligation concerning the exclusion from 
+     safeguards measures of products imported from countries party 
+     to a free trade agreement that is different from the 
+     obligation set forth in the applicable WTO Agreements;
+       (D) imposed obligations on the Department of Commerce with 
+     respect to the use of facts available in antidumping 
+     investigations that are different from the obligations set 
+     forth in the applicable WTO Agreements; and
+       (E) accorded insufficient deference to the Department of 
+     Commerce's methodology for adjusting countervailing duties 
+     following the privatization of a subsidized foreign producer.
+
+     SEC. 2102. TRADE NEGOTIATING OBJECTIVES.
+
+       (a) Overall Trade Negotiating Objectives.--The overall 
+     trade negotiating objectives of the United States for 
+     agreements subject to the provisions of section 2103 are--
+       (1) to obtain more open, equitable, and reciprocal market 
+     access;
+       (2) to obtain the reduction or elimination of barriers and 
+     distortions that are directly related to trade and that 
+     decrease market opportunities for United States exports or 
+     otherwise distort United States trade;
+       (3) to further strengthen the system of international 
+     trading disciplines and procedures, including dispute 
+     settlement;
+       (4) to foster economic growth, raise living standards, and 
+     promote full employment in the United States and to enhance 
+     the global economy;
+       (5) to ensure that trade and environmental policies are 
+     mutually supportive and to seek to protect and preserve the 
+     environment and enhance the international means of doing so, 
+     while optimizing the use of the world's resources;
+       (6) to promote respect for worker rights and the rights of 
+     children consistent with core labor standards of the 
+     International Labor Organization (as defined in section 
+     2113(2)) and an understanding of the relationship between 
+     trade and worker rights;
+       (7) to seek provisions in trade agreements under which 
+     parties to those agreements strive to ensure that they do not 
+     weaken or reduce the protections afforded in domestic 
+     environmental and labor laws as an encouragement for trade; 
+     and
+       (8) to ensure that trade agreements afford small businesses 
+     equal access to international markets, equitable trade 
+     benefits, expanded export market opportunities, and provide 
+     for the reduction or elimination of trade barriers that 
+     disproportionately impact small business.
+       (b) Principal Trade Negotiating Objectives.--
+       (1) Trade barriers and distortions.--The principal 
+     negotiating objectives of the United States regarding trade 
+     barriers and other trade distortions are--
+       (A) to expand competitive market opportunities for United 
+     States exports and to obtain fairer and more open conditions 
+     of trade by reducing or eliminating tariff and nontariff 
+     barriers and policies and practices of foreign governments 
+     directly related to trade that decrease market opportunities 
+     for United States exports or otherwise distort United States 
+     trade; and
+       (B) to obtain reciprocal tariff and nontariff barrier 
+     elimination agreements, with particular attention to those 
+     tariff categories covered in section 111(b) of the Uruguay 
+     Round Agreements Act (19 U.S.C. 3521(b)).
+       (2) Trade in services.--The principal negotiating objective 
+     of the United States regarding trade in services is to reduce 
+     or eliminate barriers to international trade in services, 
+     including regulatory and other barriers that deny national 
+     treatment and market access or unreasonably restrict the 
+     establishment or operations of service suppliers.
+       (3) Foreign investment.--Recognizing that United States law 
+     on the whole provides a high level of protection for 
+     investment, consistent with or greater than the level 
+     required by international law, the principal negotiating 
+     objectives of the United States regarding foreign investment 
+     are to reduce or eliminate artificial or trade-distorting 
+     barriers to trade-related foreign investment, while ensuring 
+     that United States investors in the United States are not 
+     accorded lesser rights than foreign investors in the United 
+     States, and to secure for investors important rights 
+     comparable to those that would be available under United 
+     States legal principles and practice, by--
+       (A) reducing or eliminating exceptions to the principle of 
+     national treatment;
+       (B) freeing the transfer of funds relating to investments;
+       (C) reducing or eliminating performance requirements, 
+     forced technology transfers, and other unreasonable barriers 
+     to the establishment and operation of investments;
+       (D) seeking to establish standards for expropriation and 
+     compensation for expropriation, consistent with United States 
+     legal principles and practice;
+       (E) seeking to establish standards for fair and equitable 
+     treatment consistent with United States legal principles and 
+     practice, including the principle of due process;
+       (F) providing meaningful procedures for resolving 
+     investment disputes;
+       (G) seeking to improve mechanisms used to resolve disputes 
+     between an investor and a government through--
+       (i) mechanisms to eliminate frivolous claims and to deter 
+     the filing of frivolous claims;
+       (ii) procedures to ensure the efficient selection of 
+     arbitrators and the expeditious disposition of claims;
+       (iii) procedures to enhance opportunities for public input 
+     into the formulation of government positions; and
+       (iv) establishment of a single appellate body to review 
+     decisions in investor-to-government disputes and thereby 
+     provide coherence to the interpretations of investment 
+     provisions in trade agreements; and
+       (H) ensuring the fullest measure of transparency in the 
+     dispute settlement mechanism, to the extent consistent with 
+     the need to protect information that is classified or 
+     business confidential, by--
+       (i) ensuring that all requests for dispute settlement are 
+     promptly made public;
+       (ii) ensuring that--
+
+       (I) all proceedings, submissions, findings, and decisions 
+     are promptly made public;
+       (II) all hearings are open to the public; and
+
+       (iii) establishing a mechanism for acceptance of amicus 
+     curiae submissions from businesses, unions, and 
+     nongovernmental organizations.
+       (4) Intellectual property.--The principal negotiating 
+     objectives of the United States regarding trade-related 
+     intellectual property are--
+       (A) to further promote adequate and effective protection of 
+     intellectual property rights, including through--
+       (i)(I) ensuring accelerated and full implementation of the 
+     Agreement on Trade-Related Aspects of Intellectual Property 
+     Rights referred to in section 101(d)(1 5) of the Uruguay 
+     Round Agreements Act (19 U.S.C. 3511(d)(15)), particularly 
+     with respect to meeting enforcement obligations under that 
+     agreement; and
+       (II) ensuring that the provisions of any multilateral or 
+     bilateral trade agreement governing intellectual property 
+     rights that is entered into by the United States reflect a 
+     standard of protection similar to that found in United States 
+     law;
+       (ii) providing strong protection for new and emerging 
+     technologies and new methods of transmitting and distributing 
+     products embodying intellectual property;
+       (iii) preventing or eliminating discrimination with respect 
+     to matters affecting the availability, acquisition, scope, 
+     maintenance, use, and enforcement of intellectual property 
+     rights;
+       (iv) ensuring that standards of protection and enforcement 
+     keep pace with technological developments, and in particular 
+     ensuring that rightholders have the legal and technological 
+     means to control the use of their works through the Internet 
+     and other global communication media, and to prevent the 
+     unauthorized use of their works; and
+       (v) providing strong enforcement of intellectual property 
+     rights, including through accessible, expeditious, and 
+     effective civil, administrative, and criminal enforcement 
+     mechanisms; and
+       (B) to secure fair, equitable, and nondiscriminatory market 
+     access opportunities for United States persons that rely upon 
+     intellectual property protection.
+       (5) Transparency.--The principal negotiating objective of 
+     the United States with respect to transparency is to obtain 
+     wider and broader application of the principle of 
+     transparency through--
+
+[[Page S3676]]
+
+       (A) increased and more timely public access to information 
+     regarding trade issues and the activities of international 
+     trade institutions;
+       (B) increased openness at the WTO and other international 
+     trade fora by increasing public access to appropriate 
+     meetings, proceedings, and submissions, including with regard 
+     to dispute settlement and investment; and
+       (C) increased and more timely public access to all 
+     notifications and supporting documentation submitted by 
+     parties to the WTO.
+       (6) Anti-corruption.--The principal negotiating objectives 
+     of the United States with respect to the use of money or 
+     other things of value to influence acts, decisions, or 
+     omissions of foreign governments or officials or to secure 
+     any improper advantage in a manner affecting trade are--
+       (A) to obtain high standards and appropriate domestic 
+     enforcement mechanisms applicable to persons from all 
+     countries participating in the applicable trade agreement 
+     that prohibit such attempts to influence acts, decisions, or 
+     omissions of foreign governments; and
+       (B) to ensure that such standards do not place United 
+     States persons at a competitive disadvantage in international 
+     trade.
+       (7) Improvement of the wto and multilateral trade 
+     agreements.--The principal negotiating objectives of the 
+     United States regarding the improvement of the World Trade 
+     Organization, the Uruguay Round Agreements, and other 
+     multilateral and bilateral trade agreements are--
+       (A) to achieve full implementation and extend the coverage 
+     of the World Trade Organization and such agreements to 
+     products, sectors, and conditions of trade not adequately 
+     covered; and
+       (B) to expand country participation in and enhancement of 
+     the Information Technology Agreement and other trade 
+     agreements.
+       (8) Regulatory practices.--The principal negotiating 
+     objectives of the United States regarding the use of 
+     government regulation or other practices by foreign 
+     governments to provide a competitive advantage to their 
+     domestic producers, service providers, or investors and 
+     thereby reduce market access for United States goods, 
+     services, and investments are--
+       (A) to achieve increased transparency and opportunity for 
+     the participation of affected parties in the development of 
+     regulations;
+       (B) to require that proposed regulations be based on sound 
+     science, cost-benefit analysis, risk assessment, or other 
+     objective evidence;
+       (C) to establish consultative mechanisms among parties to 
+     trade agreements to promote increased transparency in 
+     developing guidelines, rules, regulations, and laws for 
+     government procurement and other regulatory regimes; and
+       (D) to achieve the elimination of government measures such 
+     as price controls and reference pricing which deny full 
+     market access for United States products.
+       (9) Electronic commerce.--The principal negotiating 
+     objectives of the United States with respect to electronic 
+     commerce are--
+       (A) to ensure that current obligations, rules, disciplines, 
+     and commitments under the World Trade Organization apply to 
+     electronic commerce;
+       (B) to ensure that--
+       (i) electronically delivered goods and services receive no 
+     less favorable treatment under trade rules and commitments 
+     than like products delivered in physical form; and
+       (ii) the classification of such goods and services ensures 
+     the most liberal trade treatment possible;
+       (C) to ensure that governments refrain from implementing 
+     trade-related measures that impede electronic commerce;
+       (D) where legitimate policy objectives require domestic 
+     regulations that affect electronic commerce, to obtain 
+     commitments that any such regulations are the least 
+     restrictive on trade, nondiscriminatory, and transparent, and 
+     promote an open market environment; and
+       (E) to extend the moratorium of the World Trade 
+     Organization on duties on electronic transmissions.
+       (10) Reciprocal trade in agriculture.--
+       (A) In general.--The principal negotiating objective of the 
+     United States with respect to agriculture is to obtain 
+     competitive opportunities for United States exports of 
+     agricultural commodities in foreign markets substantially 
+     equivalent to the competitive opportunities afforded foreign 
+     exports in United States markets and to achieve fairer and 
+     more open conditions of trade in bulk, specialty crop, and 
+     value-added commodities by--
+       (i) reducing or eliminating, by a date certain, tariffs or 
+     other charges that decrease market opportunities for United 
+     States exports--
+
+       (I) giving priority to those products that are subject to 
+     significantly higher tariffs or subsidy regimes of major 
+     producing countries; and
+       (II) providing reasonable adjustment periods for United 
+     States import-sensitive products, in close consultation with 
+     the Congress on such products before initiating tariff 
+     reduction negotiations;
+
+       (ii) reducing tariffs to levels that are the same as or 
+     lower than those in the United States;
+       (iii) seeking to eliminate all export subsidies on 
+     agricultural commodities while maintaining bona fide food aid 
+     and preserving United States agricultural market development 
+     and export credit programs that allow the United States to 
+     compete with other foreign export promotion efforts;
+       (iv) allowing the preservation of programs that support 
+     family farms and rural communities but do not distort trade;
+       (v) developing disciplines for domestic support programs, 
+     so that production that is in excess of domestic food 
+     security needs is sold at world prices;
+       (vi) eliminating Government policies that create price-
+     depressing surpluses;
+       (vii) eliminating state trading enterprises whenever 
+     possible;
+       (viii) developing, strengthening, and clarifying rules and 
+     effective dispute settlement mechanisms to eliminate 
+     practices that unfairly decrease United States market access 
+     opportunities or distort agricultural markets to the 
+     detriment of the United States, particularly with respect to 
+     import-sensitive products, including--
+
+       (I) unfair or trade-distorting activities of state trading 
+     enterprises and other administrative mechanisms, with 
+     emphasis on requiring price transparency in the operation of 
+     state trading enterprises and such other mechanisms in order 
+     to end cross subsidization, price discrimination, and price 
+     undercutting;
+       (II) unjustified trade restrictions or commercial 
+     requirements, such as labeling, that affect new technologies, 
+     including biotechnology;
+       (III) unjustified sanitary or phytosanitary restrictions, 
+     including those not based on scientific principles in 
+     contravention of the Uruguay Round Agreements;
+       (IV) other unjustified technical barriers to trade; and
+       (V) restrictive rules in the administration of tariff rate 
+     quotas;
+
+       (ix) eliminating practices that adversely affect trade in 
+     perishable or cyclical products, while improving import 
+     relief mechanisms to recognize the unique characteristics of 
+     perishable and cyclical agriculture;
+       (x) ensuring that the use of import relief mechanisms for 
+     perishable and cyclical agriculture are as accessible and 
+     timely to growers in the United States as those mechanisms 
+     that are used by other countries;
+       (xi) taking into account whether a party to the 
+     negotiations has failed to adhere to the provisions of 
+     already existing trade agreements with the United States or 
+     has circumvented obligations under those agreements;
+       (xii) taking into account whether a product is subject to 
+     market distortions by reason of a failure of a major 
+     producing country to adhere to the provisions of already 
+     existing trade agreements with the United States or by the 
+     circumvention by that country of its obligations under those 
+     agreements;
+       (xiii) otherwise ensuring that countries that accede to the 
+     World Trade Organization have made meaningful market 
+     liberalization commitments in agriculture;
+       (xiv) taking into account the impact that agreements 
+     covering agriculture to which the United States is a party, 
+     including the North American Free Trade Agreement, have on 
+     the United States agricultural industry;
+       (xv) maintaining bona fide food assistance programs and 
+     preserving United States market development and export credit 
+     programs; and
+       (xvi) strive to complete a general multilateral round in 
+     the World Trade Organization by January 1, 2005, and seek the 
+     broadest market access possible in multilateral, regional, 
+     and bilateral negotiations, recognizing the effect that 
+     simultaneous sets of negotiations may have on United States 
+     import-sensitive commodities (including those subject to 
+     tariff-rate quotas).
+       (B) Consultation.--
+       (i) Before commencing negotiations.--Before commencing 
+     negotiations with respect to agriculture, the United States 
+     Trade Representative, in consultation with the Congress, 
+     shall seek to develop a position on the treatment of seasonal 
+     and perishable agricultural products to be employed in the 
+     negotiations in order to develop an international consensus 
+     on the treatment of seasonal or perishable agricultural 
+     products in investigations relating to dumping and safeguards 
+     and in any other relevant area.
+       (ii) During negotiations.--During any negotiations on 
+     agricultural subsidies, the United States Trade 
+     Representative shall seek to establish the common base year 
+     for calculating the Aggregated Measurement of Support (as 
+     defined in the Agreement on Agriculture) as the end of each 
+     country's Uruguay Round implementation period, as reported in 
+     each country's Uruguay Round market access schedule.
+       (iii) Scope of objective.--The negotiating objective 
+     provided in subparagraph (A) applies with respect to 
+     agricultural matters to be addressed in any trade agreement 
+     entered into under section 2103 (a) or (b), including any 
+     trade agreement entered into under section 2103 (a) or (b) 
+     that provides for accession to a trade agreement to which the 
+     United States is already a party, such as the North American 
+     Free Trade Agreement and the United States-Canada Free Trade 
+     Agreement.
+       (11) Labor and the environment.--The principal negotiating 
+     objectives of the United States with respect to labor and the 
+     environment are--
+       (A) to ensure that a party to a trade agreement with the 
+     United States does not fail to effectively enforce its 
+     environmental or labor laws, through a sustained or recurring 
+     course of action or inaction, in a manner affecting trade 
+     between the United States and
+
+[[Page S3677]]
+
+     that party after entry into force of a trade agreement 
+     between those countries;
+       (B) to recognize that parties to a trade agreement retain 
+     the right to exercise discretion with respect to 
+     investigatory, prosecutorial, regulatory, and compliance 
+     matters and to make decisions regarding the allocation of 
+     resources to enforcement with respect to other labor or 
+     environmental matters determined to have higher priorities, 
+     and to recognize that a country is effectively enforcing its 
+     laws if a course of action or inaction reflects a reasonable 
+     exercise of such discretion, or results from a bona fide 
+     decision regarding the allocation of resources and no 
+     retaliation may be authorized based on the exercise of these 
+     rights or the right to establish domestic labor standards and 
+     levels of environmental protection;
+       (C) to strengthen the capacity of United States trading 
+     partners to promote respect for core labor standards (as 
+     defined in section 2113(2));
+       (D) to strengthen the capacity of United States trading 
+     partners to protect the environment through the promotion of 
+     sustainable development;
+       (E) to reduce or eliminate government practices or policies 
+     that unduly threaten sustainable development;
+       (F) to seek market access, through the elimination of 
+     tariffs and nontariff barriers, for United States 
+     environmental technologies, goods, and services; and
+       (G) to ensure that labor, environmental, health, or safety 
+     policies and practices of the parties to trade agreements 
+     with the United States do not arbitrarily or unjustifiably 
+     discriminate against United States exports or serve as 
+     disguised barriers to trade.
+       (12) Dispute settlement and enforcement.--The principal 
+     negotiating objectives of the United States with respect to 
+     dispute settlement and enforcement of trade agreements are--
+       (A) to seek provisions in trade agreements providing for 
+     resolution of disputes between governments under those trade 
+     agreements in an effective, timely, transparent, equitable, 
+     and reasoned manner, requiring determinations based on facts 
+     and the principles of the agreements, with the goal of 
+     increasing compliance with the agreements;
+       (B) to seek to strengthen the capacity of the Trade Policy 
+     Review Mechanism of the World Trade Organization to review 
+     compliance with commitments;
+       (C) to seek improved adherence by panels convened under the 
+     WTO Understanding on Rules and Procedures Governing the 
+     Settlement of Disputes and by the WTO Appellate Body to the 
+     standard of review applicable under the WTO Agreement 
+     involved in the dispute, including greater deference, where 
+     appropriate, to the fact finding and technical expertise of 
+     national investigating authorities;
+       (D) to seek provisions encouraging the early identification 
+     and settlement of disputes through consultation;
+       (E) to seek provisions to encourage the provision of trade-
+     expanding compensation if a party to a dispute under the 
+     agreement does not come into compliance with its obligations 
+     under the agreement;
+       (F) to seek provisions to impose a penalty upon a party to 
+     a dispute under the agreement that--
+       (i) encourages compliance with the obligations of the 
+     agreement;
+       (ii) is appropriate to the parties, nature, subject matter, 
+     and scope of the violation; and
+       (iii) has the aim of not adversely affecting parties or 
+     interests not party to the dispute while maintaining the 
+     effectiveness of the enforcement mechanism; and
+       (G) to seek provisions that treat United States principal 
+     negotiating objectives equally with respect to--
+       (i) the ability to resort to dispute settlement under the 
+     applicable agreement;
+       (ii) the availability of equivalent dispute settlement 
+     procedures; and
+       (iii) the availability of equivalent remedies.
+       (13) Border taxes.--The principal negotiating objective of 
+     the United States regarding border taxes is to obtain a 
+     revision of the WTO rules with respect to the treatment of 
+     border adjustments for internal taxes to redress the 
+     disadvantage to countries relying primarily on direct taxes 
+     for revenue rather than indirect taxes.
+       (14) WTO extended negotiations.--The principal negotiating 
+     objectives of the United States regarding trade in civil 
+     aircraft are those set forth in section 135(c) of the Uruguay 
+     Round Agreements Act (19 U.S.C. 3355(c)) and regarding rules 
+     of origin are the conclusion of an agreement described in 
+     section 132 of that Act (19 U.S.C. 3552).
+       (c) Promotion of Certain Priorities.--In order to address 
+     and maintain United States competitiveness in the global 
+     economy, the President shall--
+       (1) seek greater cooperation between the WTO and the ILO;
+       (2) seek to establish consultative mechanisms among parties 
+     to trade agreements to strengthen the capacity of United 
+     States trading partners to promote respect for core labor 
+     standards (as defined in section 2113(2)), and report to the 
+     Committee on Ways and Means of the House of Representatives 
+     and the Committee on Finance of the Senate on the content and 
+     operation of such mechanisms;
+       (3) seek to establish consultative mechanisms among parties 
+     to trade agreements to strengthen the capacity of United 
+     States trading partners to develop and implement standards 
+     for the protection of the environment and human health based 
+     on sound science, and report to the Committee on Ways and 
+     Means of the House of Representatives and the Committee on 
+     Finance of the Senate on the content and operation of such 
+     mechanisms;
+       (4) conduct environmental reviews of future trade and 
+     investment agreements, consistent with Executive Order 13141 
+     of November 16, 1999 and the relevant guidelines, and report 
+     to the Committee on Ways and Means of the House of 
+     Representatives and the Committee on Finance of the Senate on 
+     such reviews;
+       (5) review the impact of future trade agreements on United 
+     States employment, modeled after Executive Order 13141, and 
+     report to the Committee on Ways and Means of the House of 
+     Representatives and the Committee on Finance of the Senate on 
+     such review;
+       (6) take into account other legitimate United States 
+     domestic objectives including, but not limited to, the 
+     protection of legitimate health or safety, essential 
+     security, and consumer interests and the law and regulations 
+     related thereto;
+       (7) have the Secretary of Labor consult with any country 
+     seeking a trade agreement with the United States concerning 
+     that country's labor laws and provide technical assistance to 
+     that country if needed;
+       (8) in connection with any trade negotiations entered into 
+     under this Act, the President shall submit to the Committee 
+     on Ways and Means of the House of Representatives and the 
+     Committee on Finance of the Senate a meaningful labor rights 
+     report of the country, or countries, with respect to which 
+     the President is negotiating, on a time frame determined in 
+     accordance with section 2107(b)(2)(E);
+       (9)(A) preserve the ability of the United States to enforce 
+     rigorously its trade laws, including the antidumping, 
+     countervailing duty, and safeguard laws, and avoid agreements 
+     that lessen the effectiveness of domestic and international 
+     disciplines on unfair trade, especially dumping and 
+     subsidies, or that lessen the effectiveness of domestic and 
+     international safeguard provisions, in order to ensure that 
+     United States workers, agricultural producers, and firms can 
+     compete fully on fair terms and enjoy the benefits of 
+     reciprocal trade concessions; and
+       (B) address and remedy market distortions that lead to 
+     dumping and subsidization, including overcapacity, 
+     cartelization, and market-access barriers.
+       (10) continue to promote consideration of multilateral 
+     environmental agreements and consult with parties to such 
+     agreements regarding the consistency of any such agreement 
+     that includes trade measures with existing environmental 
+     exceptions under Article XX of the GATT 1994;
+       (11) report to the Committee on Ways and Means of the House 
+     of Representatives and the Committee on Finance of the 
+     Senate, not later than 12 months after the imposition of a 
+     penalty or remedy by the United States permitted by a trade 
+     agreement to which this title applies, on the effectiveness 
+     of the penalty or remedy applied under United States law in 
+     enforcing United States rights under the trade agreement; and
+       (12) seek to establish consultative mechanisms among 
+     parties to trade agreements to examine the trade consequences 
+     of significant and unanticipated currency movements and to 
+     scrutinize whether a foreign government engaged in a pattern 
+     of manipulating its currency to promote a competitive 
+     advantage in international trade.
+
+     The report required under paragraph (11) shall address 
+     whether the penalty or remedy was effective in changing the 
+     behavior of the targeted party and whether the penalty or 
+     remedy had any adverse impact on parties or interests not 
+     party to the dispute.
+       (d) Consultations.--
+       (1) Consultations with congressional advisers.--In the 
+     course of negotiations conducted under this title, the United 
+     States Trade Representative shall consult closely and on a 
+     timely basis with, and keep fully apprised of the 
+     negotiations, the Congressional Oversight Group convened 
+     under section 2107 and all committees of the House of 
+     Representatives and the Senate with jurisdiction over laws 
+     that would be affected by a trade agreement resulting from 
+     the negotiations.
+       (2) Consultation before agreement initialed.--In the course 
+     of negotiations conducted under this title, the United States 
+     Trade Representative shall--
+       (A) consult closely and on a timely basis (including 
+     immediately before initialing an agreement) with, and keep 
+     fully apprised of the negotiations, the congressional 
+     advisers for trade policy and negotiations appointed under 
+     section 161 of the Trade Act of 1974 (19 U.S.C. 2211), the 
+     Committee on Ways and Means of the House of Representatives, 
+     the Committee on Finance of the Senate, and the Congressional 
+     Oversight Group convened under section 2107; and
+       (B) with regard to any negotiations and agreement relating 
+     to agricultural trade, also consult closely and on a timely 
+     basis (including immediately before initialing an agreement) 
+     with, and keep fully apprised of the negotiations, the 
+     Committee on Agriculture of the House of Representatives and 
+     the Committee on Agriculture, Nutrition, and Forestry of the 
+     Senate.
+       (e) Adherence to Obligations Under Uruguay Round 
+     Agreements.--In determining
+
+[[Page S3678]]
+
+     whether to enter into negotiations with a particular country, 
+     the President shall take into account the extent to which 
+     that country has implemented, or has accelerated the 
+     implementation of, its obligations under the Uruguay Round 
+     Agreements.
+
+     SEC. 2103. TRADE AGREEMENTS AUTHORITY.
+
+       (a) Agreements Regarding Tariff Barriers.--
+       (1) In general.--Whenever the President determines that one 
+     or more existing duties or other import restrictions of any 
+     foreign country or the United States are unduly burdening and 
+     restricting the foreign trade of the United States and that 
+     the purposes, policies, priorities, and objectives of this 
+     title will be promoted thereby, the President--
+       (A) may enter into trade agreements with foreign countries 
+     before--
+       (i) June 1, 2005; or
+       (ii) June 1, 2007, if trade authorities procedures are 
+     extended under subsection (c); and
+       (B) may, subject to paragraphs (2) and (3), proclaim--
+       (i) such modification or continuance of any existing duty,
+       (ii) such continuance of existing duty-free or excise 
+     treatment, or
+       (iii) such additional duties,
+     as the President determines to be required or appropriate to 
+     carry out any such trade agreement.
+
+     The President shall notify the Congress of the President's 
+     intention to enter into an agreement under this subsection.
+       (2) Limitations.--No proclamation may be made under 
+     paragraph (1) that--
+       (A) reduces any rate of duty (other than a rate of duty 
+     that does not exceed 5 percent ad valorem on the date of the 
+     enactment of this Act) to a rate of duty which is less than 
+     50 percent of the rate of such duty that applies on such date 
+     of enactment;
+       (B) reduces the rate of duty below that applicable under 
+     the Uruguay Round Agreements, on any import sensitive 
+     agricultural product; or
+       (C) increases any rate of duty above the rate that applied 
+     on the date of the enactment of this Act.
+       (3) Aggregate reduction; exemption from staging.--
+       (A) Aggregate reduction.--Except as provided in 
+     subparagraph (B), the aggregate reduction in the rate of duty 
+     on any article which is in effect on any day pursuant to a 
+     trade agreement entered into under paragraph (1) shall not 
+     exceed the aggregate reduction which would have been in 
+     effect on such day if--
+       (i) a reduction of 3 percent ad valorem or a reduction of 
+     one-tenth of the total reduction, whichever is greater, had 
+     taken effect on the effective date of the first reduction 
+     proclaimed under paragraph (1) to carry out such agreement 
+     with respect to such article; and
+       (ii) a reduction equal to the amount applicable under 
+     clause (i) had taken effect at 1-year intervals after the 
+     effective date of such first reduction.
+       (B) Exemption from staging.--No staging is required under 
+     subparagraph (A) with respect to a duty reduction that is 
+     proclaimed under paragraph (1) for an article of a kind that 
+     is not produced in the United States. The United States 
+     International Trade Commission shall advise the President of 
+     the identity of articles that may be exempted from staging 
+     under this subparagraph.
+       (4) Rounding.--If the President determines that such action 
+     will simplify the computation of reductions under paragraph 
+     (3), the President may round an annual reduction by an amount 
+     equal to the lesser of--
+       (A) the difference between the reduction without regard to 
+     this paragraph and the next lower whole number; or
+       (B) one-half of 1 percent ad valorem.
+       (5) Other limitations.--A rate of duty reduction that may 
+     not be proclaimed by reason of paragraph (2) may take effect 
+     only if a provision authorizing such reduction is included 
+     within an implementing bill provided for under section 2105 
+     and that bill is enacted into law.
+       (6) Other tariff modifications.--Notwithstanding paragraphs 
+     (1)(B), (2)(A), (2)(C), and (3) through (5), and subject to 
+     the consultation and layover requirements of section 115 of 
+     the Uruguay Round Agreements Act, the President may proclaim 
+     the modification of any duty or staged rate reduction of any 
+     duty set forth in Schedule XX, as defined in section 2102(5) 
+     of that Act, if the United States agrees to such modification 
+     or staged rate reduction in a negotiation for the reciprocal 
+     elimination or harmonization of duties under the auspices of 
+     the World Trade Organization.
+       (7) Authority under uruguay round agreements act not 
+     affected.--Nothing in this subsection shall limit the 
+     authority provided to the President under section 111(b) of 
+     the Uruguay Round Agreements Act (19 U.S.C. 3521(b)).
+       (b) Agreements Regarding Tariff and Nontariff Barriers.--
+       (1) In general.--
+       (A) Determination by president.--Whenever the President 
+     determines that--
+       (i) one or more existing duties or any other import 
+     restriction of any foreign country or the United States or 
+     any other barrier to, or other distortion of, international 
+     trade unduly burdens or restricts the foreign trade of the 
+     United States or adversely affects the United States economy; 
+     or
+       (ii) the imposition of any such barrier or distortion is 
+     likely to result in such a burden, restriction, or effect;
+
+     and that the purposes, policies, priorities, and objectives 
+     of this title will be promoted thereby, the President may 
+     enter into a trade agreement described in subparagraph (B) 
+     during the period described in subparagraph (C).
+       (B) Agreement to reduce or eliminate certain distortion.--
+     The President may enter into a trade agreement under 
+     subparagraph (A) with foreign countries providing for--
+       (i) the reduction or elimination of a duty, restriction, 
+     barrier, or other distortion described in subparagraph (A), 
+     or
+       (ii) the prohibition of, or limitation on the imposition 
+     of, such barrier or other distortion.
+       (C) Time period.--The President may enter into a trade 
+     agreement under this paragraph before--
+       (i) June 1, 2005; or
+       (ii) June 1, 2007, if trade authorities procedures are 
+     extended under subsection (c).
+       (2) Conditions.--A trade agreement may be entered into 
+     under this subsection only if such agreement makes progress 
+     in meeting the applicable objectives described in section 
+     2102 (a) and (b) and the President satisfies the conditions 
+     set forth in section 2104.
+       (3) Bills qualifying for trade authorities procedures.--
+       (A) Application of expedited procedures.--The provisions of 
+     section 151 of the Trade Act of 1974 (in this title referred 
+     to as ``trade authorities procedures'') apply to a bill of 
+     either House of Congress which contains provisions described 
+     in subparagraph (B) to the same extent as such section 151 
+     applies to implementing bills under that section. A bill to 
+     which this paragraph applies shall hereafter in this title be 
+     referred to as an ``implementing bill''.
+       (B) Provisions described.--The provisions referred to in 
+     subparagraph (A) are--
+       (i) a provision approving a trade agreement entered into 
+     under this subsection and approving the statement of 
+     administrative action, if any, proposed to implement such 
+     trade agreement; and
+       (ii) if changes in existing laws or new statutory authority 
+     are required to implement such trade agreement or agreements, 
+     provisions, necessary or appropriate to implement such trade 
+     agreement or agreements, either repealing or amending 
+     existing laws or providing new statutory authority.
+       (c) Extension Disapproval Process for Congressional Trade 
+     Authorities Procedures.--
+       (1) In general.--Except as provided in section 2105(b)--
+       (A) the trade authorities procedures apply to implementing 
+     bills submitted with respect to trade agreements entered into 
+     under subsection (b) before July 1, 2005; and
+       (B) the trade authorities procedures shall be extended to 
+     implementing bills submitted with respect to trade agreements 
+     entered into under subsection (b) after June 30, 2005, and 
+     before July 1, 2007, if (and only if)--
+       (i) the President requests such extension under paragraph 
+     (2); and
+       (ii) neither House of the Congress adopts an extension 
+     disapproval resolution under paragraph (5) before June 1, 
+     2005.
+       (2) Report to congress by the president.--If the President 
+     is of the opinion that the trade authorities procedures 
+     should be extended to implementing bills described in 
+     paragraph (1)(B), the President shall submit to the Congress, 
+     not later than March 1, 2005, a written report that contains 
+     a request for such extension, together with--
+       (A) a description of all trade agreements that have been 
+     negotiated under subsection (b) and the anticipated schedule 
+     for submitting such agreements to the Congress for approval;
+       (B) a description of the progress that has been made in 
+     negotiations to achieve the purposes, policies, priorities, 
+     and objectives of this title, and a statement that such 
+     progress justifies the continuation of negotiations; and
+       (C) a statement of the reasons why the extension is needed 
+     to complete the negotiations.
+       (3) Other reports to congress.--
+       (A) Report by the advisory committee.--The President shall 
+     promptly inform the Advisory Committee for Trade Policy and 
+     Negotiations established under section 135 of the Trade Act 
+     of 1974 (19 U.S.C. 2155) of the President's decision to 
+     submit a report to the Congress under paragraph (2). The 
+     Advisory Committee shall submit to the Congress as soon as 
+     practicable, but not later than May 1, 2005, a written report 
+     that contains--
+       (i) its views regarding the progress that has been made in 
+     negotiations to achieve the purposes, policies, priorities, 
+     and objectives of this title; and
+       (ii) a statement of its views, and the reasons therefor, 
+     regarding whether the extension requested under paragraph (2) 
+     should be approved or disapproved.
+       (B) Report by itc.--The President shall promptly inform the 
+     International Trade Commission of the President's decision to 
+     submit a report to the Congress under paragraph (2). The 
+     International Trade Commission shall submit to the Congress 
+     as soon as practicable, but not later than May 1, 2005, a 
+     written report that contains a review and analysis of the 
+     economic impact on the United States of all trade agreements 
+     implemented between the date of enactment of this Act and the 
+     date on which the President decides to seek an extension 
+     requested under paragraph (2).
+
+[[Page S3679]]
+
+       (4) Status of reports.--The reports submitted to the 
+     Congress under paragraphs (2) and (3), or any portion of such 
+     reports, may be classified to the extent the President 
+     determines appropriate.
+       (5) Extension disapproval resolutions.--
+       (A) Definition.--For purposes of paragraph (1), the term 
+     ``extension disapproval resolution'' means a resolution of 
+     either House of the Congress, the sole matter after the 
+     resolving clause of which is as follows: ``That the 
+     __________
+```
