@@ -1,0 +1,23 @@
+---
+granule: CRECB-2002-pt17-Pg23555
+date: 2002-12-16
+edition: CRECB
+section: HOUSE
+page: 23555
+---
+
+# HOUSE OF REPRESENTATIVES--Monday, December 16, 2002
+
+```
+[[Page 23555]]
+
+           HOUSE OF REPRESENTATIVES--Monday, December 16, 2002
+
+PROCEEDINGS OF THE HOUSE OF REPRESENTATIVES AFTER SINE DIE ADJOURNMENT 
+                    OF THE 107TH CONGRESS 2D SESSION
+
+OMISSION FROM THE CONGRESSIONAL RECORD OF FRIDAY, NOVEMBER 22, 2002, AT 
+PAGE H9126
+
+                          ____________________
+```
