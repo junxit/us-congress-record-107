@@ -1,0 +1,30 @@
+---
+granule: CRECB-2002-pt12-Pg16519
+date: 2002-09-10
+edition: CRECB
+section: SENATE
+page: 16519
+---
+
+# PRIVILEGES OF THE FLOOR
+
+```
+                        PRIVILEGES OF THE FLOOR
+
+  Mr. WELLSTONE. Mr. President, I ask unanimous consent that Bjorn 
+Sjue, an intern in my office, be allowed to be on the floor during the 
+duration of the debate on this amendment.
+  The ACTING PRESIDENT pro tempore. Without objection, it is so 
+ordered.
+  Mr. FEINGOLD. Mr. President, I ask unanimous consent that Alex 
+Busansky, a detailee to my office from the Department of Justice, be 
+allowed privileges of the floor for the duration of today's homeland 
+security measure.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  Mr. WELLSTONE. Mr. President, I ask unanimous consent that Bob Kerr, 
+a fellow, be allowed floor privileges during the debate on homeland 
+security.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
