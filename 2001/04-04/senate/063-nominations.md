@@ -1,0 +1,212 @@
+---
+granule: CREC-2001-04-04-pt1-PgS3459-6
+date: 2001-04-04
+edition: CREC
+section: SENATE
+page: S3459
+citation: 147 Cong. Rec. S3459
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate April 4, 2001:
+
+
+                         Department of Commerce
+
+       Theodore William Kassinger, of Maryland, to be General 
+     Counsel of the Department of Commerce, vice James A. 
+     Dorskind.
+
+
+                      Department of Transportation
+
+       Sean B. O'Hollaren, of Oregon, to be an Assistant Secretary 
+     of Transportation, vice Michael J. Frazier, resigned.
+
+
+                       Department of the Treasury
+
+       John B. Taylor, of California, to be an Under Secretary of 
+     the Treasury, vice Timothy F. Geithner.
+
+
+                          Department of State
+
+       Paula J. Dobriansky, of Virginia, to be an Under Secretary 
+     of State (Global Affairs), vice Frank E. Loy.
+
+
+                    General Services Administration
+
+       Stephen A. Perry, of Ohio, to be Administrator of General 
+     Services, vice David J. Barram, resigned.
+
+
+                             The Judiciary
+
+       Maurice A. Ross, of the District of Columbia, to be an 
+     Associate Judge of the Superior Court of the District of 
+     Columbia for the term of fifteen years, vice Henry F. Greene, 
+     term expired.
+       Erik Patrick Christian, of the District of Columbia, to be 
+     an Associate Judge of the Superior Court of the District of 
+     Columbia for the term of fifteen years, vice Eugene N. 
+     Hamilton, term expired.
+
+
+                          Department of Labor
+
+       Chris Spear, of Virginia, to be an Assistant Secretary of 
+     Labor, vice Edward B. Montgomery.
+
+
+                              In the Army
+
+       THE FOLLOWING NAMED OFFICERS FOR REGULAR APPOINTMENT IN THE 
+     GRADES INDICATED IN THE UNITED STATES ARMY IN THE NURSE CORPS 
+     (AN), DENTAL CORPS (DE), JUDGE ADVOCATE GENERAL'S CORPS (JA), 
+     MEDICAL CORPS (MC), MEDICAL SERVICE CORPS (MS), MEDICAL 
+     SPECIALIST CORPS (SP) UNDER TITLE 10, U.S.C., SECTIONS 531 
+     AND 3064:
+
+                             To be colonel
+
+MARGRETTA M DIEMER, 0000 MC
+KELLY T MCKEE JR., 0000 MC
+KATY L REYNOLDS, 0000 MC
+PAUL B ROCK, 0000 MC
+WILLIAM C WILLIARD III, 0000 MC
+
+[[Page S3460]]
+
+
+
+                        To be lieutenant colonel
+
+MARY B BEDELL, 0000 AN
+DONNA S GACKE, 0000 AN
+RICHARD L HUGHES, 0000 DE
+KENNETH W MEADE, 0000 MC
+SHERRY J MORREY, 0000 SP
+BRENT V NELSON, 0000 MC
+JAMES R UHL, 0000 MC
+JOHN M WEMPE, 0000 MC
+
+                              To be major
+
+LARRY M FREYBERGER, 0000 AN
+JANICE M GENUA, 0000 AN
+PAULINE V GROSS, 0000 SP
+YOSHIO G HOKAMA, 0000 SP
+DANIEL M JAYNE, 0000 SP
+GREGORY T KIDWELL, 0000 AN
+RONALD L LANDERS, 0000 AN
+VIVIAN G LUDI, 0000 AN
+JAY F WIGBOLDY, 0000 MC
+THOMAS R YARBER, 0000 AN
+
+                             To be captain
+
+FARRELL H ADKINS, 0000 AN
+GILBERT AIDINIAN, 0000 MS
+HERMAN A ALLISON, 0000 AN
+AARON G AMACHER III, 0000 MS
+CATHERINE Y ANDERSON, 0000 AN
+KEVIN P BANKS, 0000 MS
+RUSSELL L BARFIELD, 0000 MS
+BRUCE J BEECHER, 0000 SP
+RONALD D BEESLEY, 0000 MS
+JOSEPH B BERGER III, 0000 JA
+LOUIS A BIRDSONG, 0000 JA
+JASON D BOTHWELL, 0000 MS
+KARL W BREWER, 0000 MS
+SARA K BUCKELEW, 0000 MS
+SUSAN J BURGERHETZEL, 0000 JA
+MATTHEW P BURKE, 0000 MS
+KAREN H CARLISLE, 0000 JA
+JESUS M CASTRO, 0000 AN
+MARY T CHRISTAL, 0000 AN
+PAUL CIMINERA, 0000 MS
+SHERMAN D CLAGG, 0000 AN
+DANIEL Z CROWE, 0000 JA
+JOHN C DEHN, 0000 JA
+JOSEPH G DOUGHERTY, 0000 MS
+LISA A DRUMMOND, 0000 AN
+GARY L EBERLY, 0000 MS
+DAVID J EIGNER, 0000 MS
+MATTHEW N FANDRE, 0000 MS
+MATTHEW V FARGO, 0000 MS
+KENNETH A FERRELL, 0000 AN
+BRADLEY C GARDINER, 0000 MS
+DALE W GEORGE, 0000 MS
+DUNCAN A GILLIES II, 0000 MS
+MATTHEW E GRIFFITH, 0000 MS
+JEFFREY C HAGLER, 0000 JA
+DAVID P HARPER, 0000 MS
+JASON S HAWLEY, 0000 MS
+JOSHUA P HERZOG, 0000 MS
+CRISTL E HIGHTOWER, 0000 AN
+MATTHEW S HING, 0000 MS
+AARON B HOLLEY, 0000 MS
+CHAD K HOLMES, 0000 MS
+ROBERT P HUSTON, 0000 JA
+JOHN T HYATT, 0000 JA
+PAULA J JACKSON, 0000 MS
+MATTHEW A JAVERNICK, 0000 MS
+JEFFERSON W JEX, 0000 MS
+TIMOTHY W JUDGE, 0000 MS
+DANIEL E KIM, 0000 MS
+BRIAN K KONDRAT, 0000 AN
+HERBERT P KWON, 0000 MS
+LOUIS J LAND, 0000 MS
+LLEWELLYN V LEE, 0000 MS
+BILLY W MAHANEY, 0000 MS
+GREGORY T MCCAIN, 0000 MS
+DAWN M MCDOWELLTORRES, 0000 MS
+MATTHEW M MILLER, 0000 JA
+STEVE B MIN, 0000 MS
+ANGELITA MOORE, 0000 MS
+WESLEY A MORGAN, 0000 AN
+SHERRY D MOSLEY, 0000 AN
+BRETT A NELSON, 0000 MS
+CHUCK T NGUYEN, 0000 MS
+JEREMY C PAMPLIN, 0000 MS
+DINA S PAREKH, 0000 MS
+SCOTT L PARIS, 0000 AN
+PARESH R PATEL, 0000 MS
+WILLIAM D PORTER, 0000 MS
+DUNFORD N POWELL, 0000 MC
+NANCY L RABAGO, 0000 AN
+PATRICK A RANEY, 0000 MS
+EDWARD C REDDINGTON, 0000 JA
+PHYLLIS A RHODES, 0000 AN
+BRENDA A RICHARDS, 0000 AN
+PEACHES A RICHARDS, 0000 MS
+RUTH A RING, 0000 AN
+MARK A ROBINSON, 0000 MS
+DOUGLAS W ROGERS, 0000 AN
+LARRY S ROGERS, 0000 MS
+SONYA I ROWE, 0000 AN
+JEFFREY N SCHMIDT, 0000 MS
+TOD W SCHNETZLER, 0000 AN
+RONALD J SHANK, 0000 AN
+DONALD G SHIPMAN, 0000 SP
+W B SIMS, 0000 AN
+EUGENE K SOH, 0000 MS
+JOHN W SONG, 0000 MS
+ABRAHAM W SUHR, 0000 MS
+BRENT A TINNEL, 0000 MS
+BRIAN K TRAWICK, 0000 AN
+PAUL S URIBE, 0000 MS
+AMBER L VEGH, 0000 MS
+MELVIN E WAGNER, 0000 MS
+MARVETTA WALKER, 0000 AN
+MICHELLE L WICKSTROM, 0000 MS
+PATRICIA M WILLIAMS, 0000 SP
+JOE C WILSON, 0000 AN
+MARY A WITT, 0000 AN
+```
