@@ -1,0 +1,30 @@
+---
+granule: CREC-2001-12-04-pt1-PgH8815-4
+date: 2001-12-04
+edition: CREC
+section: HOUSE
+page: H8815
+citation: 147 Cong. Rec. H8815
+---
+
+# APPOINTMENT AS MEMBER OF ADVISORY COMMITTEE ON STUDENT FINANCIAL ASSISTANCE
+
+```
+   APPOINTMENT AS MEMBER OF ADVISORY COMMITTEE ON STUDENT FINANCIAL 
+                               ASSISTANCE
+
+  The SPEAKER pro tempore. Without objection, pursuant to section 491 
+of
+
+[[Page H8816]]
+
+the Higher Education Act (20 U.S.C. 1098(c)), and upon the 
+recommendation of the majority leader, the Chair announces the 
+Speaker's appointment of the following Member on the part of the House 
+to the Advisory Committee on Student Financial Assistance for a 3-year 
+term to fill the existing vacancy thereon:
+  Ms. Norine Fuller, Arlington, Virginia.
+  There was no objection.
+
+                          ____________________
+```
