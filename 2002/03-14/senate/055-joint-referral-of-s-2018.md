@@ -1,0 +1,31 @@
+---
+granule: CREC-2002-03-14-pt1-PgS1953-2
+date: 2002-03-14
+edition: CREC
+section: SENATE
+page: S1953
+citation: 148 Cong. Rec. S1953
+---
+
+# JOINT REFERRAL OF S. 2018
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S. 2018
+
+```
+                       JOINT REFERRAL OF S. 2018
+
+  Mr. REID. Mr. President, I ask unanimous consent that S. 2018, the 
+T'uf Sur Bein Preservation Trust Area Act, be jointly referred to the 
+Committee on Energy and Natural Resources and Indian Affairs; that if 
+one committee reports the bill, the other committee have 20 calendar 
+days for review, excluding any period where the Senate is not in 
+session for more than 3 days; provided further that if the second 
+committee fails to report the measure within a 20-day period, then that 
+committee is automatically discharged and the measure is placed on the 
+Senate Calendar.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
