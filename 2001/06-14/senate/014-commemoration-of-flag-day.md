@@ -1,0 +1,130 @@
+---
+granule: CRECB-2001-pt8-Pg10828
+date: 2001-06-14
+edition: CRECB
+section: SENATE
+page: 10828
+---
+
+# COMMEMORATION OF FLAG DAY
+
+```
+[[Page 10828]]
+
+                       COMMEMORATION OF FLAG DAY
+
+  Mr. THURMOND. Mr. President, two hundred and twenty-four years ago 
+today, the United States was engaged in its War for Independence. I 
+note that the American Continental Army, now the United States Army, 
+was established by the Continental Congress, just two years earlier on 
+June 14, 1775. I express my congratulations to the United States Army 
+on its 226th birthday.
+  At the start of that War, American colonists fought under a variety 
+of local flags. The Continental Colors, or Grand Union Flag, was the 
+unofficial national flag from 1775-1777. This flag had thirteen 
+alternating red and white stripes, with the English flag in the upper 
+left corner.
+  Following the publication of the Declaration of Independence, it was 
+no longer appropriate to fly a banner containing the British flag. 
+Accordingly, on June 14, 1777, the Continental Congress passed a 
+resolution that ``the Flag of the United States be 13 stripes alternate 
+red and white, and the Union be 13 stars white and a blue field 
+representing a new constellation.''
+  No record exists as to why the Continental Congress adopted the now-
+familiar red, white and blue. A later action by the Congress, convened 
+under the Articles of Confederation, may provide an appropriate 
+interpretation on the use of these colors. Five years after adopting 
+the flag resolution, in 1782, a resolution regarding the Great Seal of 
+the United States contained a statement on the meanings of the colors: 
+red--for hardiness and courage; white--for purity and innocence; and 
+blue for vigilance, perseverance, and justice.
+  The stripes, symbolic of the thirteen original colonies, were similar 
+to the five red and four white stripes on the flag of the Sons of 
+Liberty, an early colonial flag. The stars of the first national flag 
+after 1777 were arranged in a variety of patterns. The most popular 
+design placed the stars in alternating rows of three or two stars. 
+Another flag placed twelve stars in a circle with the thirteenth star 
+in the center. A now popular image of a flag of that day, although it 
+was rarely used at the time, placed the thirteen stars in a circle.
+  As our country has grown, the Stars and Stripes have undergone 
+necessary modifications. Alterations include the addition, then 
+deletion, of stripes; and the addition and rearrangement of the field 
+of stars.
+  While our Star-Spangled Banner has seen changes, the message it 
+represents is constant. That message is one of patriotism and respect, 
+wherever the flag is found flying. Henry Ward Beecher, a prominent 19th 
+century clergyman and lecturer stated, ``A thoughtful mind, when it 
+sees a Nation's flag, sees not the flag only, but the Nation itself; 
+and whatever may be its symbols, its insignia, he reads chiefly in the 
+flag the Government, the principles, the truths, and the history which 
+belong to the nation that sets it forth.''
+  Old Glory represents the land, the people, the government and the 
+ideals of the United States, no matter when or where it is displayed 
+throughout the world--in land battle, the first such occurrence being 
+August 16, 1777 at the Battle of Bennington; on a U.S. Navy ship, such 
+as the Ranger, under the command of John Paul Jones in November 1777; 
+or in Antarctica, in 1840, on the pilot boat Flying Fish of the Charles 
+Wilkes expedition.
+  The flag has proudly represented our Republic beyond the Earth and 
+into the heavens. The stirring images of Neil Armstrong and Edwin 
+Aldrin saluting the flag on the moon, on July 20, 1969 moved the Nation 
+to new heights of patriotism and national pride.
+  Today we pause to commemorate our Nation's most clear symbol--our 
+flag. An early account of a day of celebration of the flag was reported 
+by the Hartford Courant suggesting an observance was held throughout 
+the State of Connecticut, in 1861. The origin of our modern Flag Day is 
+often traced to the work of Bernard Cigrand, who in 1885 held his own 
+observance of the flag's birthday in his one-room schoolhouse in 
+Waubeka, Wisconsin. This began his decades-long campaign for a day of 
+national recognition of the Flag. His advocacy for this cause was 
+reflected in numerous newspaper articles, books, magazines and lectures 
+of the day. His celebrated pamphlet on ``Laws and Customs Regulating 
+the Use of the Flag of the United States'' received wide distribution.
+  His petition to President Woodrow Wilson for a national observance 
+was rewarded with a Presidential Proclamation designating June 14, 1916 
+as Flag Day. On a prior occasion President Wilson noted, ``Things that 
+the flag stands for were created by the experiences of a great people. 
+Everything that it stands for was written by their lives. The flag is 
+the embodiment, not of sentiment, but of history. It represents the 
+experiences made by men and women, the experiences of those who do and 
+live under the flag.''
+  Flag Day was officially designated a National observance by a Joint 
+Resolution approved by Congress and the President in 1949, and first 
+celebrated the following year. This year, then, marks the 51st 
+anniversary of a Congressionally designated Flag Day.
+  It is appropriate that we pause today, on this Flag Day, to render 
+our respect and honor to the symbol of our Nation, and to review our 
+commitment to the underlying principles it represents. Today, let us 
+reflect on the deeds and sacrifices of those who have gone before and 
+the legacy they left to us. Let us ponder our own endeavors and the 
+inheritance we will leave to future generations.
+  Finally, as we commemorate the heritage our flag represents, may we 
+as a Nation pledge not only our allegiance, but also our efforts to 
+furthering the standards represented by its colors--courage, virtue, 
+perseverance, and justice. Through these universal concepts, We the 
+People can ensure better lives for ourselves and our children, for 
+these are the characteristics of greatness. In doing so, we can move 
+closer to the goal so well stated by Daniel Webster at the laying of 
+the cornerstone of the Bunker Hill Monument on June 17, 1825. On that 
+occasion he said, ``Let our object be our country, our whole country, 
+and nothing but our country. And, by the blessing of God, may that 
+country itself become a vast and splendid monument, not of oppression 
+and terror, but of Wisdom, of Peace, and of Liberty, upon which the 
+world may gaze with admiration forever.''
+  I have long supported legislation which imposes penalties on anyone 
+who knowingly mutilates, defaces, burns, tramples upon, or physically 
+defiles any U.S. flag. I have also supported a constitutional amendment 
+to grant Congress and the States the power to prohibit the physical 
+desecration of the U.S. flag. I regret that the Senate has yet to adopt 
+a Resolution for a flag protection Constitutional amendment.
+  I am pleased that the Senate adopted a Resolution to provide for a 
+designated Senator to lead the Senate in reciting the Pledge of 
+Allegiance to the Flag of the United States. This has added greatly to 
+the opening of the Senate each day.
+  Today I encourage my colleagues and all Americans to take note of the 
+history and meaning of this 14th day of June. We celebrate our Flag, 
+observing its 224th birthday, and the 226-year-old Army which has so 
+proudly and valiantly defended it and our great Nation.
+
+                          ____________________
+```
