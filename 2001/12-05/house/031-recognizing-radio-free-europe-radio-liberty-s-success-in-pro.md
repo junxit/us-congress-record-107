@@ -1,0 +1,493 @@
+---
+granule: CREC-2001-12-05-pt1-PgH8850-2
+date: 2001-12-05
+edition: CREC
+section: HOUSE
+page: H8850
+citation: 147 Cong. Rec. H8850
+---
+
+# RECOGNIZING RADIO FREE EUROPE/RADIO LIBERTY'S SUCCESS IN PROMOTING DEMOCRACY
+
+**Speaking:** Johnson, Nancy L. (J000163) [R-CT]
+
+**Measures:** H.Con.Res. 242
+
+```
+  RECOGNIZING RADIO FREE EUROPE/RADIO LIBERTY'S SUCCESS IN PROMOTING 
+                               DEMOCRACY
+
+  The SPEAKER pro tempore. The unfinished business is the question of 
+suspending the rules and agreeing to the concurrent resolution, H. Con. 
+Res. 242.
+  The Clerk read the title of the concurrent resolution.
+  The SPEAKER pro tempore. The question is on the motion offered by the 
+gentleman from Iowa (Mr. Leach) that the House suspend the rules and 
+agree to the concurrent resolution, H. Con. Res. 242, on which the yeas 
+and nays are ordered.
+  The vote was taken by electronic device, and there were--yeas 404, 
+nays 1, not voting 28, as follows:
+
+                             [Roll No. 469]
+
+                               YEAS--404
+
+     Abercrombie
+     Ackerman
+     Aderholt
+     Akin
+     Allen
+     Armey
+     Baca
+     Bachus
+     Baird
+     Baker
+     Baldacci
+     Baldwin
+     Ballenger
+     Barcia
+     Barr
+     Barrett
+     Bartlett
+     Barton
+     Bass
+     Becerra
+     Bentsen
+     Bereuter
+     Berkley
+     Berry
+     Biggert
+     Bilirakis
+     Bishop
+     Blagojevich
+     Blumenauer
+     Blunt
+     Boehlert
+     Boehner
+     Bonilla
+     Bonior
+     Bono
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brady (TX)
+     Brown (FL)
+     Brown (OH)
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Chabot
+     Chambliss
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Coble
+     Collins
+     Combest
+     Condit
+     Conyers
+     Cooksey
+     Costello
+     Cox
+     Coyne
+     Cramer
+     Crane
+     Crenshaw
+     Crowley
+     Culberson
+     Cunningham
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeGette
+     Delahunt
+     DeLauro
+     DeLay
+     DeMint
+     Deutsch
+     Diaz-Balart
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doolittle
+     Doyle
+     Dreier
+     Duncan
+     Dunn
+     Edwards
+     Ehlers
+     Ehrlich
+     Emerson
+     Engel
+     English
+     Eshoo
+     Etheridge
+     Evans
+     Everett
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Flake
+     Fletcher
+     Foley
+     Forbes
+     Ford
+     Fossella
+     Frank
+     Frelinghuysen
+     Frost
+     Gallegly
+     Ganske
+     Gekas
+     Gephardt
+     Gibbons
+     Gilchrest
+     Gillmor
+     Gilman
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Goss
+     Graham
+     Granger
+     Graves
+     Green (TX)
+     Green (WI)
+     Greenwood
+     Grucci
+     Gutknecht
+     Hall (OH)
+     Hall (TX)
+     Hansen
+     Harman
+     Hart
+     Hastings (FL)
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Herger
+     Hill
+     Hilleary
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hobson
+     Hoeffel
+     Hoekstra
+     Holden
+     Holt
+     Honda
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Hulshof
+     Hunter
+     Hyde
+     Inslee
+     Isakson
+     Israel
+     Issa
+     Istook
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jenkins
+     John
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (NC)
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kennedy (RI)
+     Kerns
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     King (NY)
+     Kirk
+     Kleczka
+     Knollenberg
+     Kolbe
+     LaFalce
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Largent
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     Leach
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Lucas (OK)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Manzullo
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McCrery
+     McDermott
+     McGovern
+     McHugh
+     McInnis
+     McIntyre
+     McKeon
+     McKinney
+     McNulty
+     Meeks (NY)
+     Menendez
+     Mica
+     Millender-McDonald
+     Miller, Dan
+     Miller, Gary
+     Miller, George
+     Miller, Jeff
+     Mink
+     Mollohan
+     Moore
+     Moran (KS)
+     Moran (VA)
+     Morella
+     Murtha
+     Myrick
+     Nadler
+     Napolitano
+     Neal
+     Nethercutt
+     Northup
+     Norwood
+     Nussle
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Osborne
+     Ose
+     Otter
+     Owens
+     Oxley
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Phelps
+     Pickering
+     Pitts
+     Platts
+     Pombo
+     Pomeroy
+     Portman
+     Price (NC)
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Ramstad
+     Rangel
+     Regula
+     Rehberg
+     Reynolds
+     Riley
+     Rivers
+     Rodriguez
+     Roemer
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Ross
+     Rothman
+     Roybal-Allard
+     Royce
+     Rush
+     Ryan (WI)
+     Ryun (KS)
+     Sabo
+     Sanders
+     Sandlin
+     Sawyer
+     Saxton
+     Schaffer
+     Schakowsky
+     Schiff
+     Schrock
+     Scott
+     Sensenbrenner
+     Serrano
+     Sessions
+     Shadegg
+     Shaw
+     Shays
+     Sherman
+     Sherwood
+     Shimkus
+     Shows
+     Shuster
+     Simmons
+     Simpson
+     Skeen
+     Skelton
+     Slaughter
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stearns
+     Stenholm
+     Strickland
+     Stump
+     Stupak
+
+[[Page H8851]]
+
+
+     Sununu
+     Sweeney
+     Tancredo
+     Tanner
+     Tauscher
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Terry
+     Thompson (CA)
+     Thompson (MS)
+     Thornberry
+     Thune
+     Tiahrt
+     Tiberi
+     Tierney
+     Toomey
+     Towns
+     Traficant
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Upton
+     Velazquez
+     Visclosky
+     Vitter
+     Walden
+     Walsh
+     Wamp
+     Waters
+     Watkins (OK)
+     Watson (CA)
+     Watt (NC)
+     Watts (OK)
+     Weiner
+     Weldon (FL)
+     Weller
+     Wexler
+     Whitfield
+     Wicker
+     Wilson
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+     Young (FL)
+
+                                NAYS--1
+
+       
+     Paul
+       
+
+                             NOT VOTING--28
+
+     Andrews
+     Berman
+     Boozman
+     Cubin
+     Cummings
+     DeFazio
+     Gutierrez
+     Hefley
+     Hostettler
+     Johnson (CT)
+     Johnson, Sam
+     Kingston
+     Kucinich
+     LaTourette
+     Meehan
+     Meek (FL)
+     Ney
+     Pelosi
+     Quinn
+     Reyes
+     Roukema
+     Sanchez
+     Souder
+     Thomas
+     Thurman
+     Waxman
+     Weldon (PA)
+     Young (AK)
+
+                              {time}  1106
+
+  Mr. OXLEY changed his vote from ``nay'' to ``yea.''
+  So (two-thirds having voted in favor thereof) the rules were 
+suspended and the concurrent resolution was agreed to.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+  Stated for:
+  Mrs. JOHNSON of Connecticut. Mr. Speaker, on rollcall No. 469 I was 
+unavoidably detained. Had I been present, I would have voted ``yea.''
+
+                          ____________________
+```
