@@ -1,0 +1,37 @@
+---
+granule: CRECB-2002-pt9-Pg11748-4
+date: 2002-06-27
+edition: CRECB
+section: SENATE
+page: 11748
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 27, 2002:
+
+
+                          DEPARTMENT OF STATE
+
+       LINDA ELLEN WATT, OF FLORIDA, A CAREER MEMBER OF THE SENIOR 
+     FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE REPUBLIC OF PANAMA.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be admiral
+
+VICE ADM. EDMUND P. GIAMBASTIANI JR.
+
+                          ____________________
+```
