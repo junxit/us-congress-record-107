@@ -1,0 +1,21 @@
+---
+granule: CREC-2002-04-26-pt1-PgS3472-22
+date: 2002-04-26
+edition: CREC
+section: SENATE
+page: S3472
+citation: 148 Cong. Rec. S3472
+---
+
+# Introductory Statement on S. 2362
+
+**Speaking:** Thurmond, Strom (T000254) [R-SC]
+
+**Measures:** S. 2362
+
+```
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2362. A bill to suspend temporarily the duty on Sulfur Black 1; to 
+the Committee on Finance.
+                                 ______
+```

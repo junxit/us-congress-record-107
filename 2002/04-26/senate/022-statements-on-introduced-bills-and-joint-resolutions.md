@@ -1,0 +1,2282 @@
+---
+granule: CREC-2002-04-26-pt1-PgS3467
+date: 2002-04-26
+edition: CREC
+section: SENATE
+page: S3467
+citation: 148 Cong. Rec. S3467
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+**Speaking:** Kerry, John F. (K000148) [D-MA], Thurmond, Strom (T000254) [R-SC]
+
+**Measures:** S. 2339, S. 2340, S. 2341, S. 2342, S. 2343, S. 2344, S. 2345, S. 2346, S. 2347, S. 2348, S. 2349, S. 2350, S. 2351, S. 2352, S. 2353, S. 2354, S. 2355, S. 2356, S. 2357, S. 2358, S. 2359, S. 2360, S. 2361, S. 2362, S. 2363, S. 2364, S. 2365, S. 2366, S. 2367, S. 2368, S. 2369, S. 2370, S. 2371, S. 2372, S. 2373, S. 2374, S. 2375, S. 2376, S. 2377, H.R. 2520
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. KERRY:
+  S. 2339. A bill to amend the Internal Revenue Code of 1986 to curb 
+tax abuses by disallowing tax benefits claimed to arise from 
+transactions without substantial economic substance, to curb tax abuses 
+involving identified tax havens, and for other purposes; to the 
+Committee on Finance.
+● Mr. KERRY. Mr. President, the recent demise of Enron 
+Corporation has generated national attention and shed light on an 
+alarming trend. A growing number of corporations and individuals are 
+exploiting tax havens in the Caribbean and elsewhere to evade and avoid 
+paying taxes.
+  Often cloaked in a web of bank secrecy and taxpayer privacy, 
+businesses and individuals operating in offshore financial centers 
+create sham corporations and partnerships. By sheltering tax-dodgers 
+and tax cheats, these overseas tax havens undermine confidence and 
+trust in our Federal Government. The spread of illegal tax haven 
+activity punishes those who play by the rules. The end result is higher 
+taxes on the little guy--those who comply with the law. They are stuck 
+paying the tab, forced to make up for the lost revenue through 
+unnecessarily high taxes.
+  The vast majority of American businesses and individuals do not 
+engage in abusive tax schemes. These taxpayers' activities will be 
+unaffected by the Tax Haven and Abusive Tax Shelter Reform Act of 2002. 
+The legislation will not stand in the way of legitimate tax planning 
+and business activity. However, the bill will create real consequences 
+for those individuals who flout the law, and those businesses who 
+engage in transactions with no real business purpose other than 
+generating artificial losses and deductions.
+  The exact details of Enron's tax avoidance practices are still under 
+investigation by the Senate Finance Committee. What we do know is the 
+energy conglomerate held over 800 subsidiaries in tax haven 
+jurisdictions. Enron created 692 subsidiaries in the Cayman Islands 
+alone. Through the use of sophisticated financial instruments, at least 
+one analyst estimates Enron was able to avoid income taxes in four of 
+the last five years.
+  Enron is not alone. The use of offshore tax havens by corporations 
+and wealthy individuals is widespread. Through accounting tricks and 
+tax loopholes, large companies not only avoid corporate income taxes, 
+they claim sizable tax refunds. In a typical example, a corporation 
+establishes a foreign subsidiary not subject to American taxes, shifts 
+profits to the subsidiary which then sends them back to the parent 
+corporation in a form that is considered not taxable under U.S. law.
+  While some corporations use loopholes to skirt the edges of the law, 
+other individuals use tax havens outright illegally. The Internet has 
+simplified the process of launching a corporation or opening an account 
+offshore. While Americans are taxed on their worldwide earnings, 
+individuals operating in offshore financial centers gamble that the IRS 
+will never uncover their overseas income.
+  Taxpayers select tax havens because they offer little or no taxation 
+on income in their jurisdiction and have privacy rules that help 
+taxpayers hide what they are doing. Once the transfers are established, 
+income is often repatriated back to the U.S. owners through loans, 
+credit cards, or debit cards. By using complex transactions and 
+multiple entities, the individuals using these schemes hide their 
+income and avoid potential tax liabilities.
+  The scope of the problem is daunting. Assets in offshore entities 
+have climbed from an estimated $200 billion in 1983, to an estimated $5 
+trillion today. One private sector estimate suggests the use of tax 
+havens to illegally shelter income results in the loss of $70 billion 
+annually. The IRS estimates that in tax year 2000, about 740,000 
+taxpayers used abusive schemes, both domestic and offshore.
+  Clearly, Congress must act to restore public confidence in our 
+federal tax system. We can start by ensuring that honest, middle-class 
+Americans are not the only ones left holding the bill. Unfortunately, 
+the Bush administration has shied away from aggressively attacking tax 
+evasion. Last May, Treasury Secretary Paul O'Neill voiced support for 
+abolishing the corporate income tax. The Treasury Department recently 
+fought to water down an international campaign to reform tax haven 
+practices led by the Organization for Economic Cooperation and 
+Development, OECD. Last fall, the Administration sought to repeal the 
+corporate alternative minimum tax, a tax designed to ensure that large 
+corporations do not entirely escape taxation.
+  Exempting our Nation's largest firms from taxation altogether is not 
+the answer. On the contrary, Congress should take steps to ensure that 
+criminal tax evasion is detected and addressed accordingly. The Tax 
+Haven and Abusive Tax Shelter Reform Act of 2002 would impose strict 
+measures against nations identified as uncooperative tax havens those 
+which use confidentiality rules and practices to undermine tax 
+enforcement and administration or refuse to participate in effective 
+information exchange agreements. The legislation would limit foreign 
+tax credits claimed by taxpayers operating in uncooperative tax havens. 
+It would require a strict reporting of outbound transfers by U.S. 
+taxpayers. The bill imposes a new civil penalty on U.S. taxpayers who 
+fail to report an interest in an offshore account. Finally, it mandates 
+a comprehensive review of the offshore tax evasion problem, including 
+specific mechanisms used by taxpayers to shelter income and assets. By 
+imposing real consequences for jurisdictions which are identified as 
+uncooperative tax havens, the bill pierces the veil of secrecy which 
+shields tax cheats from scrutiny and provides a strong incentive for 
+otherwise uncooperative tax havens to enter into commitments with the 
+United States to reform their practices.
+  The peddling of abusive corporate tax shelters also demands 
+attention. Pre-packaged, tax-motivated transactions with no real 
+economic risk or business purpose--but which capitalize on technical 
+ambiguities in the tax code--are sold to corporations by creative 
+practitioners to generate artificial losses and deductions. Provisions 
+in the Tax Haven and Abusive Tax Shelter Reform Act of 2002, identical 
+to those introduced in the House by Rep. Lloyd Doggett, D-TX, would 
+disallow tax benefits from transactions that have no real business 
+purpose other than tax
+
+[[Page S3468]]
+
+savings. In addition, they expand disclosure requirements so that the 
+IRS is fully aware of dubious tax schemes and tighten penalties against 
+gross underpayments resulting from illegal tax shelters.
+  A tax system which asks working families to pay their fair share, but 
+gives large corporations such as Enron a free ride, is a national 
+disgrace. And as tax havens and shelters proliferate, confidence in the 
+integrity and fairness of our tax system and government declines. 
+Middle-class families rightly conclude that our own government cannot 
+effectively enforce its laws. The administration, while proposing new 
+disclosure requirements, has offered little in the way of substantive 
+changes to alter the tax treatment of transactions which clearly serve 
+no real business purpose other than tax avoidance. Furthermore, the 
+administration has undermined international efforts to aggressively 
+address sheltering activity in tax havens. The Tax Haven and Abusive 
+Tax Shelter Reform Act of 2002 is the first step in what will surely be 
+a long road to restoring the confidence and faith of the vast majority 
+of hard-working, law-abiding Americans who pay taxes on every dollar 
+they earn. I urge my colleagues to join me in this effort, and I ask 
+that a summary of the legislation as well as the full text of the bill 
+be printed in the Record.
+  The material follows:
+
+                                S. 2339
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Tax Haven and Abusive Tax 
+     Shelter Reform Act of 2002''.
+
+         TITLE I--CLARIFICATION OF ECONOMIC SUBSTANCE DOCTRINE
+
+     SEC. 101. CLARIFICATION OF ECONOMIC SUBSTANCE DOCTRINE.
+
+       (a) In General.--Section 7701 of the Internal Revenue Code 
+     of 1986 is amended by redesignating subsection (n) as 
+     subsection (o) and by inserting after subsection (m) the 
+     following new subsection:
+       ``(n) Clarification of Economic Substance Doctrine; Etc.--
+       ``(1) General rules.--
+       ``(A) In general.--In applying the economic substance 
+     doctrine, the determination of whether a transaction has 
+     economic substance shall be made as provided in this 
+     paragraph.
+       ``(B) Definition of economic substance.--For purposes of 
+     subparagraph (A)--
+       ``(i) In general.--A transaction has economic substance 
+     only if--
+
+       ``(I) the transaction changes in a meaningful way (apart 
+     from Federal income tax effects) the taxpayer's economic 
+     position, and
+       ``(II) the taxpayer has a substantial nontax purpose for 
+     entering into such transaction and the transaction is a 
+     reasonable means of accomplishing such purpose.
+
+       ``(ii) Special rule where taxpayer relies on profit 
+     potential.--A transaction shall not be treated as having 
+     economic substance by reason of having a potential for profit 
+     unless--
+
+       ``(I) the present value of the reasonably expected pre-tax 
+     profit from the transaction is substantial in relation to the 
+     present value of the expected net tax benefits that would be 
+     allowed if the transaction were respected, and
+       ``(II) the reasonably expected pre-tax profit from the 
+     transaction exceeds a risk-free rate of return.
+
+       ``(C) Treatment of fees and foreign taxes.--Fees and other 
+     transaction expenses and foreign taxes shall be taken into 
+     account as expenses in determining pre-tax profit under 
+     subparagraph (B)(ii).
+       ``(2) Special rules for transactions with tax-indifferent 
+     parties.--
+       ``(A) Special rules for financing transactions.--The form 
+     of a transaction which is in substance the borrowing of money 
+     or the acquisition of financial capital directly or 
+     indirectly from a tax-indifferent party shall not be 
+     respected if the present value of the deductions to be 
+     claimed with respect to the transaction are substantially in 
+     excess of the present value of the anticipated economic 
+     returns of the person lending the money or providing the 
+     financial capital. A public offering shall be treated as a 
+     borrowing, or an acquisition of financial capital, from a 
+     tax-indifferent party if it is reasonably expected that at 
+     least 50 percent of the offering will be placed with tax-
+     indifferent parties.
+       ``(B) Artificial income shifting and basis adjustments.--
+     The form of a transaction with a tax-indifferent party shall 
+     not be respected if--
+       ``(i) it results in an allocation of income or gain to the 
+     tax-indifferent party in excess of such party's economic 
+     income or gain, or
+       ``(ii) it results in a basis adjustment or shifting of 
+     basis on account of overstating the income or gain of the 
+     tax-indifferent party.
+       ``(3) Definitions and special rules.--For purposes of this 
+     subsection--
+       ``(A) Economic substance doctrine.--The term `economic 
+     substance doctrine' means the common law doctrine under which 
+     tax benefits under subtitle A with respect to a transaction 
+     are not allowable if the transaction does not have economic 
+     substance or lacks a business purpose.
+       ``(B) Tax-indifferent party.--The term `tax-indifferent 
+     party' means any person or entity not subject to tax imposed 
+     by subtitle A. A person shall be treated as a tax-indifferent 
+     party with respect to a transaction if the items taken into 
+     account with respect to the transaction have no substantial 
+     impact on such person's liability under subtitle A.
+       ``(C) Exception for personal transactions of individuals.--
+     In the case of an individual, this subsection shall apply 
+     only to transactions entered into in connection with a trade 
+     or business or an activity engaged in for the production of 
+     income.
+       ``(D) Treatment of lessors.--In applying subclause (I) of 
+     paragraph (1)(B)(ii) to the lessor of tangible property 
+     subject to a lease, the expected net tax benefits shall not 
+     include the benefits of depreciation, or any tax credit, with 
+     respect to the leased property and subclause (II) of 
+     paragraph (1)(B)(ii) shall be disregarded in determining 
+     whether any of such benefits are allowable.
+       ``(4) Other common law doctrines not affected.--Except as 
+     specifically provided in this subsection, the provisions of 
+     this subsection shall not be construed as altering or 
+     supplanting any other rule of law referred to in section 
+     6662(i)(2), and the requirements of this subsection shall be 
+     construed as being in addition to any such other rule of 
+     law.''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply to transactions after the date of the enactment 
+     of this Act.
+
+                          TITLE II--PENALTIES
+
+     SEC. 201. INCREASE IN PENALTY ON UNDERPAYMENTS RESULTING FROM 
+                   FAILURE TO SATISFY CERTAIN COMMON LAW RULES.
+
+       (a) In General.--Section 6662 of the Internal Revenue Code 
+     of 1986 (relating to imposition of accuracy-related penalty) 
+     is amended by adding at the end the following new subsection:
+       ``(i) Increase in Penalty in Case of Failure To Satisfy 
+     Certain Common Law Rules.--
+       ``(1) In general.--To the extent that an underpayment is 
+     attributable to a disallowance described in paragraph (2)--
+       ``(A) subsection (a) shall be applied with respect to such 
+     portion by substituting `40 percent' for `20 percent', and
+       ``(B) subsection (d)(2)(B) and section 6664(c) shall not 
+     apply.
+       ``(2) Disallowances described.--A disallowance is described 
+     in this subsection if such disallowance is on account of--
+       ``(A) a lack of economic substance (within the meaning of 
+     section 7701(n)(1)) for the transaction giving rise to the 
+     claimed benefit or the transaction was not respected under 
+     section 7701(n)(2),
+       ``(B) a lack of business purpose for such transaction or 
+     because the form of the transaction does not reflect its 
+     substance, or
+       ``(C) a failure to meet the requirements of any other 
+     similar rule of law.
+       ``(3) Increase in penalty not to apply if compliance with 
+     disclosure requirements.--Paragraph (1)(A) shall not apply if 
+     the taxpayer discloses to the Secretary (as such time and in 
+     such manner as the Secretary shall prescribe) such 
+     information as the Secretary shall prescribe with respect to 
+     such transaction.''.
+       (b) Modifications to Penalty on Substantial Understatement 
+     of Income Tax.--
+       (1) Modification of threshold.--Subparagraph (A) of section 
+     6662(d)(1) of the Internal Revenue Code of 1986 is amended to 
+     read as follows:
+       ``(A) In general.--For purposes of this section, there is a 
+     substantial understatement of income tax for any taxable year 
+     if the amount of the understatement for the taxable year 
+     exceeds the lesser of--
+       ``(i) $500,000, or
+       ``(ii) the greater of 10 percent of the tax required to be 
+     shown on the return for the taxable year or $5,000.''.
+       (2) Modification of penalty on tax shelters, etc.--Clauses 
+     (i) and (ii) of section 6662(d)(2)(C) of such Code are 
+     amended to read as follows:
+       ``(i) In general.--Subparagraph (B) shall not apply to any 
+     item attributable to a tax shelter.''.
+       ``(ii) Determination of understatements with respect to tax 
+     shelters, etc.--In any case in which there are one or more 
+     items attributable to a tax shelter, the amount of the 
+     understatement under subparagraph (A) shall in no event be 
+     less than the amount of understatement which would be 
+     determined for the taxable year if all items shown on the 
+     return which are not attributable to any tax shelter were 
+     treated as being correct. A similar rule shall apply in cases 
+     to which subsection (i) applies, whether or not the items are 
+     attributable to a tax shelter.''.
+       (c) Treatment of Amended Returns.--Subsection (a) of 
+     section 6664 of the Internal Revenue Code of 1986 is amended 
+     by adding at the end the following new sentence: ``For 
+     purposes of this subsection, an amended return shall be 
+     disregarded if such return is filed on or after the date the 
+     taxpayer is first contacted by the Secretary regarding the 
+     examination of the return.''.
+
+[[Page S3469]]
+
+     SEC. 202. PENALTY ON PROMOTERS OF TAX AVOIDANCE STRATEGIES 
+                   WHICH HAVE NO ECONOMIC SUBSTANCE, ETC.
+
+       (a) Penalty.--
+       (1) In general.--Section 6700 of the Internal Revenue Code 
+     of 1986 (relating to promoting abusive tax shelters, etc.) is 
+     amended by redesignating subsection (c) as subsection (d) and 
+     by inserting after subsection (b) the following new 
+     subsection:
+       ``(c) Penalty on Substantial Promoters for Promoting Tax 
+     Avoidance Strategies Which Have No Economic Substance, Etc.--
+       ``(1) Imposition of penalty.--Any substantial promoter of a 
+     tax avoidance strategy shall pay a penalty in the amount 
+     determined under paragraph (2) with respect to such strategy 
+     if such strategy (or any similar strategy promoted by such 
+     promoter) fails to meet the requirements of any rule of law 
+     referred to in section 6662(i)(2).
+       ``(2) Amount of penalty.--The penalty under paragraph (1) 
+     with respect to a promoter of a tax avoidance strategy is an 
+     amount equal to 100 percent of the gross income derived (or 
+     to be derived) by such promoter from such strategy.
+       ``(3) Tax avoidance strategy.--For purposes of this 
+     subsection, the term `tax avoidance strategy' means any 
+     entity, plan, arrangement, or transaction a significant 
+     purpose of the structure of which is the avoidance or evasion 
+     of Federal income tax.
+       ``(4) Substantial promoter.--For purposes of this 
+     subsection--
+       ``(A) In general.--The term `substantial promoter' means, 
+     with respect to any tax avoidance strategy, any promoter if--
+       ``(i) such promoter offers such strategy to more than 1 
+     potential participant, and
+       ``(ii) such promoter may receive fees in excess of $500,000 
+     in the aggregate with respect to such strategy.
+       ``(B) Aggregation rules.--For purposes of this paragraph--
+       ``(i) Related persons.--A promoter and all persons related 
+     to such promoter shall be treated as 1 person who is a 
+     promoter.
+       ``(ii) Similar strategies.--All similar tax avoidance 
+     strategies of a promoter shall be treated as 1 tax avoidance 
+     strategy.
+       ``(C) Promoter.--The term `promoter' means any person who 
+     participates in the promotion, offering, or sale of the tax 
+     avoidance strategy.
+       ``(D) Related person.--Persons are related if they bear a 
+     relationship to each other which is described in section 
+     267(b) or 707(b).
+       ``(4) Coordination with subsection (a).--No penalty shall 
+     be imposed by this subsection on any promoter with respect to 
+     a tax avoidance strategy if a penalty is imposed under 
+     subsection (a) on such promoter with respect to such 
+     strategy.''.
+       (2) Conforming amendment.--Subsection (d) of section 6700 
+     of such Code is amended--
+       (A) by striking ``Penalty'' and inserting ``Penalties'', 
+     and
+       (B) by striking ``penalty'' the first place it appears in 
+     the text and inserting ``penalties''.
+       (b) Increase in Penalty on Promoting Abusive Tax 
+     Shelters.--The first sentence of section 6700(a) of the 
+     Internal Revenue Code of 1986 is amended by striking ``a 
+     penalty equal to'' and all that follows and inserting ``a 
+     penalty equal to the greater of $1,000 or 100 percent of the 
+     gross income derived (or to be derived) by such person from 
+     such activity.''.
+
+     SEC. 203. MODIFICATIONS OF PENALTIES FOR AIDING AND ABETTING 
+                   UNDERSTATEMENT OF TAX LIABILITY INVOLVING TAX 
+                   SHELTERS.
+
+       (a) Imposition of Penalty.--Section 6701(a) of the Internal 
+     Revenue Code of 1986 (relating to imposition of penalty) is 
+     amended to read as follows:
+       ``(a) Imposition of Penalties.--
+       ``(1) In general.--Any person--
+       ``(A) who aids or assists in, procures, or advises with 
+     respect to, the preparation or presentation of any portion of 
+     a return, affidavit, claim, or other document,
+       ``(B) who knows (or has reason to believe) that such 
+     portion will be used in connection with any material matter 
+     arising under the internal revenue laws, and
+       ``(C) who knows that such portion (if so used) would result 
+     in an understatement of the liability for tax of another 
+     person,
+
+     shall pay a penalty with respect to each such document in the 
+     amount determined under subsection (b).
+       ``(2) Certain tax shelters.--If--
+       ``(A) any person--
+       ``(i) aids or assists in, procures, or advises with respect 
+     to the creation, organization, sale, implementation, 
+     management, or reporting of a tax shelter (as defined in 
+     section 6662(d)(2)(C)(iii)) or of any entity, plan, 
+     arrangement, or transaction that fails to meet the 
+     requirements of any rule of law referred to in section 
+     6662(i)(2), and
+       ``(ii) opines, advises, represents, or otherwise indicates 
+     (directly or indirectly) that the taxpayer's tax treatment of 
+     items attributable to such tax shelter or such entity, plan, 
+     arrangement, or transaction and giving rise to an 
+     understatement of tax liability would more likely than not 
+     prevail or not give rise to a penalty,
+       ``(B) such opinion, advice, representation, or indication 
+     is unreasonable,
+
+     then such person shall pay a penalty in the amount determined 
+     under subsection (b). If a standard higher than the more 
+     likely than not standard was used in any such opinion, 
+     advice, representation, or indication, then subparagraph 
+     (A)(ii) shall be applied as if such standard were substituted 
+     for the more likely than not standard.''.
+       (b) Amount of Penalty.--Section 6701(b) of the Internal 
+     Revenue Code of 1986 (relating to amount of penalty) is 
+     amended--
+       (1) by inserting ``or (3)'' after ``paragraph (2)'' in 
+     paragraph (1),
+       (2) by striking ``subsection (a)'' each place it appears 
+     and inserting ``subsection (a)(1)'', and
+       (3) by redesignating paragraph (3) as paragraph (4) and by 
+     adding after paragraph (2) the following new paragraph:
+       ``(3) Tax shelters.--In the case of--
+       ``(A) a penalty imposed by subsection (a)(1) which involves 
+     a return, affidavit, claim, or other document relating to a 
+     tax shelter or an entity, plan, arrangement, or transaction 
+     that fails to meet the requirements of any rule of law 
+     referred to in section 6662(i)(2), and
+       ``(B) any penalty imposed by subsection (a)(2),
+
+     the amount of the penalty shall be equal to 100 percent of 
+     the gross proceeds derived (or to be derived) by the person 
+     in connection with the tax shelter or entity, plan, 
+     arrangement, or transaction.''.
+       (c) Referral and Publication.--If a penalty is imposed 
+     under section 6701(a)(2) of the Internal Revenue Code of 1986 
+     (as added by subsection (a)) on any person, the Secretary of 
+     the Treasury shall--
+       (1) notify the Director of Practice of the Internal Revenue 
+     Service and any appropriate State licensing authority of the 
+     penalty and the circumstances under which it was imposed, and
+       (2) publish the identity of the person and the fact the 
+     penalty was imposed on the person.
+       (d) Conforming Amendments.--
+       (1) Section 6701(d) of the Internal Revenue Code of 1986 is 
+     amended by striking ``Subsection (a)'' and inserting 
+     ``Subsection (a)(1)''.
+       (2) Section 6701(e) of such Code is amended by striking 
+     ``subsection (a)(1)'' and inserting ``subsection (a)(1)(A)''.
+       (3) Section 6701(f) of such Code is amended by inserting 
+     ``, tax shelter, or entity, plan, arrangement, or 
+     transaction'' after ``document'' each place it appears.
+
+     SEC. 204. FAILURE TO MAINTAIN LISTS.
+
+       Section 6708(a) of the Internal Revenue Code of 1986 
+     (relating to failure to maintain lists of investors in 
+     potentially abusive tax shelters) is amended by adding at the 
+     end the following: ``In the case of a tax shelter (as defined 
+     in section 6662(d)(2)(C)(iii)) or entity, plan, arrangement, 
+     or transaction that fails to meet the requirements of any 
+     rule of law referred to in section 6662(i)(2), the penalty 
+     shall be equal to 50 percent of the gross proceeds derived 
+     (or to be derived) from each person with respect to which 
+     there was a failure and the limitation of the preceding 
+     sentence shall not apply.''.
+
+     SEC. 205. PENALTY FOR FAILING TO DISCLOSE REPORTABLE 
+                   TRANSACTION.
+
+       (a) In General.--Part I of subchapter B of chapter 68 of 
+     the Internal Revenue Code of 1986 (relating to assessable 
+     penalties) is amended by inserting after section 6707 the 
+     following new section:
+
+     ``SEC. 6707A. PENALTY FOR FAILURE TO INCLUDE TAX SHELTER 
+                   INFORMATION WITH RETURN.
+
+       ``(a) Imposition of Penalty.--Any person who fails to 
+     include with its return of Federal income tax any information 
+     required to be included under section 6011 with respect to a 
+     reportable transaction shall pay a penalty in the amount 
+     determined under subsection (b). No penalty shall be imposed 
+     on any such failure if it is shown that such failure is due 
+     to reasonable cause.
+       ``(b) Amount of Penalty.--
+       ``(1) In general.--The amount of the penalty under 
+     subsection (a) shall be equal to the greater of--
+       ``(A) 5 percent of any increase in Federal tax which 
+     results from a difference between the taxpayer's treatment 
+     (as shown on its return) of items attributable to the 
+     reportable transaction to which the failure relates and the 
+     proper tax treatment of such items, or
+       ``(B) $100,000.
+     For purposes of subparagraph (A), the last sentence of 
+     section 6664(a) shall apply.
+       ``(2) Listed transaction.--If the failure under subsection 
+     (a) relates to a reportable transaction which is the same as, 
+     or substantially similar to, a transaction specifically 
+     identified by the Secretary as a tax avoidance transaction 
+     for purposes of section 6011, paragraph (1)(A) shall be 
+     applied by substituting `10 percent' for `5 percent'.
+       ``(c) Reportable Transaction.--For purposes of this 
+     section, the term `reportable transaction' means any 
+     transaction with respect to which information is required 
+     under section 6011 to be included with a taxpayer's return of 
+     tax because, as determined under regulations prescribed under 
+     section 6011, such transaction has characteristics which may 
+     be indicative of a tax avoidance transaction.
+       ``(d) Coordination With Other Penalties.--The penalty 
+     imposed by this section is in addition to any penalty imposed 
+     under section 6662.''.
+       (b) Conforming Amendment.--The table of sections for part I 
+     of subchapter B of chapter 68 of the Internal Revenue Code of 
+     1986 is amended by inserting after the item relating to 
+     section 6707 the following in item:
+
+``Sec. 6707A. Penalty for failure to include tax shelter information on 
+              return.''.
+
+[[Page S3470]]
+
+     SEC. 206. REGISTRATION OF CERTAIN TAX SHELTERS WITHOUT 
+                   CORPORATE PARTICIPANTS.
+
+       Section 6111(d)(1)(A) of the Internal Revenue Code of 1986 
+     (relating to certain confidential arrangements treated as tax 
+     shelters) is amended by striking ``for a direct or indirect 
+     participant which is a corporation''.
+
+     SEC. 207. EFFECTIVE DATES.
+
+       (a) In General.--Except as provided in subsections (b) and 
+     (c), the amendments made by this title shall apply to 
+     transactions after the date of the enactment of this Act.
+       (b) Section 201.--The amendments made by subsections (b) 
+     and (c) of section 201 shall apply to taxable years ending 
+     after the date of the enactment of this Act.
+       (c) Section 202.--The amendments made by subsection (a) of 
+     section 202 shall apply to any tax avoidance strategy (as 
+     defined in section 6700(c) of the Internal Revenue Code of 
+     1986, as amended by this title) interests in which are 
+     offered to potential participants after the date of the 
+     enactment of this Act.
+       (d) Section 206.--The amendment made by section 206 shall 
+     apply to any tax shelter interest which is offered to 
+     potential participants after the date of the enactment of 
+     this Act.
+
+          TITLE III--DISCOURAGING USE OF IDENTIFIED TAX HAVENS
+
+     SEC. 301. REPORTING OF PAYMENTS TO PERSONS IN IDENTIFIED TAX 
+                   HAVENS.
+
+       (a) In General.--Subpart A of part III of subchapter A of 
+     chapter 61 of the Internal Revenue Code of 1986 is amended by 
+     inserting after section 6038C the following new section:
+
+     ``SEC. 6038D. PAYMENTS TO PERSONS IN IDENTIFIED TAX HAVENS.
+
+       ``(a) In General.--Each United States person who transfers 
+     money or other property directly or indirectly to any 
+     identified tax haven or to any person who is a resident of 
+     any identified tax haven shall furnish to the Secretary, at 
+     such time and in such manner as the Secretary shall by 
+     regulations prescribe, such information with respect to such 
+     transfer as the Secretary may require in such regulations.
+       ``(b) Exceptions.--Subsection (a) shall not apply to a 
+     transfer by a United States person if--
+       ``(1) the transferee certifies to such person that 
+     information about such transfer shall be made available (in 
+     such manner and at such time as the Secretary shall 
+     prescribe) to the Secretary on request, or
+       ``(2) the amount of money (and the fair market value of 
+     property) transferred is less than $10,000.
+
+     Related transfers shall be treated as 1 transfer for purposes 
+     of paragraph (2).
+       ``(c) Identified Tax Haven.--For purposes of this section--
+       ``(1) In general.--The term `identified tax haven' means 
+     any foreign jurisdiction which is on the list maintained by 
+     the Secretary as being a jurisdiction--
+       ``(A) which imposes no or nominal taxation either generally 
+     or on specified classes of income, and
+       ``(B) has strict confidentiality rules and practices, or 
+     has ineffective information exchange practices, which 
+     effectively limit or restrict the ability of the United 
+     States to obtain information relevant to the imposition of 
+     taxes under this title.
+       ``(2) Ineffective information exchange practices.--For 
+     purposes of paragraph (1), a jurisdiction shall be treated as 
+     having ineffective information exchange practices during any 
+     period during which the Secretary determines that the 
+     exchange of information between the United States and such 
+     jurisdiction is inadequate to prevent evasion or avoidance of 
+     the United States income tax by United States persons or to 
+     permit the effective enforcement of the taxes imposed by this 
+     title.
+       ``(d) Penalty for Failure To File Information.--If a United 
+     States person fails to furnish the information required by 
+     subsection (a) with respect to any transfer within the time 
+     prescribed therefor (including extensions), such United 
+     States person shall pay (upon notice and demand by the 
+     Secretary and in the same manner as tax) an amount equal to 
+     20 percent of the amount of such transfer.
+       ``(e) Simplified Reporting.--The Secretary may by 
+     regulations provide for simplified reporting under this 
+     section for United States persons making large volumes of 
+     similar payments.
+       ``(f) Regulations.--The Secretary shall prescribe such 
+     regulations as may be appropriate to carry out this 
+     section.''
+       (b) Clerical Amendment.--The table of sections for such 
+     subpart A is amended by inserting after the item relating to 
+     section 6038C the following new item:
+
+``Sec. 6038D. Payments to persons in identified tax havens.''
+
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to transfers after the date of the enactment of 
+     this Act.
+       (d) Reports.--The Secretary of the Treasury shall submit 
+     annual reports to the Congress on the application of section 
+     6038D of the Internal Revenue Code of 1986 (as added by this 
+     section).
+
+     SEC. 302. REDUCTION OF CERTAIN TAX BENEFITS WITH RESPECT TO 
+                   INCOME FROM IDENTIFIED TAX HAVENS.
+
+       (a) Limitation on Deferral.--
+       (1) In general.--Subsection (a) of section 952 of the 
+     Internal Revenue Code of 1986 (defining subpart F income) is 
+     amended by striking ``and'' at the end of paragraph (4), by 
+     striking the period at the end of paragraph (5) and inserting 
+     ``, and'', and by inserting after paragraph (5) the following 
+     new paragraph:
+       ``(6) an amount equal to the applicable fraction (as 
+     defined in subsection (e)) of the income of such corporation 
+     other than income which--
+       ``(A) is attributable to earnings and profits of the 
+     foreign corporation included in the gross income of a United 
+     States person under section 951 (other than by reason of this 
+     paragraph or paragraph (3)(A)(i)), or
+       ``(B) is described in subsection (b).''
+       (2) Applicable fraction.--Section 952 of such Code is 
+     amended by adding at the end the following new subsection:
+       ``(e) Tax Haven Income Which is Subpart F Income.--
+       ``(1) In general.--For purposes of subsection (a)(6), the 
+     term `applicable fraction' means the fraction--
+       ``(A) the numerator of which is the aggregate identified 
+     tax haven income for the taxable year, and
+       ``(B) the denominator of which the aggregate income for the 
+     taxable year which is from sources outside the United States.
+
+     Rules similar to the regulations under section 999(c) shall 
+     apply for purposes of this paragraph.
+       ``(2) Identified tax haven income.--For purposes of 
+     paragraph (1), the term `identified tax haven income' means 
+     income for the taxable year which is attributable to a 
+     foreign jurisdiction for any period during which such 
+     jurisdiction is an identified tax haven (as defined in 
+     section 6038D(c)).''
+       (b) Denial of Foreign Tax Credit.--Section 901 of such Code 
+     (relating to taxes of foreign countries and of possessions of 
+     United States) is amended by redesignating subsection (l) as 
+     subsection (m) and by inserting after subsection (k) the 
+     following new subsection:
+       ``(l) Reduction of Foreign Tax Credit, Etc., With Respect 
+     to Identified Tax Havens.--
+       ``(1) In general.--Notwithstanding any other provision of 
+     this part--
+       ``(A) no credit shall be allowed under subsection (a) for 
+     any income, war profits, or excess profits taxes paid or 
+     accrued (or deemed paid under section 902 or 960) to any 
+     foreign jurisdiction if such taxes are with respect to income 
+     attributable to a period during which such jurisdiction is an 
+     identified tax haven (as defined in section 6038D(c)), and
+       ``(B) subsections (a), (b), (c), and (d) of section 904 and 
+     sections 902 and 960 shall be applied separately with respect 
+     to all income of a taxpayer attributable to periods described 
+     in subparagraph (A) with respect to all such jurisdictions.
+       ``(2) Taxes allowed as a deduction, etc.--Sections 275 and 
+     78 shall not apply to any tax which is not allowable as a 
+     credit under subsection (a) by reason of this subsection.
+       ``(3) Regulations.--The Secretary shall prescribe such 
+     regulations as may be necessary or appropriate to carry out 
+     the purposes of this subsection, including regulations which 
+     treat income paid through 1 or more entities as derived from 
+     a foreign jurisdiction to which this subsection applies if 
+     such income was, without regard to such entities, derived 
+     from such jurisdiction.''
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years beginning after the date of the 
+     enactment of this Act.
+
+     SEC. 303. FAILURE TO REPORT INTERESTS IN FOREIGN FINANCIAL 
+                   ACCOUNTS.
+
+       (a) In General.--Part I of subchapter B of chapter 68 of 
+     the Internal Revenue Code of 1986 (relating to additions to 
+     tax, additional amounts, and assessable penalties) is amended 
+     by adding at the end the following new section:
+
+     ``SEC. 6717. FAILURE TO MEET REQUIREMENTS WITH RESPECT TO 
+                   INTERESTS IN FOREIGN FINANCIAL ACCOUNTS.
+
+       ``(a) Imposition of Penalty.--Any person who fails to keep 
+     any records, or fails to file any report, required under 
+     section 5314 of title 31, United States Code, with respect to 
+     any foreign financial agency transaction shall pay a penalty 
+     of $5,000 for each such failure.
+       ``(b) Reasonable Cause Exception.--No penalty shall be 
+     imposed under subsection (a) with respect to any failure if 
+     it is shown that such failure is due to reasonable cause.
+       ``(c) Penalty in Addition to Other Penalties.--The penalty 
+     imposed under subsection (a) shall be in addition to any 
+     other penalty imposed by law, including any penalty imposed 
+     under section 5320(a)(5) or 5321 of title 31, United States 
+     Code.
+       ``(d) Deficiency Procedures not to Apply.--Subchapter B of 
+     chapter 63 (relating to deficiency procedures for income, 
+     estate, gift, any certain excise taxes) shall not apply in 
+     respect of the assessment or collection of any penalty 
+     imposed under subsection (a).''
+       (b) Conforming Amendment.--The table of sections for part I 
+     of subchapter B of chapter 68 of such Code is amended by 
+     adding at the end the following new item:
+
+``Sec. 6717. Failure to meet requirements with respect to interests in 
+              foreign financial accounts.''
+
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to failures occurring on or after the date of the 
+     enactment of this Act.
+
+     SEC. 304. STUDY OF OFFSHORE TAX HAVENS.
+
+       (a) In General.--The Joint Committee on Taxation shall 
+     conduct a study of the use of offshore tax havens by United 
+     States taxpayers to evade and avoid Federal income taxes. 
+     Such study shall include an examination of--
+
+[[Page S3471]]
+
+       (1) mechanisms used by United States taxpayers to illegally 
+     hide income and assets from detection,
+       (2) the extent to which foreign tax, banking, and financial 
+     practices encourage noncompliance with Federal income tax 
+     laws,
+       (3) the status and effectiveness of information exchange 
+     agreements between the United States and tax haven 
+     jurisdictions,
+       (4) the status and effectiveness of efforts by the 
+     Organization for Economic Cooperation and Development (OECD) 
+     to identify and eliminate harmful tax practices in tax haven 
+     jurisdictions,
+       (5) the effectiveness of--
+       (A) efforts by Internal Revenue Service to identify sources 
+     of illegal offshore activity, and
+       (B) Federal civil and criminal penalties designed to deter 
+     offshore tax evasion, and
+       (6) the economic and revenue implications of tax avoidance 
+     activity.
+       (b) Report.--The Joint Committee on Taxation shall submit a 
+     report of the results of the study conducted under subsection 
+     (a) to the Committee on Ways and Means of the House of 
+     Representatives and the Committee on Finance of the Senate 
+     not later than 12 months after the date of the enactment of 
+     this Act. Such report shall include any recommendations, 
+     including recommendations for legislative changes, as the 
+     Joint Committee on Taxation determines appropriate to curb 
+     the spread of offshore tax avoidance and evasion.
+                                  ____
+
+
+   Tax Haven and Abusive Tax Shelter Reform Act of 2002--Summary of 
+                               Provisions
+
+
+           I. Ending Meaningless and Abusive Tax Transactions
+
+       Codification of the Economic Substance Doctrine. Large 
+     corporations and sophisticated individuals are increasingly 
+     taking advantage of vagueness and ambiguities in the tax law 
+     to devise complex and unnecessary transactions purely for the 
+     purpose of tax avoidance. The legislation, based on H.R. 2520 
+     introduced by Rep. Lloyd Doggett, would codify the 
+     judicially-developed ``economic substance'' doctrine so that, 
+     when applying the doctrine, a transaction would have economic 
+     substance only if it changes in a meaningful way (apart from 
+     Federal income tax effects) the taxpayer's economic position, 
+     and the taxpayer has a substantial nontax purpose for 
+     entering into such transaction. In so doing, the Act would 
+     disallow sham transactions in which the economic activity 
+     purported to give rise to the desired tax benefits does not 
+     actually occur. The bill provides that if a profit potential 
+     is relied on to demonstrate that a transaction results in a 
+     meaningful change in economic position, the present value of 
+     the reasonably expected pre-tax profit must be substantial in 
+     relation to the present value of the expected net tax 
+     benefits that would be allowed if the transaction were 
+     respected.
+
+
+  II. Strengthening Penalties For Participants in Abusive Tax Shelter 
+                              Transactions
+
+       Increase Penalty for Underpayments Resulting from Abusive 
+     Tax Shelters. Under current law the IRS may impose a 20% 
+     accuracy-related penalty where there is a substantial 
+     understatement of tax or there is negligence on the part of 
+     the taxpayer. The Act would increase the penalty to 40% for 
+     underpayments on account of transactions which lack economic 
+     substance or business purposes. The higher penalty can be 
+     avoided by fully disclosing the transaction. In addition, the 
+     bill would amend the definition of a substantial 
+     understatement to include underpayments which exceed 
+     $500,000, regardless of whether the underpayment exceeds 10 
+     percent of the taxpayer's total tax liability.
+       Impose Penalty on Abusive Tax Shelter Promoters. The Act 
+     imposes a penalty on any substantial promoter of a disallowed 
+     tax shelter. The amount of the penalty equals 100 percent of 
+     the gross income derived by the promoter from the strategy. 
+     In addition, the bill modifies the current penalty for false 
+     or fraudulent statements with respect to tax shelters such 
+     that the amount of the penalty is the greater (rather than 
+     the lesser) of 41,000 or 100 percent of the gross income 
+     derived by the promoter.
+       Impose Penalty on Individuals Aiding and Abetting Abusive 
+     Tax Shelters. The Act would penalize the lawyers who write 
+     ``penalty insurance'' opinions that any reasonable person 
+     would know are unjustified. The Act would impose a penalty on 
+     those involved in a disallowed tax shelter if: (1) the person 
+     advises that the taxpayer's transaction would more likely 
+     than not prevail or not give rise to a penalty, and (2) the 
+     advice is unreasonable. An opinion would be considered 
+     unreasonable if a reasonably prudent and careful person under 
+     similar circumstances would not have offered such an opinion. 
+     The amount of the penalty is 100 percent of the gross 
+     proceeds derived by the person from the transaction.
+     Tighten Tax Shelter Disclosure Requirements
+       Failure to Maintain Lists. Under current law, any person 
+     who organizes a potentially abusive tax shelter must maintain 
+     a list that identifies each person who purchased an interest 
+     in the shelter. The penalty for failure to meet these 
+     requirements is $50 for each person, up to a maximum of 
+     $50,000. The Act increases the penalty to 50 percent of the 
+     gross proceeds derived from each person.
+       Failure to Disclose Reportable Transactions. Regulations 
+     require corporate taxpayers to include in their tax return 
+     information with respect to certain large transactions with 
+     characteristics that may be indicative of tax shelter 
+     activity. The Act imposes a penalty for failing to disclose 
+     the required information with respect to a reportable 
+     transactions. The penalty is equal to the greater of 5% of 
+     the increase in tax liability resulting from a correction or 
+     $100,000.
+       Registration of Shelters Offered to Non-Corporate 
+     Participants. A promoter of a confidential corporate tax 
+     shelter is required to register the tax shelter with the IRS. 
+     The penalty for failing to timely register a confidential 
+     corporate tax shelter is the greater of $10,000 or 50% of the 
+     fees payable to any promoter. The Act deletes the requirement 
+     that a direct or indirect participant must be a corporation.
+
+
+       III. Combating Illegal Tax Evasion in Overseas Tax Havens
+
+       The legislation concentrates on two major problems inherent 
+     in tax haven jurisdictions: (1) confidentiality rules and 
+     practices which prevent the effective administration and 
+     enforcement of U.S. and foreign tax laws, and (2) lack of 
+     effective bilateral information exchange in civil and 
+     criminal tax matters. By imposing real consequences for 
+     jurisdictions which are identified as uncooperative tax 
+     havens, the legislation provides meaningful incentives for 
+     these nations to reform tax practices which impede the 
+     ability of the United States to enforce its laws. In 
+     addition, the legislation imposes consequences on U.S. 
+     taxpayers who hide income offshore and fail to report assets 
+     held in foreign accounts and mandates a thorough review of 
+     the problem of offshore tax evasion, including the economic 
+     and revenue implications of tax avoidance activity.
+       Reduction in Foreign Tax Credits and Other Tax Benefits. 
+     The Act denies foreign tax credits for taxes paid to 
+     jurisdictions that have been identified in a list of 
+     uncooperative tax havens to be published by the Treasury 
+     Secretary. A jurisdiction would be considered a tax haven and 
+     included in the list if the jurisdiction both (1) imposes no 
+     or nominal taxation either generally or on specified classes 
+     of income, and (2) has strict confidentiality rules and 
+     practices or has ineffective information exchange practices. 
+     In addition, the proposal would reduce a taxpayer's (1) 
+     otherwise allowable foreign tax credit attributable to income 
+     from an identified tax haven, and (2) income, attributable to 
+     an identified tax haven, that is otherwise eligible for 
+     deferral.
+       Reporting of Payments to Identified Tax Havens. The Act 
+     requires that all payments to entities, accounts, or 
+     individuals that are resident or located in identified 
+     uncooperative tax havens be reported on the taxpayer's income 
+     tax return. Exceptions would apply for payments less than 
+     $10,000 or if the recipient certifies to the payor that the 
+     information regarding the transaction will be provided to the 
+     IRS upon request. Related payments would be required to be 
+     aggregated for purposes of determining whether this threshold 
+     is exceeded. Failure to report a payment on a tax return that 
+     was required to be reported would result in the imposition of 
+     a penalty on the payor equal to 20% of the gross payment.
+       Reporting of Interest in a Foreign Financial Account. 
+     Recent evidence obtained in summons of offshore credit card 
+     records suggests that a significant number U.S. taxpayers are 
+     using offshore banks to illegally hide income and assets from 
+     taxation. In addition to existing criminal penalties, the 
+     legislation imposes a civil penalty of 45,000 for the failure 
+     to comply with the rules and regulations requiring the 
+     reporting of information requested on the ``Report of Foreign 
+     Bank and Financial Accounts.'' The IRS would have the 
+     authority to waive the penalty, in whole or in part, if the 
+     taxpayer paid all U.S. tax due with respect to the taxpayer's 
+     foreign accounts and the taxpayer demonstrates that the 
+     failure to file this form was due to reasonable cause.
+       Offshore Tax Avoidance and Evasion Study. The full extent 
+     of the problem of offshore tax evasion is only beginning to 
+     come to light. The legislation mandates the Joint Committee 
+     on Taxation to conduct a study examining the use of offshore 
+     tax havens by U.S. taxpayers to evade and avoid federal 
+     income taxes. The study will review: (1) mechanisms used by 
+     U.S. taxpayers to illegally hide income and assets from 
+     detection, (2) the extent to which foreign tax, banking, and 
+     financial practices encourage noncompliance with U.S. tax 
+     laws, (3) the status and effectiveness of the United States' 
+     information exchange agreements with tax haven jurisdictions, 
+     (4) the status and effectiveness of efforts by the 
+     Organization for Economic Cooperation and Development (OECD) 
+     to identify and eliminate harmful tax practices in tax haven 
+     jurisdictions, (5) IRS efforts to identify sources of illegal 
+     offshore activity, and federal civil and criminal penalties 
+     designed to deter offshore tax evasion, and (6) the economic 
+     and revenue implications of offshore tax avoidance activity. 
+     Most importantly, the study will include recommendations for 
+     ways to curb the spread of offshore tax avoidance and 
+     evasion.●
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2340. A bill to suspend temporarily the duty on Methyl Cinnamate 
+(methyl-3-phenylpropenoate); to the Committee on Finance.
+
+[[Page S3472]]
+
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2341. A bill to suspend temporarily the duty on Allyl Cyclo Hexyl 
+Propionate (Allyl hexahydro phenylpropionate); to the Committee on 
+Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2342. A bill to suspend temporarily the duty on 
+Polydimethylsiloxane; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2343. A bill to suspend temporarily the duty on Baysilone Fluid; 
+to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2344. A bill to suspend temporarily the duty on P-Nitro Toluene-O-
+Sulfonic Acid; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2345. A bill to suspend temporarily the duty on Fluorobenzene; to 
+the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2346. A bill to extend the temporary suspension of duty with 
+respect to meta-Chlorobenzaldehyde; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2347. A bill to extend the temporary suspension of duty with 
+respect to 2, 6, Dichlorotoluene; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2348. A bill to extend the temporary suspension of duty with 
+respect to 4-bromo-2-fluoroacetanilide; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2349. A bill to suspend temporarily the duty on Methoxy acetic 
+acid; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2350. A bill to extend the temporary suspension of duty with 
+respect to Propiophenone; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND:
+  S. 2351. A bill to suspend temporarily the duty on Ethanediamide, N-
+(2-ethoxyphenyl)-N'-(4-isodecylphenyl)-; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND:
+  S. 2352. A bill to suspend temporarily the duty on 1-Acetyl-4-(3-
+Dodecyl-2), 5-Dioxo-1-Pyrrolidinyl)-2,2,6,6-Tetramethyl-Piperdine; to 
+the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND:
+  S. 2353. A bill to suspend temporarily the duty on Aryl phosphonite; 
+to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND:
+  S. 2354. A bill to suspend temporarily the duty on Mono octyl 
+malionate; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND:
+  S. 2355. A bill to suspend temporarily the duty on 3,6,9,-
+Trioxaundecanedioic acid; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND:
+  S. 2356. A bill to suspend temporarily the duty on Crotonic acid; to 
+the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND:
+  S. 2357. A bill to suspend temporarily the duty on 1,3-
+Benzenedicarboxamide, N, N'-Bis (2,2,6,6-tetramethyl-4-piperidinyl)-; 
+to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND:
+  S. 2358. A bill to suspend temporarily the duty on 3-Dodecyl1-
+(2,2,6,6-tetramethyl-4-piperidinyl)-2,5-pyrrolidinedione; to the 
+Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2359. A bill to suspend temporarily the duty with respect to 
+Oxalic Anilide; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2360. A bill to suspend temporarily the duty on Reduced Vat Blue 
+43; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2361. A bill to suspend temporarily the duty on N-Metyl 
+diisopropanolamine; to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself and Mr. Hollings):
+  S. 2362. A bill to suspend temporarily the duty on Sulfur Black 1; to 
+the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2363. A bill to suspend temporarily the duty on Phenyl Propyl 
+Alcohol (Benxyl ethyl alcohol); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2364. A bill to suspend temporarily the duty on Benzyl Cinnamate 
+(Benzyl beta phenylacrylate); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2365. A bill to suspend temporarily the duty on Thymol (alpha-
+Cymophenol); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2366. A bill to suspend temporarily the duty on Methyl 
+Acetophenone-para (Melilot); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2367. A bill to suspend temporarily the duty on Frescolate (5-
+Methyl 2-(methylethyl)cyclohexyl alpha-hydroxypropanoate); to the 
+Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2368. A bill to suspend temporarily the duty on Trimethyl Cyclo 
+Hexanol (1-Methly-3,3-dimethylcyclohexanol-5); to the Committee on 
+Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2369. A bill to suspend temporarily the duty on Allinat (Allyl 
+isosulfocyanate); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2370. A bill to suspend temporarily the duty of Acetanisole 
+(Anisyl Methyl Ketone); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2371. A bill to suspend temporarily the duty on NeoHeliopan MA 
+(Menthyl Anthranilate); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2372. A bill to suspend temporarily the duty on Majantol (2,2-
+Dimethyl-3-(3-methylphenyl)proponal); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2373. A bill to suspend temporarily the duty on Agrumex (o-t-Butyl 
+cyclohexanol); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2374. A bill to suspend temporarily the duty on Globanone 
+(Cyclohexadec-8-en-1-one)(CHD); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2375. A bill to suspend temporarily the duty on Benzyl Acetone 
+(Methyl-
+
+[[Page S3473]]
+
+phenylethyl ketone); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2376. A bill to suspend temporarily the duty on Sodium Methylate 
+Powder (Na Methylate Powder); to the Committee on Finance.
+                                 ______
+                                 
+      By Mr. THURMOND (for himself, Mr. Hollings, and Mr. Corzine):
+  S. 2377. A bill to suspend temporarily the duty on NeoHeliopan Hydro 
+(2-Phenylbenzimidazole-5-sulfonic acid); to the Committee on Finance.
+  Mr. THURMOND. Mr. President, I rise today to introduce thirty-eight 
+bills which will suspend the duties imposed on certain chemicals that 
+are important components for a wide array of commercial applications. 
+Currently, these chemicals are imported for use in the United States 
+because there are no known domestic producers or readily available 
+substitutes. Therefore, suspending the duties on these chemicals would 
+not adversely affect domestic industries.
+  These bills would temporarily suspend the duty on the following:
+  Reduced Vat Blue 43;
+  Sulfur Black 1;
+  Mono Octyl Malionate;
+  Crotonic Acid;
+  Fluorobenzene;
+  Meta-Chlorobenzaldehyde;
+  2,6,Dichlorotoluene;
+  4-Bromo-2-Fluoroacetanilide;
+  Propiophenone;
+  Methoxy Acetic Acid;
+  Aryl Phosphonite;
+  Ethanediamide,--(2-Ethoxyphenyl)-N'-(4-Isodecylphenyl)-3,6,9-
+Trioxaundecanedioic Acid;
+  Oxalic Anilide;
+  NeoHeliopan MA (Menthyl Anthranilate);
+  Alliant (Allyl Isosulfocyante);
+  Frescolate (5-Methyl-2-(Methylethyl)cyclohexyl Alpha-
+hydroxypropanoate);
+  Phenyl Propyl Alcohol (Benxyl Ethyl Alcohol);
+  Benzyl Cinnamate (Benzyl Beta Phenylacrylate);
+  Methyl Cinnamate (Methyl-3-Phenylpropenoate);
+  Methyl Acetophenone-para (Melilot);
+  Trimethyl Cyclo Hexanol (1-Methyl-3,3-Dimethylcyclohexanol-5);
+  Acetanisole (Anisyl Methyl Ketone);
+  Majantol (2,2-Dimethyl-3-(3-Methylphenyl)Proponal);
+  Agrumex (O-T-Butyl Cyclohexanol);
+  Globanone (Cyclohexadec-8-EN-1-One) (CHD);
+  Benzyl Acetone (Methyl-Phenylethyl Ketone);
+  Sodium Methylate Powder (NA Methylate Powder);
+  NeoHeliopan Hydro (2-Phenylbenzimidazole-5-Sulfonic Acid);
+  Allyl Cyclo Hexyl Propionate (Allyl Hexahydro Phenylpropionate);
+  Thymol (Alpha-Cymophenol);
+  Baysilone Fluid;
+  N-Metyl Diisopropanolamine;
+  Polydimethylsiloxane;
+  1-Acetyl-4-(3-Dodecyl-2,5-Dioxo-1-Pyrrolidinyl)-2,2,6,6-Tetramethyl-
+Piperidine;
+  1,3-Benzenedicarboxamide,N,N'-Bis(2,2,6,6-Tetramethyl-4-Piperidinyl)-
+P-Nitro Toluene-O-Sulfonic acid; and
+  3-Dodecyl-1-(2,2,6,6-Tetramethyl-4-Piperidinyl)-2,5-Pyrrolidinedione.
+  These chemicals are used in a wide variety of manufacturing processes 
+to produce agricultural chemicals, pharmaceuticals, fragrances, textile 
+fibers, dyes, pigments, and other products.
+  Suspending the duty on these chemicals will benefit the consumer by 
+stabilizing the costs of manufacturing the end-use products. Further, 
+these suspensions will allow domestic producers to maintain or improve 
+their ability to compete internationally. Finally, the importers of 
+these products create jobs and incomes for Americans workers. I hope 
+the Senate will consider these measures expeditiously.
+  I ask unanimous consent that the text of these bills be printed in 
+the Record.
+  There being no objection, the bills were ordered to be printed in the 
+Record, as follows:
+
+                                S. 2340
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. METHYL CINNAMATE (METHYL-3-PHENYLPROPENOATE).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.78     Methyl           Free              No change         No change         On or before 12/
+                     Cinnamate                                                               31/2005          ''
+                     (methyl-3-                                                                                .
+                     phenylpropenoat
+                     e) (CAS No. 103-
+                     26-4) (provided
+                     for in
+                     subheading
+                     2916.39.20)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                    __
+                                  
+
+                                S. 2341
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. ALLYL CYCLO HEXYL PROPIONATE (ALLYL HEXAHYDRO 
+                   PHENYLPROPIONATE).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.77     Allyl Cyclo      Free              No change         No change         On or before 12/
+                     Hexyl                                                                   31/2005          ''
+                     Propionate                                                                                .
+                     (Allyl
+                     hexahydro
+                     phenylpropionat
+                     e) (CAS No.
+                     2705-87-5)
+                     (provided for
+                     in subheading
+                     2916.20.50)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                    __
+                                  
+
+                                S. 2342
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SUSPENSION OF DUTY ON POLYDIMETHYLSILOXANE.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``       9902.39.02        Polydimethylsiloxan  Free        No change       No change       On or before 12/
+                            e (CAS No. 63148-                                                31/2005          ''
+                            62-9) (provided                                                                    .
+                            for in subheading
+                            3910.00.00).
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of 
+     enactment of this Act.
+
+[[Page S3474]]
+
+                                  ____
+                                  
+
+                                S. 2343
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SUSPENSION OF DUTY ON BAYSILONE FLUID.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.39.03       An Alkyl modified      Free        No change       No change       On or before 12/
+                          polydimethylsiloxane                                               31/2005          ''
+                          (CAS No. 102782-93-                                                                  .
+                          4) (provided for in
+                          subheading
+                          3910.00.00).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2344
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. EXTENSION OF SUSPENSION OF DUTY ON P-NITRO 
+                   TOLUENE-O-SULFONIC ACID.
+
+       (a) In General.--Heading 9902.29.23 of the Harmonized 
+     Tariff Schedule of the United States is amended by striking 
+     ``12/31/2001'' and inserting ``12/31/2005''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                 S 2345
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. FLUOROBENZENE.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new subheading:
+
+       
+
+``      9902.38.70       Fluorobenzene (CAS     Free        No change       No change       On or before 12/
+                          No. 462-06-6)                                                      31/2006          ''
+                          (provided for in                                                                     .
+                          subheading
+                          2903.69.70).........
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2346
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. META-CHLOROBENZALDEHYDE.
+
+       (a) In General.--Subheading 9902.28.17 of the Harmonized 
+     Tariff Schedule of the United States is amended by striking 
+     ``12/31/2003'' and inserting ``12/31/2006''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2347
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. 2,6, DICHLOROTOLUENE.
+
+       (a) In General.--Subheading 9902.32.82 of the Harmonized 
+     Tariff Schedule of the United States is amended by striking 
+     ``12/31/2003'' and inserting ``12/31/2006''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2348
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. 4-BROMO-2-FLUOROACETANILIDE.
+
+       (a) In General.--Subheading 9902.28.15 of the Harmonized 
+     Tariff Schedule of the United States is amended by striking 
+     ``12/31/2003'' and inserting ``12/31/2006''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2349
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. METHOXY ACETIC ACID.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.39.36       Methoxy acetic acid    Free        No change       No change       On or before 12/
+                          (CAS No. 625-45-6)                                                 31/2006          ''
+                          (provided for in                                                                     .
+                          subheading
+                          2918.90.50).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2350
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. PROPIOPHENONE.
+
+       (a) In General.--Subheading 9902.28.16 of the Harmonized 
+     Tariff Schedule of the United States is amended by striking 
+     ``12/31/2003'' and inserting ``12/31/2006''.
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2351
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+[[Page S3475]]
+
+     SECTION 1. ETHANEDIAMIDE, N- (2-ETHOXYPHENYL)-N'- (4-
+                   ISODECYLPHENYL)-.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+       
+
+``      9902.39.33       Ethanediamide, N-(2-   Free        Free            No change       On or before 12/
+                          ethoxyphenyl)-N-(4-                                                31/2006          ''
+                          isodecylphenyl)-                                                                     .
+                          (CAS No. 82493-14-9)
+                          (provided for in
+                          subheading
+                          3812.30.60).........
+
+       (b) Effective Date.--The amendment made by this subsection 
+     (a) applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2352
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. 1-ACETYL-4-(3-DODECYL-2, 5-DIOXO-1-PYRROLIDINYL)-
+                   2,2,6,6-TETRAMETHYL-PIPERIDINE.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.39.34       1-Acetyl-4-(3-Dodecyl- Free        Free            No change       On or before 12/
+                          2, 5-Dioxo-1-                                                      31/2006.         ''
+                          Pyrrolidinyl)-                                                                       .
+                          2,2,6,6-Tetramethyl-
+                          Piperidine (CAS
+                          No.106917-31-1)
+                          (provided for in
+                          subheading
+                          2933.39.61).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 1 5th day after 
+     the date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2353
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. ARYL PHOSPHONITE.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.39.37       Aryl phosphonite (CAS  Free        Free            No change       On or before 12/
+                          No. 119345-01-6)                                                   31/2006.         ''
+                          (provided for in                                                                     .
+                          subheading
+                          2931.00.10).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2354
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. MONO OCTYL MALIONATE.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.39.35       Mono octyl malionate   Free        No change       No change       On or before 12/
+                          (CAS No. 7423-42-9)                                                31/2006          ''
+                          (provided for in                                                                     .
+                          subheading
+                          2917.19.20).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2355
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. 3,6,9-TRIOXAUNDECANEDIOIC ACID.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.39.37       3,6,9-                 Free        No change       No change       On or before 12/
+                          Trioxaundecanedioic                                                31/2006          ''
+                          acid (CAS No. 13887-                                                                 .
+                          98-4) (provided for
+                          in subheading
+                          2918.90.50).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2356
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. CROTONIC ACID.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.39.38       Crotonic acid (CAS     Free        No change       No change       On or before 12/
+                          No. 107-93-7)                                                      31/2006          ''
+                          (provided for in                                                                     .
+                          subheading
+                          2916.19.30).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2357
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+[[Page S3476]]
+
+     SECTION 1. 1,3-BENZENEDICARBOXAMIDE, N, N'-BIS (2,2,6,6-
+                   TETRAMETHYL-4-PIPERIDINYL)-.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.39.39       1,3-                   Free        No change       No change       On or before 12/
+                          Benzenedicarboxamide                                               31/2006          ''
+                          , N, N-Bis (2,2,6,6-                                                                 .
+                          tetramethyl-4-
+                          piperidinyl)- (CAS
+                          No. 42774-15-2)
+                          (provided for in
+                          subheading
+                          2933.39.61).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2358
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. 3-DODECYL-1-(2,2,6,6-TETRAMETHYL-4-PIPERIDINYL)-
+                   2,5-PYRROLIDINEDIONE.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.39.40       3-Dodecyl-1-(2,2,6,6-  Free        No change       No change       On or before 12/
+                          tetramethyl-4-                                                     31/2006          ''
+                          piperidinyl)-2,5-                                                                    .
+                          pyrrolidinedione
+                          (CAS No. 79720-19-7)
+                          (provided for in
+                          subheading
+                          2933.39.61).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2359
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. OXALIC ANILIDE.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.39.44       Ethanediamide, N-(2-   Free        No change       No change       On or before 12/
+                          ethoxyphenyl-N'-(2-                                                31/2005          ''
+                          ethyophenyl)- (CAS                                                                   .
+                          No. 23949-66-8)
+                          (provided for in
+                          subheading
+                          2924.29.76).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2360
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. REDUCED VAT BLUE 43.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.33.42     Reduced Vat      Free              No change         No change         On or before 12/
+                     Blue 43 [(CAS                                                           31/2006          ''
+                     No. ________)]                                                                            .
+                     (provided for
+                     in subheading
+                     3204.15.40)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2361
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SUSPENSION OF DUTY ON N-METYL DIISOPROPANOLAMINE.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``      9902.29.48       1,1'-(methylimino)     Free        No change       No change       On or before 12/
+                          dipropan-2-ol (CAS                                                 31/2005          ''
+                          No. 4402-30-6)                                                                       .
+                          (provided for in
+                          subheading
+                          2922.19.95).........
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2362
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SULFUR BLACK 1.
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.33.41     Sulfur Black 1   Free              No change         No change         On or before 12/
+                     (CAS No. 1326-                                                          31/2006          ''
+                     82-5) (provided                                                                           .
+                     for in
+                     subheading
+                     3204.19.30)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2363
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+[[Page S3477]]
+
+     SECTION 1. PHENYL PROPYL ALCOHOL (BENXYL ETHYL ALCOHOL).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.69     Phenyl Propyl    Free              No change         No change         On or before 12/
+                     Alcohol (Benxyl                                                         31/2005          ''
+                     ethyl alcohol)                                                                            .
+                     (CAS No. 122-97-
+                     3) (provided
+                     for in
+                     subheading
+                     2906.29.20)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2364
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. BENZYL CINNAMATE (BENZYL BETA PHENYLACRYLATE).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.76     Benzyl           Free              No change         No change         On or before 12/
+                     Cinnamate                                                               31/2005          ''
+                     (Benzyl beta                                                                              .
+                     phenylacrylate)
+                     (CAS No. 103-41-
+                     3) (provided
+                     for in
+                     subheading
+                     2916.39.20)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act
+                                  ____
+                                  
+
+                                S. 2365
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. THYMOL (ALPHA-CYMOPHENOL).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.70    Thymol (alpha-    Free              No change         No change         On or before 12/
+                     Cymophenol)                                                             31/2005          ''
+                     (CAS No. 89-83-                                                                           .
+                     8) (provided
+                     for in
+                     subheading
+                     2907.19.40)....
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of the 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2366
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. METHYL ACETOPHENONE-PARA (MELILOT).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.33.41     Methyl           Free              No change         No change         On or before 12/
+                     Acetophenone-                                                           31/2005          ''
+                     para (Melilot)                                                                            .
+                     (CAS No. 122-00-
+                     9) (provided
+                     for in
+                     subheading
+                     2914.39.00)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2367
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. FRESCOLATE (5-METHYL-2-(METHYLETHYL)CYCLOHEXYL 
+                   ALPHA-HYDROXYPROPANOATE).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.79    Frescolate (5-    Free              No change         No change         On or before 12/
+                     Methyl-2-                                                               31/2005          ''
+                     (methylethyl)cy                                                                           .
+                     clohexyl alpha-
+                     hydroxypropanoa
+                     te) (CAS No.
+                     59259-38-0)
+                     (provided for
+                     in subheading
+                     2918.11.50)....
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of the 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2368
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. TRIMETHYL CYCLO HEXANOL (1-METHYL-3,3-
+                   DIMETHYLCYCLOHEXANOL-5).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.67     Trimethyl Cyclo  Free              No change         No change         On or before 12/
+                     Hexanol (1-                                                             31/2005          ''
+                     Methyl-3,3-                                                                               .
+                     dimethylcyclohe
+                     xanol-5) (CAS
+                     No. 116-02-9)
+                     (provided for
+                     in subheading
+                     2906.19.50)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2369
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. ALLINAT (ALLYL ISOSULFOCYANATE).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+
+[[Page S3478]]
+
+
+       
+
+``    9902.30.81    Allinat (Allyl    Free              No change         No change         On or before 12/
+                     isosulfocyanate                                                         31/2005          ''
+                     ) (CAS No. 57-                                                                            .
+                     06-7) (provided
+                     for in
+                     subheading
+                     2930.90.90)....
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of the 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2370
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. ACETANISOLE (ANISYL METHYL KETONE).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.33.41     Acetanisole      Free              No change         No change         On or before 12/
+                     (Anisyl Methyl                                                          31/2005          ''
+                     Ketone) (CAS                                                                              .
+                     No. 100-06-1)
+                     (provided for
+                     in subheading
+                     2914.50.30)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2371
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. NEOHELIOPAN MA (MENTHYL ANTHRANILATE).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.80    NeoHeliopan MA    Free              No change         No change         On or before 12/
+                     (Menthyl                                                                31/2005          ''
+                     Anthranilate)                                                                             .
+                     (CAS No. 134-09-
+                     8) (provided
+                     for in
+                     subheading
+                     2922.49.26)....
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of the 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2372
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. MAJANTOL (2,2-DIMETHYL-3-(3-
+                   METHYLPHENYL)PROPONAL).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.68    Majantol (2,2-    Free              No change         No change         On or before 12/
+                     Dimethyl-3-(3-                                                          31/2005          ''
+                     methylphenyl)-                                                                            .
+                     proponal) (CAS
+                     No. 103694-68-
+                     4) (provided
+                     for in
+                     subheading
+                     2906.29.20)....
+
+       (b) Effective Date.--The amendment made by subsection (a) 
+     applies to articles entered, or withdrawn from warehouse for 
+     consumption, on or after the 15th day after the date of the 
+     enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2373
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. AGRUMEX (O-T-BUTYL CYCLOHEXANOL).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.75     Agrumex (o-t-    Free              No change         No change         On or before 12/
+                     Butyl                                                                   31/2005          ''
+                     cyclohexanol)                                                                             .
+                     (CAS No. 20298-
+                     69-5 and 88-41-
+                     5) (provided
+                     for in
+                     subheading
+                     2915.39.45)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2374
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. GLOBANONE (CYCLOHEXADEC-8-EN-1-ONE) (CHD).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.71     Globanone        Free              No change         No change         On or before 12/
+                     (Cyclohexadec-8-                                                        31/2005          ''
+                     en-1-one) (CHD)                                                                           .
+                     (CAS No. 3100-
+                     36-5) (provided
+                     for in
+                     subheading
+                     2914.29.50)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2375
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. BENZYL ACETONE (METHYL-PHENYLETHYL KETONE).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+[[Page S3479]]
+
+
+
+``    9902.30.73     Benzyl Acetone   Free              No change         No change         On or before 12/
+                     (Methyl-                                                                31/2005          ''
+                     phenylethyl                                                                               .
+                     ketone) (CAS
+                     No. 2550-26-7)
+                     (provided for
+                     in subheading
+                     2914.39.90)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2376
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SODIUM METHYLATE POWDER (NA METHYLATE POWDER).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.66     Sodium           Free              No change         No change         On or before 12/
+                     Methylate                                                               31/2005          ''
+                     Powder (Na                                                                                .
+                     Methylate
+                     Powder) (CAS
+                     No. 124-41-4)
+                     (provided for
+                     in subheading
+                     2905.19.00)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+                                  ____
+                                  
+
+                                S. 2377
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. NEOHELIOPAN HYDRO (2-PHENYLBENZIMIDAZOLE-5-
+                   SULFONIC ACID).
+
+       (a) In General.--Subchapter II of chapter 99 of the 
+     Harmonized Tariff Schedule of the United States is amended by 
+     inserting in numerical sequence the following new heading:
+
+       
+
+``    9902.30.82     NeoHeliopan      Free              No change         No change         On or before 12/
+                     Hydro (2-                                                               31/2005          ''
+                     Phenylbenzimida                                                                           .
+                     zole-5-sulfonic
+                     acid) (CAS No.
+                     27503-81-7)
+                     (provided for
+                     in subheading
+                     2933.90.75)....
+
+       (b) Effective Date.--The amendment made by this section 
+     applies with respect to goods entered, or withdrawn from 
+     warehouse for consumption, on or after the 15th day after the 
+     date of enactment of this Act.
+
+     
+
+                          ____________________
+```
