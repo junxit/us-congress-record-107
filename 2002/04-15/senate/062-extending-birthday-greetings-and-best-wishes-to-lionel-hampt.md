@@ -1,0 +1,104 @@
+---
+granule: CREC-2002-04-15-pt1-PgS2687-2
+date: 2002-04-15
+edition: CREC
+section: SENATE
+page: S2687
+citation: 148 Cong. Rec. S2687
+---
+
+# EXTENDING BIRTHDAY GREETINGS AND BEST WISHES TO LIONEL HAMPTON
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S.Con.Res. 101
+
+```
+     EXTENDING BIRTHDAY GREETINGS AND BEST WISHES TO LIONEL HAMPTON
+
+  Mr. REID. Madam President, I ask unanimous consent that the Senate 
+proceed to the consideration of S. Con. Res. 101, which is at the desk.
+  The PRESIDING OFFICER. The clerk will report the concurrent 
+resolution by title.
+  The legislative clerk read as follows:
+
+       A concurrent resolution (S. Con. Res. 101) extending 
+     birthday greetings and best wishes to Lionel Hampton on the 
+     occasion of his 94th birthday.
+
+  There being no objection, the Senate proceeded to the consideration 
+of the concurrent resolution.
+  Mr. REID. Madam President, I ask unanimous consent that the 
+concurrent resolution and its preamble be agreed to, the motion to 
+reconsider be laid upon the table, and any statements regarding this 
+concurrent resolution be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The concurrent resolution (S. Con. Res. 101) was agreed to.
+  The preamble was agreed to.
+  The resolution, with its preamble, reads as follows:
+
+                            S. Con. Res. 101
+
+       Whereas Lionel Hampton is regarded internationally as one 
+     of the greatest jazz musicians of all time and has shared his 
+     talents with the world for more than eight decades;
+       Whereas Lionel Hampton has consistently exemplified 
+     acceptance, tolerance, and the celebration of racial and 
+     cultural diversity, by being one of the first black musicians 
+     to perform in venues and events previously open only to white 
+     performers, including performances with the Benny Goodman 
+     Quartet from 1936-1940, and as the first black musician to 
+     perform for a presidential inauguration, that of Harry S. 
+     Truman in 1949;
+       Whereas Lionel Hampton has furthered the cause of cultural 
+     understanding and international communication, receiving a 
+     Papal Medallion from Pope Pius XII, the Israel Statehood 
+     Award, serving as a Goodwill Ambassador for the United 
+     States, and receiving the Honor Cross for Science and the 
+     Arts, First Call, one of Austria's highest decorations;
+
+[[Page S2688]]
+
+       Whereas Lionel Hampton is one of the most recorded artists 
+     in the history of jazz;
+       Whereas Lionel Hampton has opened doors for aspiring 
+     musicians throughout the world, many of whom have established 
+     themselves as giants in the world of jazz, including Cat 
+     Anderson, Terrance Blanchard, Clifford Brown, Conte Candoli, 
+     Pete Candoli, Betty Carter, Ray Charles, Nat ``King'' Cole, 
+     Bing Crosby, Art Farmer, Carl Fontana, Aretha Franklin, Benny 
+     Golson, Al Grey, Slide Hampton, Joe Henderson, Quincy Jones, 
+     Bradford Marsalis, West Montgomery, James Moody, Fats 
+     Navarro, Joe Newman, Nicholas Payton, Benny Powell, Buddy 
+     Tat, Clark Terry, Stanley Turrentine, Dinah Washington, and 
+     Joe Williams, among others;
+       Whereas Lionel Hampton has worked to perpetuate the art 
+     form of jazz by offering his talent, inspiration, and 
+     production acumen to the University of Idaho since 1983, and 
+     1985, when the University of Idaho named its school of music 
+     after him, Lionel Hampton became first jazz musician to have 
+     both a music school and a jazz festival named in his honor;
+       Whereas Lionel Hampton has received many national 
+     accolades, awards, and commemorations, including an American 
+     Jazz Masters Fellowship from the National Endowment for the 
+     Arts, Kennedy Center Honors, and a National Medal of Arts;
+       Whereas Lionel Hampton has received numerous awards and 
+     commendations by local and State governments and has received 
+     acknowledgment from hundreds of civic and performance groups;
+       Whereas Lionel Hampton's legacy of inspiration, education, 
+     and excellence will be perpetuated by the development of the 
+     Lionel Hampton Center at the University of Idaho, a facility 
+     that combines the finest in performance, scholarship, and 
+     research;
+       Whereas Lionel Hampton has made a difference in many lives 
+     by inspiring so many who have now become jazz greats, by 
+     reinforcing the importance of education at all levels, and by 
+     showing the world a way of life where love and talent are 
+     shared without reservation: Now, therefore, be it
+       Resolved by the Senate (the House of Representatives 
+     concurring), That the Congress, on behalf of the American 
+     people, extends its birthday greetings and best wishes to 
+     Lionel Hampton on the occasion of his 94th birthday.
+
+                          ____________________
+```
