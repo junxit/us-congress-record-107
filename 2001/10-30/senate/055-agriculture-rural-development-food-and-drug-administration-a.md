@@ -1,0 +1,2504 @@
+---
+granule: CREC-2001-10-30-pt1-PgS11236-3
+date: 2001-10-30
+edition: CREC
+section: SENATE
+page: S11236
+citation: 147 Cong. Rec. S11236
+---
+
+# AGRICULTURE, RURAL DEVELOPMENT, FOOD AND DRUG ADMINISTRATION, AND RELATED AGENCIES APPROPRIATIONS ACT, 2002
+
+**Measures:** H.R. 2330
+
+```
+   AGRICULTURE, RURAL DEVELOPMENT, FOOD AND DRUG ADMINISTRATION, AND 
+               RELATED AGENCIES APPROPRIATIONS ACT, 2002
+
+  On October 25, 2001, the Senate amended and passed H.R. 2330, as 
+follows:
+
+         Resolved, That the bill from the House of Representatives 
+     (H.R. 2330) entitled ``An Act making appropriations for 
+     Agriculture,
+
+[[Page S11237]]
+
+     Rural Development, Food and Drug Administration, and Related 
+     Agencies programs for the fiscal year ending September 30, 
+     2002, and for other purposes.'', do pass with the following 
+     amendment:
+       Strike out all after the enacting clause and insert:
+     That the following sums are appropriated, out of any money in 
+     the Treasury not otherwise appropriated, for Agriculture, 
+     Rural Development, Food and Drug Administration, and Related 
+     Agencies programs for the fiscal year ending September 30, 
+     2002, and for other purposes, namely:
+
+                                TITLE I
+
+                         AGRICULTURAL PROGRAMS
+
+                 Production, Processing, and Marketing
+
+                        Office of the Secretary
+
+       For necessary expenses of the Office of the Secretary of 
+     Agriculture, and not to exceed $75,000 for employment under 5 
+     U.S.C. 3109, $2,992,000: Provided, That not to exceed $11,000 
+     of this amount shall be available for official reception and 
+     representation expenses, not otherwise provided for, as 
+     determined by the Secretary: Provided further, That none of 
+     the funds appropriated or otherwise made available by this 
+     Act may be used to pay the salaries and expenses of personnel 
+     of the Department of Agriculture to carry out section 
+     793(c)(1)(C) of Public Law 104-127: Provided further, That 
+     none of the funds made available by this Act may be used to 
+     enforce section 793(d) of Public Law 104-127.
+
+                          Executive Operations
+
+
+                            chief economist
+
+       For necessary expenses of the Chief Economist, including 
+     economic analysis, risk assessment, cost-benefit analysis, 
+     energy and new uses, and the functions of the World 
+     Agricultural Outlook Board, as authorized by the Agricultural 
+     Marketing Act of 1946 (7 U.S.C. 1622g), and including 
+     employment pursuant to the second sentence of section 706(a) 
+     of the Organic Act of 1944 (7 U.S.C. 2225), of which not to 
+     exceed $5,000 is for employment under 5 U.S.C. 3109, 
+     $7,648,000.
+
+
+                       national appeals division
+
+       For necessary expenses of the National Appeals Division, 
+     including employment pursuant to the second sentence of 
+     section 706(a) of the Organic Act of 1944 (7 U.S.C. 2225), of 
+     which not to exceed $25,000 is for employment under 5 U.S.C. 
+     3109, $12,766,000.
+
+
+                 Office of Budget and Program Analysis
+
+       For necessary expenses of the Office of Budget and Program 
+     Analysis, including employment pursuant to the second 
+     sentence of section 706(a) of the Organic Act of 1944 (7 
+     U.S.C. 2225), of which not to exceed $5,000 is for employment 
+     under 5 U.S.C. 3109, $6,978,000.
+
+                Office of the Chief Information Officer
+
+       For necessary expenses of the Office of the Chief 
+     Information Officer, including employment pursuant to the 
+     second sentence of section 706(a) of the Organic Act of 1944 
+     (7 U.S.C. 2225), of which not to exceed $10,000 is for 
+     employment under 5 U.S.C. 3109, $10,261,000.
+
+
+                      Common Computing Environment
+
+       For necessary expenses to acquire a Common Computing 
+     Environment for the Natural Resources Conservation Service, 
+     the Farm and Foreign Agricultural Service and Rural 
+     Development mission areas for information technology, 
+     systems, and services, $59,369,000, to remain available until 
+     expended, for the capital asset acquisition of shared 
+     information technology systems, including services as 
+     authorized by 7 U.S.C. 6915-16 and 40 U.S.C. 1421-28: 
+     Provided, That obligation of these funds shall be consistent 
+     with the Department of Agriculture Service Center 
+     Modernization Plan of the county-based agencies, and shall be 
+     with the concurrence of the Department's Chief Information 
+     Officer.
+
+                 Office of the Chief Financial Officer
+
+       For necessary expenses of the Office of the Chief Financial 
+     Officer, including employment pursuant to the second sentence 
+     of section 706(a) of the Organic Act of 1944 (7 U.S.C. 2225), 
+     of which not to exceed $10,000 is for employment under 5 
+     U.S.C. 3109, $5,335,000: Provided, That the Chief Financial 
+     Officer shall actively market and expand cross-servicing 
+     activities of the National Finance Center.
+
+          Office of the Assistant Secretary for Administration
+
+       For necessary salaries and expenses of the Office of the 
+     Assistant Secretary for Administration to carry out the 
+     programs funded by this Act, $647,000.
+
+        Agriculture Buildings and Facilities and Rental Payments
+
+
+                     (including transfers of funds)
+
+       For payment of space rental and related costs pursuant to 
+     Public Law 92-313, including authorities pursuant to the 1984 
+     delegation of authority from the Administrator of General 
+     Services to the Department of Agriculture under 40 U.S.C. 
+     486, for programs and activities of the Department which are 
+     included in this Act, and for alterations and other actions 
+     needed for the Department and its agencies to consolidate 
+     unneeded space into configurations suitable for release to 
+     the Administrator of General Services, and for the operation, 
+     maintenance, improvement, and repair of Agriculture 
+     buildings, $187,581,000, to remain available until expended: 
+     Provided, That the Secretary of Agriculture may transfer a 
+     share of that agency's appropriation made available by this 
+     Act to this appropriation, or may transfer a share of this 
+     appropriation to that agency's appropriation to cover the 
+     costs of new or replacement space for such agency, but such 
+     transfers shall not exceed 5 percent of the funds made 
+     available for space rental and related costs to or from this 
+     account.
+
+                     Hazardous Materials Management
+
+
+                     (including transfers of funds)
+
+       For necessary expenses of the Department of Agriculture, to 
+     comply with the Comprehensive Environmental Response, 
+     Compensation, and Liability Act, 42 U.S.C. 9601 et seq., and 
+     the Resource Conservation and Recovery Act, 42 U.S.C. 6901 et 
+     seq., $15,665,000, to remain available until expended: 
+     Provided, That appropriations and funds available herein to 
+     the Department for Hazardous Materials Management may be 
+     transferred to any agency of the Department for its use in 
+     meeting all requirements pursuant to the above Acts on 
+     Federal and non-Federal lands.
+
+                      Departmental Administration
+
+
+                     (including transfers of funds)
+
+       For Departmental Administration, $37,079,000, to provide 
+     for necessary expenses for management support services to 
+     offices of the Department and for general administration and 
+     disaster management of the Department, repairs and 
+     alterations, and other miscellaneous supplies and expenses 
+     not otherwise provided for and necessary for the practical 
+     and efficient work of the Department, including employment 
+     pursuant to the second sentence of section 706(a) of the 
+     Organic Act of 1944 (7 U.S.C. 2225), of which not to exceed 
+     $10,000 is for employment under 5 U.S.C. 3109: Provided, That 
+     this appropriation shall be reimbursed from applicable 
+     appropriations in this Act for travel expenses incident to 
+     the holding of hearings as required by 5 U.S.C. 551-558.
+
+
+              Outreach for Socially Disadvantaged Farmers
+
+       For grants and contracts pursuant to section 2501 of the 
+     Food, Agriculture, Conservation, and Trade Act of 1990 (7 
+     U.S.C. 2279), $3,493,000, to remain available until expended.
+
+     Office of the Assistant Secretary for Congressional Relations
+
+
+                     (including transfers of funds)
+
+       For necessary salaries and expenses of the Office of the 
+     Assistant Secretary for Congressional Relations to carry out 
+     the programs funded by this Act, including programs involving 
+     intergovernmental affairs and liaison within the executive 
+     branch, $3,684,000: Provided, That these funds may be 
+     transferred to agencies of the Department of Agriculture 
+     funded by this Act to maintain personnel at the agency level: 
+     Provided further, That no other funds appropriated to the 
+     Department by this Act shall be available to the Department 
+     for support of activities of congressional relations.
+
+                        Office of Communications
+
+       For necessary expenses to carry on services relating to the 
+     coordination of programs involving public affairs, for the 
+     dissemination of agricultural information, and the 
+     coordination of information, work, and programs authorized by 
+     Congress in the Department, $8,894,000, including employment 
+     pursuant to the second sentence of section 706(a) of the 
+     Organic Act of 1944 (7 U.S.C. 2225), of which not to exceed 
+     $10,000 shall be available for employment under 5 U.S.C. 
+     3109, and not to exceed $2,000,000 may be used for farmers' 
+     bulletins.
+
+                    Office of the Inspector General
+
+       For necessary expenses of the Office of the Inspector 
+     General, including employment pursuant to the second sentence 
+     of section 706(a) of the Organic Act of 1944 (7 U.S.C. 2225), 
+     and the Inspector General Act of 1978, $70,839,000, including 
+     such sums as may be necessary for contracting and other 
+     arrangements with public agencies and private persons 
+     pursuant to section 6(a)(9) of the Inspector General Act of 
+     1978, including not to exceed $50,000 for employment under 5 
+     U.S.C. 3109; and including not to exceed $125,000 for certain 
+     confidential operational expenses, including the payment of 
+     informants, to be expended under the direction of the 
+     Inspector General pursuant to Public Law 95-452 and section 
+     1337 of Public Law 97-98.
+
+                     Office of the General Counsel
+
+       For necessary expenses of the Office of the General 
+     Counsel, $32,627,000.
+
+  Office of the Under Secretary for Research, Education and Economics
+
+       For necessary salaries and expenses of the Office of the 
+     Under Secretary for Research, Education and Economics to 
+     administer the laws enacted by the Congress for the Economic 
+     Research Service, the National Agricultural Statistics 
+     Service, the Agricultural Research Service, and the 
+     Cooperative State Research, Education, and Extension Service, 
+     $573,000.
+
+                       Economic Research Service
+
+       For necessary expenses of the Economic Research Service in 
+     conducting economic research and analysis, as authorized by 
+     the Agricultural Marketing Act of 1946 (7 U.S.C. 1621-1627) 
+     and other laws, $67,200,000: Provided, That this 
+     appropriation shall be available for employment pursuant to 
+     the second sentence of section 706(a) of the Organic Act of 
+     1944 (7 U.S.C. 2225).
+
+                National Agricultural Statistics Service
+
+       For necessary expenses of the National Agricultural 
+     Statistics Service in conducting statistical reporting and 
+     service work, including crop and livestock estimates, 
+     statistical coordination and improvements, marketing surveys, 
+     and the Census of Agriculture, as authorized by 7 U.S.C. 
+     1621-1627, Public Law 105-113, and other laws, $113,786,000, 
+     of which up to $25,350,000 shall be available until expended 
+     for the Census of Agriculture: Provided, That this 
+     appropriation shall be available for employment pursuant to 
+     the second sentence of section 706(a) of the Organic Act of 
+     1944 (7 U.S.C. 2225), and not to exceed $40,000 shall be 
+     available for employment under 5 U.S.C. 3109.
+
+[[Page S11238]]
+
+                     Agricultural Research Service
+
+
+                         Salaries and Expenses
+
+       For necessary expenses to enable the Agricultural Research 
+     Service to perform agricultural research and demonstration 
+     relating to production, utilization, marketing, and 
+     distribution (not otherwise provided for); home economics or 
+     nutrition and consumer use including the acquisition, 
+     preservation, and dissemination of agricultural information; 
+     and for acquisition of lands by donation, exchange, or 
+     purchase at a nominal cost not to exceed $100, and for land 
+     exchanges where the lands exchanged shall be of equal value 
+     or shall be equalized by a payment of money to the grantor 
+     which shall not exceed 25 percent of the total value of the 
+     land or interests transferred out of Federal ownership, 
+     $999,438,000: Provided, That appropriations hereunder shall 
+     be available for temporary employment pursuant to the second 
+     sentence of section 706(a) of the Organic Act of 1944 (7 
+     U.S.C. 2225), and not to exceed $115,000 shall be available 
+     for employment under 5 U.S.C. 3109: Provided further, That 
+     appropriations hereunder shall be available for the operation 
+     and maintenance of aircraft and the purchase of not to exceed 
+     one for replacement only: Provided further, That 
+     appropriations hereunder shall be available pursuant to 7 
+     U.S.C. 2250 for the construction, alteration, and repair of 
+     buildings and improvements, but unless otherwise provided, 
+     the cost of constructing any one building shall not exceed 
+     $375,000, except for headhouses or greenhouses which shall 
+     each be limited to $1,200,000, and except for 10 buildings to 
+     be constructed or improved at a cost not to exceed $750,000 
+     each, and the cost of altering any one building during the 
+     fiscal year shall not exceed 10 percent of the current 
+     replacement value of the building or $375,000, whichever is 
+     greater: Provided further, That the limitations on 
+     alterations contained in this Act shall not apply to 
+     modernization or replacement of existing facilities at 
+     Beltsville, Maryland: Provided further, That appropriations 
+     hereunder shall be available for granting easements at the 
+     Beltsville Agricultural Research Center, including an 
+     easement to the University of Maryland to construct the 
+     Transgenic Animal Facility which upon completion shall be 
+     accepted by the Secretary as a gift: Provided further, That 
+     the foregoing limitations shall not apply to replacement of 
+     buildings needed to carry out the Act of April 24, 1948 (21 
+     U.S.C. 113a): Provided further, That funds may be received 
+     from any State, other political subdivision, organization, or 
+     individual for the purpose of establishing or operating any 
+     research facility or research project of the Agricultural 
+     Research Service, as authorized by law.
+       None of the funds in the foregoing paragraph shall be 
+     available to carry out research related to the production, 
+     processing or marketing of tobacco or tobacco products.
+       In fiscal year 2002, the agency is authorized to charge 
+     fees, commensurate with the fair market value, for any 
+     permit, easement, lease, or other special use authorization 
+     for the occupancy or use of land and facilities (including 
+     land and facilities at the Beltsville Agricultural Research 
+     Center) issued by the agency, as authorized by law, and such 
+     fees shall be credited to this account, and shall remain 
+     available until expended for authorized purposes.
+
+
+                        Buildings and Facilities
+
+       For acquisition of land, construction, repair, improvement, 
+     extension, alteration, and purchase of fixed equipment or 
+     facilities as necessary to carry out the agricultural 
+     research programs of the Department of Agriculture, where not 
+     otherwise provided, $99,625,000, to remain available until 
+     expended (7 U.S.C. 2209b): Provided, That funds may be 
+     received from any State, other political subdivision, 
+     organization, or individual for the purpose of establishing 
+     any research facility of the Agricultural Research Service, 
+     as authorized by law.
+
+      Cooperative State Research, Education, and Extension Service
+
+
+                   Research and Education Activities
+
+       For payments to agricultural experiment stations, for 
+     cooperative forestry and other research, for facilities, and 
+     for other expenses, $542,842,000, as follows: to carry out 
+     the provisions of the Hatch Act (7 U.S.C. 361a-i), 
+     $180,148,000; for grants for cooperative forestry research 
+     (16 U.S.C. 582a-a7), $21,884,000; for payments to the 1890 
+     land-grant colleges, including Tuskegee University (7 U.S.C. 
+     3222), $34,604,000, of which $1,507,496 shall be made 
+     available only for the purpose of ensuring that each 
+     institution shall receive no less than $1,000,000; for 
+     special grants for agricultural research (7 U.S.C. 450i(c)), 
+     $84,850,000, of which $500,000 shall be for a grant for 
+     Oklahoma State University and its industrial partners to 
+     develop chemical and biological sensors, including chemical 
+     food safety sensors based on micro-optoelectronic devices and 
+     techniques (such as laser diode absorption and cavity-ring-
+     down spectroscopy with active laser illumination), and of 
+     which $500,000 is for the Environmental Biotechnology 
+     Initiative at the University of Rhode Island; for special 
+     grants for agricultural research on improved pest control (7 
+     U.S.C. 450i(c)), $14,691,000; for competitive research grants 
+     (7 U.S.C. 450i(b)), $134,452,000; for the support of animal 
+     health and disease programs (7 U.S.C. 3195), $5,098,000; for 
+     supplemental and alternative crops and products (7 U.S.C. 
+     3319d), $898,000; for grants for research pursuant to the 
+     Critical Agricultural Materials Act of 1984 (7 U.S.C. 178) 
+     and section 1472 of the Food and Agriculture Act of 1977 (7 
+     U.S.C. 3318), $800,000, to remain available until expended; 
+     for the 1994 research program (7 U.S.C. 301 note), $998,000, 
+     to remain available until expended; for higher education 
+     graduate fellowship grants (7 U.S.C. 3152(b)(6)), $2,993,000, 
+     to remain available until expended (7 U.S.C. 2209b); for 
+     higher education challenge grants (7 U.S.C. 3152(b)(1)), 
+     $4,340,000; for a higher education multicultural scholars 
+     program (7 U.S.C. 3152(b)(5)), $998,000, to remain available 
+     until expended (7 U.S.C. 2209b); for an education grants 
+     program for Hispanic-serving Institutions (7 U.S.C. 3241), 
+     $3,492,000; for noncompetitive grants for the purpose of 
+     carrying out all provisions of 7 U.S.C. 3242 (Section 759 of 
+     Public Law 106-78) to individual eligible institutions or 
+     consortia of eligible institutions in Alaska and in Hawaii, 
+     with funds awarded equally to each of the States of Alaska 
+     and Hawaii, $3,000,000; for a secondary agriculture education 
+     program and 2-year post-secondary education (7 U.S.C. 
+     3152(h)), $1,000,000; for aquaculture grants (7 U.S.C. 3322), 
+     $4,000,000; for sustainable agriculture research and 
+     education (7 U.S.C. 5811), $13,000,000; for a program of 
+     capacity building grants (7 U.S.C. 3152(b)(4)) to colleges 
+     eligible to receive funds under the Act of August 30, 1890 (7 
+     U.S.C. 321-326 and 328), including Tuskegee University, 
+     $9,479,000, to remain available until expended (7 U.S.C. 
+     2209b); for payments to the 1994 Institutions pursuant to 
+     section 534(a)(1) of Public Law 103-382, $1,549,000; and for 
+     necessary expenses of Research and Education Activities, of 
+     which not to exceed $100,000 shall be for employment under 5 
+     U.S.C. 3109, $20,568,000.
+       None of the funds in the foregoing paragraph shall be 
+     available to carry out research related to the production, 
+     processing or marketing of tobacco or tobacco products: 
+     Provided, That this paragraph shall not apply to research on 
+     the medical, biotechnological, food, and industrial uses of 
+     tobacco.
+
+
+              Native American Institutions Endowment Fund
+
+       For the Native American Institutions Endowment Fund 
+     authorized by Public Law 103-382 (7 U.S.C. 301 note), 
+     $7,100,000.
+
+
+                          Extension Activities
+
+       For payments to States, the District of Columbia, Puerto 
+     Rico, Guam, the Virgin Islands, Micronesia, Northern 
+     Marianas, and American Samoa, $433,546,000, as follows: 
+     payments for cooperative extension work under the Smith-Lever 
+     Act, to be distributed under sections 3(b) and 3(c) of said 
+     Act, and under section 208(c) of Public Law 93-471, for 
+     retirement and employees' compensation costs for extension 
+     agents and for costs of penalty mail for cooperative 
+     extension agents and State extension directors, $275,940,000, 
+     of which $3,600,000 may be used to carry out Public Law 107-
+     19; payments for extension work at the 1994 Institutions 
+     under the Smith-Lever Act (7 U.S.C. 343(b)(3)), $3,273,000; 
+     payments for the nutrition and family education program for 
+     low-income areas under section 3(d) of the Act, $58,566,000; 
+     payments for the pest management program under section 3(d) 
+     of the Act, $10,759,000; payments for the farm safety program 
+     under section 3(d) of the Act, $4,700,000; payments to 
+     upgrade research, extension, and teaching facilities at the 
+     1890 land-grant colleges, including Tuskegee University, as 
+     authorized by section 1447 of Public Law 95-113 (7 U.S.C. 
+     3222b), $13,500,000, to remain available until expended; 
+     payments for the rural development centers under section 3(d) 
+     of the Act, $1,000,000; payments for youth-at-risk programs 
+     under section 3(d) of the Act, $8,481,000; for youth farm 
+     safety education and certification extension grants, to be 
+     awarded competitively under section 3(d) of the Act, 
+     $499,000; payments for carrying out the provisions of the 
+     Renewable Resources Extension Act of 1978, $5,000,000; 
+     payments for Indian reservation agents under section 3(d) of 
+     the Act, $1,996,000; payments for sustainable agriculture 
+     programs under section 3(d) of the Act, $4,500,000; payments 
+     for rural health and safety education as authorized by 
+     section 2390 of Public Law 101-624 (7 U.S.C. 2661 note, 
+     2662), $2,622,000; payments for cooperative extension work by 
+     the colleges receiving the benefits of the second Morrill Act 
+     (7 U.S.C. 321-326 and 328) and Tuskegee University, 
+     $31,181,000, of which $1,724,884 shall be made available only 
+     for the purpose of ensuring that each institution shall 
+     receive no less than $1,000,000; and for Federal 
+     administration and coordination including administration of 
+     the Smith-Lever Act, and the Act of September 29, 1977 (7 
+     U.S.C. 341-349), and section 1361(c) of the Act of October 3, 
+     1980 (7 U.S.C. 301 note), and to coordinate and provide 
+     program leadership for the extension work of the Department 
+     and the several States and insular possessions, $11,529,000: 
+     Provided, That funds hereby appropriated pursuant to section 
+     3(c) of the Act of June 26, 1953, and section 506 of the Act 
+     of June 23, 1972, shall not be paid to any State, the 
+     District of Columbia, Puerto Rico, Guam, or the Virgin 
+     Islands, Micronesia, Northern Marianas, and American Samoa 
+     prior to availability of an equal sum from non-Federal 
+     sources for expenditure during the current fiscal year.
+
+
+                         Integrated Activities
+
+       For the integrated research, education, and extension 
+     competitive grants programs, including necessary 
+     administrative expenses, as authorized under section 406 of 
+     the Agricultural Research, Extension, and Education Reform 
+     Act of 1998 (7 U.S.C. 7626), $42,350,000, as follows: 
+     payments for the water quality program, $12,971,000; payments 
+     for the food safety program, $14,967,000; payments for the 
+     national agriculture pesticide impact assessment program, 
+     $4,531,000; payments for the Food Quality Protection Act risk 
+     mitigation program for major food crop systems, $4,889,000; 
+     payments for the crops affected by Food Quality Protection 
+     Act implementation, $1,497,000; payments for the methyl 
+     bromide transition program, $2,495,000; and payments for the 
+     organic transition program, $1,000,000.
+
+  Office of the Under Secretary for Marketing and Regulatory Programs
+
+       For necessary salaries and expenses of the Office of the 
+     Under Secretary for Marketing and Regulatory Programs to 
+     administer programs
+
+[[Page S11239]]
+
+     under the laws enacted by the Congress for the Animal and 
+     Plant Health Inspection Service; the Agricultural Marketing 
+     Service; and the Grain Inspection, Packers and Stockyards 
+     Administration; $654,000.
+
+               Animal and Plant Health Inspection Service
+
+
+                         Salaries and Expenses
+
+                     (including transfers of funds)
+
+       For expenses, not otherwise provided for, including those 
+     pursuant to the Act of February 28, 1947 (21 U.S.C. 114b-c), 
+     necessary to prevent, control, and eradicate pests and plant 
+     and animal diseases; to carry out inspection, quarantine, and 
+     regulatory activities; to discharge the authorities of the 
+     Secretary of Agriculture under the Acts of March 2, 1931 (46 
+     Stat. 1468) and December 22, 1987 (101 Stat. 1329-1331) (7 
+     U.S.C. 426-426c); and to protect the environment, as 
+     authorized by law, $602,754,000, of which $4,096,000 shall be 
+     available for the control of outbreaks of insects, plant 
+     diseases, animal diseases and for control of pest animals and 
+     birds to the extent necessary to meet emergency conditions; 
+     of which $79,157,000 shall be used for the boll weevil 
+     eradication program for cost share purposes or for debt 
+     retirement for active eradication zones: Provided, That no 
+     funds shall be used to formulate or administer a brucellosis 
+     eradication program for the current fiscal year that does not 
+     require minimum matching by the States of at least 40 
+     percent: Provided further, That this appropriation shall be 
+     available for field employment pursuant to the second 
+     sentence of section 706(a) of the Organic Act of 1944 (7 
+     U.S.C. 2225), and not to exceed $40,000 shall be available 
+     for employment under 5 U.S.C. 3109: Provided further, That 
+     this appropriation shall be available for the operation and 
+     maintenance of aircraft and the purchase of not to exceed 
+     four, of which two shall be for replacement only: Provided 
+     further, That, in addition, in emergencies which threaten any 
+     segment of the agricultural production industry of this 
+     country, the Secretary may transfer from other appropriations 
+     or funds available to the agencies or corporations of the 
+     Department such sums as may be deemed necessary, to be 
+     available only in such emergencies for the arrest and 
+     eradication of contagious or infectious disease or pests of 
+     animals, poultry, or plants, and for expenses in accordance 
+     with the Act of February 28, 1947, and section 102 of the Act 
+     of September 21, 1944, and any unexpended balances of funds 
+     transferred for such emergency purposes in the preceding 
+     fiscal year shall be merged with such transferred amounts: 
+     Provided further, That appropriations hereunder shall be 
+     available pursuant to law (7 U.S.C. 2250) for the repair and 
+     alteration of leased buildings and improvements, but unless 
+     otherwise provided the cost of altering any one building 
+     during the fiscal year shall not exceed 10 percent of the 
+     current replacement value of the building.
+       In fiscal year 2002, the agency is authorized to collect 
+     fees to cover the total costs of providing technical 
+     assistance, goods, or services requested by States, other 
+     political subdivisions, domestic and international 
+     organizations, foreign governments, or individuals, provided 
+     that such fees are structured such that any entity's 
+     liability for such fees is reasonably based on the technical 
+     assistance, goods, or services provided to the entity by the 
+     agency, and such fees shall be credited to this account, to 
+     remain available until expended, without further 
+     appropriation, for providing such assistance, goods, or 
+     services.
+       Of the total amount available under this heading in fiscal 
+     year 2002, $84,813,000 shall be derived from user fees 
+     deposited in the Agricultural Quarantine Inspection User Fee 
+     Account.
+
+
+                        Buildings and Facilities
+
+       For plans, construction, repair, preventive maintenance, 
+     environmental support, improvement, extension, alteration, 
+     and purchase of fixed equipment or facilities, as authorized 
+     by 7 U.S.C. 2250, and acquisition of land as authorized by 7 
+     U.S.C. 428a, $5,189,000, to remain available until expended.
+
+                     Agricultural Marketing Service
+
+
+                           Marketing Services
+
+       For necessary expenses to carry out services related to 
+     consumer protection, agricultural marketing and distribution, 
+     transportation, and regulatory programs, as authorized by 
+     law, and for administration and coordination of payments to 
+     States, including field employment pursuant to the second 
+     sentence of section 706(a) of the Organic Act of 1944 (7 
+     U.S.C. 2225) and not to exceed $90,000 for employment under 5 
+     U.S.C. 3109, $71,430,000, including funds for the wholesale 
+     market development program for the design and development of 
+     wholesale and farmer market facilities for the major 
+     metropolitan areas of the country: Provided, That this 
+     appropriation shall be available pursuant to law (7 U.S.C. 
+     2250) for the alteration and repair of buildings and 
+     improvements, but the cost of altering any one building 
+     during the fiscal year shall not exceed 10 percent of the 
+     current replacement value of the building.
+       Fees may be collected for the cost of standardization 
+     activities, as established by regulation pursuant to law (31 
+     U.S.C. 9701).
+
+
+                 limitation on administrative expenses
+
+       Not to exceed $60,596,000 (from fees collected) shall be 
+     obligated during the current fiscal year for administrative 
+     expenses: Provided, That if crop size is understated and/or 
+     other uncontrollable events occur, the agency may exceed this 
+     limitation by up to 10 percent with notification to the 
+     Committees on Appropriations of both Houses of Congress.
+
+
+    Funds for Strengthening Markets, Income, and Supply (Section 32)
+
+                     (including transfers of funds)
+
+       Funds available under section 32 of the Act of August 24, 
+     1935 (7 U.S.C. 612c), shall be used only for commodity 
+     program expenses as authorized therein, and other related 
+     operating expenses, except for: (1) transfers to the 
+     Department of Commerce as authorized by the Fish and Wildlife 
+     Act of August 8, 1956; (2) transfers otherwise provided in 
+     this Act; and (3) not more than $13,874,000 for formulation 
+     and administration of marketing agreements and orders 
+     pursuant to the Agricultural Marketing Agreement Act of 1937 
+     and the Agricultural Act of 1961.
+
+
+                   Payments to States and Possessions
+
+       For payments to departments of agriculture, bureaus and 
+     departments of markets, and similar agencies for marketing 
+     activities under section 204(b) of the Agricultural Marketing 
+     Act of 1946 (7 U.S.C. 1623(b)), $1,347,000.
+
+        Grain Inspection, Packers and Stockyards Administration
+
+
+                         Salaries and Expenses
+
+       For necessary expenses to carry out the provisions of the 
+     United States Grain Standards Act, for the administration of 
+     the Packers and Stockyards Act, for certifying procedures 
+     used to protect purchasers of farm products, and the 
+     standardization activities related to grain under the 
+     Agricultural Marketing Act of 1946, including field 
+     employment pursuant to the second sentence of section 706(a) 
+     of the Organic Act of 1944 (7 U.S.C. 2225), and not to exceed 
+     $25,000 for employment under 5 U.S.C. 3109, $34,000,000: 
+     Provided, That this appropriation shall be available pursuant 
+     to law (7 U.S.C. 2250) for the alteration and repair of 
+     buildings and improvements, but the cost of altering any one 
+     building during the fiscal year shall not exceed 10 percent 
+     of the current replacement value of the building.
+
+
+        Limitation on Inspection and Weighing Services Expenses
+
+       Not to exceed $42,463,000 (from fees collected) shall be 
+     obligated during the current fiscal year for inspection and 
+     weighing services: Provided, That if grain export activities 
+     require additional supervision and oversight, or other 
+     uncontrollable factors occur, this limitation may be exceeded 
+     by up to 10 percent with notification to the Committees on 
+     Appropriations of both Houses of Congress.
+
+             Office of the Under Secretary for Food Safety
+
+       For necessary salaries and expenses of the Office of the 
+     Under Secretary for Food Safety to administer the laws 
+     enacted by the Congress for the Food Safety and Inspection 
+     Service, $476,000.
+
+                   Food Safety and Inspection Service
+
+       For necessary expenses to carry out services authorized by 
+     the Federal Meat Inspection Act, the Poultry Products 
+     Inspection Act, and the Egg Products Inspection Act, 
+     including not to exceed $50,000 for representation allowances 
+     and for expenses pursuant to section 8 of the Act approved 
+     August 3, 1956 (7 U.S.C. 1766), $715,747,000, of which no 
+     less than $608,730,000 shall be available for Federal food 
+     inspection; and in addition, $1,000,000 may be credited to 
+     this account from fees collected for the cost of laboratory 
+     accreditation as authorized by section 1017 of Public Law 
+     102-237: Provided, That this appropriation shall be available 
+     for field employment pursuant to the second sentence of 
+     section 706(a) of the Organic Act of 1944 (7 U.S.C. 2225), 
+     and not to exceed $75,000 shall be available for employment 
+     under 5 U.S.C. 3109: Provided further, That this 
+     appropriation shall be available pursuant to law (7 U.S.C. 
+     2250) for the alteration and repair of buildings and 
+     improvements, but the cost of altering any one building 
+     during the fiscal year shall not exceed 10 percent of the 
+     current replacement value of the building.
+
+    Office of the Under Secretary for Farm and Foreign Agricultural 
+                                Services
+
+       For necessary salaries and expenses of the Office of the 
+     Under Secretary for Farm and Foreign Agricultural Services to 
+     administer the laws enacted by Congress for the Farm Service 
+     Agency, the Foreign Agricultural Service, the Risk Management 
+     Agency, and the Commodity Credit Corporation, $606,000.
+
+                          Farm Service Agency
+
+
+                         Salaries and Expenses
+
+                     (including transfers of funds)
+
+       For necessary expenses for carrying out the administration 
+     and implementation of programs administered by the Farm 
+     Service Agency, $939,030,000: Provided, That the Secretary is 
+     authorized to use the services, facilities, and authorities 
+     (but not the funds) of the Commodity Credit Corporation to 
+     make program payments for all programs administered by the 
+     Agency: Provided further, That other funds made available to 
+     the Agency for authorized activities may be advanced to and 
+     merged with this account: Provided further, That these funds 
+     shall be available for employment pursuant to the second 
+     sentence of section 706(a) of the Organic Act of 1944 (7 
+     U.S.C. 2225), and not to exceed $1,000,000 shall be available 
+     for employment under 5 U.S.C. 3109.
+
+
+                         State Mediation Grants
+
+       For grants pursuant to section 502(b) of the Agricultural 
+     Credit Act of 1987 (7 U.S.C. 5101-5106), $3,993,000.
+
+
+                        Dairy Indemnity Program
+
+                     (including transfer of funds)
+
+       For necessary expenses involved in making indemnity 
+     payments to dairy farmers for milk or cows producing such 
+     milk and manufacturers of dairy products who have been 
+     directed to remove their milk or dairy products from 
+     commercial markets because it contained residues of chemicals 
+     registered and approved for use by the Federal Government, 
+     and in making indemnity payments for milk, or cows producing 
+     such milk, at a fair market value to any dairy farmer who is 
+     directed to remove his milk from commercial markets because 
+     of: (1) the presence of products of nuclear radiation or 
+     fallout if such contamination is not due to the fault of the 
+     farmer; or
+
+[[Page S11240]]
+
+     (2) residues of chemicals or toxic substances not included 
+     under the first sentence of the Act of August 13, 1968 (7 
+     U.S.C. 450j), if such chemicals or toxic substances were not 
+     used in a manner contrary to applicable regulations or 
+     labeling instructions provided at the time of use and the 
+     contamination is not due to the fault of the farmer, 
+     $100,000, to remain available until expended (7 U.S.C. 
+     2209b): Provided, That none of the funds contained in this 
+     Act shall be used to make indemnity payments to any farmer 
+     whose milk was removed from commercial markets as a result of 
+     the farmer's willful failure to follow procedures prescribed 
+     by the Federal Government: Provided further, That this amount 
+     shall be transferred to the Commodity Credit Corporation: 
+     Provided further, That the Secretary is authorized to utilize 
+     the services, facilities, and authorities of the Commodity 
+     Credit Corporation for the purpose of making dairy indemnity 
+     disbursements.
+
+
+           Agricultural Credit Insurance Fund Program Account
+
+                     (including transfers of funds)
+
+       For gross obligations for the principal amount of direct 
+     and guaranteed loans as authorized by 7 U.S.C. 1928-1929, to 
+     be available from funds in the Agricultural Credit Insurance 
+     Fund, as follows: farm ownership loans, $1,146,996,000, of 
+     which $1,000,000,000 shall be for guaranteed loans; operating 
+     loans, $2,616,729,000, of which $1,500,000,000 shall be for 
+     unsubsidized guaranteed loans and $505,531,000 shall be for 
+     subsidized guaranteed loans; Indian tribe land acquisition 
+     loans as authorized by 25 U.S.C. 488, $2,000,000; for 
+     emergency insured loans, $25,000,000 to meet the needs 
+     resulting from natural disasters; and for boll weevil 
+     eradication program loans as authorized by 7 U.S.C. 1989, 
+     $100,000,000.
+       For the cost of direct and guaranteed loans, including the 
+     cost of modifying loans as defined in section 502 of the 
+     Congressional Budget Act of 1974, as follows: farm ownership 
+     loans, $8,366,000, of which $4,500,000 shall be for 
+     guaranteed loans; operating loans, $175,780,000, of which 
+     $52,650,000 shall be for unsubsidized guaranteed loans and 
+     $68,550,000 shall be for subsidized guaranteed loans; Indian 
+     tribe land acquisition loans as authorized by 25 U.S.C. 488, 
+     $118,400; and for emergency insured loans, $3,362,500 to meet 
+     the needs resulting from natural disasters.
+       In addition, for administrative expenses necessary to carry 
+     out the direct and guaranteed loan programs, $280,595,000, of 
+     which $272,595,000 shall be transferred to and merged with 
+     the appropriation for ``Farm Service Agency, Salaries and 
+     Expenses''.
+       Funds appropriated by this Act to the Agricultural Credit 
+     Insurance Program Account for farm ownership and operating 
+     direct loans and guaranteed loans may be transferred among 
+     these programs with the prior approval of the Committees on 
+     Appropriations of both Houses of Congress.
+
+                         Risk Management Agency
+
+       For administrative and operating expenses, as authorized by 
+     the Federal Agriculture Improvement and Reform Act of 1996 (7 
+     U.S.C. 6933), $73,752,000: Provided, That not to exceed $700 
+     shall be available for official reception and representation 
+     expenses, as authorized by 7 U.S.C. 1506(i).
+
+                              CORPORATIONS
+
+       The following corporations and agencies are hereby 
+     authorized to make expenditures, within the limits of funds 
+     and borrowing authority available to each such corporation or 
+     agency and in accord with law, and to make contracts and 
+     commitments without regard to fiscal year limitations as 
+     provided by section 104 of the Government Corporation Control 
+     Act as may be necessary in carrying out the programs set 
+     forth in the budget for the current fiscal year for such 
+     corporation or agency, except as hereinafter provided.
+
+                Federal Crop Insurance Corporation Fund
+
+       For payments as authorized by section 516 of the Federal 
+     Crop Insurance Act, such sums as may be necessary, to remain 
+     available until expended (7 U.S.C. 2209b).
+
+                   Commodity Credit Corporation Fund
+
+
+                 reimbursement for net realized losses
+
+       For fiscal year 2002, such sums as may be necessary to 
+     reimburse the Commodity Credit Corporation for net realized 
+     losses sustained, but not previously reimbursed, pursuant to 
+     section 2 of the Act of August 17, 1961 (15 U.S.C. 713a-11).
+
+
+       operations and maintenance for hazardous waste management
+
+                        (limitation on expenses)
+
+       For fiscal year 2002, the Commodity Credit Corporation 
+     shall not expend more than $5,000,000 for site investigation 
+     and cleanup expenses, and operations and maintenance expenses 
+     to comply with the requirement of section 107(g) of the 
+     Comprehensive Environmental Response, Compensation, and 
+     Liability Act, 42 U.S.C. 9607(g), and section 6001 of the 
+     Resource Conservation and Recovery Act, 42 U.S.C. 6961.
+
+                                TITLE II
+
+                         CONSERVATION PROGRAMS
+
+  Office of the Under Secretary for Natural Resources and Environment
+
+       For necessary salaries and expenses of the Office of the 
+     Under Secretary for Natural Resources and Environment to 
+     administer the laws enacted by the Congress for the Forest 
+     Service and the Natural Resources Conservation Service, 
+     $730,000.
+
+                 Natural Resources Conservation Service
+
+
+                        Conservation Operations
+
+       For necessary expenses for carrying out the provisions of 
+     the Act of April 27, 1935 (16 U.S.C. 590a-f), including 
+     preparation of conservation plans and establishment of 
+     measures to conserve soil and water (including farm 
+     irrigation and land drainage and such special measures for 
+     soil and water management as may be necessary to prevent 
+     floods and the siltation of reservoirs and to control 
+     agricultural related pollutants); operation of conservation 
+     plant materials centers; classification and mapping of soil; 
+     dissemination of information; acquisition of lands, water, 
+     and interests therein for use in the plant materials program 
+     by donation, exchange, or purchase at a nominal cost not to 
+     exceed $100 pursuant to the Act of August 3, 1956 (7 U.S.C. 
+     428a); purchase and erection or alteration or improvement of 
+     permanent and temporary buildings; and operation and 
+     maintenance of aircraft, $807,454,000, to remain available 
+     until expended (7 U.S.C. 2209b), of which not less than 
+     $8,515,000 is for snow survey and water forecasting, and not 
+     less than $9,849,000 is for operation and establishment of 
+     the plant materials centers: Provided, That appropriations 
+     hereunder shall be available pursuant to 7 U.S.C. 2250 for 
+     construction and improvement of buildings and public 
+     improvements at plant materials centers, except that the cost 
+     of alterations and improvements to other buildings and other 
+     public improvements shall not exceed $250,000: Provided 
+     further, That when buildings or other structures are erected 
+     on non-Federal land, that the right to use such land is 
+     obtained as provided in 7 U.S.C. 2250a: Provided further, 
+     That this appropriation shall be available for technical 
+     assistance and related expenses to carry out programs 
+     authorized by section 202(c) of title II of the Colorado 
+     River Basin Salinity Control Act of 1974 (43 U.S.C. 1592(c)): 
+     Provided further, That this appropriation shall be available 
+     for employment pursuant to the second sentence of section 
+     706(a) of the Organic Act of 1944 (7 U.S.C. 2225), and not to 
+     exceed $25,000 shall be available for employment under 5 
+     U.S.C. 3109: Provided further, That qualified local engineers 
+     may be temporarily employed at per diem rates to perform the 
+     technical planning work of the Service (16 U.S.C. 590e-2): 
+     Provided further, That $5,000,000 shall be available to carry 
+     out a pilot program in cooperation with the Fish and Wildlife 
+     Service of the Department of the Interior to determine 
+     migratory bird harvest, including population monitoring, 
+     harvest information, and field operations.
+
+
+                     Watershed Surveys and Planning
+
+       For necessary expenses to conduct research, investigation, 
+     and surveys of watersheds of rivers and other waterways, and 
+     for small watershed investigations and planning, in 
+     accordance with the Watershed Protection and Flood Prevention 
+     Act approved August 4, 1954 (16 U.S.C. 1001-1009), 
+     $10,960,000: Provided, That this appropriation shall be 
+     available for employment pursuant to the second sentence of 
+     section 706(a) of the Organic Act of 1944 (7 U.S.C. 2225), 
+     and not to exceed $110,000 shall be available for employment 
+     under 5 U.S.C. 3109.
+
+
+               Watershed and Flood Prevention Operations
+
+       For necessary expenses to carry out preventive measures, 
+     including but not limited to research, engineering 
+     operations, methods of cultivation, the growing of 
+     vegetation, rehabilitation of existing works and changes in 
+     use of land, in accordance with the Watershed Protection and 
+     Flood Prevention Act approved August 4, 1954 (16 U.S.C. 1001-
+     1005 and 1007-1009), the provisions of the Act of April 27, 
+     1935 (16 U.S.C. 590a-f), and in accordance with the 
+     provisions of laws relating to the activities of the 
+     Department, $100,413,000, to remain available until expended 
+     (7 U.S.C. 2209b) (of which up to $15,000,000 may be available 
+     for the watersheds authorized under the Flood Control Act 
+     approved June 22, 1936 (33 U.S.C. 701 and 16 U.S.C. 1006a)): 
+     Provided, That not to exceed $45,514,000 of this 
+     appropriation shall be available for technical assistance: 
+     Provided further, That this appropriation shall be available 
+     for employment pursuant to the second sentence of section 
+     706(a) of the Organic Act of 1944 (7 U.S.C. 2225), and not to 
+     exceed $200,000 shall be available for employment under 5 
+     U.S.C. 3109: Provided further, That not to exceed $1,000,000 
+     of this appropriation is available to carry out the purposes 
+     of the Endangered Species Act of 1973 (Public Law 93-205), 
+     including cooperative efforts as contemplated by that Act to 
+     relocate endangered or threatened species to other suitable 
+     habitats as may be necessary to expedite project 
+     construction.
+
+
+                    WATERSHED REHABILITATION Program
+
+       For necessary expenses to carry out rehabilitation of 
+     structural measures, in accordance with section 14 of the 
+     Watershed Protection and Flood Prevention Act approved August 
+     4, 1954 (16 U.S.C. 1001 et seq.), as amended by section 313 
+     of Public Law 106-472, November 9, 2000 (16 U.S.C. 1012), and 
+     in accordance with the provisions of laws relating to the 
+     activities of the Department, $10,000,000, to remain 
+     available until expended.
+
+
+                 Resource Conservation and Development
+
+       For necessary expenses in planning and carrying out 
+     projects for resource conservation and development and for 
+     sound land use pursuant to the provisions of section 32(e) of 
+     title III of the Bankhead-Jones Farm Tenant Act (7 U.S.C. 
+     1010-1011; 76 Stat. 607); the Act of April 27, 1935 (16 
+     U.S.C. 590a-f); and the Agriculture and Food Act of 1981 (16 
+     U.S.C. 3451-3461), $48,048,000, to remain available until 
+     expended (7 U.S.C. 2209b): Provided, That this appropriation 
+     shall be available for employment pursuant to the second 
+     sentence of section 706(a) of the Organic Act of 1944 (7 
+     U.S.C. 2225), and not to exceed $50,000 shall be available 
+     for employment under 5 U.S.C. 3109.
+
+
+                      Forestry Incentives Program
+
+       For necessary expenses, not otherwise provided for, to 
+     carry out the program of forestry incentives, as authorized 
+     by the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 
+     2101), including technical assistance and related expenses, 
+     $7,811,000, to remain available until expended, as authorized 
+     by that Act.
+
+[[Page S11241]]
+
+                               TITLE III
+
+                       RURAL DEVELOPMENT PROGRAMS
+
+          Office of the Under Secretary for Rural Development
+
+       For necessary salaries and expenses of the Office of the 
+     Under Secretary for Rural Development to administer programs 
+     under the laws enacted by the Congress for the Rural Housing 
+     Service, the Rural Business-Cooperative Service, and the 
+     Rural Utilities Service of the Department of Agriculture, 
+     $623,000.
+
+
+                  Rural Community Advancement Program
+
+                     (including transfers of funds)
+
+       For the cost of direct loans, loan guarantees, and grants, 
+     as authorized by 7 U.S.C. 1926, 1926a, 1926c, 1926d, and 
+     1932, except for sections 381E-H, 381N, and 381O of the 
+     Consolidated Farm and Rural Development Act, $1,004,125,000, 
+     to remain available until expended, of which $83,903,000 
+     shall be for rural community programs described in section 
+     381E(d)(1) of such Act; of which $842,254,000 shall be for 
+     the rural utilities programs described in sections 
+     381E(d)(2), 306C(a)(2), and 306D of such Act; and of which 
+     $77,968,000 shall be for the rural business and cooperative 
+     development programs described in sections 381E(d)(3) and 
+     310B(f) of such Act: Provided, That of the total amount 
+     appropriated in this account, $24,000,000 shall be for loans 
+     and grants to benefit Federally Recognized Native American 
+     Tribes, of which $1,000,000 shall be available for rural 
+     business opportunity grants under section 306(a)(11) of that 
+     Act (7 U.S.C. 1926(a)(11)); $4,000,000 shall be available for 
+     community facilities grants for tribal college improvements 
+     under section 306(a)(19) of that Act (7 U.S.C. 1926(a)(19)); 
+     $16,000,000 shall be available for grants for drinking water 
+     and waste disposal systems pursuant to section 306C of such 
+     Act (7 U.S.C. 1926(c)) to benefit Federally Recognized Native 
+     American Tribes that are not eligible to receive funds under 
+     any other rural utilities program set-aside under the rural 
+     community advancement program; and $3,000,000 shall be 
+     available for rural business enterprise grants under section 
+     310B(c) of that Act (7 U.S.C. 1932(c)), of which $250,000 
+     shall be available for a grant to a qualified national 
+     organization to provide technical assistance for rural 
+     transportation in order to promote economic development: 
+     Provided further, That of the amount appropriated for rural 
+     community programs, $6,000,000 shall be available for a Rural 
+     Community Development Initiative: Provided further, That such 
+     funds shall be used solely to develop the capacity and 
+     ability of private, nonprofit community-based housing and 
+     community development organizations, low-income rural 
+     communities, and Federally Recognized Native American tribes 
+     to undertake projects to improve housing, community 
+     facilities, community and economic development projects in 
+     rural areas: Provided further, That such funds shall be made 
+     available to qualified private, nonprofit and public 
+     intermediary organizations proposing to carry out a program 
+     of financial and technical assistance: Provided further, That 
+     such intermediary organizations shall provide matching funds 
+     from other sources, including Federal funds for related 
+     activities, in an amount not less than funds provided: 
+     Provided further, That of the amount appropriated for the 
+     rural business and cooperative development programs, not to 
+     exceed $500,000 shall be made available for a grant to a 
+     qualified national organization to provide technical 
+     assistance for rural transportation in order to promote 
+     economic development; and $2,000,000 shall be for grants to 
+     Mississippi Delta Region counties: Provided further, That of 
+     the amount appropriated for rural utilities programs, not to 
+     exceed $20,000,000 shall be for water and waste disposal 
+     systems to benefit the Colonias along the United States/
+     Mexico borders, including grants pursuant to section 306C of 
+     such Act; not to exceed $24,000,000 shall be for water and 
+     waste disposal systems for rural and native villages in 
+     Alaska pursuant to section 306D of such Act, with up to one 
+     percent available to administer the program and up to one 
+     percent available to improve interagency coordination may be 
+     transferred to and merged with the appropriation for ``Rural 
+     Development, Salaries and Expenses''; not to exceed 
+     $17,215,000 shall be for technical assistance grants for 
+     rural water and waste systems pursuant to section 306(a)(14) 
+     of such Act; and not to exceed $9,500,000 shall be for 
+     contracting with qualified national organizations for a 
+     circuit rider program to provide technical assistance for 
+     rural water systems: Provided further, That of the total 
+     amount appropriated, not to exceed $37,624,000 shall be 
+     available through June 30, 2002, for authorized empowerment 
+     zones and enterprise communities and communities designated 
+     by the Secretary of Agriculture as Rural Economic Area 
+     Partnership Zones, of which $1,163,000 shall be for the rural 
+     community programs described in section 381E(d)(1) of such 
+     Act, of which $27,431,000 shall be for the rural utilities 
+     programs described in section 381E(d)(2) of such Act, and of 
+     which $9,030,000 shall be for the rural business and 
+     cooperative development programs described in section 
+     381E(d)(3) of such Act: Provided further, That of the amount 
+     appropriated for rural community programs, not to exceed 
+     $25,000,000 shall be to provide grants for facilities in 
+     rural communities with extreme unemployment and severe 
+     economic depression (P.L. 106-387), with five percent for 
+     administration and capacity building in the State rural 
+     development offices: Provided further, That of the amount 
+     appropriated $30,000,000 shall be to provide grants in rural 
+     communities with extremely high energy costs: Provided 
+     further, That any prior year balances for high cost energy 
+     grants authorized by section 19 of the Rural Electrification 
+     Act of 1936 (7 U.S.C. 901(19)) shall be transferred to and 
+     merged with the ``Rural Utilities Service, High Energy Costs 
+     Grants'' account: Provided further, That of the funds 
+     appropriated by this Act to the Rural Community Advancement 
+     Program for guaranteed business and industry loans, funds may 
+     be transferred to direct business and industry loans as 
+     deemed necessary by the Secretary and with prior approval of 
+     the Committees on Appropriations of both Houses of Congress.
+
+
+                Rural Development Salaries and Expenses
+
+                     (including transfers of funds)
+
+       For necessary expenses for carrying out the administration 
+     and implementation of programs in the Rural Development 
+     mission area, including activities with institutions 
+     concerning the development and operation of agricultural 
+     cooperatives; and for cooperative agreements; $133,722,000: 
+     Provided, That this appropriation shall be available for 
+     employment pursuant to the second sentence of section 706(a) 
+     of the Organic Act of 1944 (7 U.S.C. 2225), and not to exceed 
+     $1,000,000 may be used for employment under 5 U.S.C. 3109: 
+     Provided further, That not more than $10,000 may be expended 
+     to provide modest nonmonetary awards to non-USDA employees: 
+     Provided further, That any balances available from prior 
+     years for the Rural Utilities Service, Rural Housing Service, 
+     and the Rural Business-Cooperative Service salaries and 
+     expenses accounts shall be transferred to and merged with 
+     this account.
+
+                         Rural Housing Service
+
+
+              Rural Housing Insurance Fund Program Account
+
+                     (including transfers of funds)
+
+       For gross obligations for the principal amount of direct 
+     and guaranteed loans as authorized by title V of the Housing 
+     Act of 1949, to be available from funds in the rural housing 
+     insurance fund, as follows: $4,233,014,000 for loans to 
+     section 502 borrowers, as determined by the Secretary, of 
+     which $3,137,968,000 shall be for unsubsidized guaranteed 
+     loans; $32,324,000 for section 504 housing repair loans; 
+     $99,770,000 for section 538 guaranteed multi-family housing 
+     loans; $114,068,000 for section 515 rental housing; 
+     $5,090,000 for section 524 site loans; $11,778,000 for credit 
+     sales of acquired property, of which up to $1,778,000 may be 
+     for multi-family credit sales; and $5,000,000 for section 523 
+     self-help housing land development loans.
+       For the cost of direct and guaranteed loans, including the 
+     cost of modifying loans, as defined in section 502 of the 
+     Congressional Budget Act of 1974, as follows: section 502 
+     loans, $184,274,000 of which $40,166,000 shall be for 
+     unsubsidized guaranteed loans; section 504 housing repair 
+     loans, $10,386,000; section 538 multi-family housing 
+     guaranteed loans, $3,921,000; section 515 rental housing, 
+     $48,274,000; section 524 site loans, $28,000; multi-family 
+     credit sales of acquired property, $750,000; and section 523 
+     self-help housing land development loans, $254,000: Provided, 
+     That of the total amount appropriated in this paragraph, 
+     $11,656,000 shall be available through June 30, 2002, for 
+     authorized empowerment zones and enterprise communities and 
+     communities designated by the Secretary of Agriculture as 
+     Rural Economic Area Partnership Zones.
+       In addition, for administrative expenses necessary to carry 
+     out the direct and guaranteed loan programs, $422,241,000, 
+     which shall be transferred to and merged with the 
+     appropriation for ``Rural Development, Salaries and 
+     Expenses''.
+
+
+                       Rental Assistance Program
+
+       For rental assistance agreements entered into or renewed 
+     pursuant to the authority under section 521(a)(2) or 
+     agreements entered into in lieu of debt forgiveness or 
+     payments for eligible households as authorized by section 
+     502(c)(5)(D) of the Housing Act of 1949, $708,504,000; and, 
+     in addition, such sums as may be necessary, as authorized by 
+     section 521(c) of the Act, to liquidate debt incurred prior 
+     to fiscal year 1992 to carry out the rental assistance 
+     program under section 521(a)(2) of the Act: Provided, That of 
+     this amount, not more than $5,900,000 shall be available for 
+     debt forgiveness or payments for eligible households as 
+     authorized by section 502(c)(5)(D) of the Act, and not to 
+     exceed $10,000 per project for advances to nonprofit 
+     organizations or public agencies to cover direct costs (other 
+     than purchase price) incurred in purchasing projects pursuant 
+     to section 502(c)(5)(C) of the Act: Provided further, That 
+     agreements entered into or renewed during fiscal year 2002 
+     shall be funded for a 5-year period, although the life of any 
+     such agreement may be extended to fully utilize amounts 
+     obligated.
+
+
+                  Mutual and Self-Help Housing Grants
+
+       For grants and contracts pursuant to section 523(b)(1)(A) 
+     of the Housing Act of 1949 (42 U.S.C. 1490c), $35,000,000, to 
+     remain available until expended (7 U.S.C. 2209b): Provided, 
+     That of the total amount appropriated, $1,000,000 shall be 
+     available through June 30, 2002, for authorized empowerment 
+     zones and enterprise communities and communities designated 
+     by the Secretary of Agriculture as Rural Economic Area 
+     Partnership Zones.
+
+
+                    Rural Housing Assistance Grants
+
+       For grants and contracts for very low-income housing 
+     repair, supervisory and technical assistance, compensation 
+     for construction defects, and rural housing preservation made 
+     by the Rural Housing Service, as authorized by 42 U.S.C. 
+     1474, 1479(c), 1490e, and 1490m, $38,914,000, to remain 
+     available until expended: Provided, That of the total amount 
+     appropriated, $1,200,000 shall be available through June 30, 
+     2002, for authorized empowerment zones and enterprise 
+     communities and communities designated by the Secretary of 
+     Agriculture as Rural Economic Area Partnership Zones.
+
+
+                       Farm Labor Program Account
+
+       For the cost of direct loans, grants, and contracts, as 
+     authorized by 42 U.S.C. 1484 and 1486,
+
+[[Page S11242]]
+
+     $28,431,000, to remain available until expended, for direct 
+     farm labor housing loans and domestic farm labor housing 
+     grants and contracts.
+
+                   Rural Business-Cooperative Service
+
+
+              Rural Development Loan Fund Program Account
+
+                     (including transfers of funds)
+
+       For the cost of direct loans, $16,494,000, as authorized by 
+     the Rural Development Loan Fund (42 U.S.C. 9812(a)), of which 
+     $1,724,000 shall be for Federally Recognized Native American 
+     Tribes and of which $3,449,000 shall be for Mississippi Delta 
+     Region counties (as defined by Public Law 100-460): Provided, 
+     That such costs, including the cost of modifying such loans, 
+     shall be as defined in section 502 of the Congressional 
+     Budget Act of 1974: Provided further, That these funds are 
+     available to subsidize gross obligations for the principal 
+     amount of direct loans of $38,171,000: Provided further, That 
+     of the total amount appropriated, $2,730,000 shall be 
+     available through June 30, 2002, for the cost of direct loans 
+     for authorized empowerment zones and enterprise communities 
+     and communities designated by the Secretary of Agriculture as 
+     Rural Economic Area Partnership Zones.
+       In addition, for administrative expenses to carry out the 
+     direct loan programs, $3,733,000 shall be transferred to and 
+     merged with the appropriation for ``Rural Development, 
+     Salaries and Expenses''.
+
+
+            Rural Economic Development Loans Program Account
+
+                    (including rescission of funds)
+
+       For the principal amount of direct loans, as authorized 
+     under section 313 of the Rural Electrification Act, for the 
+     purpose of promoting rural economic development and job 
+     creation projects, $14,966,000.
+       For the cost of direct loans, including the cost of 
+     modifying loans as defined in section 502 of the 
+     Congressional Budget Act of 1974, $3,616,000.
+       Of the funds derived from interest on the cushion of credit 
+     payments in fiscal year 2002, as authorized by section 313 of 
+     the Rural Electrification Act of 1936, $3,616,000 shall not 
+     be obligated and $3,616,000 are rescinded.
+
+
+                  Rural Cooperative Development Grants
+
+       For rural cooperative development grants authorized under 
+     section 310B(e) of the Consolidated Farm and Rural 
+     Development Act (7 U.S.C. 1932), $8,000,000, of which 
+     $2,000,000 shall be available for cooperative agreements for 
+     the appropriate technology transfer for rural areas program: 
+     Provided, That not to exceed $1,497,000 of the total amount 
+     appropriated shall be made available to cooperatives or 
+     associations of cooperatives whose primary focus is to 
+     provide assistance to small, minority producers and whose 
+     governing board and/or membership is comprised of at least 75 
+     percent minority.
+
+
+       RURAL EMPOWERMENT ZONES AND ENTERPRISE COMMUNITIES GRANTS
+
+       For grants in connection with a second round of empowerment 
+     zones and enterprise communities, $14,967,000, to remain 
+     available until expended, for designated rural empowerment 
+     zones and rural enterprise communities, as authorized by the 
+     Taxpayer Relief Act of 1997 and the Omnibus Consolidated and 
+     Emergency Supplemental Appropriations Act, 1999 (Public Law 
+     105-277).
+
+                        Rural Utilities Service
+
+
+   Rural Electrification and Telecommunications Loans Program Account
+
+                     (including transfers of funds)
+
+       Insured loans pursuant to the authority of section 305 of 
+     the Rural Electrification Act of 1936 (7 U.S.C. 935) shall be 
+     made as follows: 5 percent rural electrification loans, 
+     $121,107,000; 5 percent rural telecommunications loans, 
+     $74,827,000; cost of money rural telecommunications loans, 
+     $300,000,000; municipal rate rural electric loans, 
+     $500,000,000; and loans made pursuant to section 306 of that 
+     Act, rural electric, $2,700,000,000 and rural 
+     telecommunications, $120,000,000; and $750,000,000 for 
+     Treasury rate direct electric loans.
+       For the cost, as defined in section 502 of the 
+     Congressional Budget Act of 1974, including the cost of 
+     modifying loans, of direct and guaranteed loans authorized by 
+     the Rural Electrification Act of 1936 (7 U.S.C. 935 and 936), 
+     as follows: cost of rural electric loans, $3,689,000, and the 
+     cost of telecommunication loans, $2,036,000: Provided, That 
+     notwithstanding section 305(d)(2) of the Rural 
+     Electrification Act of 1936, borrower interest rates may 
+     exceed 7 percent per year.
+       In addition, for administrative expenses necessary to carry 
+     out the direct and guaranteed loan programs, $36,000,000, 
+     which shall be transferred to and merged with the 
+     appropriation for ``Rural Development, Salaries and 
+     Expenses''.
+
+
+                  Rural Telephone Bank Program Account
+
+                     (including transfers of funds)
+
+       The Rural Telephone Bank is hereby authorized to make such 
+     expenditures, within the limits of funds available to such 
+     corporation in accord with law, and to make such contracts 
+     and commitments without regard to fiscal year limitations as 
+     provided by section 104 of the Government Corporation Control 
+     Act, as may be necessary in carrying out its authorized 
+     programs. During fiscal year 2002 and within the resources 
+     and authority available, gross obligations for the principal 
+     amount of direct loans shall be $174,615,000.
+       For the cost, as defined in section 502 of the 
+     Congressional Budget Act of 1974, including the cost of 
+     modifying loans, of direct loans authorized by the Rural 
+     Electrification Act of 1936 (7 U.S.C. 935), $3,737,000.
+       In addition, for administrative expenses, including audits, 
+     necessary to carry out the loan programs, $3,082,000, which 
+     shall be transferred to and merged with the appropriation for 
+     ``Rural Development, Salaries and Expenses''.
+
+
+               Distance Learning and Telemedicine Program
+
+       For the cost of direct loans and grants, as authorized by 7 
+     U.S.C. 950aaa et seq., $51,941,000, to remain available until 
+     expended, to be available for loans and grants for 
+     telemedicine and distance learning services in rural areas: 
+     Provided, That, $25,000,000 may be available for the 
+     continuation of a pilot project for a loan and grant program 
+     to finance broadband transmission and local dial-up Internet 
+     service in areas that meet the definition of ``rural area'' 
+     used for the Distance Learning and Telemedicine Program 
+     authorized by 7 U.S.C. 950aaa: Provided further, That the 
+     cost of direct loans shall be as defined in section 502 of 
+     the Congressional Budget Act of 1974.
+
+
+            LOCAL TELEVISION LOAN GUARANTEE PROGRAM Account
+
+       For gross obligations for the principal amount of 
+     guaranteed loans, as authorized by Title X of Public Law 106-
+     553 for the purpose of facilitating access to signals of 
+     local television stations for households located in nonserved 
+     areas and underserved areas, $322,580,000.
+       For the cost of guaranteed loans, including the cost of 
+     modifying loans as defined in section 502 of the 
+     Congressional Budget Act of 1974, $25,000,000.
+       In addition, for administrative expenses necessary to carry 
+     out the guaranteed loan program, $2,000,000, which shall be 
+     transferred to and merged with the appropriation for ``Rural 
+     Development, Salaries and Expenses''.
+
+                                TITLE IV
+
+                         DOMESTIC FOOD PROGRAMS
+
+Office of the Under Secretary for Food, Nutrition and Consumer Services
+
+       For necessary salaries and expenses of the Office of the 
+     Under Secretary for Food, Nutrition and Consumer Services to 
+     administer the laws enacted by the Congress for the Food and 
+     Nutrition Service, $587,000.
+
+                       Food and Nutrition Service
+
+
+                        child nutrition programs
+
+                     (including transfers of funds)
+
+       For necessary expenses to carry out the National School 
+     Lunch Act (42 U.S.C. 1751 et seq.), except section 21, and 
+     the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), 
+     except sections 17 and 21; $10,087,246,000, to remain 
+     available through September 30, 2003, of which $4,746,538,000 
+     is hereby appropriated and $5,340,708,000 shall be derived by 
+     transfer from funds available under section 32 of the Act of 
+     August 24, 1935 (7 U.S.C. 612c): Provided, That none of the 
+     funds made available under this heading shall be used for 
+     studies and evaluations: Provided further, That of the funds 
+     made available under this heading, $500,000 shall be for a 
+     School Breakfast Program startup grant pilot program for the 
+     State of Wisconsin: Provided further, That up to $4,507,000 
+     shall be available for independent verification of school 
+     food service claims.
+
+
+Special Supplemental Nutrition Program for Women, Infants, and Children 
+                                 (WIC)
+
+       For necessary expenses to carry out the special 
+     supplemental nutrition program as authorized by section 17 of 
+     the Child Nutrition Act of 1966 (42 U.S.C. 1786), 
+     $4,247,086,000, to remain available through September 30, 
+     2003: Provided, That none of the funds made available under 
+     this heading shall be used for studies and evaluations: 
+     Provided further, That of the total amount available, the 
+     Secretary shall obligate $20,000,000 for the farmers' market 
+     nutrition program within 45 days of the enactment of this 
+     Act, and an additional $5,000,000 for the farmers' market 
+     nutrition program upon a determination by the Secretary that 
+     funds are available to meet caseload requirements: Provided 
+     further, That notwithstanding section 17(h)(10)(A) of such 
+     Act, up to $14,000,000 shall be available for the purposes 
+     specified in section 17(h)(10)(B), no less than $6,000,000 of 
+     which shall be used for the development of electronic benefit 
+     transfer systems: Provided further, That none of the funds in 
+     this Act shall be available to pay administrative expenses of 
+     WIC clinics except those that have an announced policy of 
+     prohibiting smoking within the space used to carry out the 
+     program: Provided further, That none of the funds provided in 
+     this account shall be available for the purchase of infant 
+     formula except in accordance with the cost containment and 
+     competitive bidding requirements specified in section 17 of 
+     such Act: Provided further, That none of the funds provided 
+     shall be available for activities that are not fully 
+     reimbursed by other Federal Government departments or 
+     agencies unless authorized by section 17 of such Act: 
+     Provided further, That once the amount for fiscal year 2001 
+     carryover funds has been determined by the Secretary, any 
+     funds in excess of $110,000,000 may be transferred by the 
+     Secretary of Agriculture to the Rural Community Advancement 
+     Program and shall remain available until expended.
+
+
+                           Food Stamp Program
+
+       For necessary expenses to carry out the Food Stamp Act (7 
+     U.S.C. 2011 et seq.), $22,991,986,000, of which 
+     $2,000,000,000 shall be placed in reserve for use only in 
+     such amounts and at such times as may become necessary to 
+     carry out program operations: Provided, That of the funds 
+     made available under this heading and not already 
+     appropriated to the Food Distribution Program on Indian 
+     Reservations (FDPIR) established under section 4(b) of the 
+     Food Stamp Act of 1977 (7 U.S.C. 2013(b)), not to exceed 
+     $3,000,000 shall be used to purchase bison meat for the FDPIR 
+     from producer-owned cooperative organizations: Provided 
+     further, That none of the funds made available under this 
+     heading shall be used for studies and evaluations: Provided 
+     further, That funds provided herein shall be expended in 
+     accordance with section 16 of the Food Stamp Act: Provided 
+     further, That this appropriation shall be subject to any work 
+     registration or workfare
+
+[[Page S11243]]
+
+     requirements as may be required by law: Provided further, 
+     That of funds that may be reserved by the Secretary for 
+     allocation to State agencies under section 16(h)(1) of such 
+     Act to carry out Employment and Training programs, not more 
+     than $145,000,000 made available in previous years may be 
+     obligated in fiscal year 2002: Provided further, That funds 
+     made available for Employment and Training under this heading 
+     shall remain available until expended, as authorized by 
+     section 16(h)(1) of the Food Stamp Act: Provided further, 
+     That funds provided under this heading may be used to procure 
+     food coupons necessary for program operations in this or 
+     subsequent fiscal years until electronic benefit transfer 
+     implementation is complete.
+
+
+                      Commodity Assistance Program
+
+                         (including rescission)
+
+       For necessary expenses to carry out the commodity 
+     supplemental food program as authorized by section 4(a) of 
+     the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 
+     612c note) and the Emergency Food Assistance Act of 1983, 
+     $139,991,000, to remain available through September 30, 2003: 
+     Provided, That none of these funds shall be available to 
+     reimburse the Commodity Credit Corporation for commodities 
+     donated to the program: Provided further, That $5,300,000 of 
+     unobligated balances available at the beginning of fiscal 
+     year 2002 are hereby rescinded.
+
+
+                        Food Donations Programs
+
+       For necessary expenses to carry out section 4(a) of the 
+     Agriculture and Consumer Protection Act of 1973; special 
+     assistance for the nuclear affected islands as authorized by 
+     section 103(h)(2) of the Compacts of Free Association Act of 
+     1985, as amended; and section 311 of the Older Americans Act 
+     of 1965, $150,749,000, to remain available through September 
+     30, 2003.
+
+
+                      Food Program Administration
+
+       For necessary administrative expenses of the domestic food 
+     programs funded under this Act, $127,546,000, of which 
+     $5,000,000 shall be available only for simplifying 
+     procedures, reducing overhead costs, tightening regulations, 
+     improving food stamp benefit delivery, and assisting in the 
+     prevention, identification, and prosecution of fraud and 
+     other violations of law and of which not less than $6,500,000 
+     shall be available to improve integrity in the Food Stamp and 
+     Child Nutrition programs: Provided, That this appropriation 
+     shall be available for employment pursuant to the second 
+     sentence of section 706(a) of the Organic Act of 1944 (7 
+     U.S.C. 2225), and not to exceed $150,000 shall be available 
+     for employment under 5 U.S.C. 3109.
+
+                                TITLE V
+
+                FOREIGN ASSISTANCE AND RELATED PROGRAMS
+
+                      Foreign Agricultural Service
+
+
+                         Salaries and expenses
+
+                     (including transfers of funds)
+
+       For necessary expenses of the Foreign Agricultural Service, 
+     including carrying out title VI of the Agricultural Act of 
+     1954 (7 U.S.C. 1761-1768), market development activities 
+     abroad, and for enabling the Secretary to coordinate and 
+     integrate activities of the Department in connection with 
+     foreign agricultural work, including not to exceed $158,000 
+     for representation allowances and for expenses pursuant to 
+     section 8 of the Act approved August 3, 1956 (7 U.S.C. 1766), 
+     $121,563,000: Provided, That the Service may utilize advances 
+     of funds, or reimburse this appropriation for expenditures 
+     made on behalf of Federal agencies, public and private 
+     organizations and institutions under agreements executed 
+     pursuant to the agricultural food production assistance 
+     programs (7 U.S.C. 1737) and the foreign assistance programs 
+     of the United States Agency for International Development.
+       None of the funds in the foregoing paragraph shall be 
+     available to promote the sale or export of tobacco or tobacco 
+     products.
+
+
+                 Public Law 480 Title I Program Account
+
+                     (including transfers of funds)
+
+       For the cost, as defined in section 502 of the 
+     Congressional Budget Act of 1974, of agreements under the 
+     Agricultural Trade Development and Assistance Act of 1954, 
+     and the Food for Progress Act of 1985, including the cost of 
+     modifying credit arrangements under said Acts, $130,218,000, 
+     to remain available until expended.
+       In addition, for administrative expenses to carry out the 
+     credit program of title I, Public Law 83-480, and the Food 
+     for Progress Act of 1985, to the extent funds appropriated 
+     for Public Law 83-480 are utilized, $2,005,000, of which 
+     $1,033,000 may be transferred to and merged with the 
+     appropriation for ``Foreign Agricultural Service, Salaries 
+     and Expenses'', and of which $972,000 may be transferred to 
+     and merged with the appropriation for ``Farm Service Agency, 
+     Salaries and Expenses''.
+
+
+        Public Law 480 Title I Ocean Freight Differential Grants
+
+                     (including transfers of funds)
+
+       For expenses during the current fiscal year, not otherwise 
+     recoverable, and unrecovered prior years' costs, including 
+     interest thereon, under the Agricultural Trade Development 
+     and Assistance Act of 1954, $20,277,000, to remain available 
+     until expended, for ocean freight differential costs for the 
+     shipment of agricultural commodities under title I of said 
+     Act: Provided, That funds made available for the cost of 
+     title I agreements and for title I ocean freight differential 
+     may be used interchangeably between the two accounts with 
+     prior notice to the Committees on Appropriations of both 
+     Houses of Congress.
+
+
+                     Public Law 480 Title II Grants
+
+       For expenses during the current fiscal year, not otherwise 
+     recoverable, and unrecovered prior years' costs, including 
+     interest thereon, under the Agricultural Trade Development 
+     and Assistance Act of 1954, $850,000,000, to remain available 
+     until expended, for commodities supplied in connection with 
+     dispositions abroad under title II of said Act.
+
+
+       Commodity Credit Corporation Export Loans Program Account
+
+                     (including transfers of funds)
+
+       For administrative expenses to carry out the Commodity 
+     Credit Corporation's export guarantee program, GSM 102 and 
+     GSM 103, $4,014,000; to cover common overhead expenses as 
+     permitted by section 11 of the Commodity Credit Corporation 
+     Charter Act and in conformity with the Federal Credit Reform 
+     Act of 1990, of which $3,224,000 may be transferred to and 
+     merged with the appropriation for ``Foreign Agricultural 
+     Service, Salaries and Expenses'', and of which $790,000 may 
+     be transferred to and merged with the appropriation for 
+     ``Farm Service Agency, Salaries and Expenses''.
+
+                                TITLE VI
+
+           RELATED AGENCIES AND FOOD AND DRUG ADMINISTRATION
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+                      Food and Drug Administration
+
+
+                         Salaries and Expenses
+
+       For necessary expenses of the Food and Drug Administration, 
+     including hire and purchase of passenger motor vehicles; for 
+     payment of space rental and related costs pursuant to Public 
+     Law 92-313 for programs and activities of the Food and Drug 
+     Administration which are included in this Act; for rental of 
+     special purpose space in the District of Columbia or 
+     elsewhere; and for miscellaneous and emergency expenses of 
+     enforcement activities, authorized and approved by the 
+     Secretary and to be accounted for solely on the Secretary's 
+     certificate, not to exceed $25,000; $1,345,386,000, of which 
+     not to exceed $161,716,000 to be derived from prescription 
+     drug user fees authorized by 21 U.S.C. 379(h), including any 
+     such fees assessed prior to the current fiscal year but 
+     credited during the current year, in accordance with section 
+     736(g)(4), shall be credited to this appropriation and remain 
+     available until expended: Provided, That fees derived from 
+     applications received during fiscal year 2002 shall be 
+     subject to the fiscal year 2002 limitation: Provided further, 
+     That none of these funds shall be used to develop, establish, 
+     or operate any program of user fees authorized by 31 U.S.C. 
+     9701: Provided further, That of the total amount 
+     appropriated: (1) $311,926,000 shall be for the Center for 
+     Food Safety and Applied Nutrition and related field 
+     activities in the Office of Regulatory Affairs; (2) 
+     $350,578,000 shall be for the Center for Drug Evaluation and 
+     Research and related field activities in the Office of 
+     Regulatory Affairs, of which no less than $14,207,000 shall 
+     be available for grants and contracts awarded under section 5 
+     of the Orphan Drug Act (21 U.S.C. 360ee), and of which not 
+     less than $500,000 shall be available for a generic drug 
+     public education campaign; (3) $155,431,000 shall be for the 
+     Center for Biologics Evaluation and Research and for related 
+     field activities in the Office of Regulatory Affairs; (4) 
+     $81,182,000 shall be for the Center for Veterinary Medicine 
+     and for related field activities in the Office of Regulatory 
+     Affairs; (5) $178,761,000 shall be for the Center for Devices 
+     and Radiological Health and for related field activities in 
+     the Office of Regulatory Affairs; (6) $36,984,000 shall be 
+     for the National Center for Toxicological Research; (7) 
+     $31,798,000 shall be for Rent and Related activities, other 
+     than the amounts paid to the General Services Administration, 
+     of which $6,000,000 for costs related to occupancy of new 
+     facilities at White Oak, Maryland shall remain available 
+     until September 30, 2003; (8) $105,116,000 shall be for 
+     payments to the General Services Administration for rent and 
+     related costs; and (9) $93,610,000 shall be for other 
+     activities, including the Office of the Commissioner; the 
+     Office of Management and Systems; the Office of the Senior 
+     Associate Commissioner; the Office of International and 
+     Constituent Relations; the Office of Policy, Legislation, and 
+     Planning; and central services for these offices: Provided 
+     further, That $1,000,000 to the Center for Food Safety and 
+     Nutrition to enhance enforcement of requirements under the 
+     Dietary Supplement Health and Education Act of 1994 related 
+     to the accuracy of product labeling, and the truthfulness and 
+     substantiation of claims: Provided further, That funds may be 
+     transferred from one specified activity to another with the 
+     prior approval of the Committees on Appropriations of both 
+     Houses of Congress.
+       In addition, mammography user fees authorized by 42 U.S.C. 
+     263(b) may be credited to this account, to remain available 
+     until expended.
+       In addition, export certification user fees authorized by 
+     21 U.S.C. 381 may be credited to this account, to remain 
+     available until expended.
+
+
+                        buildings and facilities
+
+       For plans, construction, repair, improvement, extension, 
+     alteration, and purchase of fixed equipment or facilities of 
+     or used by the Food and Drug Administration, where not 
+     otherwise provided, $34,281,000, to remain available until 
+     expended (7 U.S.C. 2209b).
+
+                          INDEPENDENT AGENCIES
+
+                  Commodity Futures Trading Commission
+
+       For necessary expenses to carry out the provisions of the 
+     Commodity Exchange Act (7 U.S.C. 1 et seq.), including the 
+     purchase and hire of passenger motor vehicles; the rental of 
+     space (to include multiple year leases) in the District of 
+     Columbia and elsewhere; and not to exceed $25,000 for 
+     employment under 5 U.S.C. 3109, $70,400,000, including not to 
+     exceed $2,000 for official reception and representation 
+     expenses.
+
+                       Farm Credit Administration
+
+
+                 Limitation on Administrative Expenses
+
+       Not to exceed $36,700,000 (from assessments collected from 
+     farm credit institutions and from the Federal Agricultural 
+     Mortgage Corporation)
+
+[[Page S11244]]
+
+     shall be obligated during the current fiscal year for 
+     administrative expenses as authorized under 12 U.S.C. 2249: 
+     Provided, That this limitation shall not apply to expenses 
+     associated with receiverships.
+
+                     TITLE VII--GENERAL PROVISIONS
+
+       Sec. 701. Within the unit limit of cost fixed by law, 
+     appropriations and authorizations made for the Department of 
+     Agriculture for fiscal year 2002 under this Act shall be 
+     available for the purchase, in addition to those specifically 
+     provided for, of not to exceed 379 passenger motor vehicles, 
+     of which 378 shall be for replacement only, and for the hire 
+     of such vehicles.
+       Sec. 702. Funds in this Act available to the Department of 
+     Agriculture shall be available for uniforms or allowances 
+     therefor as authorized by law (5 U.S.C. 5901-5902).
+       Sec. 703. Not less than $1,500,000 of the appropriations of 
+     the Department of Agriculture in this Act for research and 
+     service work authorized by sections 1 and 10 of the Act of 
+     June 29, 1935 (7 U.S.C. 427, 427i; commonly known as the 
+     Bankhead-Jones Act), subtitle A of title II and section 302 
+     of the Act of August 14, 1946 (7 U.S.C. 1621 et seq.), and 
+     chapter 63 of title 31, United States Code, shall be 
+     available for contracting in accordance with such Acts and 
+     chapter.
+       Sec. 704. The Secretary of Agriculture may transfer 
+     unobligated balances of funds appropriated by this Act or 
+     other available unobligated balances of the Department of 
+     Agriculture to the Working Capital Fund for the acquisition 
+     of plant and capital equipment necessary for the delivery of 
+     financial, administrative, and information technology 
+     services of primary benefit to the agencies of the Department 
+     of Agriculture: Provided, That none of the funds made 
+     available by this Act or any other Act shall be transferred 
+     to the Working Capital Fund without the prior approval of the 
+     agency administrator: Provided further, That none of the 
+     funds transferred to the Working Capital Fund pursuant to 
+     this section shall be available for obligation without the 
+     prior approval of the Committees on Appropriations of both 
+     Houses of Congress.
+       Sec. 705. New obligational authority provided for the 
+     following appropriation items in this Act shall remain 
+     available until expended: Animal and Plant Health Inspection 
+     Service, the contingency fund to meet emergency conditions, 
+     fruit fly program, integrated systems acquisition project, 
+     boll weevil program, up to 25 percent of the screwworm 
+     program, and up to $2,000,000 for costs associated with 
+     colocating regional offices; Food Safety and Inspection 
+     Service, field automation and information management project; 
+     Cooperative State Research, Education, and Extension Service, 
+     funds for competitive research grants (7 U.S.C. 450i(b)), 
+     funds for the Research, Education and Economics Information 
+     System (REEIS), and funds for the Native American 
+     Institutions Endowment Fund; Farm Service Agency, salaries 
+     and expenses funds made available to county committees; 
+     Foreign Agricultural Service, middle-income country training 
+     program and up to $2,000,000 of the Foreign Agricultural 
+     Service appropriation solely for the purpose of offsetting 
+     fluctuations in international currency exchange rates, 
+     subject to documentation by the Foreign Agricultural Service.
+       Sec. 706. No part of any appropriation contained in this 
+     Act shall remain available for obligation beyond the current 
+     fiscal year unless expressly so provided herein.
+       Sec. 707. Not to exceed $50,000 of the appropriations 
+     available to the Department of Agriculture in this Act shall 
+     be available to provide appropriate orientation and language 
+     training pursuant to section 606C of the Act of August 28, 
+     1954 (7 U.S.C. 1766b; commonly known as the Agricultural Act 
+     of 1954).
+       Sec. 708. No funds appropriated by this Act may be used to 
+     pay negotiated indirect cost rates on cooperative agreements 
+     or similar arrangements between the United States Department 
+     of Agriculture and nonprofit institutions in excess of 10 
+     percent of the total direct cost of the agreement when the 
+     purpose of such cooperative arrangements is to carry out 
+     programs of mutual interest between the two parties. This 
+     does not preclude appropriate payment of indirect costs on 
+     grants and contracts with such institutions when such 
+     indirect costs are computed on a similar basis for all 
+     agencies for which appropriations are provided in this Act.
+       Sec. 709. None of the funds in this Act shall be available 
+     to restrict the authority of the Commodity Credit Corporation 
+     to lease space for its own use or to lease space on behalf of 
+     other agencies of the Department of Agriculture when such 
+     space will be jointly occupied.
+       Sec. 710. None of the funds in this Act shall be available 
+     to pay indirect costs charged against competitive 
+     agricultural research, education, or extension grant awards 
+     issued by the Cooperative State Research, Education, and 
+     Extension Service that exceed 19 percent of total Federal 
+     funds provided under each award: Provided, That 
+     notwithstanding section 1462 of the National Agricultural 
+     Research, Extension, and Teaching Policy Act of 1977 (7 
+     U.S.C. 3310), funds provided by this Act for grants awarded 
+     competitively by the Cooperative State Research, Education, 
+     and Extension Service shall be available to pay full 
+     allowable indirect costs for each grant awarded under section 
+     9 of the Small Business Act (15 U.S.C. 638).
+       Sec. 711. Notwithstanding any other provision of this Act, 
+     all loan levels provided in this Act shall be considered 
+     estimates, not limitations.
+       Sec. 712. Appropriations to the Department of Agriculture 
+     for the cost of direct and guaranteed loans made available in 
+     fiscal year 2002 shall remain available until expended to 
+     cover obligations made in fiscal year 2002 for the following 
+     accounts: the rural development loan fund program account; 
+     the Rural Telephone Bank program account; the rural 
+     electrification and telecommunications loans program account; 
+     the local television loan guarantee program; the Rural 
+     Housing Insurance Fund Program Account; and the rural 
+     economic development loans program account.
+       Sec. 713. Notwithstanding chapter 63 of title 31, United 
+     States Code, marketing services of the Agricultural Marketing 
+     Service; the Grain Inspection, Packers and Stockyards 
+     Administration; the Animal and Plant Health Inspection 
+     Service; and the food safety activities of the Food Safety 
+     and Inspection Service may use cooperative agreements to 
+     reflect a relationship between the Agricultural Marketing 
+     Service; the Grain Inspection, Packers and Stockyards 
+     Administration; the Animal and Plant Health Inspection 
+     Service; or the Food Safety and Inspection Service and a 
+     state or cooperator to carry out agricultural marketing 
+     programs, to carry out programs to protect the nation's 
+     animal and plant resources, or to carry out educational 
+     programs or special studies to improve the safety of the 
+     nation's food supply.
+       Sec. 714. None of the funds in this Act may be used to 
+     retire more than 5 percent of the Class A stock of the Rural 
+     Telephone Bank or to maintain any account or subaccount 
+     within the accounting records of the Rural Telephone Bank the 
+     creation of which has not specifically been authorized by 
+     statute: Provided, That notwithstanding any other provision 
+     of law, none of the funds appropriated or otherwise made 
+     available in this Act may be used to transfer to the Treasury 
+     or to the Federal Financing Bank any unobligated balance of 
+     the Rural Telephone Bank telephone liquidating account which 
+     is in excess of current requirements and such balance shall 
+     receive interest as set forth for financial accounts in 
+     section 505(c) of the Federal Credit Reform Act of 1990.
+       Sec. 715. Of the funds made available by this Act, not more 
+     than $1,800,000 shall be used to cover necessary expenses of 
+     activities related to all advisory committees, panels, 
+     commissions, and task forces of the Department of 
+     Agriculture, except for panels used to comply with negotiated 
+     rule makings and panels used to evaluate competitively 
+     awarded grants.
+       Sec. 716. None of the funds appropriated by this Act may be 
+     used to carry out section 410 of the Federal Meat Inspection 
+     Act (21 U.S.C. 679a) or section 30 of the Poultry Products 
+     Inspection Act (21 U.S.C. 471).
+       Sec. 717. No employee of the Department of Agriculture may 
+     be detailed or assigned from an agency or office funded by 
+     this Act to any other agency or office of the Department for 
+     more than 30 days unless the individual's employing agency or 
+     office is fully reimbursed by the receiving agency or office 
+     for the salary and expenses of the employee for the period of 
+     assignment.
+       Sec. 718. None of the funds appropriated or otherwise made 
+     available to the Department of Agriculture shall be used to 
+     transmit or otherwise make available to any non-Department of 
+     Agriculture employee questions or responses to questions that 
+     are a result of information requested for the appropriations 
+     hearing process.
+       Sec. 719. None of the funds made available to the 
+     Department of Agriculture by this Act may be used to acquire 
+     new information technology systems or significant upgrades, 
+     as determined by the Office of the Chief Information Officer, 
+     without the approval of the Chief Information Officer and the 
+     concurrence of the Executive Information Technology 
+     Investment Review Board: Provided, That notwithstanding any 
+     other provision of law, none of the funds appropriated or 
+     otherwise made available by this Act may be transferred to 
+     the Office of the Chief Information Officer without the prior 
+     approval of the Committees on Appropriations of both Houses 
+     of Congress.
+       Sec. 720. (a) None of the funds provided by this Act, or 
+     provided by previous Appropriations Acts to the agencies 
+     funded by this Act that remain available for obligation or 
+     expenditure in fiscal year 2002, or provided from any 
+     accounts in the Treasury of the United States derived by the 
+     collection of fees available to the agencies funded by this 
+     Act, shall be available for obligation or expenditure through 
+     a reprogramming of funds which: (1) creates new programs; (2) 
+     eliminates a program, project, or activity; (3) increases 
+     funds or personnel by any means for any project or activity 
+     for which funds have been denied or restricted; (4) relocates 
+     an office or employees; (5) reorganizes offices, programs, or 
+     activities; or (6) contracts out or privatizes any functions 
+     or activities presently performed by Federal employees; 
+     unless the Committees on Appropriations of both Houses of 
+     Congress are notified 15 days in advance of such 
+     reprogramming of funds.
+       (b) None of the funds provided by this Act, or provided by 
+     previous Appropriations Acts to the agencies funded by this 
+     Act that remain available for obligation or expenditure in 
+     fiscal year 2002, or provided from any accounts in the 
+     Treasury of the United States derived by the collection of 
+     fees available to the agencies funded by this Act, shall be 
+     available for obligation or expenditure for activities, 
+     programs, or projects through a reprogramming of funds in 
+     excess of $500,000 or 10 percent, whichever is less, that: 
+     (1) augments existing programs, projects, or activities; (2) 
+     reduces by 10 percent funding for any existing program, 
+     project, or activity, or numbers of personnel by 10 percent 
+     as approved by Congress; or (3) results from any general 
+     savings from a reduction in personnel which would result in a 
+     change in existing programs, activities, or projects as 
+     approved by Congress; unless the Committees on Appropriations 
+     of both Houses of Congress are notified 15 days in advance of 
+     such reprogramming of funds.
+       (c) The Secretary of Agriculture shall notify the 
+     Committees on Appropriations of both
+
+[[Page S11245]]
+
+     Houses of Congress before implementing a program or activity 
+     not carried out during the previous fiscal year unless the 
+     program or activity is funded by this Act or specifically 
+     funded by any other Act.
+       Sec. 721. With the exception of funds needed to administer 
+     and conduct oversight of grants awarded and obligations 
+     incurred prior to enactment of this Act, none of the funds 
+     appropriated or otherwise made available by this or any other 
+     Act may be used to pay the salaries and expenses of personnel 
+     to carry out section 793 of Public Law 104-127, the Fund for 
+     Rural America (7 U.S.C. 2204f).
+       Sec. 722. None of the funds appropriated or otherwise made 
+     available by this or any other Act shall be used to pay the 
+     salaries and expenses of personnel to carry out the transfer 
+     or obligation of fiscal year 2002 funds under the provisions 
+     of section 401 of Public Law 105-185, the Initiative for 
+     Future Agriculture and Food Systems (7 U.S.C. 7621).
+       Sec. 723. None of the funds appropriated or otherwise made 
+     available by this Act shall be used to pay the salaries and 
+     expenses of personnel to carry out a conservation farm option 
+     program, as authorized by section 1240M of the Food Security 
+     Act of 1985 (16 U.S.C. 3839bb).
+       Sec. 724. None of the funds made available to the Food and 
+     Drug Administration by this Act shall be used to close or 
+     relocate, or to plan to close or relocate, the Food and Drug 
+     Administration Division of Pharmaceutical Analysis in St. 
+     Louis, Missouri, outside the city or county limits of St. 
+     Louis, Missouri.
+       Sec. 725. None of the funds made available to the Food and 
+     Drug Administration by this Act shall be used to reduce the 
+     Detroit, Michigan, Food and Drug Administration District 
+     Office below the operating and full-time equivalent staffing 
+     level of July 31, 1999; or to change the Detroit District 
+     Office to a station, residence post or similarly modified 
+     office; or to reassign residence posts assigned to the 
+     Detroit District Office: Provided, That this section shall 
+     not apply to Food and Drug Administration field laboratory 
+     facilities or operations currently located in Detroit, 
+     Michigan, except that field laboratory personnel shall be 
+     assigned to locations in the general vicinity of Detroit, 
+     Michigan, pursuant to cooperative agreements between the Food 
+     and Drug Administration and other laboratory facilities 
+     associated with the State of Michigan.
+       Sec. 726. None of the funds appropriated by this Act or any 
+     other Act shall be used to pay the salaries and expenses of 
+     personnel who prepare or submit appropriations language as 
+     part of the President's Budget submission to the Congress of 
+     the United States for programs under the jurisdiction of the 
+     Appropriations Subcommittees on Agriculture, Rural 
+     Development, and Related Agencies that assumes revenues or 
+     reflects a reduction from the previous year due to user fees 
+     proposals that have not been enacted into law prior to the 
+     submission of the Budget unless such Budget submission 
+     identifies which additional spending reductions should occur 
+     in the event the user fees proposals are not enacted prior to 
+     the date of the convening of a committee of conference for 
+     the fiscal year 2003 appropriations Act.
+       Sec. 727. None of the funds made available by this Act or 
+     any other Act may be used to close or relocate a state Rural 
+     Development office unless or until cost effectiveness and 
+     enhancement of program delivery have been determined.
+       Sec. 728. Of any shipments of commodities made pursuant to 
+     section 416(b) of the Agricultural Act of 1949 (7 U.S.C. 
+     1431(b)), the Secretary of Agriculture shall, to the extent 
+     practicable, direct that tonnage equal in value to not more 
+     than $25,000,000 shall be made available to foreign countries 
+     to assist in mitigating the effects of the Human 
+     Immunodeficiency Virus and Acquired Immune Deficiency 
+     Syndrome on communities, including the provision of--
+       (1) agricultural commodities to--
+       (A) individuals with Human Immunodeficiency Virus or 
+     Acquired Immune Deficiency Syndrome in the communities, and
+       (B) households in the communities, particularly individuals 
+     caring for orphaned children; and
+       (2) agricultural commodities monetized to provide other 
+     assistance (including assistance under microcredit and 
+     microenterprise programs) to create or restore sustainable 
+     livelihoods among individuals in the communities, 
+     particularly individuals caring for orphaned children.
+       Sec. 729. In addition to amounts otherwise appropriated or 
+     made available by this Act, $1,996,000 is appropriated for 
+     the purpose of providing Bill Emerson and Mickey Leland 
+     Hunger Fellowships through the Congressional Hunger Center.
+       Sec. 730. Refunds or rebates received on an on-going basis 
+     from a credit card services provider under the Department of 
+     Agriculture's charge card programs may be deposited to and 
+     retained without fiscal year limitation in the Departmental 
+     Working Capital Fund established under 7 U.S.C. 2235 and used 
+     to fund management initiatives of general benefit to the 
+     Department of Agriculture bureaus and offices as determined 
+     by the Secretary of Agriculture or the Secretary's designee.
+       Sec. 731. Notwithstanding section 412 of the Agricultural 
+     Trade Development and Assistance Act of 1954 (7 U.S.C. 1736f) 
+     any balances available to carry out title III of such Act as 
+     of the date of enactment of this Act, and any recoveries and 
+     reimbursements that become available to carry out title III 
+     of such Act, may be used to carry out title II of such Act.
+       Sec. 732. Of the funds made available under section 27(a) 
+     of the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.), the 
+     Secretary may use up to $5,000,000 for administrative costs 
+     associated with the distribution of commodities.
+       Sec. 733. Notwithstanding any other provision of law, the 
+     Secretary may transfer up to $26,000,000 in funds provided 
+     for the Environmental Quality Incentives Program authorized 
+     by Chapter 4, Subtitle D, Title XII of the Food Security Act 
+     of 1985, for technical assistance to implement the 
+     Conservation Reserve Program authorized by subchapter B, 
+     Chapter 1, Title XII of the Food Security Act of 1985, with 
+     funds to remain available until expended: Provided, That 
+     notwithstanding any other provision of law, the Secretary may 
+     elect to enroll no more than 340,000 acres for continuous 
+     signup, conservation reserve enhancement, or wetland pilot 
+     purposes and no acres for regular enrollment into the 
+     Conservation Reserve Program authorized by subchapter B, 
+     Chapter 1, Title XII of the Food Security Act of 1985, during 
+     fiscal year 2002 and any savings derived from such action may 
+     be transferred, not to exceed $18,000,000, for technical 
+     assistance to implement the Conservation Reserve Program, 
+     with funds to remain available until expended.
+       Sec. 734. Notwithstanding any other provision of law, the 
+     City of St. Joseph, Missouri, shall be eligible for grants 
+     and loans administered by the rural development mission area 
+     of the Department of Agriculture relating to an application 
+     submitted to the Department by a farmer-owned cooperative, a 
+     majority of whose members reside in a rural area, as 
+     determined by the Secretary, and for the purchase and 
+     operation of a facility beneficial to the purpose of the 
+     cooperative.
+       Sec. 735. Section 17(a)(2)(B) of the Richard B. Russell 
+     National School Lunch Act (42 U.S.C. 1766(a)(2)(B)) is 
+     amended by striking ``2001'' and inserting ``2002''.
+       Sec. 736. Notwithstanding any other provision of law, the 
+     Natural Resources Conservation Service shall provide 
+     financial and technical assistance in the amount of $150,000 
+     to the Mallard Pointe project in Madison County, Mississippi.
+       Sec. 737. Notwithstanding any other provision of law, the 
+     Secretary of Agriculture shall, in cooperation with the State 
+     of Illinois, develop and implement a pilot project utilizing 
+     conservation programs of the Department of Agriculture for 
+     soil, water, wetlands, and wildlife habitat enhancement in 
+     the Illinois River Basin: Provided, That no funds shall be 
+     made available to carry out this section unless they are 
+     expressly provided for a program in this Act or any other Act 
+     for obligation in fiscal year 2002: Provided further, That 
+     any conservation reserve program enrollments made pursuant to 
+     this section shall be subject to section 734 of this Act.
+       Sec. 738. Notwithstanding any other provision of law, the 
+     Natural Resources Conservation Service shall provide $450,000 
+     for a wetlands restoration and water conservation project in 
+     the vicinity of Jamestown, Rhode Island.
+       Sec. 739. Notwithstanding any other provision of law, 
+     $3,000,000 shall be made available from funds under the rural 
+     business and cooperative development programs of the Rural 
+     Community Advancement Program for a grant for an integrated 
+     ethanol plant, feedlot, and animal waste digestion unit, to 
+     the extent matching funds from the Department of Energy are 
+     provided if a commitment for such matching funds is made 
+     prior to July 1, 2002: Provided, That such funds shall be 
+     released to the project after the farmer-owned cooperative 
+     equity is in place, and a formally executed commitment from a 
+     qualified lender based upon receipt of necessary permits, 
+     contract, and other appropriate documentation has been 
+     secured by the project.
+       Sec. 740. Hereafter, notwithstanding any other provision of 
+     law, the Administrator of the Rural Utilities Service shall 
+     use the authorities provided in the Rural Electrification Act 
+     of 1936 to finance the acquisition of existing generation, 
+     transmission and distribution systems and facilities serving 
+     high cost, predominantly rural areas by entities capable of 
+     and dedicated to providing or improving service in such areas 
+     in an efficient and cost effective manner.
+       Sec. 741. Notwithstanding subsection (f) of section 156 of 
+     the Agricultural Market Transition Act (7 U.S.C. 7272(f)), 
+     any assessment imposed under that subsection for marketings 
+     of raw cane sugar or beet sugar for the 2002 fiscal year 
+     shall not be required to be remitted to the Commodity Credit 
+     Corporation before September 2, 2002.
+       Sec. 742. Notwithstanding any other provision of law, the 
+     Secretary of Agriculture, acting through the Natural 
+     Resources Conservation Service, shall provide financial 
+     assistance from available funds from the Emergency Watershed 
+     Protection Program in Arkansas, in an amount not to exceed 
+     $400,000 for completion of the current construction phase of 
+     the Kuhn Bayou (Point Remove) Project.
+       Sec. 743. (a) Temporary Use of Existing Payments to States 
+     Table.--Notwithstanding section 101(a)(1) of the Secure Rural 
+     Schools and Community Self-Determination Act of 2000 (Public 
+     Law 106-393; 16 U.S.C. 500 note), for the purpose of making 
+     the first fiscal year's payments under section 102 of such 
+     Act to eligible States and eligible counties, the full 
+     payment amount for each eligible State and eligible county 
+     shall be deemed to be equal to the full payment amount 
+     calculated for that eligible State or eligible county in the 
+     Forest Service document entitled ``P.L. 106-393, Secure Rural 
+     Schools and Community Self-Determination Act'', dated July 
+     31, 2001.
+       (b) Revision of Table.--For the purpose of making payments 
+     under section 102 of such Act to eligible States and eligible 
+     counties of subsequent fiscal years, the Secretary of 
+     Agriculture shall provide for the revision of the table 
+     referred to in subsection (a) to accurately reflect the 
+     average of the three highest 25-percent payments and safety 
+     net payments made to eligible States for the fiscal years of 
+     the eligibility period, as required by section 101(a)(1) of 
+     such Act. If the revisions are not completed by the time 
+     payments under section 102 of such Act are due to be made for 
+     a subsequent fiscal year, the
+
+[[Page S11246]]
+
+     table referred to in subsection (a) shall again be used for 
+     the purpose of making the payments for that fiscal year. The 
+     Forest Service shall provide the Senate Energy and Natural 
+     Resources Committee and the House of Representatives 
+     Agriculture Committee with a report on the progress of the 
+     correction by March 1, 2002.
+       (c) Additional Opt-Out Option.--Notwithstanding section 
+     102(b)(2) of Public Law 106-393, if the revision of the table 
+     referred to in subsection (a) results in a lower full payment 
+     amount to a county that has elected under section 102(a)(2) 
+     the full payment amount, then that county may revisit their 
+     election under section 102(b)(1).
+       (d) Definitions.--In this section, the terms ``eligible 
+     State'', ``eligible county'', ``eligibility period'', ``25-
+     period payment'', and ``safety net payments'' have the 
+     meanings given such terms in section 3 of such Act.
+       (e) Treatment of Certain Mineral Leasing Receipts.--An 
+     eligible county that elects under section 102(b) to receive 
+     its share of an eligible State's full payment amount shall 
+     continue to receive its share of any payments made to that 
+     State from a lease for mineral resources issued by the 
+     Secretary of the Interior under the last paragraph under the 
+     heading ``FOREST SERVICE'' in the Act of March 4, 1917 
+     (Chapter 179; 16 U.S.C. 520).
+       (f) Mineral Payments.--Section 6(b) of the Mineral Leasing 
+     Act for Acquired Lands (30 U.S.C. 355(b)) is amended by 
+     inserting after the first sentence, the following new 
+     sentence: ``The preceeding sentence shall also apply to any 
+     payment to a State derived from a lease for mineral resources 
+     issued by the Secretary of the Interior under the last 
+     paragraph under the heading `FOREST SERVICE' in the Act of 
+     March 4, 1917 (Chapter 179; 16 U.S.C. 520).''.
+       Sec. 744. Alaska Permanent Fund. Section 501(b) of the 
+     Housing Act of 1949 (42 U.S.C. 1471) is amended in paragraph 
+     (5)--
+       (1) by striking ``(5)'' and inserting ``(5)(A)''; and
+       (2) by adding at the end the following:
+       ``(B) For purposes of this title, for fiscal years 2002 and 
+     2003, the term `income' does not include dividends received 
+     from the Alaska Permanent Fund by a person who was under the 
+     age of 18 years when that person qualified for the 
+     dividend.''.
+       Sec. 745. Hereafter, any provision of any Act of Congress 
+     relating to colleges and universities eligible to receive 
+     funds under the Act of August 30, 1890, including Tuskegee 
+     University, shall apply to West Virginia State College at 
+     Institute, West Virginia: Provided, That the Secretary may 
+     waive the matching funds' requirement under section 1449 of 
+     the National Agricultural Research, Extension, and Teaching 
+     Policy Act of 1977 (7 U.S.C. 3222d) for fiscal year 2002 for 
+     West Virginia State College if the Secretary determines the 
+     State of West Virginia will be unlikely to satisfy the 
+     matching requirement.
+       Sec. 746. Notwithstanding any other provision of law, the 
+     Secretary, acting through the Natural Resources Conservation 
+     Service, shall provide financial and technical assistance 
+     relating to the Tanana River bordering the Big Delta State 
+     Historical Park.
+       Sec. 747. None of the funds appropriated or otherwise made 
+     available by this Act to the Food and Drug Administration 
+     shall be used to allow admission of fish or fish products 
+     labeled wholly or in part as ``catfish'' unless the products 
+     are taxonomically from the family Ictaluridae.
+       Sec. 748. The Secretary of Agriculture is authorized to 
+     accept any unused funds transferred to the Alaska Railroad 
+     Corporation for avalanche control and retransfer up to 
+     $499,000 of such funds as a direct lump sum payment to the 
+     City of Valdez to construct an avalanche control wall to 
+     protect a public school.
+       Sec. 749. Of funds previously appropriated to the Bureau of 
+     Land Management under the heading ``Wildland Fire 
+     Management'', up to $5,000,000 is transferred to the 
+     Department of Agriculture, Farm Service Agency, for 
+     reimbursement for crop damage resulting from the Bureau's use 
+     of herbicides in the State of Idaho: Provided, That nothing 
+     in this section shall be construed to constitute an admission 
+     of liability in any subsequent litigation with respect to the 
+     Bureau's use of such herbicides.
+       Sec. 750. Pilot Program for Enrollment of Wetland and 
+     Buffer Acreage in Conservation Reserve. (a) In General.--
+     Section 1231(h)(4)(B) of the Food Security Act of 1985 (16 
+     U.S.C. 3831(h)(4)(B)) is amended by inserting ``(which may 
+     include emerging vegetation in water)'' after ``vegetative 
+     cover''.
+       (b) Conforming Amendment.--Section 1232(a)(4) of the Food 
+     Security Act of 1985 (16 U.S.C. 3832(a)(4)) is amended by 
+     inserting ``(which may include emerging vegetation in 
+     water)'' after ``vegetative cover''.
+       Sec. 751. Specialty Crops. (a) Grading of Price-Support 
+     Tobacco.--
+       (1) In general.--Not later than March 31, 2002, the 
+     Secretary of Agriculture (referred to in this section as the 
+     ``Secretary'') shall conduct a referendum among producers of 
+     each kind of tobacco that is eligible for price support under 
+     the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.) to 
+     determine whether the producers favor the mandatory grading 
+     of the tobacco by the Secretary.
+       (2) Mandatory grading.--If the Secretary determines that 
+     mandatory grading of each kind of tobacco described in 
+     paragraph (1) is favored by a majority of the producers 
+     voting in the referendum, effective for the 2002 and 
+     subsequent marketing years, the Secretary shall ensure that 
+     all kinds of the tobacco are graded at the time of sale.
+       (3) Judicial review.--A determination by the Secretary 
+     under this subsection shall not be subject to judicial 
+     review.
+       (b) Quota Reduction for Conservation Reserve Acreage.--
+       (1) In general.--Section 1236 of the Food Security Act of 
+     1985 (16 U.S.C. 3836) is amended--
+       (A) by striking subsection (a);
+       (B) by redesignating subsections (b), (c), and (d) as 
+     subsections (a), (b), and (c), respectively;
+       (C) in subsection (b) (as so redesignated), by striking 
+     ``subsection (b)'' and inserting ``subsection (a)''; and
+       (D) in subsection (c) (as so redesignated), by striking 
+     ``subsection (c)'' and inserting ``subsection (b)''.
+       (2) Conforming amendment.--Section 1232(a)(5) of the Food 
+     Security Act of 1985 (16 U.S.C. 3832(a)(5)) is amended by 
+     striking ``section 1236(d)'' and inserting ``section 
+     1236(c)''.
+       (3) Application.--The amendments made by this subsection 
+     shall apply beginning with the 2002 crop.
+       (c) Horse Breeder Loans.--
+       (1) Definition of horse breeder.--In this subsection, the 
+     term ``horse breeder'' means a person that, as of the date of 
+     enactment of this Act, derives more than 70 percent of the 
+     income of the person from the business of breeding, boarding, 
+     raising, training, or selling horses, during the shorter of--
+       (A) the 5-year period ending on January 1, 2001; or
+       (B) the period the person has been engaged in such 
+     business.
+       (2) Loan authorization.--The Secretary shall make loans to 
+     eligible horse breeders to assist the horse breeders for 
+     losses suffered as a result of mare reproductive loss 
+     syndrome.
+       (3) Eligibility.--A horse breeder shall be eligible for a 
+     loan under this subsection if the Secretary determines that, 
+     as a result of mare reproductive loss syndrome--
+       (A) during the period beginning January 1 and ending 
+     October 1 of any of calendar years 2000, 2001, or 2002--
+       (i) 30 percent or more of the mares owned by the horse 
+     breeder failed to conceive, miscarried, aborted, or otherwise 
+     failed to produce a live healthy foal; or
+       (ii) 30 percent or more of the mares boarded on a farm 
+     owned, operated, or leased by the horse breeder failed to 
+     conceive, miscarried, aborted, or otherwise failed to produce 
+     a live healthy foal;
+       (B) the horse breeder is unable to meet the financial 
+     obligations, or pay the ordinary and necessary expenses, of 
+     the horse breeder incurred in connection with breeding, 
+     boarding, raising, training, or selling horses; and
+       (C) the horse breeder is not able to obtain sufficient 
+     credit elsewhere, in accordance with subtitle C of the 
+     Consolidated Farm and Rural Development Act (7 U.S.C. 1961 et 
+     seq.).
+       (4) Amount.--
+       (A) In general.--Subject to subparagraph (B), the amount of 
+     a loan made to a horse breeder under this subsection shall be 
+     determined by the Secretary on the basis of the amount of 
+     losses suffered by the horse breeder, and the financial needs 
+     of the horse breeder, as a result of mare reproductive loss 
+     syndrome.
+       (B) Maximum amount.--The amount of a loan made to a horse 
+     breeder under this subsection shall not exceed the maximum 
+     amount of an emergency loan under section 324(a) of the 
+     Consolidated Farm and Rural Development Act (7 U.S.C. 
+     1964(a)).
+       (5) Term.--
+       (A) In general.--Subject to subparagraph (B), the term for 
+     repayment of a loan made to a horse breeder under this 
+     subsection shall be determined by the Secretary based on the 
+     ability of the horse breeder to repay the loan.
+       (B) Maximum term.--The term of a loan made to a horse 
+     breeder under this subsection shall not exceed 20 years.
+       (6) Interest rate.--The interest rate for a loan made to a 
+     horse breeder under this subsection shall be the interest 
+     rate for emergency loans prescribed under section 324(b)(1) 
+     of the Consolidated Farm and Rural Development Act (7 U.S.C. 
+     1964(b)(1)).
+       (7) Security.--A loan to a horse breeder under this 
+     subsection shall be made on the security required for 
+     emergency loans under section 324(d) of the Consolidated Farm 
+     and Rural Development Act (7 U.S.C. 1964(d)).
+       (8) Application.--To be eligible to obtain a loan under 
+     this subsection, a horse breeder shall submit an application 
+     for the loan to the Secretary not later than September 30, 
+     2002.
+       (9) Funding.--The Secretary shall carry out this subsection 
+     using funds made available to make emergency loans under 
+     subtitle C of the Consolidated Farm and Rural Development Act 
+     (7 U.S.C. 1961 et seq.).
+       (10) Termination.--The authority provided by this 
+     subsection to make a loan terminates effective September 30, 
+     2003.
+       Sec. 752. During fiscal year 2002, subsection (a)(2) of 
+     section 508 of the Federal Crop Insurance Act (7 U.S.C. 1508) 
+     shall be applied as though the term ``and potatoes'' read as 
+     follows: ``, potatoes, and sweet potatoes''.
+       Sec. 753. Within 30 days of the date of enactment of this 
+     Act, the Secretary of Agriculture shall submit a 
+     reprogramming request to the House and Senate Appropriations 
+     Committees to address the $21,700,000 in tornado damages 
+     incurred at the Henry A. Wallace Beltsville Agricultural 
+     Research Center.
+       Sec. 754. Citrus Canker Eradication. (a) In General.--
+     Section 810 of the Agriculture, Rural Development, Food and 
+     Drug Administration, and Related Agencies Appropriations Act, 
+     2001 (114 Stat. 1549A-52) is amended--
+       (1) in subsection (a) by striking ``The'' and inserting 
+     ``Subject to subsection (e), the''; and
+       (2) in subsection (c), by striking ``2001'' and inserting 
+     ``2002''.
+       (b) Effective Date.--The amendments in subsection (a) shall 
+     take effect as if enacted on September 30, 2001.
+       Sec. 755. From the amount appropriated to the Animal and 
+     Plant Health Inspection Service, $300,000 shall be provided 
+     to monitor and prevent Mare Reproductive Loss Syndrome in 
+     cooperation with the University of Kentucky.
+
+[[Page S11247]]
+
+       Sec. 756. Section 306(a)(20) of the Consolidated Farm and 
+     Rural Development Act (7 U.S.C. 1926(a)(20)) is amended by 
+     adding at the end the following new subparagraph:
+       ``(D) Rural broadband.--The Secretary may make grants to 
+     regulatory commissions in States with communities without 
+     dial-up internet access to establish a competitively neutral 
+     grant program to telecommunications carriers that establish 
+     facilities and services which, in the commission's 
+     determination, will result in the long-term availability to 
+     rural communities in such States of affordable broadband 
+     telecommunications services which can be used for the 
+     provision of high speed internet access.''.
+       Sec. 757. In accordance with the Farmland Protection 
+     Program, a total of $720,000 shall be made available to 
+     purchase conservation easements or other interests in land, 
+     not to exceed 235 acres, in Adair, Green, and Taylor 
+     Counties, Kentucky: Provided, That $490,000 of this amount 
+     shall be from funds made available to the Conservation 
+     Reserve Enhancement Program for the State of Kentucky.
+       Sec. 758. Notwithstanding any other provision of law, the 
+     City of Caldwell, Idaho, shall be eligible for grants and 
+     loans administered by the Rural Housing Service of the United 
+     States Department of Agriculture for a period not to exceed 
+     one year from the date of enactment of this Act.
+       Sec. 759. Section 8c(1) of the Agricultural Marketing 
+     Agreement Act of 1937 is amended by adding the following 
+     provision at the end of the penultimate sentence:
+
+     ``The Secretary is authorized to implement a producer 
+     allotment program and a handler withholding program under the 
+     cranberry marketing order in the same crop year through 
+     informal rulemaking based on a recommendation and supporting 
+     economic analysis submitted by the Cranberry Marketing 
+     Committee. Such recommendation and analysis shall be 
+     submitted by the Committee no later than March 1 of each 
+     year.''.
+       Sec. 760. Section 11(f) of the Richard B. Russell National 
+     School Lunch Act (42 U.S.C. 1759a(f)) is amended by--
+       (1) in paragraph (1)(E), by striking ``2001'' and inserting 
+     ``2003''; and
+       (2) in paragraph (2)--
+       (A) by striking subparagraph (A) and inserting the 
+     following:
+       ``(A) In general.--The Secretary shall submit to the 
+     Committee on Education and the Workforce of the House of 
+     Representatives and the Committee on Agriculture, Nutrition, 
+     and Forestry of the Senate--
+       ``(i) not later than January 1, 2003, an interim report on 
+     the activities of the State agencies receiving grants under 
+     this subsection; and
+       ``(ii) not later than January 1, 2004, a final report on 
+     the activities of the State agencies receiving grants under 
+     this subsection.''; and
+       (B) in subparagraph (B), by striking ``report'' and 
+     inserting ``reports''.
+       Sec. 761. From the amount appropriated to the Animal and 
+     Plant Health Inspection Service, $300,000 shall be provided 
+     for activities regarding West Nile Virus, in cooperation with 
+     the University of Illinois.
+       Sec. 762. Notwithstanding any other provision of law, the 
+     City of Mt. Vernon, Washington, shall be eligible for grants 
+     and loans administered by the Rural Housing Service of the 
+     United States Department of Agriculture for a period not to 
+     exceed one year from the date of enactment of this Act.
+       This Act may be cited as the ``Agriculture, Rural 
+     Development, Food and Drug Administration, and Related 
+     Agencies Appropriations Act, 2002''.
+
+                          ____________________
+```
