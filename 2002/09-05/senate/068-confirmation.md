@@ -1,0 +1,24 @@
+---
+granule: CRECB-2002-pt12-Pg16249-3
+date: 2002-09-05
+edition: CRECB
+section: SENATE
+page: 16249
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate September 5, 2002:
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       PAMELA F. OLSON, OF VIRGINIA, TO BE AN ASSISTANT SECRETARY 
+     OF THE TREASURY.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+```
