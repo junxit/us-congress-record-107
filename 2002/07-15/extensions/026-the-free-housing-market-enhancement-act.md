@@ -1,0 +1,87 @@
+---
+granule: CRECB-2002-pt9-Pg13003
+date: 2002-07-15
+edition: CRECB
+section: EXTENSIONS
+page: 13003
+---
+
+# THE FREE HOUSING MARKET ENHANCEMENT ACT
+
+```
+                THE FREE HOUSING MARKET ENHANCEMENT ACT
+
+                                 ______
+                                 
+
+                             HON. RON PAUL
+
+                                of texas
+
+                    in the house of representatives
+
+                         Monday, July 15, 2002
+
+  Mr. PAUL. Mr. Speaker, I rise to introduce the Free Housing Market 
+Enhancement Act. This legislation restores a free market in housing by 
+repealing special privileges for the housing-related government 
+sponsored enterprises (GSE). These entities are the Federal National 
+Mortgage Association (Fannie Mae), the Federal Home Loan Mortgage 
+Corporation (Freddie Mac), and the National Home Loan Bank Board. 
+According to the Congressional Budget Office, the housing-related GSEs 
+received 13.6 billion worth of indirect federal subsidies in Fiscal 
+Year 2000 alone.
+  One of the major government privileges granted the GSEs is a line of 
+credit to the United States Treasury. According to some estimates, the 
+line of credit may be worth over $2 billion dollars. This explicit 
+promise by the Treasury to bail out the GSEs in times of economic 
+difficulty helps the GSEs attract investors who are willing to settle 
+for lower yields than they would demand in the absence of the subsidy. 
+Thus, the line of credit distorts the allocation of capital. More 
+importantly, the line of credit is a promise on behalf of the 
+government to engage in a massive unconstitutional and immoral income 
+transfer from working Americans to holders of GSE debt.
+  The Free Housing Market Enhancement Act also repeals the explicit 
+grant of legal authority given to the Federal Reserve to purchase the 
+debt of the GSE. GSEs are the only institutions besides the United 
+States Treasury granted explicit statutory authority to monetarize 
+their debt through the Federal Reserve. This provision gives the GSEs a 
+source of liquidity unavailable to their competitors.
+  Ironically, by transferring the risk of a widespread mortgage 
+default, the government increases the likelihood of a painful crash in 
+the housing market. This is because the special privileges of Fannie 
+and Freddie have distorted the housing market by allowing Fannie, 
+Freddie and the home loan bank board to attract capital they could not 
+attract under pure market conditions. As a result, capitol is diverted 
+from its most productive use into housing. This reduces the efficacy of 
+the entire market and thus reduces the standard of living of all 
+Americans.
+  However, despite the long-term damage to the economy inflicted by the 
+government's interference in the housing market, the government's 
+policies of diverting capital to other uses creates a short-term boom 
+in housing. Like all artificially-created bubbles, the boom in housing 
+prices cannot last forever. When housing prices fall, homeowners will 
+experience difficulty as their equity is wiped out. Furthermore, the 
+holders of the mortgage debt will also have a loss. These losses will 
+be greater than they would have otherwise been had government policy 
+not actively encouraged over-investment in housing.
+  Perhaps the Federal Reserve can stave off the day of reckoning by 
+purchasing the GSE's debt and pumping liquidity into the housing 
+market, but this cannot hold off the inevitable drop in the housing 
+market forever. In fact, postponing the necessary, but painful market 
+corrections will only deepen the inevitable fall. The more people 
+invested in the market, the greater the effects across the economy when 
+the bubble bursts.
+  No less an authority than Federal Reserve Chairman Alan Greenspan has 
+expressed concern that the government subsidies provided to the GSEs 
+make investors underestimate the risk of investing in Fannie Mae and 
+Freddie Mac.
+  Mr. Speaker, it is time for Congress to act to remove taxpayer 
+support from the housing GSEs before the bubble bursts and taxpayers 
+are once again forced to bail out investors who where misled by foolish 
+government interference in the market. I therefore hope my colleagues 
+will stand up for American taxpayers and investors by cosponsoring the 
+Free Housing Market Enhancement Act.
+
+                          ____________________
+```
