@@ -1,0 +1,35 @@
+---
+granule: CRECB-2001-pt10-Pg14131-5
+date: 2001-07-23
+edition: CRECB
+section: SENATE
+page: 14131
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate July 23, 2001:
+
+
+                          DEPARTMENT OF STATE
+
+       CHRISTOPHER WILLIAM DELL, OF NEW JERSEY, A CAREER MEMBER OF 
+     THE SENIOR FOREIGN SERVICE, CLASS OF COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE REPUBLIC OF ANGOLA.
+       PATRICIA DE STACY HARRISON, OF VIRGINIA, TO BE AN ASSISTANT 
+     SECRETARY OF STATE (EDUCATIONAL AND CULTURAL AFFAIRS), VICE 
+     WILLIAM B. BADER.
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+July 23, 2001
+```
