@@ -1,0 +1,73 @@
+---
+granule: CREC-2001-07-19-pt1-PgS7945-3
+date: 2001-07-19
+edition: CREC
+section: SENATE
+page: S7945
+citation: 147 Cong. Rec. S7945
+---
+
+# IN RECOGNITION OF THE HMONG SPECIAL GUERRILLA UNITS
+
+**Speaking:** Levin, Carl (L000261) [D-MI], Stabenow, Debbie (S000770) [D-MI]
+
+```
+          IN RECOGNITION OF THE HMONG SPECIAL GUERRILLA UNITS
+
+  Mr. LEVIN. Mr. President, this weekend members of the Lao-Hmong 
+American Coalition, Michigan Chapter, their friends and supporters will 
+gather in my home State of Michigan to pay
+
+[[Page S7946]]
+
+tribute to thousands of courageous Hmongs who selflessly fought 
+alongside of and in support of the United States military during the 
+Vietman War. The efforts of the Hmong Special Guerrilla Units were 
+unknown to the American public during the conflict in Vietnam, and the 
+6th Annual Commemoration of the U.S. Lao-Hmong Special Guerrilla Units 
+Veterans Recognition Day is part of the important effort to acknowledge 
+the role played by the Hmong people in this war.
+  Ms. STABENOW. My colleague from Michigan is correct in stating that 
+Hmong Special Guerrilla Units played an important role in assisting US 
+efforts in the Vietnam conflict, often times at great sacrifice to 
+themselves. From 1961 to 1975 it is estimated that about 25,000 young 
+Hmong men and boys were fighting the Communist Lao and North 
+Vietnamese. The Hmong Special Guerrilla Units were known as the United 
+States' Secret Army, and their valiant efforts ensured the safety and 
+survival of countless U.S. soldiers.
+  Mr. LEVIN. The Senator is correct. Hmong Special Guerrilla Units 
+actively supported the United States, and risked great loss of life to 
+save downed United States pilots and protect our troops. While the 
+Special Guerrilla Units may have operated in secret, their efforts, 
+courage and sacrifices have been kept secret for far too long. The word 
+Hmong means ``free people,'' and celebrations such as this 
+commemoration will raise awareness of the loyalty, bravery and 
+independence exhibited by the Hmong people.
+  Ms. STABENOW. It is important that the sacrifices made by the Hmong 
+people are honored by all Americans. These rugged people, from the 
+hills of Laos, paid a great cost because of their love of freedom and 
+their support of the United States. It is estimated that over 40,000 
+Hmong died during the Vietnam War. Thousands more were forced to flee 
+to refugee camps, and approximately 60,000 Hmongs immigrated to United 
+States.
+  Mr. LEVIN. As the Senator from Michigan knows, thousands of Hmongs 
+immigrated to the United States after the Vietnam War. The transition 
+to life in the United States has not always been easy, but the Hmong 
+community has grown and is prospering. There are nearly 200,000 Hmong 
+in the United States, and many of them live in our home State of 
+Michigan. It is important that those who fought in the Special 
+Guerrilla Units are honored for their actions. These units, like all 
+those who served the cause of freedom, must know that we appreciate the 
+great sacrifices made by the Special Guerrilla Units.
+  Ms. STABENOW. I would concur with my good friend that events such as 
+the 6th Annual Commemoration of U.S. Lao-Hmong Special Guerrilla Units 
+Veterans Recognition Day play an important role in honoring these 
+courageous veterans. This celebration will also educate future 
+generations of Americans about the sacrifices made by this independent 
+and freedom loving people. I know that my Senate colleagues will join 
+me, and my colleague from the State of Michigan, in commending the 
+Hmong Special Guerrilla Units for their bravery, sacrifice, and 
+commitment to freedom.
+
+                          ____________________
+```
