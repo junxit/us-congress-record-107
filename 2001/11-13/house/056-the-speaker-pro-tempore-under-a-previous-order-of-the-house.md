@@ -1,0 +1,19 @@
+---
+granule: CREC-2001-11-13-pt1-PgH8120-3
+date: 2001-11-13
+edition: CREC
+section: HOUSE
+page: H8120
+citation: 147 Cong. Rec. H8120
+---
+
+# The SPEAKER pro tempore. Under a previous order of the House, the gentleman from Georgia (Mr. Deal) is recognized for 5 minutes.
+
+```
+  The SPEAKER pro tempore. Under a previous order of the House, the 
+gentleman from Georgia (Mr. Deal) is recognized for 5 minutes.
+  (Mr. DEAL of Georgia addressed the House. His remarks will appear 
+hereafter in the Extensions of Remarks.)
+
+                          ____________________
+```
