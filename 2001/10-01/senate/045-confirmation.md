@@ -1,0 +1,30 @@
+---
+granule: CRECB-2001-pt13-Pg18214-8
+date: 2001-10-01
+edition: CRECB
+section: SENATE
+page: 18214
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate October 1, 2001:
+       MARIANNE LAMONT HORINKO, OF VIRGINIA, TO BE ASSISTANT 
+     ADMINISTRATOR, OFFICE OF SOLID WASTE, ENVIRONMENTAL 
+     PROTECTION AGENCY.
+       THE ABOVE NOMINATION WAS APPROVED SUBJECT TO THE NOMINEE'S 
+     COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND TESTIFY 
+     BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+
+October 1, 2001
+```
