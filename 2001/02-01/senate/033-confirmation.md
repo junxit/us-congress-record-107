@@ -1,0 +1,20 @@
+---
+granule: CRECB-2001-pt1-Pg1306-5
+date: 2001-02-01
+edition: CRECB
+section: SENATE
+page: 1306
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  EXECUTIVE NOMINATION CONFIRMED BY THE SENATE FEBRUARY 1, 2001:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       JOHN ASHCROFT, OF MISSOURI, TO BE ATTORNEY GENERAL.
+```
