@@ -1,0 +1,46 @@
+---
+granule: CRECB-2001-pt6-Pg8496-6
+date: 2001-05-17
+edition: CRECB
+section: SENATE
+page: 8496
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive Nominations Confirmed by the Senate May 17, 2001:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       VICTORIA CLARKE, OF MARYLAND, TO BE AN ASSISTANT SECRETARY 
+     OF DEFENSE.
+       WILLIAM J. HAYNES II, OF TENNESSEE, TO BE GENERAL COUNSEL 
+     OF THE DEPARTMENT OF DEFENSE.
+
+
+                EXPORT-IMPORT BANK OF THE UNITED STATES
+
+       JOHN E. ROBSON, OF CALIFORNIA, TO BE PRESIDENT OF THE 
+     EXPORT-IMPORT BANK OF THE UNITED STATES FOR A TERM EXPIRING 
+     JANUARY 20, 2005.
+       THE ABOVE NOMINATIONS WERE APPROVED SUBJECT TO THE 
+     NOMINEES' COMMITMENT TO RESPOND TO REQUESTS TO APPEAR AND 
+     TESTIFY BEFORE ANY DULY CONSTITUTED COMMITTEE OF THE SENATE.
+     
+
+                          ____________________
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+
+May 17, 2001
+```
