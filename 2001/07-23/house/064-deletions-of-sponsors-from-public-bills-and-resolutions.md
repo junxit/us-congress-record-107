@@ -1,0 +1,23 @@
+---
+granule: CREC-2001-07-23-pt1-PgH4429
+date: 2001-07-23
+edition: CREC
+section: HOUSE
+page: H4429
+citation: 147 Cong. Rec. H4429
+---
+
+# DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 1109
+
+```
+        DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 7 of rule XII, sponsors were deleted from public bills 
+and resolutions as follows:
+
+       H.R. 1109: Mr. Tiberi.
+
+                          ____________________
+```
