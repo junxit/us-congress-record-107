@@ -1,0 +1,59 @@
+---
+granule: CREC-2002-11-19-pt1-PgS11569-4
+date: 2002-11-19
+edition: CREC
+section: SENATE
+page: S11569
+citation: 148 Cong. Rec. S11569
+---
+
+# REPORT DOCUMENTING THE STATE OF SMALL BUSINESS AT THE END OF THE TWENTIETH CENTURY--PM 121
+
+```
+   REPORT DOCUMENTING THE STATE OF SMALL BUSINESS AT THE END OF THE 
+                       TWENTIETH CENTURY--PM 121
+
+  The Presiding Officer laid before the Senate the following message 
+from the President of the United States, together with an accompanying 
+report; which was referred to the Committee on Small Business and 
+Entrepreneurship:
+
+To the Congress of the United States:
+  This report documents the state of small business at the end of the 
+20th century. Small businesses have always been the backbone of our 
+economy. The perennially account for most innovation and job creation. 
+Small businesses have sustained the economy when it is robust and 
+growing as well as in weaker times when small businesses have put the 
+economy back on the track to long-term growth.
+  We must work together to give small businesses an environment in 
+which they can thrive. Small businesses are disproportionately affected 
+by Government regulations and paperwork, and I am committed to reducing 
+this burden. We should regulate only where there is a real need, fully 
+justified through rigorous cost-benefit analysis and clear legal 
+authority. And when Government must regulate, it must adopt commonsense 
+approaches. Regulations work best when agencies anticipate and analyze 
+the effects of their proposals on small firms. Rules need to reflect 
+the ability of small businesses to comply.
+  Another barrier to unleashing the full potential of small business is 
+our tax code. I am committed to reducing taxes for all Americans--
+especially small businesses. We must eliminate permanently the estate 
+tax, which so often has spelled the death of the business and the jobs 
+of its employees after the death of its founder. Our tax code should 
+encourage investment in small businesses, and particularly in new and 
+growing businesses. Because the innovations that drive tomorrow's 
+economy come from entrepreneurial small businesses today, we must help 
+them enter the marketplace, not impede them before they get there. 
+Above all, small businesses need a tax code that is understandable and 
+stable. Fairness, simplicity, transparency, and accountability should 
+be our goals, and I am committed to this end.
+  Small business embodies so much of what America is all about. Self-
+reliance, hard work, innovation, the courage to take risks for future 
+growth: theses are values that have served our Nation well since its 
+very beginning. They are values to be passed on from generation to 
+generation. We must ensure that our small businesses continue to thrive 
+and prosper, not just for their own sakes, but for all of us.
+                                                       George W. Bush. 
+The White House, November 19, 2002.
+
+                          ____________________
+```
