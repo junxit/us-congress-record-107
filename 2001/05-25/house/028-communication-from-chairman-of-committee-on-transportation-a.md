@@ -1,0 +1,37 @@
+---
+granule: CREC-2001-05-25-pt1-PgH2723
+date: 2001-05-25
+edition: CREC
+section: HOUSE
+page: H2723
+citation: 147 Cong. Rec. H2723
+---
+
+# COMMUNICATION FROM CHAIRMAN OF COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE
+
+```
+    COMMUNICATION FROM CHAIRMAN OF COMMITTEE ON TRANSPORTATION AND 
+                             INFRASTRUCTURE
+
+  The SPEAKER pro tempore laid before the House the following 
+communication from the chairman of the Committee on Transportation and 
+Infrastructure; which was read and, without objection, referred to the 
+Committee on Appropriations:
+
+         U.S. House of Representatives, Committee on 
+           Transportation and Infrastructure,
+                                     Washington, DC, May 23, 2001.
+     Hon. J. Dennis Hastert,
+     Speaker, House of Representatives, Capitol, Washington, DC.
+       Dear Mr. Speaker: Enclosed please find copies of 
+     resolutions approved by the Committee on Transportation and 
+     Infrastructure on May 16, 2001, in accordance with 40 U.S.C. 
+     Sec. 606 and 40 U.S.C. Sec. 610.
+           Sincerely,
+                                                        Don Young,
+                                                         Chairman.
+
+  There was no objection.
+
+                          ____________________
+```
