@@ -1,0 +1,70 @@
+---
+granule: CRECB-2001-pt19-Pg26280-5
+date: 2001-12-14
+edition: CRECB
+section: SENATE
+page: 26280
+---
+
+# EXECUTIVE REPORT OF COMMITTEE
+
+```
+                     EXECUTIVE REPORT OF COMMITTEE
+
+  The following executive report of committee was submitted:
+
+       By Mr. BIDEN, from the Committee on Foreign Relations:
+       Treaty Doc. 106-22--Treaty with Russia on Mutual Legal 
+     Assistance in Criminal Matters (Exec. Rept. No. 107-3)
+
+   Text of the Committee-Recommended Resolution of Advice and Consent
+
+     SECTION 1. ADVICE AND CONSENT TO RATIFICATION OF THE TREATY 
+                   WITH THE RUSSIAN FEDERATION ON MUTUAL LEGAL 
+                   ASSISTANCE IN CRIMINAL MATTERS, SUBJECT TO 
+                   CONDITIONS.
+
+       The Senate advises and consents to the ratification of the 
+     Treaty Between the United States of America and the Russian 
+     Federation on Mutual Legal Assistance in Criminal Matters, 
+     signed at Washington on June 17, 1999 (Treaty Doc. 106 22; in 
+     this resolution referred to as the ``Treaty''), subject to 
+     the conditions in section 2.
+
+     SEC. 2. CONDITIONS.
+
+       The advice and consent of the Senate under section 1 is 
+     subject to the following conditions:
+       (1) Treaty interpretation.--The Senate reaffirms condition 
+     (8) of the resolution of ratification of the Document Agreed 
+     Among the States Parties to the Treaty on Conventional Armed 
+     Forces in Europe (CFE) of November 19, 1990 (adopted at 
+     Vienna on May 31 1996), approved by the Senate on May 14, 
+     1997 (relating to condition (1) of the resolution of 
+     ratification of the INF Treaty, approved by the Senate on May 
+     27, 1988).
+       (2) Limitation on assistance.--Pursuant to the right of the 
+     United States under the
+
+[[Page 26281]]
+
+     Treaty to deny legal assistance under the Treaty that would 
+     prejudice the essential public policy or interests of the 
+     United States, the United States shall deny any request for 
+     such assistance if the Central Authority of the United States 
+     (as designated in Article 3(2) of the Treaty), after 
+     consultation with all appropriate intelligence, anti-
+     narcotic, and foreign policy agencies, has specific 
+     information that a senior Government official of the 
+     requesting party who will have access to information to be 
+     provided as part of such assistance is engaged in a felony, 
+     including the facilitation of the production or distribution 
+     of illegal drugs.
+       (3) Supremacy of the Constitution.--Nothing in the Treaty 
+     requires or authorizes the enactment of legislation or the 
+     taking of any other action by the United States that is 
+     prohibited by the Constitution of the United States as 
+     interpreted by the United States.
+
+                          ____________________
+```
