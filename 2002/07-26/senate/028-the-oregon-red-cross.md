@@ -1,0 +1,48 @@
+---
+granule: CRECB-2002-pt11-Pg14921
+date: 2002-07-26
+edition: CRECB
+section: SENATE
+page: 14921
+---
+
+# THE OREGON RED CROSS
+
+```
+                          THE OREGON RED CROSS
+
+● Mr. SMITH of Oregon. Mr. President, as I am sure many of my 
+colleagues are aware, as I speak here today on the floor, fire 
+continues to rage across the state of Oregon. At last count, there were 
+no fewer than fifteen fires burning throughout the state, leaving 
+behind hundreds of thousands of charred acres and a sobering path of 
+destruction. As such, I stand here to salute and pay tribute to the 
+benevolent Oregonians of the Red Cross who, throughout this tragedy, 
+have responded with remarkable compassion and service to their 
+communities.
+  When fire first broke out near my own home in Pendleton, OR, the 
+Umatilla Chapter of the Red Cross was there and opened an emergency 
+shelter for residents of fire threatened homes. More than twenty paid 
+and volunteer staff enlisted for what fortunately became a substantial 
+``cold start'' exercise.
+  In Lake County, Oregon, where the Winter, Toolbox Complex, and 
+Grizzly Complex fires have combined to form a 115,000 acre inferno, the 
+Red Cross has been on the ground, organizing local residents and 
+setting up a shelter to disseminate information and to provide aid to 
+affected families. That shelter remains on standby status today, 
+pending containment of the fire, which is not expected for another 
+week.
+  There are similar examples throughout the state and throughout the 
+country of local Red Cross chapters responding to help friends and 
+neighbors in need. For as tragic as this fire season has been to date, 
+the staff and volunteers of the Red Cross have responded with an equal 
+level of kindness and selflessness.
+  This has been a very emotionally charged past few months. As a U.S. 
+Senator and as an Oregonian, I am deeply proud of how the people in my 
+state have responded to life-threatening crises. The generosity shown 
+by so many truly reaffirms one's faith in the goodness of people. 
+Today, I salute the workers and the volunteers who gave and continue to 
+give of themselves to help our communities in need.●
+
+                          ____________________
+```
