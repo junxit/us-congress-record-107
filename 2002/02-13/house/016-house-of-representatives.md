@@ -1,0 +1,21996 @@
+---
+granule: CREC-2002-02-13-pt2-PgH369
+date: 2002-02-13
+edition: CREC
+section: HOUSE
+page: H369
+citation: 148 Cong. Rec. H369
+---
+
+# House of Representatives
+
+**Speaking:** Armey, Richard K. (A000217) [R-TX], Hoyer, Steny H. (H000874) [D-MD], Linder, John (L000321) [R-GA], Doolittle, John T. (D000429) [R-CA], Moran, James P. (M000933) [D-VA], Davis, Jim (D000114) [D-FL], Matheson, Jim (M001142) [D-UT], Kingston, Jack (K000220) [R-GA], Baird, Brian (B001229) [D-WA], Meehan, Martin T. (M000627) [D-MA], Levin, Sander M. (L000263) [D-MI], Blumenauer, Earl (B000574) [D-OR], Ford, Harold E., Jr. (F000262) [D-TN], Langevin, James R. (L000559) [D-RI], Allen, Thomas H. (A000357) [D-ME], Keller, Ric (K000361) [R-FL], Shays, Christopher (S001144) [R-CT], Maloney, Carolyn B. (M000087) [D-NY], Weller, Jerry (W000273) [R-IL], Capps, Lois (C001036) [D-CA], Edwards, Chet (E000063) [D-TX], Tauscher, Ellen O. (T000057) [D-CA], Hayworth, J. D. (H000413) [R-AZ], Graham, Lindsey (G000359) [R-SC], Crowley, Joseph (C001038) [D-NY], Hart, Melissa A. (H001033) [R-PA], Norton, Eleanor Holmes (N000147) [D-DC], Green, Mark (G000545) [R-WI], Peterson, John E. (P000263) [R-PA], Waters, Maxine (W000187) [D-CA], Owens, Major R. (O000159) [D-NY], Ney, Robert W. (N000081) [R-OH], Cardin, Benjamin L. (C000141) [D-MD], Sanders, Bernard (S000033) [I-VT], Kind, Ron (K000188) [D-WI], Hoeffel, Joseph M. (H001031) [D-PA], Baldwin, Tammy (B001230) [D-WI], Oxley, Michael G. (O000163) [R-OH], Inslee, Jay (I000026) [D-WA], Davis, Tom (D000136) [R-VA], Pascrell, Bill (P000096) [D-NJ], Greenwood, James C. (G000439) [R-PA], Kucinich, Dennis J. (K000336) [D-OH], McCarthy, Karen (M000316) [D-MO], Rivers, Lynn N. (R000281) [D-MI], Hooley, Darlene (H000762) [D-OR], Israel, Steve (I000057) [D-NY], Johnson, Nancy L. (J000163) [R-CT], Rush, Bobby L. (R000515) [D-IL], Dingell, John D. (D000355) [D-MI], DeLauro, Rosa L. (D000216) [D-CT], DeLay, Tom (D000217) [R-TX], Whitfield, Ed (W000413) [R-KY], Woolsey, Lynn C. (W000738) [D-CA], Wicker, Roger F. (W000437) [R-MS], Frank, Barney (F000339) [D-MA], Menendez, Robert (M000639) [D-NJ], Boehlert, Sherwood (B000586) [R-NY], Wamp, Zach (W000119) [R-TN], Blunt, Roy (B000575) [R-MO], Barrett, Thomas M. (B000177) [D-WI], Neal, Richard E. (N000015) [D-MA], Castle, Michael N. (C000243) [R-DE], Millender-McDonald, Juanita (M000714) [D-CA], Kildee, Dale E. (K000172) [D-MI], Faleomavaega, Eni F. H. (F000010) [D-AS], Ramstad, Jim (R000033) [R-MN], Kleczka, Gerald D. (K000259) [D-WI], Largent, Steve (L000096) [R-OK], Hyde, Henry J. (H001022) [R-IL], Pence, Mike (P000587) [R-IN], Clement, Bob (C000503) [D-TN], Issa, Darrell (I000056) [R-CA], Bereuter, Doug (B000403) [R-NE], Aderholt, Robert B. (A000055) [R-AL], Green, Gene (G000410) [D-TX], Slaughter, Louise McIntosh (S000480) [D-NY], Nadler, Jerrold (N000002) [D-NY], Burr, Richard (B001135) [R-NC], Tauzin, W. J. (Billy) (T000058) [R-LA], Boehner, John A. (B000589) [R-OH], Strickland, Ted (S001004) [D-OH], Osborne, Tom (O000165) [R-NE], Towns, Edolphus (T000326) [D-NY], Stearns, Cliff (S000822) [R-FL], Abercrombie, Neil (A000014) [D-HI], Pickering, Charles W. "Chip" (P000323) [R-MS], Stenholm, Charles W. (S000851) [D-TX], Schiff, Adam B. (S001150) [D-CA], Shadegg, John B. (S000275) [R-AZ], Shows, Ronnie (S001147) [D-MS], Andrews, Robert E. (A000210) [D-NJ], Shimkus, John (S000364) [R-IL], Snyder, Vic (S000672) [D-AR], Barr, Bob (B000169) [R-GA], Fletcher, Ernie (F000441) [R-KY], Kennedy, Patrick J. (K000113) [D-RI], Watts, J. C., Jr. (W000210) [R-OK], Price, David E. (P000523) [D-NC], Lewis, John (L000287) [D-GA], Meeks, Gregory W. (M001137) [D-NY], Cantor, Eric (C001046) [R-VA], Capito, Shelley Moore (C001047) [R-WV], Fattah, Chaka (F000043) [D-PA], Udall, Tom (U000039) [D-NM], Johnson, Sam (J000174) [R-TX], Bilirakis, Michael (B000463) [R-FL], Hayes, Robin (H001029) [R-NC], Rodriguez, Ciro D. (R000568) [D-TX], Brown, Corrine (B000911) [D-FL], Combest, Larry (C000653) [R-TX], Stupak, Bart (S001045) [D-MI], Flake, Jeff (F000444) [R-AZ], Engel, Eliot L. (E000179) [D-NY], Farr, Sam (F000030) [D-CA], Hulshof, Kenny C. (H000948) [R-MO], Doggett, Lloyd (D000399) [D-TX], Horn, Stephen (H000789) [R-CA], Lee, Barbara (L000551) [D-CA], Tierney, John F. (T000266) [D-MA], Barton, Joe (B000213) [R-TX], Baldacci, John Elias (B000081) [D-ME], Emerson, Jo Ann (E000172) [R-MO], Ose, Doug (O000164) [R-CA], Mink, Patsy T. (M000797) [D-HI], Reyes, Silvestre (R000170) [D-TX], Gonzalez, Charles A. (G000544) [D-TX], Morella, Constance A. (M000941) [R-MD], Becerra, Xavier (B000287) [D-CA], Solis, Hilda L. (S001153) [D-CA], Pallone, Frank (P000034) [D-NJ], Pelosi, Nancy (P000197) [D-CA], Wu, David (W000793) [D-OR], Reynolds, Thomas M. (R000569) [R-NY], Toomey, Patrick (T000461) [R-PA], Sherman, Brad (S000344) [D-CA], Holt, Rush (H001032) [D-NJ], Weldon, Curt (W000268) [R-PA], Bentsen, Ken (B000400) [D-TX], Wynn, Albert Russell (W000784) [D-MD], Houghton, Amo (H000814) [R-NY]
+
+**Measures:** H.R. 156, H.Res. 334, H.Res. 344, H.R. 380, H.R. 417, H.R. 2356
+
+```
+[[Page H369]]
+
+House of Representatives
+
+                 BIPARTISAN CAMPAIGN REFORM ACT OF 2001
+
+                              (Continued)
+
+  The CHAIRMAN. No amendment to the bill, or to the bill as perfected 
+by an amendment in the nature of a substitute finally adopted, shall be 
+in order except those printed in the portion of the Congressional 
+Record designated for that purpose or otherwise specified in House 
+Resolution 344.
+  Before consideration of any other amendment, it shall be in order to 
+consider each amendment in the nature of a substitute specified in 
+section 2 of the resolution. Each such amendment may be offered only in 
+the order specified, may be offered only by the Member designated or a 
+designee, shall be considered read, shall be debatable for 40 minutes, 
+equally divided and controlled by the proponent and an opponent, and 
+shall not be subject to amendment except as specified in section 3 of 
+the resolution.
+  If more than one amendment in the nature of a substitute specified in 
+section 2 is adopted, only the one receiving the greater number of 
+affirmative votes shall be considered as finally adopted. In the case 
+of a tie for the greater number of affirmative votes, only the last 
+amendment to receive that number of affirmative votes shall be 
+considered as finally adopted.
+  After disposition of the amendments in the nature of a substitute 
+specified in section 2, the provisions of the bill, or the provisions 
+of the bill as perfected by an amendment in the nature of a substitute 
+finally adopted, shall be considered as an original bill for the 
+purpose of further amendment under the 5-minute rule and shall be 
+considered read.
+  No further amendment shall be in order except those specified in 
+section 3 of the resolution. Each such amendment may be offered only by 
+the Member designated or a designee. Each such amendment shall be 
+considered read, shall be debatable for 20 minutes, equally divided and 
+controlled by the proponent and an opponent, shall not be subject to 
+amendment, and shall not be subject to a demand for division of the 
+question.
+  Pursuant to the order of the House of Tuesday, February 12, 2002, the 
+Chair shall alternate recognition to offer the amendments specified in 
+section 3 between the majority leader or a designee or the majority 
+leader, and Representative Shays or Representative Meehan or a designee 
+of either Member, only as follows:
+  The majority leader for one amendment;
+  Representative Shays or Representative Meehan for one amendment;
+  The majority leader for 2 amendments in sequence;
+  Representative Shays or Representative Meehan for one amendment;
+  The majority leader for two amendments in sequence;
+  Representative Shays or Representative Meehan for one amendment;
+  The majority leader for two amendments in sequence;
+  Representative Shays or Representative Meehan for one amendment;
+  The majority leader for two amendments in sequence;
+  Representative Shays or Representative Meehan for one amendment; and
+  The majority leader for one amendment.
+  It is now in order to consider the amendment in the nature of a 
+substitute numbered 13 specified in section 2 of House Resolution 344 
+by the gentleman from Texas (Mr. Armey).
+
+
+  Amendment in the Nature of a Substitute No. 13 Offered by Mr. Armey
+
+  Mr. ARMEY. Mr. Chairman, I offer an amendment in the nature of a 
+substitute.
+  The CHAIRMAN. The Clerk will designate the amendment.
+  The text of the amendment in the nature of a substitute is as 
+follows:
+
+       Amendment in the nature of a substitute No. 13 offered by 
+     Mr. Armey:
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Ban it All, Ban it Now 
+     Act''.
+
+        TITLE I--SOFT MONEY ACTIVITIES OF PARTIES AND CANDIDATES
+
+     SEC. 101. SOFT MONEY OF POLITICAL PARTIES.
+
+       (a) In General.--Title III of the Federal Election Campaign 
+     Act of 1971 (2 U.S.C. 431 et seq.) is amended by adding at 
+     the end the following:
+
+     ``SEC. 323. SOFT MONEY OF POLITICAL PARTIES.
+
+       ``(a) National Committees.--
+       ``(1) In general.--A national committee of a political 
+     party (including a national congressional or Senatorial 
+     campaign committee of a political party) may not solicit, 
+     receive, or direct to another person a contribution, 
+     donation, or transfer of funds or any other thing of value, 
+     or spend any funds, that are not subject to the limitations, 
+     prohibitions, and reporting requirements of this Act.
+       ``(2) Applicability.-- The prohibition established by 
+     paragraph (1) applies--
+       ``(A) to any such national committee, any officer or agent 
+     acting on behalf of such a national committee, and any entity 
+     that is directly or indirectly established, financed, 
+     maintained, or controlled by such a national committee; and
+       ``(B) to all activities of such committee and the persons 
+     described in subparagraph (A), including the construction or 
+     purchase of an office building or facility, the influencing 
+     of the reapportionment decisions of a State, and the 
+     financing of litigation relating to the reapportionment 
+     decisions of a State.
+       ``(b) State, District, and Local Committees.--Any amount 
+     that is expended or disbursed for Federal election activity 
+     by a State, district, or local committee of a political party 
+     (including an entity that is directly or indirectly 
+     established, financed, maintained, or controlled by a State, 
+     district, or local committee of a political party and an 
+     officer or agent acting on behalf of such committee or 
+     entity), or by an association or similar group of candidates 
+     for State or local office or individuals holding State or 
+     local office, shall be made from funds subject to the 
+     limitations, prohibitions, and reporting requirements of this 
+     Act.
+
+[[Page H370]]
+
+       ``(c) Fundraising Costs.--An amount spent by a person 
+     described in subsection (a) or (b) to raise funds that are 
+     used, in whole or in part, for expenditures and disbursements 
+     for a Federal election activity shall be made from funds 
+     subject to the limitations, prohibitions, and reporting 
+     requirements of this Act.
+       ``(d) Tax-Exempt Organizations.--A national, State, 
+     district, or local committee of a political party (including 
+     a national congressional or Senatorial campaign committee of 
+     a political party), an entity that is directly or indirectly 
+     established, financed, maintained, or controlled by any such 
+     national, State, district, or local committee or its agent, 
+     and an officer or agent acting on behalf of any such party 
+     committee or entity, shall not solicit any funds for, or make 
+     or direct any donations to--
+       ``(1) an organization that is described in section 501(c) 
+     of the Internal Revenue Code of 1986 and exempt from taxation 
+     under section 501(a) of such Code (or has submitted an 
+     application for determination of tax exempt status under such 
+     section) and that makes expenditures or disbursements in 
+     connection with an election for Federal office (including 
+     expenditures or disbursements for Federal election activity); 
+     or
+       ``(2) an organization described in section 527 of such Code 
+     (other than a political committee, a State, district, or 
+     local committee of a political party, or the authorized 
+     campaign committee of a candidate for State or local office).
+       ``(e) Federal Candidates.--
+       ``(1) In general.--A candidate, individual holding Federal 
+     office, agent of a candidate or an individual holding Federal 
+     office, or an entity directly or indirectly established, 
+     financed, maintained or controlled by or acting on behalf of 
+     1 or more candidates or individuals holding Federal office, 
+     shall not--
+       ``(A) solicit, receive, direct, transfer, or spend funds in 
+     connection with an election for Federal office, including 
+     funds for any Federal election activity, unless the funds are 
+     subject to the limitations, prohibitions, and reporting 
+     requirements of this Act; or
+       ``(B) solicit, receive, direct, transfer, or spend funds in 
+     connection with any election other than an election for 
+     Federal office or disburse funds in connection with such an 
+     election unless the funds--
+       ``(i) are not in excess of the amounts permitted with 
+     respect to contributions to candidates and political 
+     committees under paragraphs (1), (2), and (3) of section 
+     315(a); and
+       ``(ii) are not from sources prohibited by this Act from 
+     making contributions in connection with an election for 
+     Federal office.
+       ``(2) State law.--Paragraph (1) does not apply to the 
+     solicitation, receipt, or spending of funds by an individual 
+     described in such paragraph who is also a candidate for a 
+     State or local office solely in connection with such election 
+     for State or local office if the solicitation, receipt, or 
+     spending of funds is permitted under State law and refers 
+     only to such State or local candidate, or to any other 
+     candidate for the State or local office sought by such 
+     candidate, or both.
+       ``(3) Fundraising events.--Notwithstanding paragraph (1), a 
+     candidate or an individual holding Federal office may attend, 
+     speak, or be a featured guest at a fundraising event for a 
+     State, district, or local committee of a political party.
+       ``(4) Limitation applicable for purposes of solicitation of 
+     donations by individuals to certain organizations.--In the 
+     case of the solicitation of funds by any person described in 
+     paragraph (1) on behalf of any entity described in subsection 
+     (d) which is made specifically for funds to be used for 
+     activities described in clauses (i) and (ii) of section 
+     301(20)(A), or made for any such entity which engages 
+     primarily in activities described in such clauses, the 
+     limitation applicable for purposes of a donation of funds by 
+     an individual shall be the limitation set forth in section 
+     315(a)(1)(D).
+       ``(f) State Candidates.--
+       ``(1) In general.--A candidate for State or local office, 
+     individual holding State or local office, or an agent of such 
+     a candidate or individual may not spend any funds for a 
+     communication described in section 301(20)(A)(iii) unless the 
+     funds are subject to the limitations, prohibitions, and 
+     reporting requirements of this Act.
+       ``(2) Exception for certain communications.--Paragraph (1) 
+     shall not apply to an individual described in such paragraph 
+     if the communication involved is in connection with an 
+     election for such State or local office and refers only to 
+     such individual or to any other candidate for the State or 
+     local office held or sought by such individual, or both.''.
+
+     SEC. 102. DEFINITIONS.
+
+       Section 301 of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431) is amended by adding at the end the following:
+       ``(20) Federal election activity.--
+       ``(A) In general.--The term `Federal election activity' 
+     means--
+       ``(i) voter registration activity;
+       ``(ii) voter identification, get-out-the-vote activity, or 
+     generic campaign activity conducted in connection with an 
+     election in which a candidate for Federal office appears on 
+     the ballot (regardless of whether a candidate for State or 
+     local office also appears on the ballot); or
+       ``(iii) a public communication that refers to a clearly 
+     identified candidate for Federal office (regardless of 
+     whether a candidate for State or local office is also 
+     mentioned or identified) and that promotes or supports a 
+     candidate for that office, or attacks or opposes a candidate 
+     for that office (regardless of whether the communication 
+     expressly advocates a vote for or against a candidate).
+       ``(B) Excluded activity.--The term `Federal election 
+     activity' does not include an amount expended or disbursed by 
+     a State, district, or local committee of a political party 
+     for--
+       ``(i) a public communication that refers solely to a 
+     clearly identified candidate for State or local office, if 
+     the communication is not a Federal election activity 
+     described in subparagraph (A)(i) or (ii);
+       ``(ii) a contribution to a candidate for State or local 
+     office, provided the contribution is not designated or used 
+     to pay for a Federal election activity described in 
+     subparagraph (A); or
+       ``(iii) the costs of grassroots campaign materials, 
+     including buttons, bumper stickers, and yard signs, that name 
+     or depict only a candidate for State or local office.
+       ``(21) Generic campaign activity.--The term `generic 
+     campaign activity' means a campaign activity that promotes a 
+     political party and does not promote a candidate or non-
+     Federal candidate.
+       ``(22) Public communication.--The term `public 
+     communication' means a communication by means of any 
+     broadcast, cable, or satellite communication, newspaper, 
+     magazine, outdoor advertising facility, mass mailing, or 
+     telephone bank to the general public, or any other form of 
+     general public political advertising or political advertising 
+     directed to an audience of 500 or more people.
+       ``(23) Mass mailing.--The term `mass mailing' means a 
+     mailing by United States mail or facsimile of more than 500 
+     pieces of mail matter of an identical or substantially 
+     similar nature within any 1-year period.
+       ``(24) Telephone bank.--The term `telephone bank' means 
+     more than 500 telephone calls of an identical or 
+     substantially similar nature within any 1-year period.''.
+
+TITLE II--SOFT MONEY ACTIVITIES OF CORPORATIONS AND LABOR ORGANIZATIONS
+
+     SEC. 201. BAN ON USE OF SOFT MONEY FOR NONPARTISAN VOTER 
+                   REGISTRATION AND GET-OUT-THE-VOTE ACTIVITIES.
+
+       Section 316(b)(2) of the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 441b(b)(2)) is amended by striking ``(B) 
+     nonpartisan registration and get-out-the-vote campaigns'' and 
+     all that follows through ``and (C)'' and inserting ``and 
+     (B)''.
+
+                 TITLE III--OTHER SOFT MONEY ACTIVITIES
+
+     SEC. 301. BAN ON USE OF SOFT MONEY FOR GET-OUT-THE-VOTE 
+                   ACTIVITIES BY CERTAIN ORGANIZATIONS.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.), as amended by section 101, is further 
+     amended by adding at the end the following new section:
+
+
+  ``ban on use of nonfederal funds for get-out-the-vote activities by 
+                         certain organizations
+
+       ``Sec. 324. (a) In General.--Any amount expended or 
+     disbursed for get-out-the-vote activities by any organization 
+     described in subsection (b) shall be made from amounts 
+     subject to the limitations, prohibitions, and reporting 
+     requirements of this Act.
+       ``(b) Organizations Described.--An organization described 
+     in this subsection is--
+       ``(1) an organization that is described in section 
+     501(c)(3) or 501(c)(4) of the Internal Revenue Code of 1986 
+     and exempt from taxation under section 501(a) of such Code 
+     (or has submitted an application for determination of tax 
+     exempt status under such section); or
+       ``(2) an organization described in section 527 of such Code 
+     (other than a State, district, or local committee of a 
+     political party, a candidate for State or local office, or 
+     the authorized campaign committee of a candidate for State or 
+     local office).''.
+
+     SEC. 302. BAN ON USE OF SOFT MONEY FOR ANY PARTISAN VOTER 
+                   REGISTRATION ACTIVITIES.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.), as amended by sections 101 and 301, is 
+     further amended by adding at the end the following new 
+     section:
+
+
+   ``ban on use of nonfederal funds for partisan voter registration 
+                               activities
+
+       ``Sec. 325. No person may expend or disburse any funds for 
+     partisan voter registration activity which are not subject to 
+     the limitations, prohibitions, and reporting requirements of 
+     this Act.''.
+
+  The CHAIRMAN. Pursuant to section 2 of House Resolution 344, the 
+gentleman from Texas (Mr. Armey) and a Member opposed each will control 
+20 minutes.
+  Chair recognizes the gentleman from Texas (Mr. Armey), the majority 
+leader.
+  Mr. HOYER. Mr. Chairman, I claim the time in opposition.
+  The CHAIRMAN. The gentleman will be recognized.
+  Mr. ARMEY. Mr. Chairman, I yield myself 2 minutes.
+  Mr. Chairman, in light of today's debate, that I anticipate will 
+feature a great deal of self-flagellation and tacit indictment of one 
+another, let me state at the outset that I am not now, never have been, 
+nor ever will be corrupted by contributions to my campaign in soft or 
+hard money, and I do not believe any of my colleagues have now,
+
+[[Page H371]]
+
+ever have been, or ever will be corrupted.
+  That is a great fiction for demagoguery, but it is not the facts of 
+who we are, and we ought to have the courage to stand up and say, my 
+colleagues, that we are decent, honest, hard-working servants of this 
+country, our respective districts, and the ideas that we embrace. And 
+I, for one, am proud to make that comment about myself and my 
+colleagues.
+  We have in this debate a great deal of allegiance to Shays-Meehan. 
+There is Shays-Meehan No. 1, the original bill that attracted a lot of 
+cosponsorship, and a lot of people will come to the floor and say, I am 
+for that, and by their commitment to Shays-Meehan will be for the 
+original Shays-Meehan bill, a couple of years old now.
+  There are those who will say I am committed to what I call Shays-
+Meehan No. 2; that revision of the original Shays-Meehan that featured 
+17 amendments that were offered by a rule earlier in this Congress, in 
+17 separate amendments, which was considered unfair and resulted in the 
+rule being voted down, principally by proponents of Shays-Meehan.
+  Or there may be those who believe in Shays-Meehan No. 3; that which 
+we discovered in the wee hours of the morning as they were presented 
+last night with some seven or eight new amendments to it, which will be 
+offered later as a substitute by the gentleman from Connecticut (Mr. 
+Shays) and the gentleman from Massachusetts (Mr. Meehan).
+  What is the common thread that runs through Shays-Meehan No. 1, No. 
+2, and No. 3? A consistent pattern of the accumulation of loopholes to 
+the soft money ban. It may be that my memory does not serve me well, 
+but it is possible perhaps Shays-Meehan No. 1, the original, did have 
+an immediate, full, complete, comprehensive ban on soft money. That may 
+or may not have been the case, but it is sure not the case now.
+  We have in the accumulation of loopholes some 20 loopholes to the 
+soft money ban. The one thing for certain we can say about Shays-
+Meehan, as we will see it on this floor, is there is no full soft money 
+ban now.
+  My favorite loophole of the soft money ban, and the only one I will 
+talk about because there are so many loopholes, is the one that popped 
+up last night around midnight. That loophole, under the guise of 
+reform, allows people to do with soft money after reform what they 
+cannot do legally today, and that is borrow soft money, spend it as 
+hard money, and then after the election to pay it off as soft money. 
+That one cracks me up.
+  How in the world could anybody with a straight face say I am here 
+with a heartfelt commitment to get rid of the evils of soft money and 
+vote or even offer such an amendment to Shays-Meehan?
+  If my colleagues want to end soft money now, now, vote for the Armey 
+substitute. It does not end soft money after the election, it does not 
+end soft money after we have used it to manipulate hard money, it is 
+now. So if, in fact, my colleagues have the courage of their 
+convictions and they want to put their money where their mouth is, 
+their soft money where their soft-spoken mouth is, vote for Armey and 
+get rid of soft money now.
+  If my colleagues do not want to get rid of soft money now, then quit 
+talking about it. I mean, at least do us the courtesy of giving us the 
+benefit of the doubt with respect to the suspicion that we are not 
+total idiots. We are either for a ban on soft money now or we are not. 
+We are either for tricks and gimmicks, exceptions and loopholes or we 
+are not. If we are for a real ban now, vote for Armey.
+  Mr. Chairman, I ask unanimous consent that I be allowed to yield the 
+debate time I have remaining on my amendment to the gentleman from 
+Georgia (Mr. Linder), and I further ask unanimous consent that he be 
+permitted to control that time.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Texas?
+  There was no objection.
+  Mr. HOYER. Mr. Chairman, I ask unanimous consent that the gentleman 
+from Connecticut (Mr. Shays) and the gentleman from Massachusetts (Mr. 
+Meehan) may each control 5 minutes of the time allocated to me, and 
+that they may yield such time.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Maryland?
+  There was no objection.
+  Mr. HOYER. Mr. Chairman, I yield myself 1 minute.
+  Mr. Chairman, I have in my hand a letter from Mr. Larry Noble, 
+executive director and general counsel of the Center for Responsive 
+Politics, who was the former general counsel of the Federal Election 
+Commission, and I quote from that letter:
+
+       ``It is clear under Federal election law that only hard 
+     money can be used to pay off a loan that was used for hard 
+     money expenditures.''
+
+  Constantly, the other side has been using as a windmill that they 
+want to have us quixotically focus on, this incorrect claim that we 
+somehow allow soft money to be used to pay off hard money debt. The 
+letter goes on to say, ``I see nothing in section 402(b)(1) of the 
+Shays-Meehan Substitute,'' referred to by so many of the speakers, 
+``that would supersede current Federal law. Under section 402(b)(1), 
+soft money funds on hand after elections could only be used to pay off 
+debts or obligations used for soft money expenditures.''
+  Mr. Chairman, I provide for the Record the letter I just quoted from.
+
+                               Center for Responsive Politics,
+
+                                Washington, DC, February 13, 2002.
+     Hon. Christopher Shays,
+     Longworth Building, Washington, DC.
+       Dear Congressman Shays: This is in response to your 
+     question regarding whether a national committee of a 
+     political party can use soft money to pay off a debt or 
+     obligation that was used to fund expenditures that must be 
+     paid for with hard money. It is clear under federal election 
+     law that only hard money can be used to pay off a loan that 
+     was used for hard money expenditures. I see nothing in 
+     Section 402(b)(1) of the Shays-Meehan Substitute Amendment 
+     that would supersede current federal law. Under Section 
+     402(b)(1), soft money funds on hand after the election could 
+     only be used to pay off debts or obligations used for soft 
+     money expenditures.
+       If you have any other questions, please do not hesitate to 
+     contact me.
+           Sincerely,
+                                                      Larry Noble,
+          Executive Director and General Counsel, (Former General 
+                      Counsel of the Federal Election Commission).
+
+  Mr. HOYER. Mr. Chairman, I reserve the balance of my time.
+  Mr. LINDER. Mr. Chairman, I yield 2 minutes to the gentleman from 
+California (Mr. Doolittle), who has some time constraints, and then I 
+will make my comments.
+
+                              {time}  1215
+
+  Mr. DOOLITTLE. Mr. Chairman, I thank the gentleman for yielding me 
+this time.
+  I draw Members' attention to an article in today's Washington Post, 
+not by a Republican or a conservative, by Robert J. Samuelson, entitled 
+``It Is Not Reform, It Is Deception.'' That is all this Shays-Meehan 
+bill and the McCain-Feingold bill are about. I encourage Members to 
+read it because it is not from a Republican perspective, and yet it 
+makes all the Republican arguments. With all of the demagoguery we are 
+going to hear today, I hope Members will read this because in one 
+little summary, Members will get the essence of what this is all about.
+  Mr. Chairman, the disastrous present law that we have was given to us 
+by the same liberals who are now bringing to us an updated version in 
+the Shays-Meehan bill. This law was rammed through in 1974 by liberal 
+Democrats in the far left of the think tanks to try and take advantage 
+of Republicans through the law and making it harder for them to 
+campaign. It worked. It took us 20 additional years before we won the 
+House of Representatives as a result of that law.
+  If this disastrous bill passes today unamended, I suspect we will 
+have another 20 years in the trenches before we ever come back. Why is 
+it right to abuse the law to skew it in favor of one party and against 
+another? It is terribly wrong.
+  As Samuelson says, it is not reform, it is deception. I support the 
+amendment of the gentleman from Georgia (Mr. Linder). If we ban soft 
+money, ban it cleanly, not with 85 pages of exceptions like the Shays-
+Meehan bill does. Ban it cleanly. It does not need to be banned, but I 
+am going to vote for the amendment because I want the bill to go to 
+conference.
+  This disastrous system the Democrats gave us needs to be fixed. The
+
+[[Page H372]]
+
+only way to fix it and get a level playing field is to send it to 
+conference. I support the gentleman's amendment.
+  Mr. HOYER. Mr. Chairman, I yield 30 seconds to the gentleman from 
+Virginia (Mr. Moran.)
+  Mr. MORAN of Virginia. Mr. Chairman, first of all, I take great 
+exception to the majority leader's words that we think that he is a 
+total idiot. Not only is the gentleman very clever, but his amendment 
+is very clever. It is not the words that are the problem, it is the 
+intent. In fact, only 8 cents out of every soft-money dollar spent in 
+the 2000 campaign cycle spent by the parties went to voter education, 
+phone banks, voter registration, get-out-the-vote, traditional party-
+building activities. The problem is the intent. If this passes, it will 
+go to conference, and it will be killed in conference.
+  Mr. LINDER. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, to begin to address the question of intent, this bill, 
+or the vast majority of this bill, was actually introduced March 15, 
+2001. It was introduced by me after talking to many people about it 
+because I believe if we want to get rid of soft money, Members ought to 
+do that.
+  Every year since 1995, this body has been offered a version of Shays-
+Meehan, and in every Congress we have listened to our colleagues take 
+the floor of the House to vilify soft money and all of its evils and 
+ills; yet in all of the various incantations of the Shays-Meehan 
+language that we have seen over the years, we have never seen a version 
+that bans soft money in Federal elections. Let me say that again. In 
+all of the various incantations of the Shays-Meehan language that we 
+have seen over the years, we have never seen a version that bans soft 
+money in Federal elections.
+  Further, in nary a rendition of the Shays-Meehan bill, have the 
+authors banned all soft money immediately. That is right. Yet for the 
+rest of this day and into the night, we are going to hear that this 
+proposal bans soft money. It calls to mind the wonderful line from 
+Alice in Wonderland when one of the character says, ``When I use a 
+word, it means exactly what I want it to mean.'' That is what ``ban'' 
+is going to be today.
+  Mr. Chairman, I am the former chairman of the National Republican 
+Congressional Committee. I ran that committee on the very soft dollars 
+that we seek to ban today. So when I speak about the need to end soft 
+money in Federal politics, I know of what I speak. It is from that 
+background that I came to the floor proudly today to support the ban-
+it-all, ban-it-now reform legislation of the gentleman from Texas. I 
+support campaign finance reform.
+  In fact, even as a former NRCC chairman, I introduced my own campaign 
+finance reform legislation in this Congress, legislation that would ban 
+all soft money used by national committees, corporations, and labor 
+unions. I am pleased that much of that bill is incorporated in this 
+substitute today. But the debate here today is not about my language; 
+it is about my principles. And while I support campaign finance reform, 
+principle prevents me from supporting Shays-Meehan.
+  Mr. Chairman, all Americans deserve a voice in the political process, 
+and we need campaign finance reform to ensure that all voices are 
+heard. Yet Shays-Meehan simply silences some voices altogether while 
+amplifying others. Shays-Meehan creates a playing field, but it is not 
+a level playing field. It is a field where winners are guaranteed. 
+Clever rhetoric and good intentions have never been able to hide this 
+fatal flaw.
+  While soft money is certainly not the root of all evil in modern 
+politics, all direct contributions to national parties from 
+corporations, labor unions, or individuals should fall under the same 
+regulation as direct contributions to candidates fall under. 
+Ultimately, campaign finance reform must be about fairness. Bringing 
+corporations, labor unions, interest groups, and individuals under the 
+same regulations as everyone else is the only way to achieve honest 
+fairness.
+  The substitute put forth by the majority leader and I does not play 
+favorites. It does not pick winners and losers. It does not use clever 
+language or fancy phrases. Rather, it identifies a single societal 
+goal, accountability and disclosure in politics; and then it proceeds 
+to be certain that this end is achieved. It identifies a single problem 
+in politics and focuses all of its energy and power on effecting a 
+solution; and that is the bill we have before us today.
+  In 12 simple pages, this bill bans every dollar of unregulated, 
+unaccountable, and undisclosed money that can be constitutionally 
+eliminated from Federal politics. Again, every cent of unregulated, 
+unaccountable or undisclosed money that can be constitutionally 
+eliminated from Federal politics is eliminated by this language. Why? 
+Because America is asking for accountability from its government, and 
+we answer that call. We answer it not next cycle, not next year, not in 
+60 to 90 days, but we answer the call today, now. Not in 100 pages, not 
+in 75, not in 50; but in 12 simple pages, this bill addresses 
+completely what the proponents of Shays-Meehan language have been 
+attacking for nearly a decade. Do not let the length fool Members. The 
+language of the substitute is thorough, it is total, and it is 
+complete; and it actually does ban soft money.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HOYER. Mr. Chairman, I yield the balance of my time to the 
+gentleman from Florida (Mr. Davis) and ask unanimous consent that as a 
+member of the Committee on House Administration, that he may control 
+that time.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Maryland?
+  There was no objection.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield 1 minute to the gentleman 
+from Utah (Mr. Matheson).
+  Mr. MATHESON. Mr. Chairman, simply stated, campaigns in this country 
+really ought to be a dialogue between candidates and voters. Members 
+all have their own personal experiences. I was just elected in November 
+of 2000. That dialogue that should have been taking place between 
+candidates and voters was diluted and in fact polluted by massive 
+amounts of unaccountable soft money. That is money that funded issue 
+commercials that were sham ads that were deceptive, or they contained 
+out and out lies; and there was no one to hold accountable, including 
+my opponent. And, quite frankly, my opponent took some blame for that, 
+and it was inappropriate. Today is the day we can stand up and try to 
+clean up this process so Members have that appropriate dialogue between 
+candidates and voters. I encourage Members to support the Shays-Meehan 
+bill.
+  Mr. LINDER. Mr. Chairman, I yield 2\1/2\ minutes to the gentleman 
+from Georgia (Mr. Kingston).
+  Mr. KINGSTON. Mr. Chairman, I thank the gentleman for introducing a 
+bill that is relatively clean of the hypocrisy that we seem to have in 
+some of the other bills. It is interesting that we hear over and over 
+again that the Shays-Meehan bill bans soft money; and yet if we look at 
+it, and I advise Members to look at the doggone bill because if Members 
+say it bans soft money, they have not read the bill or they are 
+misrepresenting the bill. It is one or the other.
+  But what it basically does is it reregulates soft money and tilts the 
+scale more favorably to certain special interest groups. It is 
+analogous to pushing food around on the plate to make momma think the 
+vegetables have been eaten. I hated green peas. I know the game. I did 
+it all of the time. That is what is going on here. Members are patting 
+ourselves on the back and head and acting holier than thou and saying 
+we banned soft money today.
+  Mr. Chairman, it does not do that. It creates a $60 million soft 
+money loophole for State and local parties. It allows the Democratic 
+National Committee to build a $40 million headquarters building with 
+soft money. It lets candidates solicit unlimited soft money for 501(c) 
+groups; and it allows soft money to buy billboards, direct mail, 
+telephones, and door-to-door political activities. What a ban.
+  It also is curious to me that the supporters of this bill decry how 
+badly needed it is and how we should have done it yesterday, but 
+postpone it until after this year's election.
+  Mr. Chairman, I want a show of hands, how many Members think that is 
+a good idea? Members want it, but think it is a good idea to wait until
+
+[[Page H373]]
+
+after the election. I applaud those Members for their honesty. I will 
+make the observation that the majority of the Members did not raise 
+their hands.
+  Mr. Chairman, let me say this is not a ban on soft money. This is a 
+make-believe bill. It just reregulates things and skews things. I know 
+the New York Times wants it, and a lot of Members worry about The 
+Washington Post and the New York Times. And if I was in the DCCC, I 
+would look at this bill very favorably, but it does not do anything to 
+clean out what is perceived to be the problem with politics.
+  Mr. Chairman, I believe that the Linder-Armey bill does a much better 
+job in that regard, and I urge my colleagues to support it.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield 1 minute to the gentleman 
+from Washington (Mr. Baird).
+  Mr. BAIRD. Mr. Chairman, Members of the House know it, Senator McCain 
+knows it, Granny Dee knows it, and most importantly, our constituents 
+know it. Money and campaign financing are having a corrosive influence 
+on the political process today.
+  I personally reject the charge that it is corrupting Members of this 
+august body, but Members all know with absolute certainty that the 
+process of raising money is taking precious, precious time away from 
+the matters that are before us. We know with equal certainty that many 
+Members of this body pause at least once to ask themselves how a vote 
+will affect their contributions when they should be asking solely how 
+it will affect this great Nation.
+  In this debate we have heard the majority party assert that passage 
+of Shays-Meehan and McCain-Feingold will harm their political fund-
+raising. That is symptomatic of the problem. We should not be asking is 
+this good for one party or another. Members should be asking solely and 
+simply: Is it good for the United States of America and the people we 
+represent? Shays-Meehan is good. Pass this bill. Reject the poison 
+pills and send it to the President.
+  Mr. MEEHAN. Mr. Chairman, I yield the balance of my time to the 
+gentleman from Michigan (Mr. Levin) and ask unanimous consent that he 
+may control that time.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Massachusetts?
+  There was no objection.
+  The CHAIRMAN. The gentleman from Georgia (Mr. Linder) has 8\1/2\ 
+minutes remaining. The gentleman from Florida (Mr. Davis) has 6\1/2\ 
+minutes remaining. The gentleman from Connecticut has 5 minutes 
+remaining. The gentleman from Michigan (Mr. Levin) has 5 minutes 
+remaining.
+  Mr. LINDER. Mr. Chairman, I reserve the balance of my time.
+  Mr. LEVIN. Mr. Chairman, I yield 1 minute to the gentleman from 
+Oregon (Mr. Blumenauer).
+  Mr. BLUMENAUER. Mr. Chairman, part of the legacy of President Teddy 
+Roosevelt was an effort to get rid of corporate contributions to 
+Federal elections, and they have been illegal for almost a century. But 
+what we have seen over time, the evolution of a system that has 
+permitted corporate contributions to move into the political process, 
+be the process of soft money, something that is corrupting on those who 
+have to contribute it, who have to receive it. It is not good for the 
+American public.
+  Mr. Chairman, what we have here today in this amendment is a ploy to 
+attempt to allow the current system to continue. There is no objective 
+here in terms of reforming campaign finance.
+
+                              {time}  1230
+
+  We have heard it from some of our friends in the opposition, they 
+want to simply get it to a conference committee where it will die a 
+lingering, quiet death, and people can continue to manipulate the 
+current system. My hats are off to our colleagues, the gentleman from 
+Connecticut (Mr. Shays) and the gentleman from Massachusetts (Mr. 
+Meehan), for their work throughout the last 6 years to get us to this 
+point where we can actually get something passed that will make a 
+difference.
+  I urge my colleagues to reject this amendment and approve Shays-
+Meehan.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield 1 minute to the gentleman 
+from Tennessee (Mr. Ford).
+  Mr. FORD. Mr. Chairman, we are addicted to this money, Democrats, 
+Republicans, and I daresay the Independent, but I know the gentleman 
+from Vermont (Mr. Sanders) is not. We love the golf tournaments, the 
+concerts, the traveling, all the wonderful things that this soft money 
+allows us to do in this Congress. But let us be honest. Some on this 
+side of the aisle have suggested, my dear friend the gentleman from 
+Ohio (Mr. Ney) has suggested that this bill is an incumbent protection 
+bill. Currently for those watching on C-SPAN and those in the gallery, 
+97 percent of us get reelected each time we run. So how much more of an 
+incumbent protection bill will it actually be?
+  Your argument would be strengthened if somehow or another you could 
+prove that more money correlated to a bigger voter turnout. But what we 
+have seen over the last three election cycles is that more people are 
+turned off by all of this money, more people are turned off by all of 
+this rhetoric than they are actually activated. This notion that 
+somehow or another this soft money will activate grassroots 
+organizations, the facts do not support it.
+  Vote down this amendment. I say to my dear friend the gentleman from 
+Texas (Mr. Armey), I wish we could have had you when we were 
+negotiating this soft money ban from early on.
+  Vote ``no'' on Armey. Allow Shays-Meehan to pass.
+
+
+                      Announcement by the Chairman
+
+  The CHAIRMAN. The Chair would remind Members to address remarks to 
+the Chair and not to those in the audience.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield 1 minute to the gentleman 
+from Rhode Island (Mr. Langevin).
+  Mr. LANGEVIN. Mr. Chairman, I rise in strong support of the historic 
+Shays-Meehan Campaign Finance Reform Act today. For too long, our 
+Nation's elections have been tainted by the effects of soft money, and 
+the Shays-Meehan bill is the only measure that will put an end to this 
+corrupting influence.
+  Public participation is the cornerstone of a healthy democracy. As 
+secretary of state of Rhode Island, I worked to make government more 
+accessible to our citizens. However, despite these advances, my 
+constituents still feel disheartened by our Nation's election system 
+because large sums of money drown out the voice of the average voter.
+  Reform is never easy. We often forget the immense courage exhibited 
+by our Founding Fathers in challenging the status quo. We must remember 
+this lesson and vote for true campaign finance reform that will take 
+the reins of democracy out of the hands of corporations and interest 
+groups and restore the voice of our citizens. Vote against the Armey 
+substitute and for Shays-Meehan.
+  Mr. LEVIN. Mr. Chairman, I yield 1 minute to the distinguished 
+gentleman from Maine (Mr. Allen).
+  Mr. ALLEN. I thank the gentleman for yielding me this time.
+  Mr. Chairman, current campaign finance laws were written to curb the 
+abuses of another generation. Thirty years later, a new plague has 
+infected our Nation's elections, soft money. This money, these 
+unlimited contributions, are used to run attack ads, and they do 
+distort our public policy choices here. That is why I urge all my 
+colleagues to defeat all of these amendments and substitutes that are 
+being proposed and to pass Shays-Meehan. If this government is to 
+remain a government of the people, by the people and for the people, we 
+must take soft money out of this campaign finance system. We must pass 
+Shays-Meehan and take these unlimited contributions and set them aside. 
+Our democracy will work, and work far better than it does today, if we 
+pass this bill.
+  Mr. LINDER. Mr. Chairman, I am pleased to yield 1 minute to the 
+gentleman from Florida (Mr. Keller).
+  Mr. KELLER. I thank the gentleman for yielding me this time.
+  Mr. Chairman, I rise today in strong support of the gentleman from 
+Texas' campaign finance reform bill to completely ban all soft money.
+  I support this bill for three reasons: First, this bill completely 
+bans all soft money to national, State and local parties, unlike the 
+Shays-Meehan bill which has a $60 million loophole for soft money to 
+State and local parties.
+
+[[Page H374]]
+
+  Second, the Shays-Meehan bill is blatantly unconstitutional, because 
+it attempts to ban outside groups from running any television or radio 
+ads 60 days before an election. The gentleman from Texas' bill contains 
+no such constitutional problems.
+  Third, it is critical that we pass the Armey campaign finance reform 
+bill in order to send this legislation into the conference committee so 
+that the President of the United States will have some input into the 
+campaign finance reform debate. Specifically, President Bush has 
+repeatedly said that paycheck protection is an important component to 
+any campaign finance reform bill, yet there currently is not a paycheck 
+protection component to the Shays-Meehan bill.
+  Mr. SHAYS. Mr. Chairman, I yield myself 15 seconds to point out to 
+the gentleman that our bill does not ban outside ads 60 days to an 
+election. It just says you cannot use corporate treasury money, union 
+dues money or unlimited money.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield 1 minute to the 
+distinguished gentlewoman from New York (Mrs. Maloney).
+  Mrs. MALONEY of New York. I thank the gentleman for yielding time.
+  I applaud the gentleman from Connecticut (Mr. Shays) and the 
+gentleman from Massachusetts (Mr. Meehan) for their distinguished and 
+hard work that has brought this bill to the floor today.
+  Mr. Chairman, many of my colleagues on the other side of the aisle 
+have used the word ``hypocrisy,'' but the biggest hypocrite, the only 
+hypocrite in this body today is anyone who votes against Shays-Meehan 
+and for any of the poison pills or the substitutes that will send it, 
+the bill that they are supporting, to the conference committee where it 
+will certainly die and be killed in conference.
+  Shays-Meehan has already passed the Senate. It has the fragile flower 
+of consensus that has been worked out carefully, over 10 years. We have 
+the best opportunity now in 10 years to pass meaningful reform, send it 
+to the President, and he says he will sign it.
+  If Members are serious about campaign finance, then vote for Shays-
+Meehan and show the American public that our government is not for 
+sale.
+  Mr. LINDER. Mr. Chairman, I am pleased to yield 1 minute to the 
+gentleman from Illinois (Mr. Weller).
+  (Mr. WELLER asked and was given permission to revise and extend his 
+remarks.)
+  Mr. WELLER. Mr. Chairman, I rise in support of the Armey amendment, 
+which frankly is an amendment that really points out what a sham the 
+Shays-Meehan legislation is.
+  The Shays-Meehan legislation says it bans soft money. No, it does 
+not. It has got a $60 million soft money loophole, and the sponsors 
+know it. The Armey legislation actually is a true soft money ban. So if 
+you want to get rid of soft money, vote for the Armey amendment.
+  But also I want to urge my colleagues to read the bill, because not 
+only is Shays-Meehan a sham, but also there is a betrayal in this 
+legislation. Many Members were urged to sign the discharge petition 
+saying we needed to rush it to the floor. Of course the effective date 
+now is postponed until after the election, negating that argument. But 
+also last night at midnight, there was a change made to the bill which 
+will allow committees such as the Democratic Congressional Committee to 
+borrow money against their building fund, which has up to $40 million, 
+to borrow hard money and pay it back with soft money; pay a hard money 
+loan with soft money, a total betrayal of the basic principles of 
+Shays-Meehan.
+  Mr. SHAYS. Mr. Chairman, I yield myself 1 minute to say to the 
+distinguished gentleman, he is just dead wrong. He is dead wrong about 
+what he has said.
+  First, this bill was not brought in at the midnight hour. That is 
+just simply inaccurate. He is simply inaccurate about somehow that this 
+is a sly thing to have the bill take effect in November. No, the reason 
+why it is taking effect in November is that we have had 16 months 
+already pass. Sixteen months have already passed. And so it becomes 
+extraordinarily difficult to implement a bill in which 16 months have 
+passed.
+  Mr. LINDER. Mr. Chairman, I continue to reserve the balance of my 
+time.
+  Mr. SHAYS. Mr. Chairman, it is my distinct pleasure to yield 1 minute 
+to the gentlewoman from California (Mrs. Capps).
+  Mrs. CAPPS. Mr. Chairman, I rise in opposition to the substitute. The 
+moment of truth has arrived. I came to this House 4 years ago in a 
+special election. My very first official act after being sworn into 
+office was to cosponsor the bill by the gentleman from Connecticut (Mr. 
+Shays) and the gentleman from Massachusetts (Mr. Meehan). It is still 
+one of the proudest moments of my career. The gentleman from 
+Connecticut and the gentleman from Massachusetts have kept the torch 
+burning for many years. I salute them. I also salute my 20 friends on 
+the other side of the aisle who have signed the discharge petition, who 
+have acted courageously and stood up to their own leadership.
+  Mr. Chairman, we have all seen the abuses and excesses of our 
+political system. We also know that these substitute bills do not 
+represent reform. They are cynical attempts to force the bill into 
+conference with the Senate, where it has died many times before.
+  Before any of us ever heard the word Enron, we knew full well that 
+the voices of our constituents can and are often drowned out by 
+powerful groups with endless resources. In so many of our national 
+debates, from prescription drugs to patients' rights to our energy 
+policy, special interests have held sway over the people's interests. 
+It is time today to pass Shays-Meehan to honor the people we represent, 
+the American people.
+  Mr. LINDER. Mr. Chairman, I yield myself such time as I may consume.
+  I would like to point out that there was nothing cynical about my 
+intent to introduce this bill a year ago. There is nothing cynical 
+about supporting it now.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. LEVIN. Mr. Chairman, I yield 1 minute to the gentleman from Texas 
+(Mr. Edwards).
+  Mr. EDWARDS. Mr. Chairman, on September 11 our democracy was tested 
+by foreign terrorists. With unity and resolve, we met that test.
+  Today our democracy faces a different challenge, a cancer from 
+within, in the form of massive campaign contributions called soft 
+money. The victims of this cancer are the millions of decent, hard-
+working Americans whose voices are being drowned in a sea of special 
+interest contributions.
+  Trying to call million-dollar contributions ``free speech'' gives a 
+new meaning to the phrase ``money talks.'' And Americans know that in 
+Washington, D.C., money is talking too loudly.
+  Free speech is a fundamental right, but in a democracy, the strength 
+of a citizen's voice should depend upon the quality of one's ideas, not 
+the quantity of one's bank account.
+  Let us unite once again in defense of our democracy. Let us affirm 
+the great American ideal that this should truly be the people's House, 
+where the voice of every citizen is heard, not just a privileged few.
+  Vote for Shays-Meehan and oppose all Trojan horse substitutes.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield 1 minute to the 
+distinguished gentlewoman from California (Mrs. Tauscher).
+  Mrs. TAUSCHER. I thank my friend and colleague for yielding time.
+  Mr. Chairman, I have supported Shays-Meehan since being elected to 
+Congress in 1996. I helped pass this bill twice. I hope today we can 
+get a clean bill so we can vote for it again. I urge my colleagues to 
+oppose the Armey substitute so we can get a clean vote today on Shays-
+Meehan.
+  Our democracy deserves honest campaigns and honest elections. Voters 
+deserve to know the truth about who is working to affect election 
+outcomes, including the people and interest groups bankrolling ads and 
+campaigns. There is no reason parties need to collect large, 
+unregulated amounts of money that can be used to directly influence 
+elections. Campaign finance reform will help restore the public's faith 
+in elected officials and the legislative process.
+  Unfortunately, the Republican leadership will stop at nothing to kill 
+this
+
+[[Page H375]]
+
+bill, only further distancing working families from their government.
+
+                              {time}  1245
+
+  I hope supporters of reform in previous years will keep working with 
+both parties and support real reform again this year and today when it 
+really matters.
+  Mr. LINDER. Mr. Chairman, I am pleased to yield 1 minute to the 
+gentleman from Arizona (Mr. Hayworth).
+  Mr. HAYWORTH. Mr. Chairman, I rise in support of the amendment 
+because it offers us a straightforward choice: either you ban soft 
+money or you do not.
+  It was our second President, John Adams, who pointed out that facts 
+are stubborn things. And on pages 78 and 79 of the Shays-Meehan bill, 
+here it is: ``This act and the amendments made by this act shall take 
+effect November 6, 2002.''
+  It is a fair question to ask: Why would we set up a new loophole to 
+really have a type of legalized money laundering, hard money for soft 
+money, all the little gyrations we can have? Certainly not for partisan 
+advantage from my high-minded friends on the left or my well-meaning 
+friends on the right. Certainly not for that. But yet, at the end of 
+the day, how can you deny it?
+  Facts are stubborn things. I do not question the intent, although it 
+is provocative. But if it is good enough to ban soft money, why not do 
+it now, and not wait until the day after election day? Do it now.
+  Mr. SHAYS. Mr. Chairman, I yield myself 15 seconds to point out to 
+the gentleman that there is nothing in this bill that allows soft money 
+to be replacing hard money; nothing in this bill whatsoever.
+  Mr. Chairman, I yield 2 minutes to the distinguished gentleman from 
+South Carolina (Mr. Graham).
+  Mr. GRAHAM. Mr. Chairman, the hardest thing I think in politics or 
+life is to argue with people you are close to personally and that you 
+share a common philosophy and way of doing business with. That is where 
+I find myself. I find myself in the distinct minority among my party. I 
+find myself hearing the Speaker and others saying this particular piece 
+of legislation would destroy my party. I respectfully disagree, but it 
+is no fun being where we are at today.
+  In 1996, when we first started talking about reforming this system, 
+it sounded good to me, and it still does. Half the people in this 
+country vote. Of those eligible to vote, half of those do not even 
+register. We are getting down to just a few people having participation 
+feelings about our government.
+  I am convinced, rightly or wrongly, that the way we conduct campaigns 
+is turning Americans off in droves.
+  The soft money problem, I am glad this amendment is up. We need to 
+ban soft money. I would say to the gentleman from Arizona (Mr. 
+Hayworth), we need to do it now, we really do; and I am going to vote 
+for that. But I am going to vote for Shays-Meehan.
+  A lot of this is games. But let me tell you what it is like. If you 
+give $25,000 to the Republican Party, the Democratic Party wants 
+$30,000, because it gets out in about 30 seconds. If you are a company 
+out there and they call you up on the phone wanting money, you say no 
+at your own peril. If there is a bill in Congress that affects the 
+average everyday American, somebody can send $10 million up here to 
+either party, and you will never convince me that does not affect the 
+quality of legislation.
+  I am ready and willing to do something about it, even if I have to 
+argue and disagree with the people that I hold dear personally and 
+professionally. I think America needs to change the way we conduct our 
+campaigns, and I am willing to pay a price by making my friends mad at 
+me.
+  Mr. LEVIN. Mr. Chairman, I yield 1 minute to the gentleman from New 
+York (Mr. Crowley).
+  Mr. CROWLEY. Mr. Chairman, who are we kidding? We are not kidding the 
+American people. They get this. They know that if we pass this 
+substitute or any of 10 amendments by the majority, that, for all 
+practical purposes, we will have killed Shays-Meehan and true campaign 
+finance reform for this year.
+  You talk about cooking something up at the last minute. My 
+understanding is our side of the aisle only got notice of this 
+substitute at 1 a.m. this morning. It is unfortunate, but if the 
+sponsors of this substitute really wanted to be actively engaged in 
+this process, they should have done it earlier, and many of their 
+proposals quite possibly could have been included in the ultimate 
+Shays-Meehan bill. But they failed to do that, and we find ourselves 
+now with this substitute before us.
+  I say we vote it down, we pass Shays-Meehan, and bring real campaign 
+finance reform to the people of this so-deserving country.
+  Mr. LINDER. Mr. Chairman, I am pleased to yield 1 minute to the 
+gentlewoman from Pennsylvania (Ms. Hart).
+  Ms. HART. Mr. Chairman, I rise in support of the substitute. I rise 
+in support of the substitute because the base bill is not perfect. 
+Granted, no bill is perfect. This bill does one thing that it should 
+not do, it continues to allow soft money participation in campaigns.
+  When I speak with people in my district, they want us to clean up 
+campaigns. They ask me to support Shays-Meehan. I discuss with them 
+what they are really concerned about regarding campaigns, and they say 
+they want us to eliminate soft money. That is what this substitute 
+does.
+  Many of us signed a Common Cause pledge when we ran a couple of years 
+ago that said I will support a complete ban on soft money and will 
+oppose any legislation that does not completely ban soft money.
+  Now, many of those who are supporting the bill as it is written 
+today, the Shays-Meehan bill, are not banning soft money and are 
+violating the Common Cause pledge.
+  I am going to stick with the pledge, support the bill that eliminates 
+soft money, and also support the bill that makes sure that these 
+changes take effect now.
+  Mr. DAVIS of Florida. Mr. Chairman, I ask unanimous consent to return 
+control of the time on this side to the gentleman from Maryland (Mr. 
+Hoyer).
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Florida?
+  There was no objection.
+  Mr. SHAYS. Mr. Chairman, I yield myself 30 seconds.
+  Mr. Chairman, I would like to say this bill does have a purpose: it 
+allows people to honor their pledge, but then kill campaign finance 
+reform. This bill is not a bill that can pass the Senate. It is a bill 
+that is not going to go anywhere. It is a bill that would force a 
+conference committee, and in the conference committee we know what is 
+going to happen.
+  So this is why this bill has finally come forward. There will be a 
+few people that say I want a pure bill. They can say I lived up to my 
+pledge and helped kill campaign finance reform in the process.
+  Mr. HOYER. Mr. Chairman, I yield 30 seconds to the distinguished 
+gentlewoman from the District of Columbia (Ms. Norton).
+  Ms. NORTON. Mr. Chairman, I thank the gentleman for yielding me time.
+  Mr. Chairman, a Presidential spokesman has just said good things 
+about Shays-Meehan and Ney-Wynn. After Enron I suspect the President to 
+ultimately choose Shays-Meehan, and so should we.
+  Opponents have now put forward a substitute they have always argued 
+was unconstitutional because it bans all soft money. Shays-Meehan 
+skillfully threads its way through the constitutional thicket to 
+conform with the Buckley Supreme Court decision.
+  The President sees no way around Enron and campaign finance reform. I 
+think he will shortly see that all roads to reform lead to Shays-
+Meehan.
+  Mr. LINDER. Mr. Chairman, can the Chair tell us how much time is 
+remaining?
+  The CHAIRMAN. The gentleman from Georgia (Mr. Linder) has 4\1/2\ 
+minutes remaining, the gentleman from Maryland (Mr. Hoyer) has 2 
+minutes remaining, the gentleman from Connecticut (Mr. Shays) has 30 
+seconds remaining, and the gentleman from Michigan (Mr. Levin) has 1 
+minute.
+  Mr. LINDER. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Wisconsin (Mr. Green).
+  Mr. GREEN of Wisconsin. Mr. Chairman, I thank the gentleman for 
+yielding me time.
+  Mr. Chairman, I know it is early in what will be a long day; but in 
+many ways, it is already midnight at the costume party. It is time we 
+remove our
+
+[[Page H376]]
+
+masks and we see who is who. We need to be very clear where we are 
+right now, and I hope the folks who are watching the debate are very 
+clear on where we are right now.
+  Shays-Meehan, as filed late last night, does not ban soft money. Let 
+me repeat that. Shays-Meehan does not ban soft money. It restricts it, 
+it plays with it, but it does not ban soft money.
+  I notice that my friends on the other side are avoiding a debate on 
+details. Our side talks details; their side talks generalities. Why? 
+Because the details are not favorable to them.
+  As my colleague, the gentleman from Arizona (Mr. Hayworth), did 
+earlier, I encourage everyone to look at pages 78 and 79 of this bill. 
+Do not take my word for it. Look at the bill yourself. It has a State 
+and local party loophole to soft money that is $60 million nationwide. 
+That is a ban on soft money? It does not ban unlimited contributions 
+from Indian tribes and their general treasury. It contains a special 
+loophole for what we all know is the DNC building fund. On page 78 and 
+79 you can see it for yourself. Is that a ban on soft money? It even 
+arguably allows soft money to be used as collateral for hard-money 
+loans.
+  They say this amendment is a poison pill. If it is, it is a poison 
+pill that is worth about $40 million to the other side. This is not a 
+swiss cheese soft-money ban, as one of my colleagues referred to it. It 
+is something full of holes and loopholes, but there is not enough 
+cheese here for it to qualify.
+  Mr. Chairman, if you want to ban soft money, there is only one vote 
+today that bans soft money. This is it. Nobody, nobody who votes 
+against this substitute amendment, can say they voted to ban soft 
+money.
+  Mr. SHAYS. Mr. Chairman, I yield myself 30 seconds.
+  Mr. Chairman, I just would like to point out to the gentleman that 
+soft money had its introduction to enable people to build buildings. We 
+did not create this. It has been in the bill forever.
+  We are just simply saying that if a party is, frankly, stupid enough 
+to spend its soft money to build a building instead of campaigning 
+against us, be our guest. If they have committed to it, they cannot 
+raise any soft money after November 6, but they certainly can pay their 
+bills on money they set aside.
+  I would prefer them building a building rather than running against 
+us, and that is their choice. You cannot use any soft money for any 
+hard-money expenditure, which the gentleman is also incorrect about.
+  Mr. HOYER. Mr. Chairman, I yield myself 1 minute, and then I will 
+yield the balance of my time to the gentleman from Michigan (Mr. Levin) 
+for the purpose of closing.
+  Mr. Chairman, I rise in opposition to the Armey substitute. The 
+debate here is saying that if you do not vote to ban all soft money, do 
+not vote to ban any soft money. When the proponents of the amendment to 
+ban all soft money know that its inevitable effect will be to ban no 
+soft money, does that sound somewhat Orwellian? It is. Does it sound 
+like giving with the right hand and taken away with the left? It is.
+  My friends, all of us know, everybody in America knows, there is but 
+one opportunity to ban at least a large portion of soft money, and that 
+is Shays-Meehan. Vote against this Armey substitute.
+  Mr. LINDER. Mr. Chairman, I yield myself the balance of my time.
+  Mr. Chairman, I would like to point out that for those who think this 
+is cynical, this bill was essentially introduced in March of last year. 
+Both parties raised about the same amount of soft money, about $245 
+million in the last cycle; and we should ban it all, and those who do 
+not want to ban it all, do not want to ban it.
+  The Shays-Meehan bill will only reduce soft money for national 
+political parties; admittedly, not to local parties, admittedly not to 
+interest groups. They can still continue to use soft money. Only 
+national political parties will be totally forbidden from using soft 
+money.
+  Yet, we are going to drive wedges between the national parties and 
+special interest groups. We are going to make our politics narrower and 
+narrower in focus, because interest groups tend to have a single 
+interest. Whether it is pro- or anti-abortion, pro- or anti-gun, pro- 
+or anti-environmental, they are single-issue organizations, and they 
+will be unfettered in their use of soft money, and we will have 
+candidates across this country trying to genuflect between the alter of 
+this group or that group, and not to the people with the broadened 
+philosophy, but with narrow interests. That is bad for our politics; it 
+is bad for our policy.
+
+                              {time}  1300
+
+  This substitute was not cynical. For those who say it is a poison 
+pill, let me just say that that is a bad cliche, and, for the most 
+part, cliches are substitutes for rigorous thought. This was put forth 
+a long time ago. It could have been read long before Shays-Meehan was 
+ever even produced at midnight last night. In fact, many of the folks 
+who signed the discharge petition which passed the rule to put this 
+bill on the floor have not read this Shays-Meehan version yet. This is 
+only the most recent iteration.
+  If we want simply to curb some soft money, but not all, support 
+Shays-Meehan. If we want to simply marginally reduce corporate, union 
+and special interest loopholes, support Shays-Meehan. If we want to 
+nibble around the edges of this debate year after year after year, then 
+the Shays-Meehan is the bill for you. But if we want a complete and 
+total ban on every dollar of soft money involved in Federal election 
+advocacy today, then join me and the gentleman from Texas (Mr. Armey), 
+and support this substitute. Join us. Ban it all; ban it now.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the distinguished 
+gentleman from Michigan (Mr. Levin).
+  Mr. LEVIN. Mr. Chairman, I yield myself the remainder of my time, and 
+I thank the gentleman from Maryland (Mr. Hoyer) for yielding me the 
+time.
+  (Mr. LEVIN asked and was given permission to revise and extend his 
+remarks.)
+  Mr. LEVIN. Mr. Chairman, the Speaker has apparently said that it is 
+Armageddon for the Republicans if Shays-Meehan passes. I think the real 
+problem is that it would be Armageddon for them if they defeated it. So 
+what we are seeing here are tactics to obscure the issue.
+  Shays-Meehan does not nibble around the edges of soft money. It gets 
+at the vice, and that is the unrestricted use of soft money for so-
+called issue ads. All it allows in a very circumscribed way, very 
+circumscribed, is money for registration and get-out-the-vote. We will 
+go into that later. Mr. Chairman, $40 million. It is absurd to talk 
+that way. What Shays-Meehan tries to do is to preserve the democratic 
+processes of registration and getting out the vote.
+  What does the Armey amendment do? What it essentially says is no one 
+can use even their own funds to help register people or get them out to 
+vote, whether it is the NAACP or the NRA or anybody else. Nobody can 
+use any of their own treasury monies. It is antidemocratic. What it is 
+is a smokescreen, and we can see through it. The opposition cannot 
+decide whether it wants to open the spigot altogether or shut it down 
+altogether. You are moving from pillar to post when the solid position 
+in the middle of this issue is Shays-Meehan.
+  Vote down the Armey amendment and let us pass true reform. The day 
+has come for Shays-Meehan, McCain-Feingold, and nothing is going to 
+stop that effort.
+  The CHAIRMAN. All time has expired.
+  The question is on the amendment in the nature of a substitute 
+offered by the gentleman from Texas (Mr. Armey).
+  The question was taken; and the Chairman announced that the ayes 
+appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. SHAYS. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 179, 
+noes 249, not voting 6, as follows:
+
+                             [Roll No. 19]
+
+                               AYES--179
+
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barcia
+     Bartlett
+     Barton
+     Biggert
+     Bilirakis
+     Blunt
+     Bonilla
+     Bono
+     Boozman
+     Brady (TX)
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+
+[[Page H377]]
+
+
+     Cannon
+     Cantor
+     Capito
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Cubin
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Duncan
+     Ehlers
+     Emerson
+     English
+     Everett
+     Ferguson
+     Flake
+     Fletcher
+     Forbes
+     Fossella
+     Gallegly
+     Gekas
+     Gibbons
+     Gillmor
+     Goode
+     Goodlatte
+     Goss
+     Granger
+     Graves
+     Green (WI)
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     Kingston
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lucas (OK)
+     Manzullo
+     McHugh
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Moran (KS)
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Osborne
+     Ose
+     Otter
+     Oxley
+     Paul
+     Pence
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Saxton
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shows
+     Shuster
+     Simpson
+     Skeen
+     Smith (MI)
+     Smith (NJ)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Terry
+     Thornberry
+     Tiahrt
+     Tiberi
+     Toomey
+     Upton
+     Vitter
+     Walden
+     Watkins (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Young (AK)
+     Young (FL)
+
+                               NOES--249
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barr
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Bereuter
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Boehner
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Dreier
+     Dunn
+     Edwards
+     Ehrlich
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Filner
+     Foley
+     Ford
+     Frank
+     Frelinghuysen
+     Frost
+     Ganske
+     Gephardt
+     Gilchrest
+     Gilman
+     Gonzalez
+     Gordon
+     Graham
+     Green (TX)
+     Greenwood
+     Grucci
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holden
+     Holt
+     Honda
+     Hooley
+     Horn
+     Hostettler
+     Houghton
+     Hoyer
+     Hulshof
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     King (NY)
+     Kirk
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     LaTourette
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McCrery
+     McDermott
+     McGovern
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Mollohan
+     Moore
+     Moran (VA)
+     Morella
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pelosi
+     Peterson (MN)
+     Petri
+     Phelps
+     Platts
+     Pomeroy
+     Price (NC)
+     Quinn
+     Rahall
+     Ramstad
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ross
+     Rothman
+     Roukema
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Schaffer
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Simmons
+     Skelton
+     Slaughter
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Thomas
+     Thompson (CA)
+     Thompson (MS)
+     Thune
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Wexler
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+
+                             NOT VOTING--6
+
+     Owens
+     Peterson (PA)
+     Riley
+     Traficant
+     Waters
+     Watts (OK)
+
+                              {time}  1323
+
+  Ms. DeGETTE changed her vote from ``aye'' to ``no.''
+  Mr. TERRY, Mr. REYNOLDS and Mr. FOSSELLA changed their vote from 
+``no'' to ``aye.''
+  So the amendment in the nature of a substitute was rejected.
+  The result of the vote was announced as above recorded.
+  Stated for:
+  Mr. PETERSON of Pennsylvania. Mr. Chairman, on rollcall No. 19 I was 
+unavoidably detained. Had I been present, I would have voted ``aye.''
+  Stated against:
+  Ms. WATERS. Mr. Chairman, I missed the last vote because of a problem 
+at the elevator. I could not get here. Had I been here I would have 
+voted no.
+  Mr. OWENS. Mr. Chairman, earlier today I was unavoidably absent and 
+missed rollcall vote No. 19. If present I would have voted ``nay.''
+
+
+   Amendment in the Nature of a Substitute No. 14 Offered by Mr. Ney
+
+  Mr. NEY. Mr. Chairman, I offer an amendment in the nature of a 
+substitute.
+  The CHAIRMAN. The Clerk will designate the amendment in the nature of 
+a substitute.
+  The text of the amendment in the nature of a substitute is as 
+follows:
+
+       Amendment in the nature of a substitute No. 14 offered by 
+     Mr. Ney.
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the ``Bipartisan 
+     Campaign Finance Reform Act of 2002''.
+       (b) Table of Contents.--The table of contents of this Act 
+     is as follows:
+
+Sec. 1. Short title; table of contents.
+
+            TITLE I--REDUCTION OF SPECIAL INTEREST INFLUENCE
+
+Sec. 101. Soft money of political parties.
+Sec. 102. Increased contribution limits for State committees of 
+              political parties and aggregate contribution limit for 
+              individuals.
+Sec. 103. Reporting requirements.
+
+           TITLE II--INDEPENDENT AND COORDINATED EXPENDITURES
+
+Sec. 201. Definitions.
+Sec. 202. Express advocacy determined without regard to background 
+              music.
+Sec. 203. Civil penalty.
+Sec. 204. Reporting requirements for certain independent expenditures.
+Sec. 205. Independent versus coordinated expenditures by party.
+Sec. 206. Coordination with candidates.
+
+                         TITLE III--DISCLOSURE
+
+Sec. 301. Filing of reports using computers and facsimile machines.
+Sec. 302. Prohibition of deposit of contributions with incomplete 
+              contributor information.
+Sec. 303. Audits.
+Sec. 304. Reporting requirements for contributions of $50 or more.
+Sec. 305. Use of candidates' names.
+Sec. 306. Prohibition of false representation to solicit contributions.
+Sec. 307. Soft money of persons other than political parties.
+Sec. 308. Campaign advertising.
+
+                    TITLE IV--PERSONAL WEALTH OPTION
+
+Sec. 401. Voluntary personal funds expenditure limit.
+Sec. 402. Political party committee coordinated expenditures.
+
+                         TITLE V--MISCELLANEOUS
+
+Sec. 501. Use of contributed amounts for certain purposes.
+Sec. 502. Prohibition of fundraising on Federal property.
+Sec. 503. Penalties for violations.
+Sec. 504. Strengthening foreign money ban.
+Sec. 505. Prohibition of contributions by minors.
+Sec. 506. Expedited procedures.
+Sec. 507. Initiation of enforcement proceeding.
+Sec. 508. Protecting equal participation of eligible voters in 
+              campaigns and elections.
+Sec. 509. Penalty for violation of prohibition against foreign 
+              contributions.
+Sec. 510. Expedited court review of certain alleged violations of 
+              Federal Election Campaign Act of 1971.
+Sec. 511. Deposit of certain contributions and donations in treasury 
+              account.
+Sec. 512. Establishment of a clearinghouse of information on political 
+              activities within the Federal Election Commission.
+Sec. 513. Clarification of right of nationals of the United States to 
+              make political contributions.
+
+      TITLE VI--INDEPENDENT COMMISSION ON CAMPAIGN FINANCE REFORM
+
+Sec. 601. Establishment and purpose of Commission.
+Sec. 602. Membership of Commission.
+Sec. 603. Powers of Commission.
+Sec. 604. Report and recommended legislation.
+Sec. 605. Termination.
+Sec. 606. Authorization of appropriations.
+
+TITLE VII--PROHIBITING USE OF WHITE HOUSE MEALS AND ACCOMMODATIONS FOR 
+                         POLITICAL FUNDRAISING
+
+Sec. 701. Prohibiting use of white house meals and accommodations for 
+              political fundraising.
+
+[[Page H378]]
+
+  TITLE VIII--SENSE OF THE CONGRESS REGARDING FUNDRAISING ON FEDERAL 
+                          GOVERNMENT PROPERTY
+
+Sec. 801. Sense of the Congress regarding applicability of controlling 
+              legal authority to fundraising on Federal government 
+              property.
+
+  TITLE IX--REIMBURSEMENT FOR USE OF GOVERNMENT PROPERTY FOR CAMPAIGN 
+                                ACTIVITY
+
+Sec. 901. Requiring national parties to reimburse at cost for use of 
+              Air Force One for political fundraising.
+Sec. 902. Reimbursement for use of government equipment for campaign-
+              related travel.
+
+            TITLE X--PROHIBITING USE OF WALKING AROUND MONEY
+
+Sec. 1001. Prohibiting campaigns from providing currency to individuals 
+              for purposes of encouraging turnout on date of election.
+
+            TITLE XI--ENHANCING ENFORCEMENT OF CAMPAIGN LAW
+
+Sec. 1101. Enhancing enforcement of campaign finance law.
+
+TITLE XII--SEVERABILITY; CONSTITUTIONALITY; EFFECTIVE DATE; REGULATIONS
+
+Sec. 1201. Severability.
+Sec. 1202. Review of constitutional issues.
+Sec. 1203. Effective date.
+Sec. 1204. Regulations.
+
+            TITLE I--REDUCTION OF SPECIAL INTEREST INFLUENCE
+
+     SEC. 101. SOFT MONEY OF POLITICAL PARTIES.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.) is amended by adding at the end the 
+     following new section:
+
+
+                   ``soft money of political parties
+
+       ``Sec. 323. (a) National Committees.--
+       ``(1) In general.--A national committee of a political 
+     party (including a national congressional campaign committee 
+     of a political party) and any officers or agents of such 
+     party committees, shall not solicit, receive, or direct to 
+     another person a contribution, donation, or transfer of 
+     funds, or spend any funds, that are not subject to the 
+     limitations, prohibitions, and reporting requirements of this 
+     Act.
+       ``(2) Applicability.--This subsection shall apply to an 
+     entity that is directly or indirectly established, financed, 
+     maintained, or controlled by a national committee of a 
+     political party (including a national congressional campaign 
+     committee of a political party), or an entity acting on 
+     behalf of a national committee, and an officer or agent 
+     acting on behalf of any such committee or entity.
+       ``(b) State, District, and Local Committees.--
+       ``(1) In general.--An amount that is expended or disbursed 
+     by a State, district, or local committee of a political party 
+     (including an entity that is directly or indirectly 
+     established, financed, maintained, or controlled by a State, 
+     district, or local committee of a political party and an 
+     officer or agent acting on behalf of such committee or 
+     entity) for Federal election activity shall be made from 
+     funds subject to the limitations, prohibitions, and reporting 
+     requirements of this Act.
+       ``(2) Federal election activity.--
+       ``(A) In general.--The term `Federal election activity' 
+     means--
+       ``(i) voter registration activity during the period that 
+     begins on the date that is 120 days before the date a 
+     regularly scheduled Federal election is held and ends on the 
+     date of the election;
+       ``(ii) voter identification, get-out-the-vote activity, or 
+     generic campaign activity conducted in connection with an 
+     election in which a candidate for Federal office appears on 
+     the ballot (regardless of whether a candidate for State or 
+     local office also appears on the ballot); and
+       ``(iii) a communication that refers to a clearly identified 
+     candidate for Federal office (regardless of whether a 
+     candidate for State or local office is also mentioned or 
+     identified) and is made for the purpose of influencing a 
+     Federal election (regardless of whether the communication is 
+     express advocacy).
+       ``(B) Excluded activity.--The term `Federal election 
+     activity' does not include an amount expended or disbursed by 
+     a State, district, or local committee of a political party 
+     for--
+       ``(i) campaign activity conducted solely on behalf of a 
+     clearly identified candidate for State or local office, 
+     provided the campaign activity is not a Federal election 
+     activity described in subparagraph (A);
+       ``(ii) a contribution to a candidate for State or local 
+     office, provided the contribution is not designated or used 
+     to pay for a Federal election activity described in 
+     subparagraph (A);
+       ``(iii) the costs of a State, district, or local political 
+     convention;
+       ``(iv) the costs of grassroots campaign materials, 
+     including buttons, bumper stickers, and yard signs, that name 
+     or depict only a candidate for State or local office;
+       ``(v) the non-Federal share of a State, district, or local 
+     party committee's administrative and overhead expenses (but 
+     not including the compensation in any month of an individual 
+     who spends more than 20 percent of the individual's time on 
+     Federal election activity) as determined by a regulation 
+     promulgated by the Commission to determine the non-Federal 
+     share of a State, district, or local party committee's 
+     administrative and overhead expenses; and
+       ``(vi) the cost of constructing or purchasing an office 
+     facility or equipment for a State, district or local 
+     committee.
+       ``(c) Fundraising Costs.--An amount spent by a national, 
+     State, district, or local committee of a political party, by 
+     an entity that is established, financed, maintained, or 
+     controlled by a national, State, district, or local committee 
+     of a political party, or by an agent or officer of any such 
+     committee or entity, to raise funds that are used, in whole 
+     or in part, to pay the costs of a Federal election activity 
+     shall be made from funds subject to the limitations, 
+     prohibitions, and reporting requirements of this Act.
+       ``(d) Tax-Exempt Organizations.--A national, State, 
+     district, or local committee of a political party (including 
+     a national congressional campaign committee of a political 
+     party), an entity that is directly or indirectly established, 
+     financed, maintained, or controlled by any such national, 
+     State, district, or local committee or its agent, and an 
+     officer or agent acting on behalf of any such party committee 
+     or entity, shall not solicit any funds for, or make or direct 
+     any donations to, an organization that is described in 
+     section 501(c) of the Internal Revenue Code of 1986 and 
+     exempt from taxation under section 501(a) of such Code (or 
+     has submitted an application to the Commissioner of the 
+     Internal Revenue Service for determination of tax-exemption 
+     under such section).
+       ``(e) Candidates.--
+       ``(1) In general.--A candidate, individual holding Federal 
+     office, agent of a candidate or individual holding Federal 
+     office, or an entity directly or indirectly established, 
+     financed, maintained or controlled by or acting on behalf of 
+     one or more candidates or individuals holding Federal office, 
+     shall not--
+       ``(A) solicit, receive, direct, transfer, or spend funds in 
+     connection with an election for Federal office, including 
+     funds for any Federal election activity, unless the funds are 
+     subject to the limitations, prohibitions, and reporting 
+     requirements of this Act; or
+       ``(B) solicit, receive, direct, transfer, or spend funds in 
+     connection with any election other than an election for 
+     Federal office or disburse funds in connection with such an 
+     election unless the funds--
+       ``(i) are not in excess of the amounts permitted with 
+     respect to contributions to candidates and political 
+     committees under paragraphs (1) and (2) of section 315(a); 
+     and
+       ``(ii) are not from sources prohibited by this Act from 
+     making contributions with respect to an election for Federal 
+     office.
+       ``(2) State law.--Paragraph (1) does not apply to the 
+     solicitation, receipt, or spending of funds by an individual 
+     who is a candidate for a State or local office in connection 
+     with such election for State or local office if the 
+     solicitation, receipt, or spending of funds is permitted 
+     under State law for any activity other than a Federal 
+     election activity.
+       ``(3) Fundraising events.--Notwithstanding paragraph (1), a 
+     candidate may attend, speak, or be a featured guest at a 
+     fundraising event for a State, district, or local committee 
+     of a political party.''.
+
+     SEC. 102. INCREASED CONTRIBUTION LIMITS FOR STATE COMMITTEES 
+                   OF POLITICAL PARTIES AND AGGREGATE CONTRIBUTION 
+                   LIMIT FOR INDIVIDUALS.
+
+       (a) Contribution Limit for State Committees of Political 
+     Parties.--Section 315(a)(1) of the Federal Election Campaign 
+     Act of 1971 (2 U.S.C. 441a(a)(1)) is amended--
+       (1) in subparagraph (B), by striking ``or'' at the end;
+       (2) in subparagraph (C)--
+       (A) by inserting ``(other than a committee described in 
+     subparagraph (D))'' after ``committee''; and
+       (B) by striking the period at the end and inserting ``; 
+     or''; and
+       (3) by adding at the end the following:
+       ``(D) to a political committee established and maintained 
+     by a State committee of a political party in any calendar 
+     year that, in the aggregate, exceed $10,000''.
+       (b) Aggregate Contribution Limit for Individual.--Section 
+     315(a)(3) of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 441a(a)(3)) is amended by striking ``$25,000'' and 
+     inserting ``$30,000''.
+
+     SEC. 103. REPORTING REQUIREMENTS.
+
+       (a) Reporting Requirements.--Section 304 of the Federal 
+     Election Campaign Act of 1971 (2 U.S.C. 434) (as amended by 
+     section 204) is amended by inserting after subsection (e) the 
+     following:
+       ``(f) Political Committees.--
+       ``(1) National and congressional political committees.--The 
+     national committee of a political party, any national 
+     congressional campaign committee of a political party, and 
+     any subordinate committee of either, shall report all 
+     receipts and disbursements during the reporting period.
+       ``(2) Other political committees to which section 323 
+     applies.--In addition to any other reporting requirements 
+     applicable under this Act, a political committee (not 
+     described in paragraph (1)) to which section 323(b)(1) 
+     applies shall report all receipts and disbursements made for 
+     activities described in paragraphs (2)(A) and (2)(B)(v) of 
+     section 323(b).
+       ``(3) Itemization.--If a political committee has receipts 
+     or disbursements to which this subsection applies from any 
+     person aggregating in excess of $200 for any calendar year, 
+     the political committee shall separately itemize its 
+     reporting for such person
+
+[[Page H379]]
+
+     in the same manner as required in paragraphs (3)(A), (5), and 
+     (6) of subsection (b).
+       ``(4) Reporting periods.--Reports required to be filed 
+     under this subsection shall be filed for the same time 
+     periods required for political committees under subsection 
+     (a).''.
+       (b) Building Fund Exception to the Definition of 
+     Contribution.--Section 301(8)(B) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 431(8)(B)) is amended--
+       (1) by striking clause (viii); and
+       (2) by redesignating clauses (ix) through (xv) as clauses 
+     (viii) through (xii), respectively.
+
+           TITLE II--INDEPENDENT AND COORDINATED EXPENDITURES
+
+     SEC. 201. DEFINITIONS.
+
+       (a) Definition of Independent Expenditure.--Section 301 of 
+     the Federal Election Campaign Act (2 U.S.C. 431) is amended 
+     by striking paragraph (17) and inserting the following:
+       ``(17) Independent expenditure.--
+       ``(A) In general.--The term `independent expenditure' means 
+     an expenditure by a person--
+       ``(i) for a communication that is express advocacy; and
+       ``(ii) that is not coordinated activity or is not provided 
+     in coordination with a candidate or a candidate's agent or a 
+     person who is coordinating with a candidate or a candidate's 
+     agent.''.
+       (b) Definition of Express Advocacy.--Section 301 of the 
+     Federal Election Campaign Act of 1971 (2 U.S.C. 431) is 
+     amended by adding at the end the following:
+       ``(20) Express advocacy.--
+       ``(A) In general.--The term `express advocacy' means a 
+     communication that advocates the election or defeat of a 
+     candidate by--
+       ``(i) containing a phrase such as `vote for', `re-elect', 
+     `support', `cast your ballot for', `(name of candidate) for 
+     Congress', `(name of candidate) in 1997', `vote against', 
+     `defeat', `reject', or a campaign slogan or words that in 
+     context can have no reasonable meaning other than to advocate 
+     the election or defeat of one or more clearly identified 
+     candidates;
+       ``(ii) referring to one or more clearly identified 
+     candidates in a paid advertisement that is transmitted 
+     through radio or television within 60 calendar days preceding 
+     the date of an election of the candidate and that appears in 
+     the State in which the election is occurring, except that 
+     with respect to a candidate for the office of Vice President 
+     or President, the time period is within 60 calendar days 
+     preceding the date of a general election; or
+       ``(iii) expressing unmistakable and unambiguous support for 
+     or opposition to one or more clearly identified candidates 
+     when taken as a whole and with limited reference to external 
+     events, such as proximity to an election.
+       ``(B) Voting record and voting guide exception.--The term 
+     `express advocacy' does not include a communication which is 
+     in printed form or posted on the Internet that--
+       ``(i) presents information solely about the voting record 
+     or position on a campaign issue of one or more candidates 
+     (including any statement by the sponsor of the voting record 
+     or voting guide of its agreement or disagreement with the 
+     record or position of a candidate), so long as the voting 
+     record or voting guide when taken as a whole does not express 
+     unmistakable and unambiguous support for or opposition to one 
+     or more clearly identified candidates;
+       ``(ii) is not coordinated activity or is not made in 
+     coordination with a candidate, political party, or agent of 
+     the candidate or party, or a candidate's agent or a person 
+     who is coordinating with a candidate or a candidate's agent, 
+     except that nothing in this clause may be construed to 
+     prevent the sponsor of the voting guide from directing 
+     questions in writing to a candidate about the candidate's 
+     position on issues for purposes of preparing a voter guide or 
+     to prevent the candidate from responding in writing to such 
+     questions; and
+       ``(iii) does not contain a phrase such as `vote for', `re-
+     elect', `support', `cast your ballot for', `(name of 
+     candidate) for Congress', `(name of candidate) in (year)', 
+     `vote against', `defeat', or `reject', or a campaign slogan 
+     or words that in context can have no reasonable meaning other 
+     than to urge the election or defeat of one or more clearly 
+     identified candidates.''.
+       (c) Definition of Expenditure.--Section 301(9)(A) of the 
+     Federal Election Campaign Act of 1971 (2 U.S.C. 431(9)(A)) is 
+     amended--
+       (1) in clause (i), by striking ``and'' at the end;
+       (2) in clause (ii), by striking the period at the end and 
+     inserting ``; and''; and
+       (3) by adding at the end the following:
+       ``(iii) a payment made by a political committee for a 
+     communication that--
+       ``(I) refers to a clearly identified candidate; and
+       ``(II) is for the purpose of influencing a Federal election 
+     (regardless of whether the communication is express 
+     advocacy).''.
+
+     SEC. 202. EXPRESS ADVOCACY DETERMINED WITHOUT REGARD TO 
+                   BACKGROUND MUSIC.
+
+       Section 301(20) of the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 431(20)), as added by section 201(b), is 
+     amended by adding at the end the following new subparagraph:
+       ``(C) Background music.--In determining whether any 
+     communication by television or radio broadcast constitutes 
+     express advocacy for purposes of this Act, there shall not be 
+     taken into account any background music not including lyrics 
+     used in such broadcast.''.
+
+     SEC. 203. CIVIL PENALTY.
+
+       Section 309 of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 437g) is amended--
+       (1) in subsection (a)--
+       (A) in paragraph (4)(A)--
+       (i) in clause (i), by striking ``clauses (ii)'' and 
+     inserting ``clauses (ii) and (iii)''; and
+       (ii) by adding at the end the following:
+       ``(iii) If the Commission determines by an affirmative vote 
+     of 4 of its members that there is probable cause to believe 
+     that a person has made a knowing and willful violation of 
+     section 304(c), the Commission shall not enter into a 
+     conciliation agreement under this paragraph and may institute 
+     a civil action for relief under paragraph (6)(A).''; and
+       (B) in paragraph (6)(B), by inserting ``(except an action 
+     instituted in connection with a knowing and willful violation 
+     of section 304(c))'' after ``subparagraph (A)''; and
+       (2) in subsection (d)(1)--
+       (A) in subparagraph (A), by striking ``Any person'' and 
+     inserting ``Except as provided in subparagraph (D), any 
+     person''; and
+       (B) by adding at the end the following:
+       ``(D) In the case of a knowing and willful violation of 
+     section 304(c) that involves the reporting of an independent 
+     expenditure, the violation shall not be subject to this 
+     subsection.''.
+
+     SEC. 204. REPORTING REQUIREMENTS FOR CERTAIN INDEPENDENT 
+                   EXPENDITURES.
+
+       (a) In General.--Section 304 of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 434) is amended--
+       (1) in subsection (c)(2), by striking the undesignated 
+     matter after subparagraph (C);
+       (2) by redesignating paragraph (3) of subsection (c) as 
+     subsection (g); and
+       (3) by inserting after subsection (c)(2) (as amended by 
+     paragraph (1)) the following:
+       ``(e) Time for Reporting Certain Expenditures.--
+       ``(1) Expenditures aggregating $1,000.--
+       ``(A) Initial report.--A person (including a political 
+     committee) that makes or contracts to make independent 
+     expenditures aggregating $1,000 or more after the 20th day, 
+     but more than 24 hours, before the date of an election shall 
+     file a report describing the expenditures within 24 hours 
+     after that amount of independent expenditures has been made.
+       ``(B) Additional reports.--After a person files a report 
+     under subparagraph (A), the person shall file an additional 
+     report within 24 hours after each time the person makes or 
+     contracts to make independent expenditures aggregating an 
+     additional $1,000 with respect to the same election as that 
+     to which the initial report relates.
+       ``(2) Expenditures aggregating $10,000.--
+       ``(A) Initial report.--A person (including a political 
+     committee) that makes or contracts to make independent 
+     expenditures aggregating $10,000 or more at any time up to 
+     and including the 20th day before the date of an election 
+     shall file a report describing the expenditures within 48 
+     hours after that amount of independent expenditures has been 
+     made.
+       ``(B) Additional reports.--After a person files a report 
+     under subparagraph (A), the person shall file an additional 
+     report within 48 hours after each time the person makes or 
+     contracts to make independent expenditures aggregating an 
+     additional $10,000 with respect to the same election as that 
+     to which the initial report relates.
+       ``(3) Place of filing; contents.--A report under this 
+     subsection--
+       ``(A) shall be filed with the Commission; and
+       ``(B) shall contain the information required by subsection 
+     (b)(6)(B)(iii), including the name of each candidate whom an 
+     expenditure is intended to support or oppose.''.
+       (b) Conforming Amendment.--Section 304(a)(5) of such Act (2 
+     U.S.C. 434(a)(5)) is amended by striking ``, or the second 
+     sentence of subsection (c)(2)''.
+
+     SEC. 205. INDEPENDENT VERSUS COORDINATED EXPENDITURES BY 
+                   PARTY.
+
+       Section 315(d) of the Federal Election Campaign Act (2 
+     U.S.C. 441a(d)) is amended--
+       (1) in paragraph (1), by striking ``and (3)'' and inserting 
+     ``, (3), and (4)''; and
+       (2) by adding at the end the following:
+       ``(4) Independent Versus Coordinated Expenditures by 
+     Party.--
+       ``(A) In general.--On or after the date on which a 
+     political party nominates a candidate, a committee of the 
+     political party shall not make both expenditures under this 
+     subsection and independent expenditures (as defined in 
+     section 301(17)) with respect to the candidate during the 
+     election cycle.
+       ``(B) Certification.--Before making a coordinated 
+     expenditure under this subsection with respect to a 
+     candidate, a committee of a political party shall file with 
+     the Commission a certification, signed by the treasurer of 
+     the committee, that the committee has not and shall not make 
+     any independent expenditure with respect to the candidate 
+     during the same election cycle.
+       ``(C) Application.--For the purposes of this paragraph, all 
+     political committees established and maintained by a national 
+     political party (including all congressional campaign 
+     committees) and all political committees established and 
+     maintained by a State political party (including any 
+     subordinate committee of a State committee) shall be 
+     considered to be a single political committee.
+       ``(D) Transfers.--A committee of a political party that 
+     submits a certification under subparagraph (B) with respect 
+     to a candidate shall not, during an election cycle, transfer
+
+[[Page H380]]
+
+     any funds to, assign authority to make coordinated 
+     expenditures under this subsection to, or receive a transfer 
+     of funds from, a committee of the political party that has 
+     made or intends to make an independent expenditure with 
+     respect to the candidate.''.
+
+     SEC. 206. COORDINATION WITH CANDIDATES.
+
+       (a) Definition of Coordination With Candidates.--
+       (1) Section 301(8).--Section 301(8) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 431(8)) is amended--
+       (A) in subparagraph (A)--
+       (i) by striking ``or'' at the end of clause (i);
+       (ii) by striking the period at the end of clause (ii) and 
+     inserting ``; or''; and
+       (iii) by adding at the end the following:
+       ``(iii) coordinated activity (as defined in subparagraph 
+     (C)).''; and
+       (B) by adding at the end the following:
+       ``(C) `Coordinated activity' means anything of value 
+     provided by a person in coordination with a candidate, an 
+     agent of the candidate, or the political party of the 
+     candidate or its agent for the purpose of influencing a 
+     Federal election (regardless of whether the value being 
+     provided is a communication that is express advocacy) in 
+     which such candidate seeks nomination or election to Federal 
+     office, and includes any of the following:
+       ``(i) A payment made by a person in cooperation, 
+     consultation, or concert with, at the request or suggestion 
+     of, or pursuant to any general or particular understanding 
+     with a candidate, the candidate's authorized committee, the 
+     political party of the candidate, or an agent acting on 
+     behalf of a candidate, authorized committee, or the political 
+     party of the candidate.
+       ``(ii) A payment made by a person for the production, 
+     dissemination, distribution, or republication, in whole or in 
+     part, of any broadcast or any written, graphic, or other form 
+     of campaign material prepared by a candidate, a candidate's 
+     authorized committee, or an agent of a candidate or 
+     authorized committee (not including a communication described 
+     in paragraph (9)(B)(i) or a communication that expressly 
+     advocates the candidate's defeat).
+       ``(iii) A payment made by a person based on information 
+     about a candidate's plans, projects, or needs provided to the 
+     person making the payment by the candidate or the candidate's 
+     agent who provides the information with the intent that the 
+     payment be made.
+       ``(iv) A payment made by a person if, in the same election 
+     cycle in which the payment is made, the person making the 
+     payment is serving or has served as a member, employee, 
+     fundraiser, or agent of the candidate's authorized committee 
+     in an executive or policymaking position.
+       ``(v) A payment made by a person if the person making the 
+     payment has served in any formal policy making or advisory 
+     position with the candidate's campaign or has participated in 
+     formal strategic or formal policymaking discussions (other 
+     than any discussion treated as a lobbying contact under the 
+     Lobbying Disclosure Act of 1995 in the case of a candidate 
+     holding Federal office or as a similar lobbying activity in 
+     the case of a candidate holding State or other elective 
+     office) with the candidate's campaign relating to the 
+     candidate's pursuit of nomination for election, or election, 
+     to Federal office, in the same election cycle as the election 
+     cycle in which the payment is made.
+       ``(vi) A payment made by a person if, in the same election 
+     cycle, the person making the payment retains the professional 
+     services of any person that has provided or is providing 
+     campaign-related services in the same election cycle to a 
+     candidate (including services provided through a political 
+     committee of the candidate's political party) in connection 
+     with the candidate's pursuit of nomination for election, or 
+     election, to Federal office, including services relating to 
+     the candidate's decision to seek Federal office, and the 
+     person retained is retained to work on activities relating to 
+     that candidate's campaign.
+       ``(vii) A payment made by a person who has directly 
+     participated in fundraising activities with the candidate or 
+     in the solicitation or receipt of contributions on behalf of 
+     the candidate.
+       ``(viii) A payment made by a person who has communicated 
+     with the candidate or an agent of the candidate (including a 
+     communication through a political committee of the 
+     candidate's political party) after the declaration of 
+     candidacy (including a pollster, media consultant, vendor, 
+     advisor, or staff member acting on behalf of the candidate), 
+     about advertising message, allocation of resources, 
+     fundraising, or other campaign matters related to the 
+     candidate's campaign, including campaign operations, 
+     staffing, tactics, or strategy.
+       ``(ix) The provision of in-kind professional services or 
+     polling data (including services or data provided through a 
+     political committee of the candidate's political party) to 
+     the candidate or candidate's agent.
+       ``(x) A payment made by a person who has engaged in a 
+     coordinated activity with a candidate described in clauses 
+     (i) through (ix) for a communication that clearly refers to 
+     the candidate or the candidate's opponent and is for the 
+     purpose of influencing that candidates's election (regardless 
+     of whether the communication is express advocacy).
+       ``(D) For purposes of subparagraph (C), the term 
+     `professional services' means polling, media advice, 
+     fundraising, campaign research or direct mail (except for 
+     mailhouse services solely for the distribution of voter 
+     guides as defined in section 431(20)(B)) services in support 
+     of a candidate's pursuit of nomination for election, or 
+     election, to Federal office.
+       ``(E) For purposes of subparagraph (C), all political 
+     committees established and maintained by a national political 
+     party (including all congressional campaign committees) and 
+     all political committees established and maintained by a 
+     State political party (including any subordinate committee of 
+     a State committee) shall be considered to be a single 
+     political committee.''.
+       (2) Section 315(a)(7).--Section 315(a)(7) (2 U.S.C. 
+     441a(a)(7)) is amended by striking subparagraph (B) and 
+     inserting the following:
+       ``(B) a coordinated activity, as described in section 
+     301(8)(C), shall be considered to be a contribution to the 
+     candidate, and in the case of a limitation on expenditures, 
+     shall be treated as an expenditure by the candidate.
+       (b) Meaning of Contribution or Expenditure for the Purposes 
+     of Section 316.--Section 316(b)(2) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 441b(b)) is amended by 
+     striking ``shall include'' and inserting ``includes a 
+     contribution or expenditure, as those terms are defined in 
+     section 301, and also includes''.
+
+                         TITLE III--DISCLOSURE
+
+     SEC. 301. FILING OF REPORTS USING COMPUTERS AND FACSIMILE 
+                   MACHINES.
+
+       Section 304(a) of the Federal Election Campaign Act of 1971 
+     (2 U.S.C. 434(a)) is amended by striking paragraph (11) and 
+     inserting the following:
+       ``(11)(A) The Commission shall promulgate a regulation 
+     under which a person required to file a designation, 
+     statement, or report under this Act--
+       ``(i) is required to maintain and file a designation, 
+     statement, or report for any calendar year in electronic form 
+     accessible by computers if the person has, or has reason to 
+     expect to have, aggregate contributions or expenditures in 
+     excess of a threshold amount determined by the Commission; 
+     and
+       ``(ii) may maintain and file a designation, statement, or 
+     report in electronic form or an alternative form, including 
+     the use of a facsimile machine, if not required to do so 
+     under the regulation promulgated under clause (i).
+       ``(B) The Commission shall make a designation, statement, 
+     report, or notification that is filed electronically with the 
+     Commission accessible to the public on the Internet not later 
+     than 24 hours after the designation, statement, report, or 
+     notification is received by the Commission.
+       ``(C) In promulgating a regulation under this paragraph, 
+     the Commission shall provide methods (other than requiring a 
+     signature on the document being filed) for verifying 
+     designations, statements, and reports covered by the 
+     regulation. Any document verified under any of the methods 
+     shall be treated for all purposes (including penalties for 
+     perjury) in the same manner as a document verified by 
+     signature.''.
+
+     SEC. 302. PROHIBITION OF DEPOSIT OF CONTRIBUTIONS WITH 
+                   INCOMPLETE CONTRIBUTOR INFORMATION.
+
+       Section 302 of Federal Election Campaign Act of 1971 (2 
+     U.S.C. 432) is amended by adding at the end the following:
+       ``(j) Deposit of Contributions.--The treasurer of a 
+     candidate's authorized committee shall not deposit, except in 
+     an escrow account, or otherwise negotiate a contribution from 
+     a person who makes an aggregate amount of contributions in 
+     excess of $200 during a calendar year unless the treasurer 
+     verifies that the information required by this section with 
+     respect to the contributor is complete.''.
+
+     SEC. 303. AUDITS.
+
+       (a) Random Audits.--Section 311(b) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 438(b)) is amended--
+       (1) by inserting ``(1) In general.--'' before ``The 
+     Commission'';
+       (2) by moving the text 2 ems to the right; and
+       (3) by adding at the end the following:
+       ``(2) Random audits.--
+       ``(A) In general.--Notwithstanding paragraph (1), the 
+     Commission may conduct random audits and investigations to 
+     ensure voluntary compliance with this Act. The selection of 
+     any candidate for a random audit or investigation shall be 
+     based on criteria adopted by a vote of at least four members 
+     of the Commission.
+       ``(B) Limitation.--The Commission shall not conduct an 
+     audit or investigation of a candidate's authorized committee 
+     under subparagraph (A) until the candidate is no longer a 
+     candidate for the office sought by the candidate in an 
+     election cycle.
+       ``(C) Applicability.--This paragraph does not apply to an 
+     authorized committee of a candidate for President or Vice 
+     President subject to audit under section 9007 or 9038 of the 
+     Internal Revenue Code of 1986.''.
+       (b) Extension of Period During Which Campaign Audits May Be 
+     Begun.--Section 311(b) of the Federal Election Campaign Act 
+     of 1971 (2 U.S.C. 438(b)) is amended by striking ``6 months'' 
+     and inserting ``12 months''.
+
+     SEC. 304. REPORTING REQUIREMENTS FOR CONTRIBUTIONS OF $50 OR 
+                   MORE.
+
+       Section 304(b)(3)(A) of the Federal Election Campaign Act 
+     at 1971 (2 U.S.C. 434(b)(3)(A) is amended--
+       (1) by striking ``$200'' and inserting ``$50''; and
+       (2) by striking the semicolon and inserting ``, except that 
+     in the case of a person who makes contributions aggregating 
+     at least $50
+
+[[Page H381]]
+
+     but not more than $200 during the calendar year, the 
+     identification need include only the name and address of the 
+     person;''.
+
+     SEC. 305. USE OF CANDIDATES' NAMES.
+
+       Section 302(e) of the Federal Election Campaign Act of 1971 
+     (2 U.S.C. 432(e)) is amended by striking paragraph (4) and 
+     inserting the following:
+       ``(4)(A) The name of each authorized committee shall 
+     include the name of the candidate who authorized the 
+     committee under paragraph (1).
+       ``(B) A political committee that is not an authorized 
+     committee shall not--
+       ``(i) include the name of any candidate in its name; or
+       ``(ii) except in the case of a national, State, or local 
+     party committee, use the name of any candidate in any 
+     activity on behalf of the committee in such a context as to 
+     suggest that the committee is an authorized committee of the 
+     candidate or that the use of the candidate's name has been 
+     authorized by the candidate.''.
+
+     SEC. 306. PROHIBITION OF FALSE REPRESENTATION TO SOLICIT 
+                   CONTRIBUTIONS.
+
+       Section 322 of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 441h) is amended--
+       (1) by inserting after ``Sec. 322.'' the following: ``(a) 
+     In General.--''; and
+       (2) by adding at the end the following:
+       ``(b) Solicitation of Contributions.--No person shall 
+     solicit contributions by falsely representing himself or 
+     herself as a candidate or as a representative of a candidate, 
+     a political committee, or a political party.''.
+
+     SEC. 307. SOFT MONEY OF PERSONS OTHER THAN POLITICAL PARTIES.
+
+       (a) In General.--Section 304 of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 434) (as amended by section 
+     103(c) and section 204) is amended by adding at the end the 
+     following:
+       ``(h) Disbursements of Persons Other Than Political 
+     Parties.--
+       ``(1) In general.--A person, other than a political 
+     committee of a political party or a person described in 
+     section 501(d) of the Internal Revenue Code of 1986, that 
+     makes an aggregate amount of disbursements in excess of 
+     $50,000 during a calendar year for activities described in 
+     paragraph (2) shall file a statement with the Commission--
+       ``(A) on a monthly basis as described in subsection 
+     (a)(4)(B); or
+       ``(B) in the case of disbursements that are made within 20 
+     days of an election, within 24 hours after the disbursements 
+     are made.
+       ``(2) Activity.--The activity described in this paragraph 
+     is--
+       ``(A) Federal election activity;
+       ``(B) an activity described in section 316(b)(2)(A) that 
+     expresses support for or opposition to a candidate for 
+     Federal office or a political party; and
+       ``(C) an activity described in subparagraph (B) or (C) of 
+     section 316(b)(2).
+       ``(3) Applicability.--This subsection does not apply to--
+       ``(A) a candidate or a candidate's authorized committees; 
+     or
+       ``(B) an independent expenditure.
+       ``(4) Contents.--A statement under this section shall 
+     contain such information about the disbursements made during 
+     the reporting period as the Commission shall prescribe, 
+     including--
+       ``(A) the aggregate amount of disbursements made;
+       ``(B) the name and address of the person or entity to whom 
+     a disbursement is made in an aggregate amount in excess of 
+     $200;
+       ``(C) the date made, amount, and purpose of the 
+     disbursement; and
+       ``(D) if applicable, whether the disbursement was in 
+     support of, or in opposition to, a candidate or a political 
+     party, and the name of the candidate or the political 
+     party.''.
+       (b) Definition of Generic Campaign Activity.--Section 301 
+     of the Federal Election Campaign Act of 1971 (2 U.S.C. 431 et 
+     seq.) (as amended by section 201(b)) is further amended by 
+     adding at the end the following:
+       ``(21) Generic campaign activity.--The term `generic 
+     campaign activity' means an activity that promotes a 
+     political party and does not promote a candidate or non-
+     Federal candidate.''.
+
+     SEC. 308. CAMPAIGN ADVERTISING.
+
+       Section 318 of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 441d) is amended--
+       (1) in subsection (a)--
+       (A) in the matter preceding paragraph (1)--
+       (i) by striking ``Whenever'' and inserting ``Whenever a 
+     political committee makes a disbursement for the purpose of 
+     financing any communication through any broadcasting station, 
+     newspaper, magazine, outdoor advertising facility, mailing, 
+     or any other type of general public political advertising, or 
+     whenever'';
+       (ii) by striking ``an expenditure'' and inserting ``a 
+     disbursement''; and
+       (iii) by striking ``direct''; and
+       (B) in paragraph (3), by inserting ``and permanent street 
+     address'' after ``name''; and
+       (2) by adding at the end the following:
+       ``(c) Any printed communication described in subsection (a) 
+     shall--
+       ``(1) be of sufficient type size to be clearly readable by 
+     the recipient of the communication;
+       ``(2) be contained in a printed box set apart from the 
+     other contents of the communication; and
+       ``(3) be printed with a reasonable degree of color contrast 
+     between the background and the printed statement.
+       ``(d)(1) Any communication described in paragraphs (1) or 
+     (2) of subsection (a) which is transmitted through radio or 
+     television shall include, in addition to the requirements of 
+     that paragraph, an audio statement by the candidate that 
+     identifies the candidate and states that the candidate has 
+     approved the communication.
+       ``(2) If a communication described in paragraph (1) is 
+     transmitted through television, the communication shall 
+     include, in addition to the audio statement under paragraph 
+     (1), a written statement that--
+       ``(A) appears at the end of the communication in a clearly 
+     readable manner with a reasonable degree of color contrast 
+     between the background and the printed statement, for a 
+     period of at least 4 seconds; and
+       ``(B) is accompanied by a clearly identifiable photographic 
+     or similar image of the candidate.
+       ``(e) Any communication described in paragraph (3) of 
+     subsection (a) which is transmitted through radio or 
+     television shall include, in addition to the requirements of 
+     that paragraph, in a clearly spoken manner, the following 
+     statement: `________________ is responsible for the content 
+     of this advertisement.' (with the blank to be filled in with 
+     the name of the political committee or other person paying 
+     for the communication and the name of any connected 
+     organization of the payor). If transmitted through 
+     television, the statement shall also appear in a clearly 
+     readable manner with a reasonable degree of color contrast 
+     between the background and the printed statement, for a 
+     period of at least 4 seconds.''.
+
+                    TITLE IV--PERSONAL WEALTH OPTION
+
+     SEC. 401. VOLUNTARY PERSONAL FUNDS EXPENDITURE LIMIT.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.), as amended by section 101, is further 
+     amended by adding at the end the following new section:
+
+
+              ``voluntary personal funds expenditure limit
+
+       ``Sec. 324. (a) Eligible Congressional Candidate.--
+       ``(1) Primary election.--
+       ``(A) Declaration.--A candidate for election for Senator or 
+     Representative in or Delegate or Resident Commissioner to the 
+     Congress is an eligible primary election Congressional 
+     candidate if the candidate files with the Commission a 
+     declaration that the candidate and the candidate's authorized 
+     committees will not make expenditures in excess of the 
+     personal funds expenditure limit.
+       ``(B) Time to file.--The declaration under subparagraph (A) 
+     shall be filed not later than the date on which the candidate 
+     files with the appropriate State officer as a candidate for 
+     the primary election.
+       ``(2) General election.--
+       ``(A) Declaration.--A candidate for election for Senator or 
+     Representative in or Delegate or Resident Commissioner to the 
+     Congress is an eligible general election Congressional 
+     candidate if the candidate files with the Commission--
+       ``(i) a declaration under penalty of perjury, with 
+     supporting documentation as required by the Commission, that 
+     the candidate and the candidate's authorized committees did 
+     not exceed the personal funds expenditure limit in connection 
+     with the primary election; and
+       ``(ii) a declaration that the candidate and the candidate's 
+     authorized committees will not make expenditures in excess of 
+     the personal funds expenditure limit.
+       ``(B) Time to file.--The declaration under subparagraph (A) 
+     shall be filed not later than 7 days after the earlier of--
+       ``(i) the date on which the candidate qualifies for the 
+     general election ballot under State law; or
+       ``(ii) if under State law, a primary or run-off election to 
+     qualify for the general election ballot occurs after 
+     September 1, the date on which the candidate wins the primary 
+     or runoff election.
+       ``(b) Personal Funds Expenditure Limit.--
+       ``(1) In general.--The aggregate amount of expenditures 
+     that may be made in connection with an election by an 
+     eligible Congressional candidate or the candidate's 
+     authorized committees from the sources described in paragraph 
+     (2) shall not exceed $50,000.
+       ``(2) Sources.--A source is described in this paragraph if 
+     the source is--
+       ``(A) personal funds of the candidate and members of the 
+     candidate's immediate family; or
+       ``(B) proceeds of indebtedness incurred by the candidate or 
+     a member of the candidate's immediate family.
+       ``(c) Certification by the Commission.--
+       ``(1) In general.--The Commission shall determine whether a 
+     candidate has met the requirements of this section and, based 
+     on the determination, issue a certification stating whether 
+     the candidate is an eligible Congressional candidate.
+       ``(2) Time for certification.--Not later than 7 business 
+     days after a candidate files a declaration under paragraph 
+     (1) or (2) of subsection (a), the Commission shall certify 
+     whether the candidate is an eligible Congressional candidate.
+       ``(3) Revocation.--The Commission shall revoke a 
+     certification under paragraph (1), based on information 
+     submitted in such form and manner as the Commission may 
+     require or on information that comes to the Commission by 
+     other means, if the Commission determines that a candidate 
+     violates the personal funds expenditure limit.
+       ``(4) Determinations by commission.--A determination made 
+     by the Commission
+
+[[Page H382]]
+
+     under this subsection shall be final, except to the extent 
+     that the determination is subject to examination and audit by 
+     the Commission and to judicial review.
+       ``(d) Penalty.--If the Commission revokes the certification 
+     of an eligible Congressional candidate--
+       ``(1) the Commission shall notify the candidate of the 
+     revocation; and
+       ``(2) the candidate and a candidate's authorized committees 
+     shall pay to the Commission an amount equal to the amount of 
+     expenditures made by a national committee of a political 
+     party or a State committee of a political party in connection 
+     with the general election campaign of the candidate under 
+     section 315(d).''.
+
+     SEC. 402. POLITICAL PARTY COMMITTEE COORDINATED EXPENDITURES.
+
+       Section 315(d) of the Federal Election Campaign Act of 1971 
+     (2 U.S.C. 441a(d)) (as amended by section 204) is amended by 
+     adding at the end the following:
+       ``(5) This subsection does not apply to expenditures made 
+     in connection with the general election campaign of a 
+     candidate for Senator or Representative in or Delegate or 
+     Resident Commissioner to the Congress who is not an eligible 
+     Congressional candidate (as defined in section 324(a)).''.
+
+                         TITLE V--MISCELLANEOUS
+
+     SEC. 501. USE OF CONTRIBUTED AMOUNTS FOR CERTAIN PURPOSES.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.) is amended by striking section 313 and 
+     inserting the following:
+
+
+           ``use of contributed amounts for certain purposes
+
+       ``Sec. 313. (a) Permitted Uses.--A contribution accepted by 
+     a candidate, and any other amount received by an individual 
+     as support for activities of the individual as a holder of 
+     Federal office, may be used by the candidate or individual--
+       ``(1) for expenditures in connection with the campaign for 
+     Federal office of the candidate or individual;
+       ``(2) for ordinary and necessary expenses incurred in 
+     connection with duties of the individual as a holder of 
+     Federal office;
+       ``(3) for contributions to an organization described in 
+     section 170(c) of the Internal Revenue Code of 1986; or
+       ``(4) for transfers to a national, State, or local 
+     committee of a political party.
+       ``(b) Prohibited Use.--
+       ``(1) In general.--A contribution or amount described in 
+     subsection (a) shall not be converted by any person to 
+     personal use.
+       ``(2) Conversion.--For the purposes of paragraph (1), a 
+     contribution or amount shall be considered to be converted to 
+     personal use if the contribution or amount is used to fulfill 
+     any commitment, obligation, or expense of a person that would 
+     exist irrespective of the candidate's election campaign or 
+     individual's duties as a holder of Federal officeholder, 
+     including--
+       ``(A) a home mortgage, rent, or utility payment;
+       ``(B) a clothing purchase;
+       ``(C) a noncampaign-related automobile expense;
+       ``(D) a country club membership;
+       ``(E) a vacation or other noncampaign-related trip;
+       ``(F) a household food item;
+       ``(G) a tuition payment;
+       ``(H) admission to a sporting event, concert, theater, or 
+     other form of entertainment not associated with an election 
+     campaign; and
+       ``(I) dues, fees, and other payments to a health club or 
+     recreational facility.''.
+
+     SEC. 502. PROHIBITION OF FUNDRAISING ON FEDERAL PROPERTY.
+
+       Section 607 of title 18, United States Code, is amended--
+       (1) by striking subsection (a) and inserting the following:
+       ``(a) Prohibition.--
+       ``(1) In general.--It shall be unlawful for any person to 
+     solicit or receive a donation of money or other thing of 
+     value in connection with a Federal, State, or local election 
+     from a person who is located in a room or building occupied 
+     in the discharge of official duties by an officer or employee 
+     of the United States. An individual who is an officer or 
+     employee of the Federal Government, including the President, 
+     Vice President, and Members of Congress, shall not solicit a 
+     donation of money or other thing of value in connection with 
+     a Federal, State, or local election while in any room or 
+     building occupied in the discharge of official duties by an 
+     officer or employee of the United States, from any person.
+       ``(2) Penalty.--A person who violates this section shall be 
+     fined not more than $5,000, imprisoned more than 3 years, or 
+     both.''; and
+       (2) in subsection (b), by inserting ``or Executive Office 
+     of the President'' after ``Congress''.
+
+     SEC. 503. PENALTIES FOR VIOLATIONS.
+
+       (a) Increased Penalties.--Section 309(a) of the Federal 
+     Election Campaign Act of 1971 (2 U.S.C. 437g(a)) is amended--
+       (1) in paragraphs (5)(A), (6)(A), and (6)(B), by striking 
+     ``$5,000'' and inserting ``$10,000''; and
+       (2) in paragraphs (5)(B) and (6)(C), by striking ``$10,000 
+     or an amount equal to 200 percent'' and inserting ``$20,000 
+     or an amount equal to 300 percent''.
+       (b) Equitable Remedies.--Section 309(a)(5)(A) of the 
+     Federal Election Campaign Act of 1971 (2 U.S.C. 437g(a)(5)) 
+     is amended by striking the period at the end and inserting 
+     ``, and may include equitable remedies or penalties, 
+     including disgorgement of funds to the Treasury or community 
+     service requirements (including requirements to participate 
+     in public education programs).''.
+       (c) Automatic Penalty for Late Filing.--Section 309(a) of 
+     the Federal Election Campaign Act of 1971 (2 U.S.C. 437g(a)) 
+     is amended--
+       (1) by adding at the end the following:
+       ``(13) Penalty for Late Filing.--
+       ``(A) In general.--
+       ``(i) Monetary penalties.--The Commission shall establish a 
+     schedule of mandatory monetary penalties that shall be 
+     imposed by the Commission for failure to meet a time 
+     requirement for filing under section 304.
+       ``(ii) Required filing.--In addition to imposing a penalty, 
+     the Commission may require a report that has not been filed 
+     within the time requirements of section 304 to be filed by a 
+     specific date.
+       ``(iii) Procedure.--A penalty or filing requirement imposed 
+     under this paragraph shall not be subject to paragraph (1), 
+     (2), (3), (4), (5), or (12).
+       ``(B) Filing an exception.--
+       ``(i) Time to file.--A political committee shall have 30 
+     days after the imposition of a penalty or filing requirement 
+     by the Commission under this paragraph in which to file an 
+     exception with the Commission.
+       ``(ii) Time for commission to rule.--Within 30 days after 
+     receiving an exception, the Commission shall make a 
+     determination that is a final agency action subject to 
+     exclusive review by the United States Court of Appeals for 
+     the District of Columbia Circuit under section 706 of title 
+     5, United States Code, upon petition filed in that court by 
+     the political committee or treasurer that is the subject of 
+     the agency action, if the petition is filed within 30 days 
+     after the date of the Commission action for which review is 
+     sought.'';
+       (2) in paragraph (5)(D)--
+       (A) by inserting after the first sentence the following: 
+     ``In any case in which a penalty or filing requirement 
+     imposed on a political committee or treasurer under paragraph 
+     (13) has not been satisfied, the Commission may institute a 
+     civil action for enforcement under paragraph (6)(A).''; and
+       (B) by inserting before the period at the end of the last 
+     sentence the following: ``or has failed to pay a penalty or 
+     meet a filing requirement imposed under paragraph (13)''; and
+       (3) in paragraph (6)(A), by striking ``paragraph (4)(A)'' 
+     and inserting ``paragraph (4)(A) or (13)''.
+
+     SEC. 504. STRENGTHENING FOREIGN MONEY BAN.
+
+       (a) In General.--Section 319 of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 441e) is amended--
+       (1) by striking the heading and inserting the following: 
+     ``contributions and donations by foreign nationals''; and
+       (2) by striking subsection (a) and inserting the following:
+       ``(a) Prohibition.--It shall be unlawful for--
+       ``(1) a foreign national, directly or indirectly, to make--
+       ``(A) a donation of money or other thing of value, or to 
+     promise expressly or impliedly to make a donation, in 
+     connection with a Federal, State, or local election; or
+       ``(B) a contribution or donation to a committee of a 
+     political party; or
+       ``(2) a person to solicit, accept, or receive such a 
+     contribution or donation from a foreign national.''.
+       (b) Prohibiting Use of Willful Blindness as Defense Against 
+     Charge of Violating Foreign Contribution Ban.--
+       (1) In general.--Section 319 of such Act (2 U.S.C. 441e) is 
+     amended--
+       (A) by redesignating subsection (b) as subsection (c); and
+       (B) by inserting after subsection (a) the following new 
+     subsection:
+       ``(b) Prohibiting Use of Willful Blindness Defense.--It 
+     shall not be a defense to a violation of subsection (a) that 
+     the defendant did not know that the contribution originated 
+     from a foreign national if the defendant should have known 
+     that the contribution originated from a foreign national, 
+     except that the trier of fact may not find that the defendant 
+     should have known that the contribution originated from a 
+     foreign national solely because of the name of the 
+     contributor.''.
+       (2) Effective date.--The amendments made by this subsection 
+     shall apply with respect to violations occurring on or after 
+     the date of the enactment of this Act.
+       (c) Prohibition Applicable to All Individuals Who Are Not 
+     Citizens or Nationals of the United States.--Section 
+     319(b)(2) of such Act (2 U.S.C. 441e(b)(2)) is amended by 
+     striking the period at the end and inserting the following: 
+     ``, or in the case of an election for Federal office, an 
+     individual who is not a citizen of the United States or a 
+     national of the United States (as defined in section 
+     101(a)(22) of the Immigration and Nationality Act).''.
+
+     SEC. 505. PROHIBITION OF CONTRIBUTIONS BY MINORS.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.), as amended by sections 101 and 401, is 
+     further amended by adding at the end the following new 
+     section:
+
+
+                ``prohibition of contributions by minors
+
+       ``Sec. 325. An individual who is 17 years old or younger 
+     shall not make a contribution to
+
+[[Page H383]]
+
+     a candidate or a contribution or donation to a committee of a 
+     political party.''.
+
+     SEC. 506. EXPEDITED PROCEDURES.
+
+       (a) In General.--Section 309(a) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 437g(a)) (as amended by 
+     section 503(c)) is amended by adding at the end the 
+     following:
+       ``(14)(A) If the complaint in a proceeding was filed within 
+     60 days preceding the date of a general election, the 
+     Commission may take action described in this subparagraph.
+       ``(B) If the Commission determines, on the basis of facts 
+     alleged in the complaint and other facts available to the 
+     Commission, that there is clear and convincing evidence that 
+     a violation of this Act has occurred, is occurring, or is 
+     about to occur, the Commission may order expedited 
+     proceedings, shortening the time periods for proceedings 
+     under paragraphs (1), (2), (3), and (4) as necessary to allow 
+     the matter to be resolved in sufficient time before the 
+     election to avoid harm or prejudice to the interests of the 
+     parties.
+       ``(C) If the Commission determines, on the basis of facts 
+     alleged in the complaint and other facts available to the 
+     Commission, that the complaint is clearly without merit, the 
+     Commission may--
+       ``(i) order expedited proceedings, shortening the time 
+     periods for proceedings under paragraphs (1), (2), (3), and 
+     (4) as necessary to allow the matter to be resolved in 
+     sufficient time before the election to avoid harm or 
+     prejudice to the interests of the parties; or
+       ``(ii) if the Commission determines that there is 
+     insufficient time to conduct proceedings before the election, 
+     summarily dismiss the complaint.''.
+       (b) Referral to Attorney General.--Section 309(a)(5) of the 
+     Federal Election Campaign Act of 1971 (2 U.S.C. 437g(a)(5)) 
+     is amended by striking subparagraph (C) and inserting the 
+     following:
+       ``(C) The Commission may at any time, by an affirmative 
+     vote of at least 4 of its members, refer a possible violation 
+     of this Act or chapter 95 or 96 of the Internal Revenue Code 
+     of 1986, to the Attorney General of the United States, 
+     without regard to any limitation set forth in this 
+     section.''.
+
+     SEC. 507. INITIATION OF ENFORCEMENT PROCEEDING.
+
+       Section 309(a)(2) of the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 437g(a)(2)) is amended by striking ``reason to 
+     believe that'' and inserting ``reason to investigate 
+     whether''.
+
+     SEC. 508. PROTECTING EQUAL PARTICIPATION OF ELIGIBLE VOTERS 
+                   IN CAMPAIGNS AND ELECTIONS.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.), as amended by sections 101, 401, and 
+     505, is further amended by adding at the end the following 
+     new section:
+
+
+ ``protecting equal participation of eligible voters in campaigns and 
+                               elections
+
+       ``Sec. 326. (a) In General.--Nothing in this Act may be 
+     construed to prohibit any individual eligible to vote in an 
+     election for Federal office from making contributions or 
+     expenditures in support of a candidate for such an election 
+     (including voluntary contributions or expenditures made 
+     through a separate segregated fund established by the 
+     individual's employer or labor organization) or otherwise 
+     participating in any campaign for such an election in the 
+     same manner and to the same extent as any other individual 
+     eligible to vote in an election for such office.
+       ``(b) No Effect on Geographic Restrictions on 
+     Contributions.--Subsection (a) may not be construed to affect 
+     any restriction under this title regarding the portion of 
+     contributions accepted by a candidate from persons residing 
+     in a particular geographic area.''.
+
+     SEC. 509. PENALTY FOR VIOLATION OF PROHIBITION AGAINST 
+                   FOREIGN CONTRIBUTIONS.
+
+       (a) In General.--Section 319 of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 441e), as amended by section 
+     504(b), is further amended--
+       (1) by redesignating subsection (c) as subsection (d); and
+       (2) by inserting after subsection (b) the following new 
+     subsection:
+       ``(c) Penalty.--
+       ``(1) In general.--Except as provided in paragraph (2), 
+     notwithstanding any other provision of this title any person 
+     who violates subsection (a) shall be sentenced to a term of 
+     imprisonment which may not be more than 10 years, fined in an 
+     amount not to exceed $1,000,000, or both.
+       ``(2) Exception.--Paragraph (1) shall not apply with 
+     respect to any violation of subsection (a) arising from a 
+     contribution or donation made by an individual who is 
+     lawfully admitted for permanent residence (as defined in 
+     section 101(a)(22) of the Immigration and Nationality 
+     Act).''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply with respect to violations occurring on or after 
+     the date of the enactment of this Act.
+
+     SEC. 510. EXPEDITED COURT REVIEW OF CERTAIN ALLEGED 
+                   VIOLATIONS OF FEDERAL ELECTION CAMPAIGN ACT OF 
+                   1971.
+
+       (a) In General.--Section 309 of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 437g) is amended--
+       (1) by redesignating subsection (d) as subsection (e); and
+       (2) by inserting after subsection (c) the following new 
+     subsection:
+       ``(d) Notwithstanding any other provision of this section, 
+     if a candidate (or the candidate's authorized committee) 
+     believes that a violation described in paragraph (2) has been 
+     committed with respect to an election during the 90-day 
+     period preceding the date of the election, the candidate or 
+     committee may institute a civil action on behalf of the 
+     Commission for relief (including injunctive relief) against 
+     the alleged violator in the same manner and under the same 
+     terms and conditions as an action instituted by the 
+     Commission under subsection (a)(6), except that the court 
+     involved shall issue a decision regarding the action as soon 
+     as practicable after the action is instituted and to the 
+     greatest extent possible issue the decision prior to the date 
+     of the election involved.
+       ``(2) A violation described in this paragraph is a 
+     violation of this Act or of chapter 95 or chapter 96 of the 
+     Internal Revenue Code of 1986 relating to--
+       ``(A) whether a contribution is in excess of an applicable 
+     limit or is otherwise prohibited under this Act; or
+       ``(B) whether an expenditure is an independent expenditure 
+     under section 301(17).''.
+       (b) Effective Date.--The amendments made by this section 
+     shall apply with respect to elections occurring after the 
+     date of the enactment of this Act.
+
+     SEC. 511. DEPOSIT OF CERTAIN CONTRIBUTIONS AND DONATIONS IN 
+                   TREASURY ACCOUNT.
+
+       (a) In General.--Title III of the Federal Election Campaign 
+     Act of 1971 (2 U.S.C. 431 et seq.), as amended by sections 
+     101, 401, 505, and 508, is further amended by adding at the 
+     end the following new section:
+
+
+ ``treatment of certain contributions and donations to be returned to 
+                                 donors
+
+       ``Sec. 327. (a) Transfer to Commission.--
+       ``(1) In general.--Notwithstanding any other provision of 
+     this Act, if a political committee intends to return any 
+     contribution or donation given to the political committee, 
+     the committee shall transfer the contribution or donation to 
+     the Commission if--
+       ``(A) the contribution or donation is in an amount equal to 
+     or greater than $500 (other than a contribution or donation 
+     returned within 60 days of receipt by the committee); or
+       ``(B) the contribution or donation was made in violation of 
+     section 315, 316, 317, 319, 320, or 325 (other than a 
+     contribution or donation returned within 30 days of receipt 
+     by the committee).
+       ``(2) Information included with transferred contribution or 
+     donation.--A political committee shall include with any 
+     contribution or donation transferred under paragraph (1)--
+       ``(A) a request that the Commission return the contribution 
+     or donation to the person making the contribution or 
+     donation; and
+       ``(B) information regarding the circumstances surrounding 
+     the making of the contribution or donation and any opinion of 
+     the political committee concerning whether the contribution 
+     or donation may have been made in violation of this Act.
+       ``(3) Establishment of escrow account.--
+       ``(A) In general.--The Commission shall establish a single 
+     interest-bearing escrow account for deposit of amounts 
+     transferred under paragraph (1).
+       ``(B) Disposition of amounts received.--On receiving an 
+     amount from a political committee under paragraph (1), the 
+     Commission shall--
+       ``(i) deposit the amount in the escrow account established 
+     under subparagraph (A); and
+       ``(ii) notify the Attorney General and the Commissioner of 
+     the Internal Revenue Service of the receipt of the amount 
+     from the political committee.
+       ``(C) Use of interest.--Interest earned on amounts in the 
+     escrow account established under subparagraph (A) shall be 
+     applied or used for the same purposes as the donation or 
+     contribution on which it is earned.
+       ``(4) Treatment of returned contribution or donation as a 
+     complaint.--The transfer of any contribution or donation to 
+     the Commission under this section shall be treated as the 
+     filing of a complaint under section 309(a).
+       ``(b) Use of Amounts Placed in Escrow To Cover Fines and 
+     Penalties.--The Commission or the Attorney General may 
+     require any amount deposited in the escrow account under 
+     subsection (a)(3) to be applied toward the payment of any 
+     fine or penalty imposed under this Act or title 18, United 
+     States Code, against the person making the contribution or 
+     donation.
+       ``(c) Return of Contribution or Donation After Deposit in 
+     Escrow.--
+       ``(1) In general.--The Commission shall return a 
+     contribution or donation deposited in the escrow account 
+     under subsection (a)(3) to the person making the contribution 
+     or donation if--
+       ``(A) within 180 days after the date the contribution or 
+     donation is transferred, the Commission has not made a 
+     determination under section 309(a)(2) that the Commission has 
+     reason to investigate whether that the making of the 
+     contribution or donation was made in violation of this Act; 
+     or
+       ``(B)(i) the contribution or donation will not be used to 
+     cover fines, penalties, or costs pursuant to subsection (b); 
+     or
+       ``(ii) if the contribution or donation will be used for 
+     those purposes, that the amounts required for those purposes 
+     have been withdrawn from the escrow account and subtracted 
+     from the returnable contribution or donation.
+       ``(2) No effect on status of investigation.--The return of 
+     a contribution or donation by the Commission under this 
+     subsection shall not be construed as having an
+
+[[Page H384]]
+
+     effect on the status of an investigation by the Commission or 
+     the Attorney General of the contribution or donation or the 
+     circumstances surrounding the contribution or donation, or on 
+     the ability of the Commission or the Attorney General to take 
+     future actions with respect to the contribution or 
+     donation.''.
+       (b) Amounts Used To Determine Amount of Penalty for 
+     Violation.--Section 309(a) of such Act (2 U.S.C. 437g(a)) is 
+     amended by inserting after paragraph (9) the following new 
+     paragraph:
+       ``(10) For purposes of determining the amount of a civil 
+     penalty imposed under this subsection for violations of 
+     section 326, the amount of the donation involved shall be 
+     treated as the amount of the contribution involved.''.
+       (c) Disgorgement Authority.--Section 309 of such Act (2 
+     U.S.C. 437g) is amended by adding at the end the following 
+     new subsection:
+       ``(e) Any conciliation agreement, civil action, or criminal 
+     action entered into or instituted under this section may 
+     require a person to forfeit to the Treasury any contribution, 
+     donation, or expenditure that is the subject of the agreement 
+     or action for transfer to the Commission for deposit in 
+     accordance with section 326.''.
+       (d) Effective Date.--The amendments made by subsections (a) 
+     and (b) shall apply to contributions or donations refunded on 
+     or after the date of the enactment of this Act, without 
+     regard to whether the Federal Election Commission or Attorney 
+     General has issued regulations to carry out section 326 of 
+     the Federal Election Campaign Act of 1971 (as added by 
+     subsection (a)) by such date.
+
+     SEC. 512. ESTABLISHMENT OF A CLEARINGHOUSE OF INFORMATION ON 
+                   POLITICAL ACTIVITIES WITHIN THE FEDERAL 
+                   ELECTION COMMISSION.
+
+       (a) Establishment.--There shall be established within the 
+     Federal Election Commission a clearinghouse of public 
+     information regarding the political activities of foreign 
+     principals and agents of foreign principals. The information 
+     comprising this clearinghouse shall include only the 
+     following:
+       (1) All registrations and reports filed pursuant to the 
+     Lobbying Disclosure Act of 1995 (2 U.S.C. 1601 et seq.) 
+     during the preceding 5-year period.
+       (2) All registrations and reports filed pursuant to the 
+     Foreign Agents Registration Act, as amended (22 U.S.C. 611 et 
+     seq.), during the preceding 5-year period.
+       (3) The listings of public hearings, hearing witnesses, and 
+     witness affiliations printed in the Congressional Record 
+     during the preceding 5-year period.
+       (4) Public information disclosed pursuant to the rules of 
+     the Senate or the House of Representatives regarding 
+     honoraria, the receipt of gifts, travel, and earned and 
+     unearned income.
+       (5) All reports filed pursuant to title I of the Ethics in 
+     Government Act of 1978 (5 U.S.C. App.) during the preceding 
+     5-year period.
+       (6) All public information filed with the Federal Election 
+     Commission pursuant to the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 431 et seq.) during the preceding 5-year 
+     period.
+       (b) Disclosure of Other Information Prohibited.--The 
+     disclosure by the clearinghouse, or any officer or employee 
+     thereof, of any information other than that set forth in 
+     subsection (a) is prohibited, except as otherwise provided by 
+     law.
+       (c) Director of Clearinghouse.--
+       (1) Duties.--The clearinghouse shall have a Director, who 
+     shall administer and manage the responsibilities and all 
+     activities of the clearinghouse. In carrying out such duties, 
+     the Director shall--
+       (A) develop a filing, coding, and cross-indexing system to 
+     carry out the purposes of this section (which shall include 
+     an index of all persons identified in the reports, 
+     registrations, and other information comprising the 
+     clearinghouse);
+       (B) notwithstanding any other provision of law, make copies 
+     of registrations, reports, and other information comprising 
+     the clearinghouse available for public inspection and 
+     copying, beginning not later than 30 days after the 
+     information is first available to the public, and permit 
+     copying of any such registration, report, or other 
+     information by hand or by copying machine or, at the request 
+     of any person, furnish a copy of any such registration, 
+     report, or other information upon payment of the cost of 
+     making and furnishing such copy, except that no information 
+     contained in such registration or report and no such other 
+     information shall be sold or used by any person for the 
+     purpose of soliciting contributions or for any profit-making 
+     purpose; and
+       (C) not later than 150 days after the date of the enactment 
+     of this Act and at any time thereafter, to prescribe, in 
+     consultation with the Comptroller General, such rules, 
+     regulations, and forms, in conformity with the provisions of 
+     chapter 5 of title 5, United States Code, as are necessary to 
+     carry out the provisions of this section in the most 
+     effective and efficient manner.
+       (2) Appointment.--The Director shall be appointed by the 
+     Federal Election Commission.
+       (3) Term of service.--The Director shall serve a single 
+     term of a period of time determined by the Commission, but 
+     not to exceed 5 years.
+       (d) Penalties for Disclosure of Information.--Any person 
+     who discloses information in violation of subsection (b), and 
+     any person who sells or uses information for the purpose of 
+     soliciting contributions or for any profit-making purpose in 
+     violation of subsection (c)(1)(B), shall be imprisoned for a 
+     period of not more than 1 year, or fined in the amount 
+     provided in title 18, United States Code, or both.
+       (e) Authorization of Appropriations.--There are authorized 
+     to be appropriated such sums as may be necessary to conduct 
+     the activities of the clearinghouse.
+       (f) Foreign Principal.--In this section, the term ``foreign 
+     principal'' shall have the same meaning given the term 
+     ``foreign national'' under section 319 of the Federal 
+     Election Campaign Act of 1971 (2 U.S.C. 441e), as in effect 
+     as of the date of the enactment of this Act.
+
+     SEC. 513. CLARIFICATION OF RIGHT OF NATIONALS OF THE UNITED 
+                   STATES TO MAKE POLITICAL CONTRIBUTIONS.
+
+       Section 319(d)(2) of the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 441e(d)(2)), as amended by sections 504(b) and 
+     509(a), is further amended by inserting after ``United 
+     States'' the following: ``or a national of the United States 
+     (as defined in section 101(a)(22) of the Immigration and 
+     Nationality Act)''.
+
+      TITLE VI--INDEPENDENT COMMISSION ON CAMPAIGN FINANCE REFORM
+
+     SEC. 601. ESTABLISHMENT AND PURPOSE OF COMMISSION.
+
+       There is established a commission to be known as the 
+     ``Independent Commission on Campaign Finance Reform'' 
+     (referred to in this title as the ``Commission''). The 
+     purposes of the Commission are to study the laws relating to 
+     the financing of political activity and to report and 
+     recommend legislation to reform those laws.
+
+     SEC. 602. MEMBERSHIP OF COMMISSION.
+
+       (a) Composition.--The Commission shall be composed of 12 
+     members appointed within 15 days after the date of the 
+     enactment of this Act by the President from among individuals 
+     who are not incumbent Members of Congress and who are 
+     specially qualified to serve on the Commission by reason of 
+     education, training, or experience.
+       (b) Appointment.--
+       (1) In general.--Members shall be appointed as follows:
+       (A) Three members (one of whom shall be a political 
+     independent) shall be appointed from among a list of nominees 
+     submitted by the Speaker of the House of Representatives.
+       (B) Three members (one of whom shall be a political 
+     independent) shall be appointed from among a list of nominees 
+     submitted by the majority leader of the Senate.
+       (C) Three members (one of whom shall be a political 
+     independent) shall be appointed from among a list of nominees 
+     submitted by the minority leader of the House of 
+     Representatives.
+       (D) Three members (one of whom shall be a political 
+     independent) shall be appointed from among a list of nominees 
+     submitted by the minority leader of the Senate.
+       (2) Failure to submit list of nominees.--If an official 
+     described in any of the subparagraphs of paragraph (1) fails 
+     to submit a list of nominees to the President during the 15-
+     day period which begins on the date of the enactment of this 
+     Act--
+       (A) such subparagraph shall no longer apply; and
+       (B) the President shall appoint three members (one of whom 
+     shall be a political independent) who meet the requirements 
+     described in subsection (a) and such other criteria as the 
+     President may apply.
+       (3) Political independent defined.--In this subsection, the 
+     term ``political independent'' means an individual who at no 
+     time after January 1992--
+       (A) has held elective office as a member of the Democratic 
+     or Republican party;
+       (B) has received any wages or salary from the Democratic or 
+     Republican party or from a Democratic or Republican party 
+     office-holder or candidate; or
+       (C) has provided substantial volunteer services or made any 
+     substantial contribution to the Democratic or Republican 
+     party or to a Democratic or Republican party office-holder or 
+     candidate.
+       (c) Chairman.--At the time of the appointment, the 
+     President shall designate one member of the Commission as 
+     Chairman of the Commission.
+       (d) Terms.--The members of the Commission shall serve for 
+     the life of the Commission.
+       (e) Vacancies.--A vacancy in the Commission shall be filled 
+     in the manner in which the original appointment was made.
+       (f) Political Affiliation.--Not more than four members of 
+     the Commission may be of the same political party.
+
+     SEC. 603. POWERS OF COMMISSION.
+
+       (a) Hearings.--The Commission may, for the purpose of 
+     carrying out this title, hold hearings, sit and act at times 
+     and places, take testimony, and receive evidence as the 
+     Commission considers appropriate. In carrying out the 
+     preceding sentence, the Commission shall ensure that a 
+     substantial number of its meetings are open meetings, with 
+     significant opportunities for testimony from members of the 
+     general public.
+       (b) Quorum.--Seven members of the Commission shall 
+     constitute a quorum, but a lesser number may hold hearings. 
+     The approval of at least nine members of the Commission is 
+     required when approving all or a portion of the recommended 
+     legislation. Any member of the Commission may, if authorized 
+     by the Commission, take any action which the Commission is 
+     authorized to take under this section.
+
+[[Page H385]]
+
+     SEC. 604. REPORT AND RECOMMENDED LEGISLATION.
+
+       (a) Report.--Not later than the expiration of the 180-day 
+     period which begins on the date on which the second session 
+     of the One Hundred Sixth Congress adjourns sine die, the 
+     Commission shall submit to the President, the Speaker and 
+     minority leader of the House of Representatives, and the 
+     majority and minority leaders of the Senate a report of the 
+     activities of the Commission.
+       (b) Recommendations; Draft of Legislation.--The report 
+     under subsection (a) shall include any recommendations for 
+     changes in the laws (including regulations) governing the 
+     financing of political activity (taking into account the 
+     provisions of this Act and the amendments made by this Act), 
+     including any changes in the rules of the Senate or the House 
+     of Representatives, to which nine or more members of the 
+     Commission may agree, together with drafts of--
+       (1) any legislation (including technical and conforming 
+     provisions) recommended by the Commission to implement such 
+     recommendations; and
+       (2) any proposed amendment to the Constitution recommended 
+     by the Commission as necessary to implement such 
+     recommendations, except that if the Commission includes such 
+     a proposed amendment in its report, it shall also include 
+     recommendations (and drafts) for legislation which may be 
+     implemented prior to the adoption of such proposed amendment.
+       (c) Goals of Recommendations and Legislation.--In making 
+     recommendations and preparing drafts of legislation under 
+     this section, the Commission shall consider the following to 
+     be its primary goals:
+       (1) Encouraging fair and open Federal elections which 
+     provide voters with meaningful information about candidates 
+     and issues.
+       (2) Eliminating the disproportionate influence of special 
+     interest financing of Federal elections.
+       (3) Creating a more equitable electoral system for 
+     challengers and incumbents.
+
+     SEC. 605. TERMINATION.
+
+       The Commission shall cease to exist 90 days after the date 
+     of the submission of its report under section 604.
+
+     SEC. 606. AUTHORIZATION OF APPROPRIATIONS.
+
+       There are authorized to be appropriated to the Commission 
+     such sums as are necessary to carry out its duties under this 
+     title.
+
+TITLE VII--PROHIBITING USE OF WHITE HOUSE MEALS AND ACCOMMODATIONS FOR 
+                         POLITICAL FUNDRAISING
+
+     SEC. 701. PROHIBITING USE OF WHITE HOUSE MEALS AND 
+                   ACCOMMODATIONS FOR POLITICAL FUNDRAISING.
+
+       (a) In General.--Chapter 29 of title 18, United States 
+     Code, is amended by adding at the end the following new 
+     section:
+
+     ``Sec. 612. Prohibiting use of meals and accommodations at 
+       White House for political fundraising
+
+       ``(a) It shall be unlawful for any person to provide or 
+     offer to provide any meals or accommodations at the White 
+     House in exchange for any money or other thing of value, or 
+     as a reward for the provision of any money or other thing of 
+     value, in support of any political party or the campaign for 
+     electoral office of any candidate.
+       ``(b) Any person who violates this section shall be fined 
+     under this title or imprisoned not more than 3 years, or 
+     both.
+       ``(c) For purposes of this section, any official residence 
+     or retreat of the President (including private residential 
+     areas and the grounds of such a residence or retreat) shall 
+     be treated as part of the White House.''.
+       (b) Clerical Amendment.--The table of sections for chapter 
+     29 of title 18, United States Code, is amended by adding at 
+     the end the following new item:
+
+``612. Prohibiting use of meals and accommodations at White House for 
+              political fundraising.''.
+
+  TITLE VIII--SENSE OF THE CONGRESS REGARDING FUNDRAISING ON FEDERAL 
+                          GOVERNMENT PROPERTY
+
+     SEC. 801. SENSE OF THE CONGRESS REGARDING APPLICABILITY OF 
+                   CONTROLLING LEGAL AUTHORITY TO FUNDRAISING ON 
+                   FEDERAL GOVERNMENT PROPERTY.
+
+       It is the sense of the Congress that Federal law clearly 
+     demonstrates that ``controlling legal authority'' under title 
+     18, United States Code, prohibits the use of Federal 
+     Government property to raise campaign funds.
+
+  TITLE IX--REIMBURSEMENT FOR USE OF GOVERNMENT PROPERTY FOR CAMPAIGN 
+                                ACTIVITY
+
+     SEC. 901. REQUIRING NATIONAL PARTIES TO REIMBURSE AT COST FOR 
+                   USE OF AIR FORCE ONE FOR POLITICAL FUNDRAISING.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.), as amended by sections 101, 401, 505, 
+     508, and 511, is further amended by adding at the end the 
+     following new section:
+
+
+   ``reimbursement by political parties for use of air force one for 
+                         political fundraising
+
+       ``Sec. 328. (a) In General.--If the President, Vice 
+     President, or the head of any executive department (as 
+     defined in section 101 of title 5, United States Code) uses 
+     Air Force One for transportation for any travel which 
+     includes a fundraising event for the benefit of any political 
+     committee of a national political party, such political 
+     committee shall reimburse the Federal Government for the fair 
+     market value of the transportation of the individual 
+     involved, based on the cost of an equivalent commercial 
+     chartered flight.
+       ``(b) Air Force One Defined.--In subsection (a), the term 
+     `Air Force One' means the airplane operated by the Air Force 
+     which has been specially configured to carry out the mission 
+     of transporting the President.''.
+
+     SEC. 902. REIMBURSEMENT FOR USE OF GOVERNMENT EQUIPMENT FOR 
+                   CAMPAIGN-RELATED TRAVEL.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.), as amended by sections 101, 401, 505, 
+     508, 511, and 901, is further amended by adding at the end 
+     the following new section:
+
+
+ ``reimbursement for use of government equipment for campaign-related 
+                                 travel
+
+       ``Sec. 329. If a candidate for election for Federal office 
+     (other than a candidate who holds Federal office) uses 
+     Federal government property as a means of transportation for 
+     purposes related (in whole or in part) to the campaign for 
+     election for such office, the principal campaign committee of 
+     the candidate shall reimburse the Federal government for the 
+     costs associated with providing the transportation.''.
+
+            TITLE X--PROHIBITING USE OF WALKING AROUND MONEY
+
+     SEC. 1001. PROHIBITING CAMPAIGNS FROM PROVIDING CURRENCY TO 
+                   INDIVIDUALS FOR PURPOSES OF ENCOURAGING TURNOUT 
+                   ON DATE OF ELECTION.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.), as amended by sections 101, 401, 505, 
+     508, 511, 901, and 902, is further amended by adding at the 
+     end the following new section:
+
+
+     ``prohibiting use of currency to promote election day turnout
+
+       ``Sec. 330. It shall be unlawful for any political 
+     committee to provide currency to any individual (directly or 
+     through an agent of the committee) for purposes of 
+     encouraging the individual to appear at the polling place for 
+     the election.''.
+
+            TITLE XI--ENHANCING ENFORCEMENT OF CAMPAIGN LAW
+
+     SEC. 1101. ENHANCING ENFORCEMENT OF CAMPAIGN FINANCE LAW.
+
+       (a) Mandatory Imprisonment for Criminal Conduct.--Section 
+     309(d)(1)(A) of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 437g(d)(1)(A)) is amended--
+       (1) in the first sentence, by striking ``shall be fined, or 
+     imprisoned for not more than one year, or both'' and 
+     inserting ``shall be imprisoned for not fewer than 1 year and 
+     not more than 10 years''; and
+       (2) by striking the second sentence.
+       (b) Concurrent Authority of Attorney General To Bring 
+     Criminal Actions.--Section 309(d) of such Act (2 U.S.C. 
+     437g(d)) is amended by adding at the end the following new 
+     paragraph:
+       ``(4) In addition to the authority to bring cases referred 
+     pursuant to subsection (a)(5), the Attorney General may at 
+     any time bring a criminal action for a violation of this Act 
+     or of chapter 95 or chapter 96 of the Internal Revenue Code 
+     of 1986.''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply with respect to actions brought with respect to 
+     elections occurring after January 2002.
+
+TITLE XII--SEVERABILITY; CONSTITUTIONALITY; EFFECTIVE DATE; REGULATIONS
+
+     SEC. 1201. SEVERABILITY.
+
+       If any provision of this Act or amendment made by this Act, 
+     or the application of a provision or amendment to any person 
+     or circumstance, is held to be unconstitutional, the 
+     remainder of this Act and amendments made by this Act, and 
+     the application of the provisions and amendment to any person 
+     or circumstance, shall not be affected by the holding.
+
+     SEC. 1202. REVIEW OF CONSTITUTIONAL ISSUES.
+
+       An appeal may be taken directly to the Supreme Court of the 
+     United States from any final judgment, decree, or order 
+     issued by any court ruling on the constitutionality of any 
+     provision of this Act or amendment made by this Act.
+
+     SEC. 1203. EFFECTIVE DATE.
+
+       Except as otherwise provided in this Act, this Act and the 
+     amendments made by this Act shall take effect upon the 
+     expiration of the 90-day period which begins on the date of 
+     the enactment of this Act.
+
+     SEC. 1204. REGULATIONS.
+
+       The Federal Election Commission shall prescribe any 
+     regulations required to carry out this Act and the amendments 
+     made by this Act not later than 45 days after the date of the 
+     enactment of this Act.
+
+  The CHAIRMAN. Pursuant to section 2 of House Resolution 344, the 
+gentleman from Ohio (Mr. Ney) and a Member opposed (Mr. Hoyer) each 
+will control 20 minutes.
+  The Chair recognizes the gentleman from Ohio (Mr. Ney).
+  Mr. NEY. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, I hope that this is an historic substitute today 
+because I think we are going to come together; and I am sure the 
+gentleman from Massachusetts (Mr. Meehan) and the gentleman from 
+Connecticut (Mr. Shays) are going to stand up at this microphone, I am 
+positive, and probably embrace and endorse this substitute. Now,
+
+[[Page H386]]
+
+I could be wrong, but I have a good feeling about this one.
+  One common refrain we have heard is that the Congress must pass 
+campaign finance reform now because it has previously passed the House 
+by wide margins. Well, the substitute I offer today is the bill that 
+this House passed previously. I offer it not because I think it is 
+really a good bill and not because I particularly want to see it 
+passed; on the contrary, I think this is a bad piece of legislation. I 
+voted against it in the last Congress. I wish it had not passed then, 
+and I really do not again want to see it particularly passed today.
+
+                              {time}  1330
+
+  With all sincerity, I offer this today because I want to give Members 
+the opportunity to vote on a bill that they previously supported which 
+never made it to the President's desk, and so Members have indicated 
+they would like to have the chance to have that vote and it is a good, 
+honest vote.
+  As we all know, in previous Congresses Members here were able to cast 
+a vote for this legislation knowing that it would never become law. 
+They could vote for it here knowing that it would not get past the 
+other body or it would not be signed by the President. We all knew that 
+was the game plan in some cases. Things are a little different this 
+year.
+  The Senate has already passed a version of campaign finance reform. 
+The President has given no indication that he intends to veto a bill 
+that would reach his desk. So unlike previous votes, today's vote 
+really does matter. We are not playing games anymore. As some have 
+said, we are now shooting with real bullets.
+  The legislation that passes this House is very likely to reach the 
+President's desk and to become law. Given that, I think it is important 
+to give Members the opportunity to enact legislation that they 
+previously supported on this floor, and so I offer as my substitute the 
+language of H.R. 417, the Shays-Meehan legislation which passed in the 
+106th Congress by a vote of 252 to 177.
+  I would like to say that this substitute is exactly the same bill 
+that was passed in the previous Congress. Unfortunately, the bill has 
+changed so much it is no longer germane to the Shays-Meehan bill on the 
+floor today, and that is due to the constantly evolving product that we 
+are dealing with. Let me repeat that because I think Members need to 
+realize this. The Shays-Meehan bill that is on the floor today is so 
+different from the one we passed in the previous Congress that the bill 
+is not even germane to the new Shays-Meehan bill.
+  Accordingly, some changes have been necessary for this substitute to 
+be in order, some sections had to be stricken. In essence, however, the 
+substitute is the Shays-Meehan bill that passed previously.
+  Offering this as an amendment, in addition to giving Members an 
+opportunity to be consistent in their voting, provides an opportunity 
+to highlight the evolution in the Shays-Meehan legislation that was 
+introduced last night brought forth. As Members know, the gentleman 
+from Connecticut (Mr. Shays) and the gentleman from Massachusetts (Mr. 
+Meehan) introduced a bill very similar to H.R. 417 at the start of this 
+Congress. That bill, H.R. 380, was introduced on January 31, 2001; but 
+that is not the Shays-Meehan bill that they have chosen to bring to the 
+floor today.
+  Instead, on June 28, 2001, one day before my committee, the Committee 
+on House Administration, was scheduled to mark up campaign finance 
+legislation, they introduced a new bill, H.R. 2356. That is the bill 
+that serves as the base text today. The substitute offered today by the 
+gentleman from Connecticut (Mr. Shays) and the gentleman from 
+Massachusetts (Mr. Meehan) that we saw for the first time last night 
+makes even further changes to their bill.
+  Members need to be aware that the bill they are being asked to vote 
+on today is not the same bill that they supported previously in the 
+106th Congress. For example, this amendment, the old Shays bill, banned 
+soft money. The new bill simply does not ban all soft money. We have 
+talked about the loophole we can drive a truck through.
+  In this substitute, which the gentleman from Connecticut (Mr. Shays) 
+and the gentleman from Massachusetts (Mr. Meehan) previously supported, 
+soft-money contributions to the political parties for Federal election 
+activities were banned. In the new version, today's version, there is 
+no ban. State and local parties are permitted to receive soft-money 
+contributions from unions and corporations. So if my colleagues want to 
+ban soft money and they voted previously to do so, they should vote for 
+this substitute because the new Shays bill simply will not do it.
+  In the old Shays bill issue ads were banned 365 days a year. In the 
+new Shays-Meehan bill, they are banned for only 90 days, meaning that 
+under the new Shays bill unions and corporations can use soft money to 
+run attack ads 275 days a year. If my colleagues want to ban issue ads 
+funded with soft money, they should vote for this substitute because 
+the new Shays bill simply will not do it.
+  In the old Shays bill, soft money could be used for any form of 
+election-related communication, meaning they could not use soft money 
+for television ad and newspaper ad or a pamphlet. In the new Shays 
+bill, the only form of communication that cannot be funded with soft 
+money are broadcast ads run during the 60 days before an election or 
+the 30 days before a primary. Meaning, under the new Shays-Meehan bill, 
+groups can continue to use an unlimited amount of unregulated money on 
+mass mailings, phone banks and push polls. If my colleagues want an 
+issue-ad restriction that would stop all communications funded with 
+soft money, they should vote for this substitute because the new Shays 
+bill simply will not do it.
+
+  Those are just some of the biggest examples of the changes that have 
+been made. Here are some others:
+  The old Shays bill did not treat House and Senate candidates 
+differently. The new one does. The new bill allows candidates for the 
+Senate and for the Presidency to accept $2,000 from an individual per 
+election, but House candidates can only receive $1,000. If my 
+colleagues think House and Senate candidates should have the same 
+contribution limits, they should vote for the substitute because the 
+new Shays bill will not do it.
+  The old Shays bill did not include a soft-money loophole that would 
+allow a political party to keep any soft money it had as long as it 
+wanted to build a new headquarters. The new Shays-Meehan bill does. So 
+if my colleagues do not think a political party should be able to use 
+money to build a new headquarters, vote for the substitute.
+  The old Shays bill required publicly funded candidates to certify 
+that no soft money was raised to benefit their candidacies. The new 
+Shays bill simply does not do it.
+  The old Shays-Meehan bill banned the use of the White House for 
+political fund-raising. The new Shays-Meehan bill simply does not do 
+it.
+  The list goes on and on and on. It is obvious that the bill on the 
+floor today, though it bears the name Shays-Meehan label, is not the 
+old Shays-Meehan bill. While the gentleman from Connecticut (Mr. Shays) 
+and the gentleman from Massachusetts (Mr. Meehan) do not want to give 
+Members the opportunity to vote on the provisions, I think we can give 
+them the opportunity to vote on the substitute.
+  Some will say that offering this amendment as a substitute is anti-
+reform now. Was not then, it is now. That argument simply amazes me, 
+frankly, Mr. Chairman. Somebody will make a good case to prove me 
+wrong, I am sure, in a couple of minutes. I have faith in my 
+colleagues.
+  I am sure that if my colleagues went back and looked at all the 
+newspaper editorials that were urging Members to vote for the 
+substitute at the time it was offered in the last Congress my 
+colleagues will see that Members were told that if they did not vote 
+for H.R. 417 they were against reform. Now with essentially the same 
+bill being offered today through this substitute, we will hear that to 
+vote for it is to be against reform. It is surreal. It is Alice in 
+Wonderland.
+  I look forward to the vote on this substitute. I plan to vote against 
+it because I think it is a bad bill. New Shays, old Shays, I think they 
+are all kind of a little bit bad, need a little bit of correction, 
+little bit of work, which we an do together if we pass a couple of good 
+amendments, keep it going; but I
+
+[[Page H387]]
+
+look forward to seeing how Members vote on it today.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HOYER. Mr. Chairman, I ask unanimous consent that the gentleman 
+from Connecticut (Mr. Shays) and the gentleman from Massachusetts (Mr. 
+Meehan) may each control 5 minutes of the time allocated to me and that 
+they may yield time.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Maryland?
+  There was no objection.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the gentleman from 
+Maryland (Mr. Cardin), the distinguished former speaker of the Maryland 
+House, member of the Committee on Ways and Means and my good friend.
+  Mr. CARDIN. Mr. Chairman, I was listening to my friend, the gentleman 
+from Ohio (Mr. Ney), explain the reasons why he submitted the amendment 
+or substitute, and I think it is a good reason to vote against it. We 
+are in agreement.
+  Let me try to simplify it. If my colleagues are for reform, if they 
+want to try to start down the path to restore confidence in our system, 
+where the public will believe that special interest dollars are not 
+going to have more influence but less influence on what we do in this 
+body, if my colleagues want to move down that path, then they have to 
+put some of their own personal views aside. There is only one 
+opportunity in this Congress to get it done and that is to vote against 
+the Ney substitute, to vote for the Shays-Meehan bill and McCain-
+Feingold. That is going to be the only opportunity we are going to 
+have.
+  So, yes, each of us could try to craft a bill that we think is best, 
+or we could try to understand the explanation of the gentleman from 
+Ohio (Mr. Ney) as to why he is offering his amendment, which I have a 
+hard time following; or we can vote for the only bill that is going to 
+have a chance of being signed that will reduce special interest 
+dollars, soft money, that will close loopholes in the law. I urge my 
+colleagues to reject Ney and support the Shays-Meehan bill.
+  Mr. Chairman, I rise today in strong support of H.R. 2356, the 
+Bipartisan Campaign Reform Act, sponsored by Mr. Shays and Mr. Meehan, 
+and by Senator McCain and Senator Feingold. I am an original co-sponsor 
+of this important legislation, and I urge members of the House to 
+defeat the proposed substitutes to Shays-Meehan, as well as those 
+amendments designed to derail the bill and prevent meaningful campaign 
+finance reform legislation from being enacted into law.
+  Special interest campaign contributions represent a serious threat to 
+public confidence in our government. The amount of money contributed to 
+candidates for Congress and President calls into question the 
+independence of our elected officials to make judgments in the public 
+interest. As the level of spending in campaigns has continued to rise, 
+those concerns have grown more serious. As members of Congress, we have 
+a responsibility to strengthen our democracy by significantly reducing 
+the influence of money. Recent scandals have proven, beyond the shadow 
+of a doubt, that corporate wrongdoers can buy access and influence in 
+Washington at the expense of regular working men and women.
+  The bill would close two large loopholes in the law that contribute 
+to the corruption of our political system. One loophole is so-called 
+``soft money'' contributions, which are unregulated and unlimited 
+contributions from wealthy special interest groups. Another major 
+loophole deals with ``independent'' issue advertisements, which allow 
+special interests to seek to influence the outcome of an election 
+campaign by spending large sums of money on advertising campaigns. 
+Currently, these ads which are clearly aimed at influencing an election 
+can be worded in a way that they are deemed issue advocacy and are not 
+subject to campaign spending limits or disclosure requirements.
+  Other major changes to our campaign financing system proposed in the 
+bill would require Federal Election Commission (FEC) reports on 
+candidate fund-raising and expenditures to be filed electronically, and 
+provide Internet posting of this and other disclosure data. The FEC 
+would be required to post such information within 48 hours of filing. 
+The bill would also change from quarterly to monthly the filing 
+requirements for candidates in election years, ensuring more timely 
+information for the voting public on their candidates for election. In 
+addition, the bill would provide for expedited and more effective FEC 
+procedures, which would give the FEC greater enforcement authority and 
+ability to crack down on violators of our campaign finance laws. The 
+FEC, under the bill, would also serve as an information clearinghouse 
+that would provide easy access to citizens and the media to lobbying 
+reports, reports filed under the Foreign Agents Registration Act, 
+Congressional witness lists and gift disclosures.
+  Mr. Chairman, the time has come for us to start to restore the 
+confidence of the American people in our democratic system by reducing 
+the influence of special interest money. We have the opportunity to do 
+just that today by supporting the Bipartisan Campaign Reform Act.
+  Mr. NEY. Mr. Chairman, I yield 15 seconds to myself.
+  As I understand it, now it is a bad bill; it is not a reform bill. It 
+was good then; it is not good now. I am still a little puzzled, I 
+guess, Mr. Chairman.
+  Mr. Chairman, I yield 3 minutes to the gentleman from Illinois (Mr. 
+Weller), my friend.
+  (Mr. WELLER asked and was given permission to revise and extend his 
+remarks.)
+  Mr. WELLER. Mr. Chairman, I rise in support of the Ney substitute 
+based on the principles that were articulated by the sponsors of this 
+legislation in the last Congress who claimed at the time that the 
+original version of Shays-Meehan was based on principle. If my 
+colleagues take time to read the latest version of Shays-Meehan, they 
+see that it has abandoned principle. What is the basic premises for 
+Shays-Meehan? Banning that evil thing called soft money.
+  Shays-Meehan is so full of loopholes today that it allows for $60 
+million in soft money to continue to be part of the process. It is so 
+full of loopholes that independent advocacy attack ads are prohibited 
+on electronic media, they are prohibited from spending money to 
+advocate a position up until the election on TV or radio; but they can 
+still buy full page ads in the New York Times, The Washington Post, 
+U.S.A Today, and all the other print media. The question is why does 
+the print media get that loophole and not electronic, television, or 
+radio? It is a good question. Something we want to ask.
+  I also wonder why they changed the effective date. We were urged in 
+this House to move quickly, we have got to act quickly, got to do it 
+now, we need to have a discharge petition, we got to do it now so it 
+affects the next election. The bill comes to the floor and last night 
+they changed the bill so it is not effective until after the election. 
+So what is the hurry, huh? Maybe it could matter.
+  The other thing that really to me is what is something that really 
+shows the lack of principle in the current Shays-Meehan is if we read 
+the bill on page 78 and 79 which points out that under the current 
+version of Shays-Meehan, which goes into effect the day after the 
+election, that they can borrow hard money which according to the 
+advocates of Shays-Meehan is good money, borrow hard money from a local 
+bank or some form of financial institution, but after the election they 
+can use soft money to pay it back. Hmm. Think about that principle.
+  Take the Democratic Congressional Committee, $40 million in their 
+building account. They can use that $40 million as collateral to borrow 
+millions in hard money and continue to solicit soft money up until the 
+election. When the election is over with, pay off that hard money loan 
+with soft money. Hmm, so much about principle.
+  I realize there is a lot of good intentions by those who may want to 
+vote for Shays-Meehan. It is not the same bill. It is no longer based 
+on principle. It has become a sham, and I urge a no vote on Shays-
+Meehan.
+  Mr. SHAYS. Mr. Chairman, I yield 1 minute to myself to correct the 
+``hmm'' of my colleague, who basically said something that simply was 
+not accurate. They cannot use soft money to pay off a hard-money debt. 
+That is simply not true.
+  This bill is different. Our bill is different than it was because a 
+funny thing happened. The Senate got to look at our bill and they made 
+some changes. They added the Levin amendment, which allows soft money, 
+no more than $10,000 if a State allows it, not for Federal elections, 
+and it cannot be used for any campaigns. That is what they do. So the 
+Levin amendment makes our bill different.
+  Then we have the Snow-Jeffords amendment in the Senate which says 60 
+days to an election. So that is why, in fact, the bill is different. 
+The bill is
+
+[[Page H388]]
+
+ different because the Senate changed it, and we want a bill similar to 
+what the Senate has done.
+  Mr. NEY. Mr. Chairman, I yield 15 seconds to myself.
+  So it is okay for the Senate to make some changes and we can accept 
+that and morph the original bill 252 people voted for and get to the 
+point we are at today, but it is not okay to take some type of an 
+amendment, which there are good amendments, today from the floor of 
+this House and introduce them. So the Senate has the sacred hand or 
+something in this?
+  Mr. Chairman, I yield 30 seconds to the gentleman from Illinois (Mr. 
+Weller).
+  Mr. WELLER. Mr. Chairman, I thank the gentleman from Ohio (Mr. Ney) 
+for yielding me the time.
+  Let me read the language of the bill, and I urge everyone to take 
+time to read the language of the bill. Page 79, line 12: ``Prior to 
+January 1, 2003, the committee may spend such funds to retire 
+outstanding debts or obligations incurred prior to such effective date 
+so long as such debts or obligations were incurred solely in connection 
+with an election held on or before November 5, 2002, or any run-off 
+election or recount resulting in such an election.''
+  If my colleagues read the bill, they can borrow hard money and pay it 
+back with soft money. Lack of principle.
+  Mr. SHAYS. Mr. Chairman, I yield 30 seconds to myself to just say my 
+colleagues have to read the bill and know the law. The law makes it 
+illegal to use soft money for a hard-money expenditure.
+  The purpose of this is if they incurred a soft-money expenditure 
+before the election day and the person wants to get paid afterwards, 
+they get paid up to the date of January. A soft-money expense for a 
+soft-money expenditure, a hard-money expense for a hard-money 
+expenditure; but one does not always pay the bill before the expense.
+  Mr. MEEHAN. Mr. Chairman, I yield 45 seconds to myself.
+  In addition to that, Larry Noble, the executive director/general 
+counsel of the Center for Responsive Politics, the former general 
+counsel of the Federal Elections Commission, clearly states in this 
+letter that I will again have added to the Record: ``It is clear under 
+Federal election law that only hard money can be used to pay off a loan 
+that was used for hard money expenditures.
+
+                              {time}  1345
+
+  There is nothing in the Shays-Meehan Substitute that would supersede 
+the current Federal law. Under this section, soft money funds on hand 
+after the election could only be used to pay off debts or obligations 
+used for soft money expenditures. That is the law.
+  One of the great things I have really enjoyed is working with my 
+colleague, the gentleman from Ohio (Mr. Ney), on campaign finance 
+reform. I was just so disappointed, after debating the Ney bill with 
+him over the last year, that when it came time to put in a substitute, 
+we did not get the Ney bill. I was looking forward to that.
+  The letter I referred to earlier is hereby inserted for the Record.
+
+
+                               Center for Responsive Politics,
+
+                                Washington, DC, February 13, 2002.
+     Hon. Christopher Shays,
+     Longworth Building,
+     Washington, DC.
+       Dear Congressman Shays: This is in response to your 
+     question regarding whether a national committee of a 
+     political party can use soft money to pay off a debt or 
+     obligation that was used to fund expenditures that must be 
+     paid for with hard money. It is clear under federal election 
+     law that only hard money can be used to pay off a loan that 
+     was used for hard money expenditures. I see nothing in 
+     Section 402(b)(1) of the Shays-Meehan Substitute Amendment 
+     that would supersede current federal law. Under Section 
+     402(b)(1), soft money funds on hand after the election could 
+     only be used to pay off debts or obligations used for soft 
+     money expenditures.
+       If you have any other questions, please do not hesitate to 
+     contact me.
+           Sincerely,
+                                                      Larry Noble,
+                           Executive Director and General Counsel.
+
+  Mr. MEEHAN. Mr. Chairman, I yield 1\1/2\ minutes to the independent 
+gentleman from Vermont (Mr. Sanders).
+  Mr. SANDERS. Mr. Chairman, I thank the gentleman for yielding me this 
+time.
+  The current campaign finance system is a disaster, and it is an 
+embarrassment to American democracy. Shays-Meehan is not going to solve 
+all the problems. It is not going to do away with all of the influence 
+that corporate America and the big money interests have over the 
+political process and the enormous degree to which they can control the 
+agenda that Congress debates.
+  But, Mr. Chairman, if anyone wants to know why Congress in its wisdom 
+passes a tax law that provides hundreds of billions of dollars in tax 
+breaks to the richest 1 percent, but is somehow unable to raise the 
+minimum wage, look at campaign finance and the huge amounts of money 
+that corporate America spends and the $25,000-a-plate dinners that they 
+hold.
+  If anyone wants to know why prescription drug costs in this country 
+are by far the highest in the world, and why Congress year after year 
+is unable to pass prescription drug reform to protect the elderly and 
+the sick, understand the tens of millions of dollars that the 
+pharmaceutical industry pours into the United States Congress and into 
+the White House.
+  If anyone wants to understand why we are the only country in the 
+world without a national health care system and why the cost of health 
+care is twice as much per person in this country than in any other 
+Nation, look at what the insurance industry spends trying to get their 
+way against the will of the American people.
+  Mr. Chairman, the time is now to end big money influence. Let us pass 
+this bill.
+  Mr. MEEHAN. Mr. Chairman, I ask unanimous consent to yield the 
+balance of my time to the gentleman from Tennessee (Mr. Ford), and ask 
+further that he be allowed to control that time.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Massachusetts?
+  There was no objection.
+  Mr. NEY. Mr. Chairman, I yield myself 1 minute.
+  Before my colleague leaves the floor, I want to rekindle his faith in 
+our system, because there is a Ney-Wynn amendment coming. So the 
+gentleman will have that chance, the whole bill we debated, the 
+gentleman is going to have that chance to vote, and I just wanted to 
+reassure him of that.
+  Mr. MEEHAN. Mr. Chairman, will the gentleman yield?
+  Mr. NEY. I yield to the gentleman from Massachusetts.
+  Mr. MEEHAN. Mr. Chairman, I was just disappointed that it was not a 
+substitute.
+  Mr. NEY. I just did not want the gentleman to leave without being 
+rekindled.
+  Mr. MEEHAN. I thank the gentleman.
+  Mr. NEY. Mr. Chairman, reclaiming my time, I think a lot of issues 
+that do or do not pass here are debated, obviously, on their merits, 
+whether it is prescription drugs or health care or Social Security. And 
+when we start to talk about the money in the system and the influence, 
+this bill is not going to change that.
+  Wealthy individuals, in my opinion, are still going to be in the 
+system, unregulated, to do as they want with advocacy. But groups that 
+are pushing, for example, for prescription drugs, their voices will be 
+silenced, in the Shays-Meehan approach, in the last 60 days if they 
+want to go to the radio ads or they want to go to the TV ads. I do not 
+think that is a level playing field, letting one or two wealthy 
+individuals in this country push around the advocacy as they please. 
+Maybe they will want to stop prescription drugs, perhaps help 
+prescription drugs, but, on the other hand, a lot of people who will 
+advocate for a lot of good things for Americans, their voices will be 
+silenced.
+  Mr. FORD. Mr. Chairman, how much time do I have remaining?
+  The CHAIRMAN. The gentleman has 2\3/4\ minutes.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the gentleman from 
+Wisconsin (Mr. Kind).
+  (Mr. KIND asked and was given permission to revise and extend his 
+remarks.)
+  Mr. KIND. Mr. Chairman, I rise today in strong support of the Shays-
+Meehan bill and in opposition to the Ney substitute.
+  When I entered Congress back in 1997, Mr. Chairman, one of the first 
+things I did was help organize a bipartisan freshman campaign finance 
+reform
+
+[[Page H389]]
+
+task force. Even as political neophytes in this institution, we knew 
+then what is true today, that the political system was awash with 
+money; that there were too many powerful special interest groups 
+dominating the agenda in Washington; and that it was wrong and it 
+needed to change.
+  The legislation we came up with called for a ban on the unregulated, 
+unlimited, soft money contributions. That is consistent with the Shays-
+Meehan bill before us today, soft money, by the way, that reached the 
+level of $500 million in the last election alone. Unfortunately, I 
+believe the Ney substitute today is just a cynical ploy to try to get a 
+bill, or any bill, that is different from the Senate, passed so the 
+opponents of reform can kill it in the conference committee.
+  They are not the only ones who have been very cynical about finance 
+reform. The American people have been cynical, too, and not because 
+they do not believe there is too much money or too much influence of 
+money in the political system, but they do not believe Congress will do 
+anything about it.
+  The day of reckoning has arrived today, and I urge my colleagues to 
+support real finance reform, the Shays-Meehan bill, and vote ``no'' on 
+the Ney substitute.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the gentleman from 
+Pennsylvania (Mr. Hoeffel).
+  Mr. HOEFFEL. Mr. Chairman, I thank the gentleman for yielding me this 
+time, and I rise in opposition to the Ney substitute, because it is 
+clearly designed to send campaign reform to conference where it will 
+die. I rise in full support of the Shays-Meehan underlying bill.
+  It is time that we get soft money out of Federal elections. It is 
+time that we control the sham issue ads. In fact, Mr. Chairman, it is 
+time for a lot more reform. This is only one good step forward into 
+cleaning up our Federal elections.
+  We should consider other steps that would limit the corrupting 
+influence of private money on public campaigns. We should consider a 
+measure of public financing for congressional elections, as we do for 
+Presidential elections. We should consider ways to raise the discourse 
+and stop the negative ads, and do other things to clean up our system 
+and restore a sense to the democratic process that it belongs to the 
+people, not the big donors, and restore a sense that it matters what we 
+say in campaigns and what people do in campaigns.
+  I oppose the substitute and support Shays-Meehan.
+  Mr. FORD. Mr. Chairman, I yield 1 minute to the distinguished 
+gentlewoman from Wisconsin (Ms. Baldwin), my friend.
+  Ms. BALDWIN. Mr. Chairman, I rise in strong support of the Shays-
+Meehan substitute and against the Ney substitute before us. Americans 
+in my district and across the Nation are disillusioned and have been 
+calling out for reform for years, only to discover their collective 
+voices have fallen on the deaf ears of the leadership of this House.
+  Since my constituents sent me here as their representative, as their 
+voice, hundreds upon hundreds have contacted me regarding this very 
+issue: campaign finance reform. They want public servants who are 
+beholden to the voters of their district, not to special interest 
+groups and their soft money contributions. They want policy and laws 
+drafted by those acting in the public interest, not those carrying 
+water for narrow private special interests.
+  No comments were more compelling than the one young author from 
+Wisconsin who contacted me regarding Shays-Meehan. As a young voter, he 
+said, ``I am encouraged by the possibility that this bill will be one 
+necessary step. People will again trust their government. There is 
+nothing more important to our democracy.''
+  We must pass this bill.
+  Mr. NEY. Mr. Chairman, I yield 4 minutes to the gentleman from Ohio 
+(Mr. Oxley), chairman of the Committee on Financial Services.
+  (Mr. OXLEY asked and was given permission to revise and extend his 
+remarks.)
+  Mr. OXLEY. Mr. Chairman, I thank the gentleman for yielding me this 
+time, and let me first pay tribute to my good friend and colleague from 
+the Buckeye State, the gentleman from Ohio (Mr. Ney). He has done this 
+body enormous service in his chairmanship and his leadership on this 
+important issue of campaign finance reform.
+  Let us make no mistake about where we are today. A vote for the Ney 
+substitute is really a vote about campaign finance reform. It addresses 
+the real issues underlying what we are here for today, and I want to 
+pay particular tribute to him. He has been steadfast and consistent, 
+unlike the sponsors of the original bill that was introduced, which has 
+changed so many times I cannot keep track of it. But I wish to say to 
+the gentleman from Ohio (Mr. Ney) and to the gentleman from Maryland 
+(Mr. Wynn) that they have remained consistent throughout.
+  I have been concerned that our approach to campaign finance reform, 
+driven by, I think, some well-meaning reformers and also some folks 
+that may have a special interest, that we are punishing the political 
+parties in our attempt to clean up the system. The political parties 
+are really the essence of our system here. Nothing in the Constitution 
+talks about political parties. Political parties developed as part of 
+our democracy, and they have been a critical part of our democracy.
+  Why would we want to take power, influence, and ability away from a 
+political party and give it to special interests or to the media? I 
+just do not understand that. Why would we want to say to the Republican 
+Party in Ohio that they cannot have the ability to go out and recruit 
+candidates and talk to voters and send out mailings and, yes, give 
+contributions to candidates who proudly wear their party label? I 
+thought that was what political parties were all about.
+  Under this legislation, under the underlying legislation, the Shays-
+Meehan bill, we treat political parties like they are another special 
+interest. Just the contrary. Our political parties represent the ideals 
+that we both share as Republicans and Democrats.
+  If the Republican Party in Ohio thought it was important enough that 
+I get reelected, why should they not be able to contribute any amount 
+of money they want to my campaign? After all, their job is to recruit 
+and find candidates to fill public offices. That is what they do. So we 
+are going to say to them, oh, this is terrible, you cannot take soft 
+money, you cannot be involved in contributing to candidates' races 
+because you would be unduly influencing the donees. I am sorry, but I 
+just do not accept that.
+  I also do not accept the fact that we are going to give the media 
+total control of the airwaves and the newspapers the ability to 
+influence voters when, in fact, other groups who have maybe the same 
+first amendment rights, I would like to think have the same first 
+amendment rights, are going to be constricted in what they are able to 
+spend and what they are able to say. So the media says to us, you need 
+to clean up the system. Oh, by the way, we want to make sure that we 
+get top dollar for our ads that we run during the political season, but 
+at the same time we want to be able to control the discourse.
+  So the first amendment applies to the newspapers, it applies to The 
+New York Times, it applies to the networks, but it does not apply to 
+political discourse by organized groups. What a shame that is.
+  Let us support the Ney substitute and get on with the business.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the distinguished 
+gentleman from Washington State (Mr. Inslee).
+  (Mr. INSLEE asked and was given permission to revise and extend his 
+remarks.)
+  Mr. INSLEE. Mr. Chairman, an hour ago a woman named Marilyn Robinson 
+testified over in the Rayburn Building. She told the story about her 
+18-year-old son Liam Wood, who was killed in the explosion of a 
+gasoline pipeline. Two hundred thousand gallons of gasoline were 
+released and exploded, incinerating two young children and killing her 
+son.
+
+                              {time}  1400
+
+  The reason her son died in part was because this institution did not 
+pass any meaningful laws to make sure gasoline pipelines do not 
+explode. The reason this institution failed in that duty is in part 
+because we are shackled by special interest money. I am here to
+
+[[Page H390]]
+
+say for the spirit of Ms. Wood and those who can potentially be victims 
+of this continued slavery to special interest money, that we should 
+bury this cynical amendment that throughout history has stopped any 
+campaign finance reform. We should bury it today so that others may 
+live.
+  Mr. NEY. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, this is not a cynical substitute. This is Shays-Meehan 
+that 252 people voted for and said that this is the only measure. This 
+is what was going to go to the desk of President Bush. This is not 
+something that I created last night. This is the bill.
+  Mr. Chairman, I yield 3 minutes to the gentleman from Virginia (Mr. 
+Tom Davis).
+  (Mr. TOM DAVIS of Virginia asked and was given permission to revise 
+and extend his remarks.)
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, I know that feelings are 
+strong on both sides.
+  I want to shed light on the issue about the soft-money loophole in 
+the Shays-Meehan substitute this afternoon.
+  We have heard about a letter from Larry Noble, who is no longer 
+associated with the Federal Election Commission. At one point he was 
+general counsel. He is now associated with the Center for Responsive 
+Politics, and I think we understand where that opinion comes from. Mr. 
+Noble has a long history of losing cases at the FEC, the list of cases 
+he has lost being far larger than the cases he has won. In fact, one 
+case he litigated, the Christian Action Network, which is in my home 
+fourth district, he not only lost it, the FEC was faced with fees and 
+sanctions that were imposed against the FEC. We believe his letter is 
+erroneous. It has nothing to do with the current FEC, which is not 
+addressing this.
+  Mr. Chairman, I have a memorandum that I will include for the Record 
+from Patton Boggs that basically says in contrast to current law, the 
+proposed language in the Shays-Meehan substitute would allow a national 
+party committee to pay any debt with soft non-Federal dollars in the 
+period from November 5, 2002 to January 1, 2003. Specifically, it could 
+be used to retire outstanding debts or obligations that were incurred 
+with the 2002 elections.
+  This is not consistent with the current regulations. This would be 
+illegal under current law, which would not allow us to borrow hard 
+dollars and pay them off with soft dollars. This would allow building-
+fund dollars which now are limited to building funds to basically repay 
+hard-dollar obligations that were barred; and under the building-fund 
+loophole that we find later in the legislation, that could be 
+replenished later down the road with soft dollars. That is under the 
+language.
+  I am hard pressed to understand the arguments from the other side 
+unless their committees can come forward and make it clear that they 
+would not try to do this in terms of what the interpretations are.
+  I have also looked at Trevor Potter's Web site, the Campaign Finance 
+Institute, and although they are saying one thing to Members, their own 
+Web site states that new transition rules in the Shays-Meehan 
+substitute provides that through the end of 2002 the national parties 
+may spend excess soft money to pay off any outstanding debts. Sponsors 
+and opponents of the bill dispute whether the provisions would allow 
+soft money to be used to pay off hard money debts. We seem to have that 
+disagreement today. But he notes on the Web site that the text provides 
+that soft money could be used to retire outstanding debts incurred 
+solely in connection with an election. That means hard dollars. That is 
+what it means under the law. It does not make any reference to 
+contributions or expenditures, i.e. hard money, or non-Federal joint or 
+allocated activities which include soft money.
+  I do not question the motives of the other side, but when we come up 
+with amendments drafted in the dead of night, submitted the evening 
+before, drafting errors occur. I think that we have that there. I urge 
+support of Ney-Wynn and defeat of the Shays-Meehan substitute.
+  The memorandum previously referred to is as follows:
+
+                                             Patton Boggs LLP,
+
+                                Washington, DC, February 13, 2002.
+     Re Shays-Meehan Effective Date.
+
+       The proposed Shays-Meehan effective date language (section 
+     402) provides that:
+       (a) In General.--Except as otherwise provided in section 
+     308 and subsection (b), this Act and the amendments made by 
+     this Act shall take effect November 6, 2002.
+       (b) Transition Rule for Spending of Funds by National 
+     Parties.--If a national committee of a political party 
+     described in section 323(a)(1) of the Federal Election 
+     Campaign Act of 1971 (as added by section 101(a)), including 
+     any person who is subject to such section, has received funds 
+     described in such section prior to the effective date 
+     described in subsection (a), the following rules shall apply 
+     with respect to the spending of such funds by such committee:
+       (1) Prior to January 1, 2003, the committee may spend such 
+     funds to retire outstanding debts or obligations incurred 
+     prior to such effective date, so long as such debts or 
+     obligations were incurred solely in connection with an 
+     election held on or before November 5, 2002 (or any runoff 
+     election or recount resulting from such an election).
+       (2) At any time after such effective date, the committee 
+     may spend such funds for activities which are solely to 
+     defray the costs of the construction or purchase of any 
+     office building or facility.
+       The Federal Election Campaign Act and current Federal 
+     Election Commission regulations require federal expenses 
+     (including federal debts) to be paid out of the federal 
+     account. See, e.g., 11 C.F.R. Sec. 102.5. Moreover, the 
+     regulations also require allocations between federal and non-
+     federal activities. 11 C.F.R. Sec. 106.5.
+       In contrast to current law, the proposed language would 
+     allow a national party committee to pay any debt with soft, 
+     non-federal dollars in the period from November 5, 2002 to 
+     January 1, 2003. Specifically, it could be used to ``retire 
+     outstanding debts or obligations'' that were incurred in 
+     connection with the 2002 elections. It fails to differentiate 
+     between federal debt and non-federal debt. This is not 
+     consistent with the current regulations that specifically 
+     require hard debt to be paid with hard dollars. Moreover, the 
+     language explicitly references ``debts or obligations 
+     incurred . . . solely in connection with an election''--this 
+     appears to mean hard dollar debt.
+       The lack of specificity in the language means that a 
+     portion of hard dollar debt or obligations could be paid for 
+     with soft money. Any legal test of this provision would take 
+     many years under the FEC enforcement process. (Also note that 
+     Title I of H.R. 2356, new language would be added at section 
+     323(b)(2)(A) specifying that state parties must expend funds 
+     ``to the extent the amounts expended or disbursed for such 
+     activity are allocated (under regulations prescribed by the 
+     Commission) among amounts . . . .'')
+       As a practical matter, the plain wording of the proposed 
+     language would allow a national party committee to borrow 
+     hard dollars, spend those dollars in the upcoming election, 
+     and then use the remaining soft dollars to repay the debt. 
+     Moreover, such a hard dollar loan could be secured with non-
+     federal dollars as collateral, particularly the funds in the 
+     building fund.
+       The provision also permits a flood of special interest soft 
+     money to the national party committees to finance new 
+     elaborate and fancy headquarters. This loophole continues to 
+     provide a home for large, unlimited, soft money dollars at 
+     the national party committees.
+
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the gentleman from New 
+Jersey (Mr. Pascrell).
+  Mr. PASCRELL. Mr. Chairman, America, America, the witching hour is 
+upon campaign finance reform. Please pay close attention to how we 
+Members of Congress vote. Everyone claims to be doing the right thing. 
+Everyone seems to be saying they support reform. But make no mistake 
+about it, there is only one bill here that creates real reform for our 
+Nation's campaign finance laws while passing the Senate, and that is 
+Shays-Meehan.
+  Our political system has gone bad mad. In the 2000 election, 
+candidates spent more than $4 billion, a 50 percent increase since 
+1996. That is obscene. Who is giving all of this money to the parties? 
+Is it the little guy? No. Not even the medium guy. Instead, there are 
+big donations from big corporations. Obviously Enron, which has given 
+almost $6 million to Federal candidates, $3.5 million of that $6 
+million was soft money. Did they know what they were doing? This is not 
+misinformation. If Members want to talk about a Web site, go on their 
+Web site and see their numbers.
+  Mr. SHAYS. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Pennsylvania (Mr. Greenwood).
+  Mr. GREENWOOD. Mr. Chairman, I oppose the Ney substitute because I 
+believe it and the amendment thereto to follow will kill our crusade 
+against soft money, and our crusade against soft money has to win if 
+our democracy is to prevail.
+  There are those who say that soft money, corporate money, labor money
+
+[[Page H391]]
+
+is really about philosophy. It is not about corruption. It is about how 
+these organizations support the parties of their choice with their 
+dollars.
+  For the last 2 months I have spent most of my time investigating the 
+Enron scandal. Just to give an example of what Enron did to further its 
+philosophy, in March of 2000 it gave $50,000 to the Democratic National 
+Committee. The next month in April it gave $75,000 to the Republican 
+National Committee. In May it gave $50,000 to the Democratic National 
+Committee. In June it gave $50,000 to the Republican National 
+Committee. And the day before that, it had given $50,000 to the 
+Democratic Senatorial Committee.
+  Mr. Chairman, this is not about philosophy, this is about access and 
+influence; and it corrupts our process. If a Member of this body went 
+to Enron and called them on the phone and said, I would like a check 
+for $50,000 or cash for $50,000, that Member would go to jail for 
+corruption as he or she should. If Enron Corporation gave $50,000 to 
+one of our congressional campaigns, we would go to jail, as we should, 
+because that is corrupt. But somehow if the same Member of Congress 
+goes over to the Democratic Committee or Republican Committee and picks 
+up the phone and says, I need a check for $50,000 for my party so we 
+can get our people elected, that is not corruption? The American people 
+know that is corruption. It does corrupt the process.
+  I have listened to my colleagues on both sides of the aisle lament 
+that without these dollars they cannot get reelected. I remember on 
+Take Your Daughter to Work Day a few years ago I brought my 12-year-old 
+daughter down, and at a Republican National Committee function we were 
+talking about the money we had to raise and how costly it was going to 
+be, and she tapped me on the shoulder and whispered into my ear, and 
+she said, ``Everybody should just do what is right, and if you do what 
+is right, the people will elect you.''
+  Mr. Chairman, Members should do what is really right and vote for 
+Shays-Meehan.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the gentleman from Ohio 
+(Mr. Kucinich), a former mayor of Cleveland and an outstanding reformer 
+in our body.
+  Mr. KUCINICH. Mr. Chairman, it is time for this Congress to rescue 
+and secure democracy from the soft-money slavery of special interests 
+and the clutches of the best-government-money-can-buy. We must stand 
+here on the highest hill in the land and tell corporate interests, 
+which give hundreds of millions in soft-money contributions who hold 
+this government hostage, let my people go.
+  Finance and credit card companies gave $9 million in corporate 
+campaign cash, and ordinary people ended up with higher rates of 
+foreclosure. Let my people go.
+  Banking and security interests gave $87 million for banking 
+deregulation, which undermines consumers' economic interests. Let my 
+people go.
+  Corporate campaign cash buys higher electric rates. Let my people go.
+  Corporate campaign cash buys a higher rate of prescription drugs. Let 
+my people go.
+  Corporate campaign cash bought fast track which cost Americans 
+millions of jobs. Let my people go.
+  Corporate campaign cash wants to buy the privatization of Social 
+Security. Let my people go.
+  Mr. Chairman, freedom is on the line today. Free this Congress. Free 
+this system. Free democracy from the yoke of corporate control. Let my 
+people go. Pass the Shays-Meehan substitute.
+  Mr. HOYER. Mr. Chairman, I yield such time as she may consume to the 
+gentlewoman from Missouri (Ms. McCarthy).
+  (Ms. McCARTHY of Missouri asked and was given permission to revise 
+and extend her remarks.)
+  Ms. McCARTHY of Missouri. Mr. Chairman, I commend the gentleman from 
+Ohio (Mr. Ney) with regard to his work on election reform which was 
+very bipartisan and passed this House nearly unanimously. That is why I 
+am troubled today with having him stand up and present a bill for our 
+support that he opposes personally, and opposes the bill we all seek, 
+which has bipartisan support and will genuinely reform our campaign 
+laws.
+  To reform election laws and campaign laws in the same session would 
+enforce in people's mind that we have indeed our process up here and 
+restored integrity to our election system. The confidence of the 
+American people is at stake, and we deserve to serve them as we have in 
+the past and continue to do so today.
+  Mr. Chairman, Shays-Meehan legislation will rein in that soft money 
+and the deceptive ads that frustrate and confuse and also undermine the 
+election system; and it will provide the American public with important 
+information on which individuals or organizations are trying to 
+influence their vote. I urge adoption of Shays-Meehan and oppose the 
+Ney substitute.
+  Mr. FORD. Mr. Chairman, I yield 1\1/4\ minutes to the gentlewoman 
+from Michigan (Ms. Rivers).
+  Ms. RIVERS. Mr. Chairman, as I listen to this debate and as I have 
+listened to it over the years, we have been here before on this, I am 
+reminded of the legendary creature, the hydra. The hydra, if one of its 
+heads was cut off, it would grow two more. That is the way the 
+arguments against Shays-Meehan seem to be. How many arguments do we 
+have to hear? How many times do we have to endure this?
+  Today we hear that the bill that would not be supported 3 months ago 
+is now the bill that should be embraced today. And then after arguing 
+that, they suggest that the people on this side of the aisle are not 
+operating from principle. Well, what is the principle that is driving 
+the argument against reform? It seems to be the desire to protect the 
+status quo at any cost by any argument no matter how specious.
+  Mr. Chairman, we have a shameful voter-participation record in this 
+country. We have a political system that is not trusted by the people 
+it governs. Enough is enough. It is time to end the cynical games, both 
+political and parliamentary, that perpetuate this system. It is time to 
+defeat the substitute, pass Shays-Meehan and finally, finally, pass 
+campaign finance reform.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the gentlewoman from 
+Oregon (Ms. Hooley).
+  Ms. HOOLEY of Oregon. Mr. Chairman, hopefully today will be a day 
+where the American public wins. Five years ago as a freshman class 
+president, I joined new Members of the 105th Congress view this 
+institution and the way they view the White House.
+  We pledged that no matter what or how tough the going got, we would 
+clean up the way elections are run. We knew that massive amounts of 
+unregulated money have a corrosive influence on our political process. 
+In fact, unregulated soft-money giving has increased by 137 percent 
+since we made our pledge.
+
+                              {time}  1415
+
+  And so here we are, on the verge of finally doing something about it 
+by passing campaign finance reform. But if we do not pass a clean 
+version of the Shays-Meehan bill, the campaign finance reform 
+obstructionists will once again rest easy, knowing that the will of the 
+public will be subverted by special interests, only this time in 
+conference committee. It is time we kept our promise.
+  I urge my colleagues to join me in voting ``no'' on the Ney 
+substitute as well as any poison pill amendments that will be 
+considered.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the distinguished 
+gentleman from New York (Mr. Israel).
+  Mr. ISRAEL. Mr. Chairman, I rise against this substitute. I am one of 
+those Members who has been working on a bipartisan basis to strengthen 
+Medicare and provide affordable prescription drugs to seniors. I know 
+that this fall as sure as the leaves turn, I will turn on my television 
+and there is going to be some phony ad, backed by soft money, by some 
+innocent-sounding group masking a special interest, drowning out the 
+real voices of real people and real seniors. It is enough.
+  I have heard the debate on both sides of the aisle on who Shays-
+Meehan really helps and who it hurts. There are some Democrats who say 
+that Shays-Meehan will really help the Republicans, and there are some 
+Republicans who say that Shays-Meehan will really help the Democrats. 
+Mr. Chairman, how about helping the American people? How about putting 
+them ahead of politics for once in this House? That is what we should 
+be doing. The only way to truly do that is to pass Shays-Meehan and not 
+substitutes designed to defeat it.
+
+[[Page H392]]
+
+  Mr. SHAYS. Mr. Chairman, I yield myself the balance of my time.
+  I would point out that in conversation with Trevor Potter, who had 
+just been recently discussed, he pointed out that he totally disagrees 
+with what was said by the gentleman from Virginia (Mr. Tom Davis), and 
+the reference to his Website was, in fact, not even his Website.
+  And that this $40 million fund that is being described, Democrats 
+have $3.2 million in their building fund and Republicans have $1.8 
+million in their building fund. So if the Democrats have $40 million, 
+they would have to raise from this point on the difference, basically 
+$36.8 million, and then not spend it against candidates who are running 
+for office.
+  Again, I just repeat, if the Democrats want to raise $36.8 million 
+and spend it on a building fund instead of campaigns, I think 
+Republicans should probably encourage them to do that.
+  I would like to also point out that our bill is, in fact, a 
+compromise. It is a compromise.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the distinguished 
+gentlewoman from Texas (Ms. Jackson-Lee).
+  (Ms. JACKSON-LEE of Texas asked and was given permission to revise 
+and extend her remarks.)
+  Ms. JACKSON-LEE of Texas. Mr. Chairman, many of us have been on a 
+very long journey, and we believe that today is the final stop, and the 
+doors of the train will not open until we complete the accounting of 
+all those who have ridden with us. And I think we will find that most 
+of us believe that today is the day to pass the Shays-Meehan campaign 
+finance reform legislation, and we believe that all the debate that you 
+will hear today is procedural, that what the American people want us to 
+do is to act on substance. They want us to restate our commitment to 
+the values of America that democracy rules and that the people's voice 
+speaks louder than special interests.
+  Thomas Jefferson wrote that individuals who are elected are divided 
+into two parties, those who fear and distrust the people and those who 
+identify themselves with the people, have confidence in them, cherish 
+and consider them as the most honest and safe. I cherish the people. I 
+believe we can win by voting for Shays-Meehan campaign finance reform, 
+and support the people's interest.
+  Mr. FORD. Mr. Chairman, I yield the balance of my time to the 
+gentleman from Maryland (Mr. Hoyer).
+  Mr. HOYER. I thank the gentleman for yielding me this time.
+  Mr. Chairman, we ought to vote ``no'' on this amendment. The 
+gentleman from Ohio (Mr. Ney) voted ``no'' on this amendment 
+originally. He offers this amendment as a substitute because he says it 
+was offered before. That is correct. It was offered before it was 
+perfected. Shays-Meehan now offer their perfected version, which is the 
+preferred version by supporters of campaign finance reform.
+  I urge, therefore, every individual in this House who wants to 
+support campaign finance reform and see that bill placed on the 
+President's desk to vote against my distinguished chairman and friend, 
+the gentleman from Ohio, and keep campaign finance reform alive.
+  The CHAIRMAN. The question is on the amendment in the nature of a 
+substitute offered by the gentleman from Ohio (Mr. Ney).
+  The question was taken; and the Chairman announced that the noes 
+appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. NEY. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 53, 
+noes 377, not voting 4, as follows:
+
+                             [Roll No. 20]
+
+                                AYES--53
+
+     Aderholt
+     Akin
+     Bachus
+     Ballenger
+     Barton
+     Bono
+     Cantor
+     Capito
+     Combest
+     Cubin
+     Culberson
+     Davis, Jo Ann
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Duncan
+     Emerson
+     English
+     Fletcher
+     Forbes
+     Frelinghuysen
+     Gekas
+     Gillmor
+     Jenkins
+     Johnson (CT)
+     Johnson, Sam
+     LaTourette
+     McCrery
+     McHugh
+     McInnis
+     Nussle
+     Osborne
+     Otter
+     Pitts
+     Pryce (OH)
+     Radanovich
+     Regula
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Rush
+     Saxton
+     Schrock
+     Shimkus
+     Shows
+     Skeen
+     Smith (MI)
+     Souder
+     Taylor (NC)
+     Upton
+     Vitter
+     Weldon (PA)
+     Wilson (SC)
+
+                               NOES--377
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Armey
+     Baca
+     Baird
+     Baker
+     Baldacci
+     Baldwin
+     Barcia
+     Barr
+     Barrett
+     Bartlett
+     Bass
+     Becerra
+     Bentsen
+     Bereuter
+     Berkley
+     Berman
+     Berry
+     Biggert
+     Bilirakis
+     Bishop
+     Blagojevich
+     Blumenauer
+     Blunt
+     Boehlert
+     Boehner
+     Bonilla
+     Bonior
+     Boozman
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brady (TX)
+     Brown (FL)
+     Brown (OH)
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Chabot
+     Chambliss
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Coble
+     Collins
+     Condit
+     Conyers
+     Cooksey
+     Costello
+     Cox
+     Coyne
+     Cramer
+     Crane
+     Crenshaw
+     Crowley
+     Cummings
+     Cunningham
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     Davis, Tom
+     Deal
+     DeFazio
+     DeGette
+     DeLauro
+     DeLay
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Dreier
+     Dunn
+     Edwards
+     Ehlers
+     Ehrlich
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Everett
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Flake
+     Foley
+     Ford
+     Fossella
+     Frank
+     Frost
+     Gallegly
+     Ganske
+     Gephardt
+     Gibbons
+     Gilchrest
+     Gilman
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Goss
+     Graham
+     Granger
+     Graves
+     Green (TX)
+     Green (WI)
+     Greenwood
+     Grucci
+     Gutierrez
+     Gutknecht
+     Hall (OH)
+     Hall (TX)
+     Hansen
+     Harman
+     Hart
+     Hastings (FL)
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hill
+     Hilleary
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hobson
+     Hoeffel
+     Hoekstra
+     Holden
+     Holt
+     Honda
+     Hooley
+     Horn
+     Hostettler
+     Houghton
+     Hoyer
+     Hulshof
+     Hunter
+     Hyde
+     Inslee
+     Isakson
+     Israel
+     Issa
+     Istook
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (NC)
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kennedy (RI)
+     Kerns
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     King (NY)
+     Kingston
+     Kirk
+     Kleczka
+     Knollenberg
+     Kolbe
+     Kucinich
+     LaFalce
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Largent
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     Leach
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lewis (KY)
+     Linder
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Lucas (OK)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Manzullo
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McIntyre
+     McKeon
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Mica
+     Millender-McDonald
+     Miller, Dan
+     Miller, Gary
+     Miller, George
+     Miller, Jeff
+     Mink
+     Mollohan
+     Moore
+     Moran (KS)
+     Moran (VA)
+     Morella
+     Murtha
+     Myrick
+     Nadler
+     Napolitano
+     Neal
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Ose
+     Owens
+     Oxley
+     Pallone
+     Pascrell
+     Pastor
+     Paul
+     Payne
+     Pelosi
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Phelps
+     Pickering
+     Platts
+     Pombo
+     Pomeroy
+     Portman
+     Price (NC)
+     Putnam
+     Quinn
+     Rahall
+     Ramstad
+     Rangel
+     Rehberg
+     Reyes
+     Reynolds
+     Rivers
+     Rodriguez
+     Roemer
+     Rogers (KY)
+     Ross
+     Rothman
+     Roukema
+     Roybal-Allard
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Schaffer
+     Schakowsky
+     Schiff
+     Scott
+     Sensenbrenner
+     Serrano
+     Sessions
+     Shadegg
+     Shaw
+     Shays
+     Sherman
+     Sherwood
+     Shuster
+     Simmons
+     Simpson
+     Skelton
+     Slaughter
+     Smith (NJ)
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stearns
+     Stenholm
+     Strickland
+     Stump
+     Stupak
+     Sununu
+     Sweeney
+     Tancredo
+     Tanner
+     Tauscher
+     Tauzin
+     Taylor (MS)
+     Terry
+     Thomas
+     Thompson (CA)
+     Thompson (MS)
+     Thornberry
+     Thune
+     Thurman
+     Tiahrt
+     Tiberi
+     Tierney
+     Toomey
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Walden
+     Walsh
+     Wamp
+     Waters
+     Watkins (OK)
+     Watson (CA)
+     Watt (NC)
+     Watts (OK)
+     Waxman
+     Weiner
+     Weldon (FL)
+     Weller
+     Wexler
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--4
+
+     Delahunt
+     Lipinski
+     Riley
+     Traficant
+
+                              {time}  1443
+
+  Messrs. GARY G. MILLER of California, ISSA, BARRETT of Wisconsin, 
+ARMEY, SHERWOOD, LEWIS of Kentucky, RANGEL, BONIOR, SMITH of Texas, 
+HANSEN, NORWOOD, SHUSTER, JEFF MILLER of Florida, CANNON, BONILLA, 
+TANCREDO, ISTOOK, LARGENT, CRANE, GOSS, EHRLICH, BRYANT, BURTON of 
+Indiana, EHLERS, WATTS of Oklahoma and
+
+[[Page H393]]
+
+TAUZIN and Mrs. TAUSCHER and Mrs. MYRICK changed their vote from 
+``aye'' to ``no.''
+  Mr. GILLMOR and Mr. BACHUS changed their vote from ``no'' to ``aye.''
+  So the amendment in the nature of a substitute was rejected.
+  The result of the vote was announced as above recorded.
+  Stated against:
+  Mrs. JOHNSON of Connecticut. Mr. Chairman, on rollcall No. 20 I 
+inadvertently voted ``aye.'' I would like the Record to show that I 
+meant to vote ``no.''
+  Mr. RUSH. Mr. Chairman, on rollcall No. 20, I inadvertently cast an 
+``aye'' vote when my vote should have been ``no'' in opposition to the 
+Ney substitute to H.R. 2356.
+  The Ney substitute would undermine the ability of Legal Permanent 
+Residents to participate in the political system. I ask that the Record 
+reflect my opposition to the Ney substitute.
+  The CHAIRMAN. It is now in order to consider the amendment in the 
+nature of a substitute numbered 9 specified in section 2 of House 
+Resolution 344 offered by the gentleman from Connecticut (Mr. Shays).
+
+                              {time}  1445
+
+
+   Amendment in the Nature of a Substitute No. 9 Offered by Mr. Shays
+
+  Mr. SHAYS. Mr. Chairman, I offer an amendment in the nature of a 
+substitute.
+  The CHAIRMAN. The Clerk will designate the amendment in the nature of 
+a substitute.
+  The text of the amendment in the nature of a substitute is as 
+follows:
+
+       Amendment in the nature of a substitute No. 9 offered by 
+     Mr. Shays:
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the ``Bipartisan 
+     Campaign Reform Act of 2002''.
+       (b) Table of Contents.--The table of contents of this Act 
+     is as follows:
+
+Sec. 1. Short title; table of contents.
+
+            TITLE I--REDUCTION OF SPECIAL INTEREST INFLUENCE
+
+Sec. 101. Soft money of political parties.
+Sec. 102. Increased contribution limit for State committees of 
+              political parties.
+Sec. 103. Reporting requirements.
+
+              TITLE II--NONCANDIDATE CAMPAIGN EXPENDITURES
+
+               Subtitle A--Electioneering Communications
+
+Sec. 201. Disclosure of electioneering communications.
+Sec. 202. Coordinated communications as contributions.
+Sec. 203. Prohibition of corporate and labor disbursements for 
+              electioneering communications.
+Sec. 204. Rules relating to certain targeted electioneering 
+              communications.
+
+          Subtitle B--Independent and Coordinated Expenditures
+
+Sec. 211. Definition of independent expenditure.
+Sec. 212. Reporting requirements for certain independent expenditures.
+Sec. 213. Independent versus coordinated expenditures by party.
+Sec. 214. Coordination with candidates or political parties.
+
+                        TITLE III--MISCELLANEOUS
+
+Sec. 301. Use of contributed amounts for certain purposes.
+Sec. 302. Prohibition of fundraising on Federal property.
+Sec. 303. Strengthening foreign money ban.
+Sec. 304. Modification of individual contribution limits in response to 
+              expenditures from personal funds.
+Sec. 305. Television media rates.
+Sec. 306. Limitation on availability of lowest unit charge for Federal 
+              candidates attacking opposition.
+Sec. 307. Software for filing reports and prompt disclosure of 
+              contributions.
+Sec. 308. Modification of contribution limits.
+Sec. 309. Donations to Presidential inaugural committee.
+Sec. 310. Prohibition on fraudulent solicitation of funds.
+Sec. 311. Study and report on Clean Money Clean Elections laws.
+Sec. 312. Clarity standards for identification of sponsors of election-
+              related advertising.
+Sec. 313. Increase in penalties.
+Sec. 314. Statute of limitations.
+Sec. 315. Sentencing guidelines.
+Sec. 316. Increase in penalties imposed for violations of conduit 
+              contribution ban.
+Sec. 317. Restriction on increased contribution limits by taking into 
+              account candidate's available funds.
+Sec. 318. Clarification of right of nationals of the United States to 
+              make political contributions.
+Sec. 319. Prohibition of contributions by minors.
+
+                 TITLE IV--SEVERABILITY; EFFECTIVE DATE
+
+Sec. 401. Severability.
+Sec. 402. Effective date.
+Sec. 403. Judicial review.
+
+               TITLE V--ADDITIONAL DISCLOSURE PROVISIONS
+
+Sec. 501. Internet access to records.
+Sec. 502. Maintenance of website of election reports.
+Sec. 503. Additional disclosure reports.
+Sec. 504. Public access to broadcasting records.
+
+            TITLE I--REDUCTION OF SPECIAL INTEREST INFLUENCE
+
+     SEC. 101. SOFT MONEY OF POLITICAL PARTIES.
+
+       (a) In General.--Title III of the Federal Election Campaign 
+     Act of 1971 (2 U.S.C. 431 et seq.) is amended by adding at 
+     the end the following:
+
+     ``SEC. 323. SOFT MONEY OF POLITICAL PARTIES.
+
+       ``(a) National Committees.--
+       ``(1) In general.--A national committee of a political 
+     party (including a national congressional campaign committee 
+     of a political party) may not solicit, receive, or direct to 
+     another person a contribution, donation, or transfer of funds 
+     or any other thing of value, or spend any funds, that are not 
+     subject to the limitations, prohibitions, and reporting 
+     requirements of this Act.
+       ``(2) Applicability.--The prohibition established by 
+     paragraph (1) applies to any such national committee, any 
+     officer or agent acting on behalf of such a national 
+     committee, and any entity that is directly or indirectly 
+     established, financed, maintained, or controlled by such a 
+     national committee.
+       ``(b) State, District, and Local Committees.--
+       ``(1) In general.--Except as provided in paragraph (2), an 
+     amount that is expended or disbursed for Federal election 
+     activity by a State, district, or local committee of a 
+     political party (including an entity that is directly or 
+     indirectly established, financed, maintained, or controlled 
+     by a State, district, or local committee of a political party 
+     and an officer or agent acting on behalf of such committee or 
+     entity), or by an association or similar group of candidates 
+     for State or local office or of individuals holding State or 
+     local office, shall be made from funds subject to the 
+     limitations, prohibitions, and reporting requirements of this 
+     Act.
+       ``(2) Applicability.--
+       ``(A) In general.--Notwithstanding clause (i) or (ii) of 
+     section 301(20)(A), and subject to subparagraph (B), 
+     paragraph (1) shall not apply to any amount expended or 
+     disbursed by a State, district, or local committee of a 
+     political party for an activity described in either such 
+     clause to the extent the amounts expended or disbursed for 
+     such activity are allocated (under regulations prescribed by 
+     the Commission) among amounts--
+       ``(i) which consist solely of contributions subject to the 
+     limitations, prohibitions, and reporting requirements of this 
+     Act (other than amounts described in subparagraph (B)(iii)); 
+     and
+       ``(ii) other amounts which are not subject to the 
+     limitations, prohibitions, and reporting requirements of this 
+     Act (other than any requirements of this subsection).
+       ``(B) Conditions.--Subparagraph (A) shall only apply if--
+       ``(i) the activity does not refer to a clearly identified 
+     candidate for Federal office;
+       ``(ii) the amounts expended or disbursed are not for the 
+     costs of any broadcasting, cable, or satellite communication, 
+     other than a communication which refers solely to a clearly 
+     identified candidate for State or local office;
+       ``(iii) the amounts expended or disbursed which are 
+     described in subparagraph (A)(ii) are paid from amounts which 
+     are donated in accordance with State law and which meet the 
+     requirements of subparagraph (C), except that no person 
+     (including any person established, financed, maintained, or 
+     controlled by such person) may donate more than $10,000 to a 
+     State, district, or local committee of a political party in a 
+     calendar year for such expenditures or disbursements; and
+       ``(iv) the amounts expended or disbursed are made solely 
+     from funds raised by the State, local, or district committee 
+     which makes such expenditure or disbursement, and do not 
+     include any funds provided to such committee from--
+
+       ``(I) any other State, local, or district committee of any 
+     State party,
+       ``(II) the national committee of a political party 
+     (including a national congressional campaign committee of a 
+     political party),
+       ``(III) any officer or agent acting on behalf of any 
+     committee described in subclause (I) or (II), or
+       ``(IV) any entity directly or indirectly established, 
+     financed, maintained, or controlled by any committee 
+     described in subclause (I) or (II).
+
+       ``(C) Prohibiting involvement of national parties, federal 
+     candidates and officeholders, and state parties acting 
+     jointly.--Notwithstanding subsection (e) (other than 
+     subsection (e)(3)), amounts specifically authorized to be 
+     spent under subparagraph (B)(iii) meet the requirements of 
+     this subparagraph only if the amounts--
+       ``(i) are not solicited, received, directed, transferred, 
+     or spent by or in the name of any person described in 
+     subsection (a) or (e); and
+       ``(ii) are not solicited, received, or directed through 
+     fundraising activities conducted
+
+[[Page H394]]
+
+     jointly by 2 or more State, local, or district committees of 
+     any political party or their agents, or by a State, local, or 
+     district committee of a political party on behalf of the 
+     State, local, or district committee of a political party or 
+     its agent in one or more other States.
+       ``(c) Fundraising Costs.--An amount spent by a person 
+     described in subsection (a) or (b) to raise funds that are 
+     used, in whole or in part, for expenditures and disbursements 
+     for a Federal election activity shall be made from funds 
+     subject to the limitations, prohibitions, and reporting 
+     requirements of this Act.
+       ``(d) Tax-Exempt Organizations.--A national, State, 
+     district, or local committee of a political party (including 
+     a national congressional campaign committee of a political 
+     party), an entity that is directly or indirectly established, 
+     financed, maintained, or controlled by any such national, 
+     State, district, or local committee or its agent, and an 
+     officer or agent acting on behalf of any such party committee 
+     or entity, shall not solicit any funds for, or make or direct 
+     any donations to--
+       ``(1) an organization that is described in section 501(c) 
+     of the Internal Revenue Code of 1986 and exempt from taxation 
+     under section 501(a) of such Code (or has submitted an 
+     application for determination of tax exempt status under such 
+     section) and that makes expenditures or disbursements in 
+     connection with an election for Federal office (including 
+     expenditures or disbursements for Federal election activity); 
+     or
+       ``(2) an organization described in section 527 of such Code 
+     (other than a political committee, a State, district, or 
+     local committee of a political party, or the authorized 
+     campaign committee of a candidate for State or local office).
+       ``(e) Federal Candidates.--
+       ``(1) In general.--A candidate, individual holding Federal 
+     office, agent of a candidate or an individual holding Federal 
+     office, or an entity directly or indirectly established, 
+     financed, maintained or controlled by or acting on behalf of 
+     1 or more candidates or individuals holding Federal office, 
+     shall not--
+       ``(A) solicit, receive, direct, transfer, or spend funds in 
+     connection with an election for Federal office, including 
+     funds for any Federal election activity, unless the funds are 
+     subject to the limitations, prohibitions, and reporting 
+     requirements of this Act; or
+       ``(B) solicit, receive, direct, transfer, or spend funds in 
+     connection with any election other than an election for 
+     Federal office or disburse funds in connection with such an 
+     election unless the funds--
+       ``(i) are not in excess of the amounts permitted with 
+     respect to contributions to candidates and political 
+     committees under paragraphs (1), (2), and (3) of section 
+     315(a); and
+       ``(ii) are not from sources prohibited by this Act from 
+     making contributions in connection with an election for 
+     Federal office.
+       ``(2) State law.--Paragraph (1) does not apply to the 
+     solicitation, receipt, or spending of funds by an individual 
+     described in such paragraph who is or was also a candidate 
+     for a State or local office solely in connection with such 
+     election for State or local office if the solicitation, 
+     receipt, or spending of funds is permitted under State law 
+     and refers only to such State or local candidate, or to any 
+     other candidate for the State or local office sought by such 
+     candidate, or both.
+       ``(3) Fundraising events.--Notwithstanding paragraph (1) or 
+     subsection (b)(2)(C), a candidate or an individual holding 
+     Federal office may attend, speak, or be a featured guest at a 
+     fundraising event for a State, district, or local committee 
+     of a political party.
+       ``(4) Permitting certain solicitations.--
+       ``(A) General solicitations.--Notwithstanding any other 
+     provision of this subsection, an individual described in 
+     paragraph (1) may make a general solicitation of funds on 
+     behalf of any organization that is described in section 
+     501(c) of the Internal Revenue Code of 1986 and exempt from 
+     taxation under section 501(a) of such Code (or has submitted 
+     an application for determination of tax exempt status under 
+     such section) (other than an entity whose principal purpose 
+     is to conduct activities described in clauses (i) and (ii) of 
+     section 301(20)(A)) where such solicitation does not specify 
+     how the funds will or should be spent.
+       ``(B) Certain specific solicitations.--In addition to the 
+     general solicitations permitted under subparagraph (A), an 
+     individual described in paragraph (1) may make a solicitation 
+     explicitly to obtain funds for carrying out the activities 
+     described in clauses (i) and (ii) of section 301(20)(A), or 
+     for an entity whose principal purpose is to conduct such 
+     activities, if--
+       ``(i) the solicitation is made only to individuals; and
+       ``(ii) the amount solicited from any individual during any 
+     calendar year does not exceed $20,000.
+       ``(f) State Candidates.--
+       ``(1) In general.--A candidate for State or local office, 
+     individual holding State or local office, or an agent of such 
+     a candidate or individual may not spend any funds for a 
+     communication described in section 301(20)(A)(iii) unless the 
+     funds are subject to the limitations, prohibitions, and 
+     reporting requirements of this Act.
+       ``(2) Exception for certain communications.--Paragraph (1) 
+     shall not apply to an individual described in such paragraph 
+     if the communication involved is in connection with an 
+     election for such State or local office and refers only to 
+     such individual or to any other candidate for the State or 
+     local office held or sought by such individual, or both.''.
+       (b) Definitions.--Section 301 of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 431) is amended by adding at 
+     the end thereof the following:
+       ``(20) Federal election activity.--
+       ``(A) In general.--The term `Federal election activity' 
+     means--
+       ``(i) voter registration activity during the period that 
+     begins on the date that is 120 days before the date a 
+     regularly scheduled Federal election is held and ends on the 
+     date of the election;
+       ``(ii) voter identification, get-out-the-vote activity, or 
+     generic campaign activity conducted in connection with an 
+     election in which a candidate for Federal office appears on 
+     the ballot (regardless of whether a candidate for State or 
+     local office also appears on the ballot);
+       ``(iii) a public communication that refers to a clearly 
+     identified candidate for Federal office (regardless of 
+     whether a candidate for State or local office is also 
+     mentioned or identified) and that promotes or supports a 
+     candidate for that office, or attacks or opposes a candidate 
+     for that office (regardless of whether the communication 
+     expressly advocates a vote for or against a candidate); or
+       ``(iv) services provided during any month by an employee of 
+     a State, district, or local committee of a political party 
+     who spends more than 25 percent of that individual's 
+     compensated time during that month on activities in 
+     connection with a Federal election.
+       ``(B) Excluded activity.--The term `Federal election 
+     activity' does not include an amount expended or disbursed by 
+     a State, district, or local committee of a political party 
+     for--
+       ``(i) a public communication that refers solely to a 
+     clearly identified candidate for State or local office, if 
+     the communication is not a Federal election activity 
+     described in subparagraph (A)(i) or (ii);
+       ``(ii) a contribution to a candidate for State or local 
+     office, provided the contribution is not designated to pay 
+     for a Federal election activity described in subparagraph 
+     (A);
+       ``(iii) the costs of a State, district, or local political 
+     convention;
+       ``(iv) the costs of grassroots campaign materials, 
+     including buttons, bumper stickers, and yard signs, that name 
+     or depict only a candidate for State or local office; and
+       ``(v) the cost of constructing or purchasing an office 
+     facility or equipment for a State, district, or local 
+     committee.
+       ``(21) Generic campaign activity.--The term `generic 
+     campaign activity' means a campaign activity that promotes a 
+     political party and does not promote a candidate or non-
+     Federal candidate.
+       ``(22) Public communication.--The term `public 
+     communication' means a communication by means of any 
+     broadcast, cable, or satellite communication, newspaper, 
+     magazine, outdoor advertising facility, mass mailing, or 
+     telephone bank to the general public, or any other form of 
+     general public political advertising.
+       ``(23) Mass mailing.--The term `mass mailing' means a 
+     mailing by United States mail or facsimile of more than 500 
+     pieces of mail matter of an identical or substantially 
+     similar nature within any 30-day period.
+       ``(24) Telephone bank.--The term `telephone bank' means 
+     more than 500 telephone calls of an identical or 
+     substantially similar nature within any 30-day period.''.
+
+     SEC. 102. INCREASED CONTRIBUTION LIMIT FOR STATE COMMITTEES 
+                   OF POLITICAL PARTIES.
+
+       Section 315(a)(1) of the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 441a(a)(1)) is amended--
+       (1) in subparagraph (B), by striking ``or'' at the end;
+       (2) in subparagraph (C)--
+       (A) by inserting ``(other than a committee described in 
+     subparagraph (D))'' after ``committee''; and
+       (B) by striking the period at the end and inserting ``; 
+     or''; and
+       (3) by adding at the end the following:
+       ``(D) to a political committee established and maintained 
+     by a State committee of a political party in any calendar 
+     year which, in the aggregate, exceed $10,000.''.
+
+     SEC. 103. REPORTING REQUIREMENTS.
+
+       (a) Reporting Requirements.--Section 304 of the Federal 
+     Election Campaign Act of 1971 (2 U.S.C. 434) is amended by 
+     adding at the end the following:
+       ``(e) Political Committees.--
+       ``(1) National and congressional political committees.--The 
+     national committee of a political party, any national 
+     congressional campaign committee of a political party, and 
+     any subordinate committee of either, shall report all 
+     receipts and disbursements during the reporting period.
+       ``(2) Other political committees to which section 323 
+     applies.--
+       ``(A) In general.--In addition to any other reporting 
+     requirements applicable under this Act, a political committee 
+     (not described in paragraph (1)) to which section 323(b)(1) 
+     applies shall report all receipts and disbursements made for 
+     activities described in section 301(20)(A), unless the 
+     aggregate amount of such receipts and disbursements during 
+     the calendar year is less than $5,000.
+       ``(B) Specific disclosure by state and local parties of 
+     certain nonfederal amounts permitted to be spent on federal 
+     election activity.--Each report by a political committee 
+     under subparagraph (A) of receipts and disbursements made for 
+     activities
+
+[[Page H395]]
+
+     described in section 301(20)(A) shall include a disclosure of 
+     all receipts and disbursements described in section 
+     323(b)(2)(A) and (B).
+       ``(3) Itemization.--If a political committee has receipts 
+     or disbursements to which this subsection applies from or to 
+     any person aggregating in excess of $200 for any calendar 
+     year, the political committee shall separately itemize its 
+     reporting for such person in the same manner as required in 
+     paragraphs (3)(A), (5), and (6) of subsection (b).
+       ``(4) Reporting periods.--Reports required to be filed 
+     under this subsection shall be filed for the same time 
+     periods required for political committees under subsection 
+     (a)(4)(B).''.
+       (b) Building Fund Exception to the Definition of 
+     Contribution.--Section 301(8)(B) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 431(8)(B)) is amended--
+       (1) by striking clause (viii); and
+       (2) by redesignating clauses (ix) through (xv) as clauses 
+     (viii) through (xiv), respectively.
+
+              TITLE II--NONCANDIDATE CAMPAIGN EXPENDITURES
+
+               Subtitle A--Electioneering Communications
+
+     SEC. 201. DISCLOSURE OF ELECTIONEERING COMMUNICATIONS.
+
+       (a) In General.--Section 304 of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 434), as amended by section 
+     103, is amended by adding at the end the following new 
+     subsection:
+       ``(f) Disclosure of Electioneering Communications.--
+       ``(1) Statement required.--Every person who makes a 
+     disbursement for the direct costs of producing and airing 
+     electioneering communications in an aggregate amount in 
+     excess of $10,000 during any calendar year shall, within 24 
+     hours of each disclosure date, file with the Commission a 
+     statement containing the information described in paragraph 
+     (2).
+       ``(2) Contents of statement.--Each statement required to be 
+     filed under this subsection shall be made under penalty of 
+     perjury and shall contain the following information:
+       ``(A) The identification of the person making the 
+     disbursement, of any person sharing or exercising direction 
+     or control over the activities of such person, and of the 
+     custodian of the books and accounts of the person making the 
+     disbursement.
+       ``(B) The principal place of business of the person making 
+     the disbursement, if not an individual.
+       ``(C) The amount of each disbursement of more than $200 
+     during the period covered by the statement and the 
+     identification of the person to whom the disbursement was 
+     made.
+       ``(D) The elections to which the electioneering 
+     communications pertain and the names (if known) of the 
+     candidates identified or to be identified.
+       ``(E) If the disbursements were paid out of a segregated 
+     bank account which consists of funds contributed solely by 
+     individuals who are United States citizens or nationals or 
+     lawfully admitted for permanent residence as defined in 
+     section 1101(a)(2) of the Immigration and Nationality Act (8 
+     U.S.C. 1101(a)(2)) directly to this account for 
+     electioneering communications, the names and addresses of all 
+     contributors who contributed an aggregate amount of $1,000 or 
+     more to that account during the period beginning on the first 
+     day of the preceding calendar year and ending on the 
+     disclosure date. Nothing in this subparagraph is to be 
+     construed as a prohibition on the use of funds in such a 
+     segregated account for a purpose other than electioneering 
+     communications.
+       ``(F) If the disbursements were paid out of funds not 
+     described in subparagraph (E), the names and addresses of all 
+     contributors who contributed an aggregate amount of $1,000 or 
+     more to the person making the disbursement during the period 
+     beginning on the first day of the preceding calendar year and 
+     ending on the disclosure date.
+       ``(3) Electioneering communication.--For purposes of this 
+     subsection--
+       ``(A) In general.--(i) The term `electioneering 
+     communication' means any broadcast, cable, or satellite 
+     communication which--
+       ``(I) refers to a clearly identified candidate for Federal 
+     office;
+       ``(II) is made within--
+
+       ``(aa) 60 days before a general, special, or runoff 
+     election for the office sought by the candidate; or
+       ``(bb) 30 days before a primary or preference election, or 
+     a convention or caucus of a political party that has 
+     authority to nominate a candidate, for the office sought by 
+     the candidate; and
+
+       ``(III) in the case of a communication which refers to a 
+     candidate for an office other than President or Vice 
+     President, is targeted to the relevant electorate.
+       ``(ii) If clause (i) is held to be constitutionally 
+     insufficient by final judicial decision to support the 
+     regulation provided herein, then the term `electioneering 
+     communication' means any broadcast, cable, or satellite 
+     communication which promotes or supports a candidate for that 
+     office, or attacks or opposes a candidate for that office 
+     (regardless of whether the communication expressly advocates 
+     a vote for or against a candidate) and which also is 
+     suggestive of no plausible meaning other than an exhortation 
+     to vote for or against a specific candidate. Nothing in this 
+     subparagraph shall be construed to affect the interpretation 
+     or application of section 100.22(b) of title 11, Code of 
+     Federal Regulations.
+       ``(B) Exceptions.--The term `electioneering communication' 
+     does not include--
+       ``(i) a communication appearing in a news story, 
+     commentary, or editorial distributed through the facilities 
+     of any broadcasting station, unless such facilities are owned 
+     or controlled by any political party, political committee, or 
+     candidate;
+       ``(ii) a communication which constitutes an expenditure or 
+     an independent expenditure under this Act;
+       ``(iii) a communication which constitutes a candidate 
+     debate or forum conducted pursuant to regulations adopted by 
+     the Commission, or which solely promotes such a debate or 
+     forum and is made by or on behalf of the person sponsoring 
+     the debate or forum; or
+       ``(iv) any other communication exempted under such 
+     regulations as the Commission may promulgate (consistent with 
+     the requirements of this paragraph) to ensure the appropriate 
+     implementation of this paragraph, except that under any such 
+     regulation a communication may not be exempted if it meets 
+     the requirements of this paragraph and is described in 
+     section 301(20)(A)(iii).
+       ``(C) Targeting to relevant electorate.--For purposes of 
+     this paragraph, a communication which refers to a clearly 
+     identified candidate for Federal office is `targeted to the 
+     relevant electorate' if the communication can be received by 
+     50,000 or more persons--
+       ``(i) in the district the candidate seeks to represent, in 
+     the case of a candidate for Representative in, or Delegate or 
+     Resident Commissioner to, the Congress; or
+       ``(ii) in the State the candidate seeks to represent, in 
+     the case of a candidate for Senator.
+       ``(4) Disclosure date.--For purposes of this subsection, 
+     the term `disclosure date' means--
+       ``(A) the first date during any calendar year by which a 
+     person has made disbursements for the direct costs of 
+     producing or airing electioneering communications aggregating 
+     in excess of $10,000; and
+       ``(B) any other date during such calendar year by which a 
+     person has made disbursements for the direct costs of 
+     producing or airing electioneering communications aggregating 
+     in excess of $10,000 since the most recent disclosure date 
+     for such calendar year.
+       ``(5) Contracts to disburse.--For purposes of this 
+     subsection, a person shall be treated as having made a 
+     disbursement if the person has executed a contract to make 
+     the disbursement.
+       ``(6) Coordination with other requirements.--Any 
+     requirement to report under this subsection shall be in 
+     addition to any other reporting requirement under this Act.
+       ``(7) Coordination with Internal Revenue Code.--Nothing in 
+     this subsection may be construed to establish, modify, or 
+     otherwise affect the definition of political activities or 
+     electioneering activities (including the definition of 
+     participating in, intervening in, or influencing or 
+     attempting to influence a political campaign on behalf of or 
+     in opposition to any candidate for public office) for 
+     purposes of the Internal Revenue Code of 1986.''.
+       (b) Responsibilities of Federal Communications 
+     Commission.--The Federal Communications Commission shall 
+     compile and maintain any information the Federal Election 
+     Commission may require to carry out section 304(f) of the 
+     Federal Election Campaign Act of 1971 (as added by subsection 
+     (a)), and shall make such information available to the public 
+     on the Federal Communication Commission's website.
+
+     SEC. 202. COORDINATED COMMUNICATIONS AS CONTRIBUTIONS.
+
+       Section 315(a)(7) of the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 441a(a)(7)) is amended --
+       (1) by redesignating subparagraph (C) as subparagraph (D); 
+     and
+       (2) by inserting after subparagraph (B) the following:
+       ``(C) if--
+       ``(i) any person makes, or contracts to make, any 
+     disbursement for any electioneering communication (within the 
+     meaning of section 304(f)(3)); and
+       ``(ii) such disbursement is coordinated with a candidate or 
+     an authorized committee of such candidate, a Federal, State, 
+     or local political party or committee thereof, or an agent or 
+     official of any such candidate, party, or committee;
+     such disbursement or contracting shall be treated as a 
+     contribution to the candidate supported by the electioneering 
+     communication or that candidate's party and as an expenditure 
+     by that candidate or that candidate's party; and''.
+
+     SEC. 203. PROHIBITION OF CORPORATE AND LABOR DISBURSEMENTS 
+                   FOR ELECTIONEERING COMMUNICATIONS.
+
+       (a) In General.--Section 316(b)(2) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 441b(b)(2)) is amended by 
+     inserting ``or for any applicable electioneering 
+     communication'' before ``, but shall not include''.
+       (b) Applicable Electioneering Communication.--Section 316 
+     of such Act is amended by adding at the end the following:
+       ``(c) Rules Relating to Electioneering Communications.--
+       ``(1) Applicable electioneering communication.--For 
+     purposes of this section, the term `applicable electioneering 
+     communication' means an electioneering communication (within 
+     the meaning of section 304(f)(3)) which is made by any entity 
+     described in subsection (a) of this section or by any other 
+     person using funds donated by an entity described in 
+     subsection (a) of this section.
+
+[[Page H396]]
+
+       ``(2) Exception.--Notwithstanding paragraph (1), the term 
+     `applicable electioneering communication' does not include a 
+     communication by a section 501(c)(4) organization or a 
+     political organization (as defined in section 527(e)(1) of 
+     the Internal Revenue Code of 1986) made under section 
+     304(f)(2)(E) or (F) of this Act if the communication is paid 
+     for exclusively by funds provided directly by individuals who 
+     are United States citizens or nationals or lawfully admitted 
+     for permanent residence as defined in section 1101(a)(2) of 
+     the Immigration and Nationality Act (8 U.S.C. 1101(a)(2)). 
+     For purposes of the preceding sentence, the term `provided 
+     directly by individuals' does not include funds the source of 
+     which is an entity described in subsection (a) of this 
+     section.
+       ``(3) Special operating rules.--
+       ``(A) Definition under paragraph (1).--An electioneering 
+     communication shall be treated as made by an entity described 
+     in subsection (a) if an entity described in subsection (a) 
+     directly or indirectly disburses any amount for any of the 
+     costs of the communication.
+       ``(B) Exception under paragraph (2).--A section 501(c)(4) 
+     organization that derives amounts from business activities or 
+     receives funds from any entity described in subsection (a) 
+     shall be considered to have paid for any communication out of 
+     such amounts unless such organization paid for the 
+     communication out of a segregated account to which only 
+     individuals can contribute, as described in section 
+     304(f)(2)(E).
+       ``(4) Definitions and rules.--For purposes of this 
+     subsection--
+       ``(A) the term `section 501(c)(4) organization' means--
+       ``(i) an organization described in section 501(c)(4) of the 
+     Internal Revenue Code of 1986 and exempt from taxation under 
+     section 501(a) of such Code; or
+       ``(ii) an organization which has submitted an application 
+     to the Internal Revenue Service for determination of its 
+     status as an organization described in clause (i); and
+       ``(B) a person shall be treated as having made a 
+     disbursement if the person has executed a contract to make 
+     the disbursement.
+       ``(5) Coordination with internal revenue code.--Nothing in 
+     this subsection shall be construed to authorize an 
+     organization exempt from taxation under section 501(a) of the 
+     Internal Revenue Code of 1986 to carry out any activity which 
+     is prohibited under such Code.''.
+
+     SEC. 204. RULES RELATING TO CERTAIN TARGETED ELECTIONEERING 
+                   COMMUNICATIONS.
+
+       Section 316(c) of the Federal Election Campaign Act of 1971 
+     (2 U.S.C. 441b), as added by section 203, is amended by 
+     adding at the end the following:
+       ``(6) Special rules for targeted communications.--
+       ``(A) Exception does not apply.--Paragraph (2) shall not 
+     apply in the case of a targeted communication that is made by 
+     an organization described in such paragraph.
+       ``(B) Targeted communication.--For purposes of subparagraph 
+     (A), the term `targeted communication' means an 
+     electioneering communication (as defined in section 
+     304(f)(3)) that is distributed from a television or radio 
+     broadcast station or provider of cable or satellite 
+     television service and, in the case of a communication which 
+     refers to a candidate for an office other than President or 
+     Vice President, is targeted to the relevant electorate.
+       ``(C) Definition.--For purposes of this paragraph, a 
+     communication is `targeted to the relevant electorate' if it 
+     meets the requirements described in section 304(f)(3)(C).''.
+
+          Subtitle B--Independent and Coordinated Expenditures
+
+     SEC. 211. DEFINITION OF INDEPENDENT EXPENDITURE.
+
+       Section 301 of the Federal Election Campaign Act (2 U.S.C. 
+     431) is amended by striking paragraph (17) and inserting the 
+     following:
+       ``(17) Independent expenditure.--The term `independent 
+     expenditure' means an expenditure by a person--
+       ``(A) expressly advocating the election or defeat of a 
+     clearly identified candidate; and
+       ``(B) that is not made in concert or cooperation with or at 
+     the request or suggestion of such candidate, the candidate's 
+     authorized political committee, or their agents, or a 
+     political party committee or its agents.''.
+
+     SEC. 212. REPORTING REQUIREMENTS FOR CERTAIN INDEPENDENT 
+                   EXPENDITURES.
+
+       (a) In General.--Section 304 of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 434) (as amended by section 
+     201) is amended--
+       (1) in subsection (c)(2), by striking the undesignated 
+     matter after subparagraph (C); and
+       (2) by adding at the end the following:
+       ``(g) Time for Reporting Certain Expenditures.--
+       ``(1) Expenditures aggregating $1,000.--
+       ``(A) Initial report.--A person (including a political 
+     committee) that makes or contracts to make independent 
+     expenditures aggregating $1,000 or more after the 20th day, 
+     but more than 24 hours, before the date of an election shall 
+     file a report describing the expenditures within 24 hours.
+       ``(B) Additional reports.--After a person files a report 
+     under subparagraph (A), the person shall file an additional 
+     report within 24 hours after each time the person makes or 
+     contracts to make independent expenditures aggregating an 
+     additional $1,000 with respect to the same election as that 
+     to which the initial report relates.
+       ``(2) Expenditures aggregating $10,000.--
+       ``(A) Initial report.--A person (including a political 
+     committee) that makes or contracts to make independent 
+     expenditures aggregating $10,000 or more at any time up to 
+     and including the 20th day before the date of an election 
+     shall file a report describing the expenditures within 48 
+     hours.
+       ``(B) Additional reports.--After a person files a report 
+     under subparagraph (A), the person shall file an additional 
+     report within 48 hours after each time the person makes or 
+     contracts to make independent expenditures aggregating an 
+     additional $10,000 with respect to the same election as that 
+     to which the initial report relates.
+       ``(3) Place of filing; contents.--A report under this 
+     subsection--
+       ``(A) shall be filed with the Commission; and
+       ``(B) shall contain the information required by subsection 
+     (b)(6)(B)(iii), including the name of each candidate whom an 
+     expenditure is intended to support or oppose.''.
+       (b) Conforming Amendment.--Section 304(a)(5) of such Act (2 
+     U.S.C. 434(a)(5)) is amended by striking ``, or the second 
+     sentence of subsection (c)(2)''.
+
+     SEC. 213. INDEPENDENT VERSUS COORDINATED EXPENDITURES BY 
+                   PARTY.
+
+       Section 315(d) of the Federal Election Campaign Act of 1971 
+     (2 U.S.C. 441a(d)) is amended--
+       (1) in paragraph (1), by striking ``and (3)'' and inserting 
+     ``, (3), and (4)''; and
+       (2) by adding at the end the following:
+       ``(4) Independent versus coordinated expenditures by 
+     party.--
+       ``(A) In general.--On or after the date on which a 
+     political party nominates a candidate, no committee of the 
+     political party may make--
+       ``(i) any coordinated expenditure under this subsection 
+     with respect to the candidate during the election cycle at 
+     any time after it makes any independent expenditure (as 
+     defined in section 301(17)) with respect to the candidate 
+     during the election cycle; or
+       ``(ii) any independent expenditure (as defined in section 
+     301(17)) with respect to the candidate during the election 
+     cycle at any time after it makes any coordinated expenditure 
+     under this subsection with respect to the candidate during 
+     the election cycle.
+       ``(B) Application.--For purposes of this paragraph, all 
+     political committees established and maintained by a national 
+     political party (including all congressional campaign 
+     committees) and all political committees established and 
+     maintained by a State political party (including any 
+     subordinate committee of a State committee) shall be 
+     considered to be a single political committee.
+       ``(C) Transfers.--A committee of a political party that 
+     makes coordinated expenditures under this subsection with 
+     respect to a candidate shall not, during an election cycle, 
+     transfer any funds to, assign authority to make coordinated 
+     expenditures under this subsection to, or receive a transfer 
+     of funds from, a committee of the political party that has 
+     made or intends to make an independent expenditure with 
+     respect to the candidate.''.
+
+     SEC. 214. COORDINATION WITH CANDIDATES OR POLITICAL PARTIES.
+
+       (a) In General.--Section 315(a)(7)(B) of the Federal 
+     Election Campaign Act of 1971 (2 U.S.C. 441a(a)(7)(B)) is 
+     amended--
+       (A) by redesignating clause (ii) as clause (iii); and
+       (B) by inserting after clause (i) the following new clause:
+       ``(ii) expenditures made by any person (other than a 
+     candidate or candidate's authorized committee) in 
+     cooperation, consultation, or concert, with, or at the 
+     request or suggestion of, a national, State, or local 
+     committee of a political party, shall be considered to be 
+     contributions made to such party committee; and''.
+       (b) Repeal of Current Regulations.--The regulations on 
+     coordinated communications paid for by persons other than 
+     candidates, authorized committees of candidates, and party 
+     committees adopted by the Federal Election Commission and 
+     published in the Federal Register at page 76138 of volume 65, 
+     Federal Register, on December 6, 2000, are repealed as of the 
+     date by which the Commission is required to promulgate new 
+     regulations under subsection (c) (as described in the second 
+     sentence of section 402(c)).
+       (c) Regulations by the Federal Election Commission.--The 
+     Federal Election Commission shall promulgate new regulations 
+     on coordinated communications paid for by persons other than 
+     candidates, authorized committees of candidates, and party 
+     committees. The regulations shall not require agreement or 
+     formal collaboration to establish coordination. In addition 
+     to any subject determined by the Commission, the regulations 
+     shall address--
+       (A) payments for the republication of campaign materials;
+       (B) payments for the use of a common vendor;
+       (C) payments for communications directed or made by persons 
+     who previously served as an employee of a candidate or a 
+     political party; and
+       (D) payments for communications made by a person after 
+     substantial discussion about the communication with a 
+     candidate or a political party.
+       (d) Meaning of Contribution or Expenditure for the Purposes 
+     of Section 316.--Section 316(b)(2) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 441b(b)(2)) is
+
+[[Page H397]]
+
+     amended by striking ``shall include'' and inserting 
+     ``includes a contribution or expenditure, as those terms are 
+     defined in section 301, and also includes''.
+
+                        TITLE III--MISCELLANEOUS
+
+     SEC. 301. USE OF CONTRIBUTED AMOUNTS FOR CERTAIN PURPOSES.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.) is amended by striking section 313 and 
+     inserting the following:
+
+     ``SEC. 313. USE OF CONTRIBUTED AMOUNTS FOR CERTAIN PURPOSES.
+
+       ``(a) Permitted Uses.--A contribution accepted by a 
+     candidate, and any other donation received by an individual 
+     as support for activities of the individual as a holder of 
+     Federal office, may be used by the candidate or individual--
+       ``(1) for otherwise authorized expenditures in connection 
+     with the campaign for Federal office of the candidate or 
+     individual;
+       ``(2) for ordinary and necessary expenses incurred in 
+     connection with duties of the individual as a holder of 
+     Federal office;
+       ``(3) for contributions to an organization described in 
+     section 170(c) of the Internal Revenue Code of 1986; or
+       ``(4) for transfers to a national, State, or local 
+     committee of a political party.
+       ``(b) Prohibited Use.--
+       ``(1) In general.--A contribution or donation described in 
+     subsection (a) shall not be converted by any person to 
+     personal use.
+       ``(2) Conversion.--For the purposes of paragraph (1), a 
+     contribution or donation shall be considered to be converted 
+     to personal use if the contribution or amount is used to 
+     fulfill any commitment, obligation, or expense of a person 
+     that would exist irrespective of the candidate's election 
+     campaign or individual's duties as a holder of Federal 
+     office, including--
+       ``(A) a home mortgage, rent, or utility payment;
+       ``(B) a clothing purchase;
+       ``(C) a noncampaign-related automobile expense;
+       ``(D) a country club membership;
+       ``(E) a vacation or other noncampaign-related trip;
+       ``(F) a household food item;
+       ``(G) a tuition payment;
+       ``(H) admission to a sporting event, concert, theater, or 
+     other form of entertainment not associated with an election 
+     campaign; and
+       ``(I) dues, fees, and other payments to a health club or 
+     recreational facility.''.
+
+     SEC. 302. PROHIBITION OF FUNDRAISING ON FEDERAL PROPERTY.
+
+       Section 607 of title 18, United States Code, is amended--
+       (1) by striking subsection (a) and inserting the following:
+       ``(a) Prohibition.--
+       ``(1) In general.--It shall be unlawful for any person to 
+     solicit or receive a donation of money or other thing of 
+     value in connection with a Federal, State, or local election 
+     from a person who is located in a room or building occupied 
+     in the discharge of official duties by an officer or employee 
+     of the United States. It shall be unlawful for an individual 
+     who is an officer or employee of the Federal Government, 
+     including the President, Vice President, and Members of 
+     Congress, to solicit or receive a donation of money or other 
+     thing of value in connection with a Federal, State, or local 
+     election, while in any room or building occupied in the 
+     discharge of official duties by an officer or employee of the 
+     United States, from any person.
+       ``(2) Penalty.--A person who violates this section shall be 
+     fined not more than $5,000, imprisoned more than 3 years, or 
+     both.''; and
+       (2) in subsection (b), by inserting ``or Executive Office 
+     of the President'' after ``Congress''.
+
+     SEC. 303. STRENGTHENING FOREIGN MONEY BAN.
+
+       Section 319 of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 441e) is amended--
+       (1) by striking the heading and inserting the following: 
+     ``contributions and donations by foreign nationals''; and
+       (2) by striking subsection (a) and inserting the following:
+       ``(a) Prohibition.--It shall be unlawful for--
+       ``(1) a foreign national, directly or indirectly, to make--
+       ``(A) a contribution or donation of money or other thing of 
+     value, or to make an express or implied promise to make a 
+     contribution or donation, in connection with a Federal, 
+     State, or local election;
+       ``(B) a contribution or donation to a committee of a 
+     political party; or
+       ``(C) an expenditure, independent expenditure, or 
+     disbursement for an electioneering communication (within the 
+     meaning of section 304(f)(3)); or
+       ``(2) a person to solicit, accept, or receive a 
+     contribution or donation described in subparagraph (A) or (B) 
+     of paragraph (1) from a foreign national.''.
+
+     SEC. 304. MODIFICATION OF INDIVIDUAL CONTRIBUTION LIMITS IN 
+                   RESPONSE TO EXPENDITURES FROM PERSONAL FUNDS.
+
+       (a) Increased Limits for Individuals.--Section 315 of the 
+     Federal Election Campaign Act of 1971 (2 U.S.C. 441a) is 
+     amended--
+       (1) in subsection (a)(1), by striking ``No person'' and 
+     inserting ``Except as provided in subsection (i), no 
+     person''; and
+       (2) by adding at the end the following:
+       ``(i) Increased Limit To Allow Response to Expenditures 
+     From Personal Funds.--
+       ``(1) Increase.--
+       ``(A) In general.--Subject to paragraph (2), if the 
+     opposition personal funds amount with respect to a candidate 
+     for election to the office of Senator exceeds the threshold 
+     amount, the limit under subsection (a)(1)(A) (in this 
+     subsection referred to as the `applicable limit') with 
+     respect to that candidate shall be the increased limit.
+       ``(B) Threshold amount.--
+       ``(i) State-by-state competitive and fair campaign 
+     formula.--In this subsection, the threshold amount with 
+     respect to an election cycle of a candidate described in 
+     subparagraph (A) is an amount equal to the sum of--
+
+       ``(I) $150,000; and
+       ``(II) $0.04 multiplied by the voting age population.
+
+       ``(ii) Voting age population.--In this subparagraph, the 
+     term `voting age population' means in the case of a candidate 
+     for the office of Senator, the voting age population of the 
+     State of the candidate (as certified under section 315(e)).
+       ``(C) Increased limit.--Except as provided in clause (ii), 
+     for purposes of subparagraph (A), if the opposition personal 
+     funds amount is over--
+       ``(i) 2 times the threshold amount, but not over 4 times 
+     that amount--
+
+       ``(I) the increased limit shall be 3 times the applicable 
+     limit; and
+       ``(II) the limit under subsection (a)(3) shall not apply 
+     with respect to any contribution made with respect to a 
+     candidate if such contribution is made under the increased 
+     limit of subparagraph (A) during a period in which the 
+     candidate may accept such a contribution;
+
+       ``(ii) 4 times the threshold amount, but not over 10 times 
+     that amount--
+
+       ``(I) the increased limit shall be 6 times the applicable 
+     limit; and
+       ``(II) the limit under subsection (a)(3) shall not apply 
+     with respect to any contribution made with respect to a 
+     candidate if such contribution is made under the increased 
+     limit of subparagraph (A) during a period in which the 
+     candidate may accept such a contribution; and
+
+       ``(iii) 10 times the threshold amount--
+
+       ``(I) the increased limit shall be 6 times the applicable 
+     limit;
+       ``(II) the limit under subsection (a)(3) shall not apply 
+     with respect to any contribution made with respect to a 
+     candidate if such contribution is made under the increased 
+     limit of subparagraph (A) during a period in which the 
+     candidate may accept such a contribution; and
+       ``(III) the limits under subsection (d) with respect to any 
+     expenditure by a State or national committee of a political 
+     party shall not apply.
+
+       ``(D) Opposition personal funds amount.--The opposition 
+     personal funds amount is an amount equal to the excess (if 
+     any) of--
+       ``(i) the greatest aggregate amount of expenditures from 
+     personal funds (as defined in section 304(a)(6)(B)) that an 
+     opposing candidate in the same election makes; over
+       ``(ii) the aggregate amount of expenditures from personal 
+     funds made by the candidate with respect to the election.
+       ``(2) Time to accept contributions under increased limit.--
+       ``(A) In general.--Subject to subparagraph (B), a candidate 
+     and the candidate's authorized committee shall not accept any 
+     contribution, and a party committee shall not make any 
+     expenditure, under the increased limit under paragraph (1)--
+       ``(i) until the candidate has received notification of the 
+     opposition personal funds amount under section 304(a)(6)(B); 
+     and
+       ``(ii) to the extent that such contribution, when added to 
+     the aggregate amount of contributions previously accepted and 
+     party expenditures previously made under the increased limits 
+     under this subsection for the election cycle, exceeds 110 
+     percent of the opposition personal funds amount.
+       ``(B) Effect of withdrawal of an opposing candidate.--A 
+     candidate and a candidate's authorized committee shall not 
+     accept any contribution and a party shall not make any 
+     expenditure under the increased limit after the date on which 
+     an opposing candidate ceases to be a candidate to the extent 
+     that the amount of such increased limit is attributable to 
+     such an opposing candidate.
+       ``(3) Disposal of excess contributions.--
+       ``(A) In general.--The aggregate amount of contributions 
+     accepted by a candidate or a candidate's authorized committee 
+     under the increased limit under paragraph (1) and not 
+     otherwise expended in connection with the election with 
+     respect to which such contributions relate shall, not later 
+     than 50 days after the date of such election, be used in the 
+     manner described in subparagraph (B).
+       ``(B) Return to contributors.--A candidate or a candidate's 
+     authorized committee shall return the excess contribution to 
+     the person who made the contribution.
+       ``(j) Limitation on Repayment of Personal Loans.--Any 
+     candidate who incurs personal loans made after the effective 
+     date of the Bipartisan Campaign Reform Act of 2002 in 
+     connection with the candidate's campaign for election shall 
+     not repay (directly or indirectly), to the extent such loans 
+     exceed $250,000, such loans from any contributions made to 
+     such candidate or any authorized committee of such candidate 
+     after the date of such election.''.
+       (b) Notification of Expenditures From Personal Funds.--
+     Section 304(a)(6) of the
+
+[[Page H398]]
+
+     Federal Election Campaign Act of 1971 (2 U.S.C. 434(a)(6)) is 
+     amended--
+       (1) by redesignating subparagraph (B) as subparagraph (E); 
+     and
+       (2) by inserting after subparagraph (A) the following:
+       ``(B) Notification of expenditure from personal funds.--
+       ``(i) Definition of expenditure from personal funds.--In 
+     this subparagraph, the term `expenditure from personal funds' 
+     means--
+       ``(I) an expenditure made by a candidate using personal 
+     funds; and
+       ``(II) a contribution or loan made by a candidate using 
+     personal funds or a loan secured using such funds to the 
+     candidate's authorized committee.
+       ``(ii) Declaration of intent.--Not later than the date that 
+     is 15 days after the date on which an individual becomes a 
+     candidate for the office of Senator, the candidate shall file 
+     a declaration stating the total amount of expenditures from 
+     personal funds that the candidate intends to make, or to 
+     obligate to make, with respect to the election that will 
+     exceed the State-by-State competitive and fair campaign 
+     formula with--
+       ``(I) the Commission; and
+       ``(II) each candidate in the same election.
+       ``(iii) Initial notification.--Not later than 24 hours 
+     after a candidate described in clause (ii) makes or obligates 
+     to make an aggregate amount of expenditures from personal 
+     funds in excess of 2 times the threshold amount in connection 
+     with any election, the candidate shall file a notification 
+     with--
+       ``(I) the Commission; and
+       ``(II) each candidate in the same election.
+       ``(iv) Additional notification.--After a candidate files an 
+     initial notification under clause (iii), the candidate shall 
+     file an additional notification each time expenditures from 
+     personal funds are made or obligated to be made in an 
+     aggregate amount that exceed $10,000 with--
+       ``(I) the Commission; and
+       ``(II) each candidate in the same election.
+     Such notification shall be filed not later than 24 hours 
+     after the expenditure is made.
+       ``(v) Contents.--A notification under clause (iii) or (iv) 
+     shall include--
+       ``(I) the name of the candidate and the office sought by 
+     the candidate;
+       ``(II) the date and amount of each expenditure; and
+       ``(III) the total amount of expenditures from personal 
+     funds that the candidate has made, or obligated to make, with 
+     respect to an election as of the date of the expenditure that 
+     is the subject of the notification.
+       ``(C) Notification of disposal of excess contributions.--In 
+     the next regularly scheduled report after the date of the 
+     election for which a candidate seeks nomination for election 
+     to, or election to, Federal office, the candidate or the 
+     candidate's authorized committee shall submit to the 
+     Commission a report indicating the source and amount of any 
+     excess contributions (as determined under paragraph (1) of 
+     section 315(i)) and the manner in which the candidate or the 
+     candidate's authorized committee used such funds.
+       ``(D) Enforcement.--For provisions providing for the 
+     enforcement of the reporting requirements under this 
+     paragraph, see section 309.''.
+       (c) Definitions.--Section 301 of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 431), as amended by section 
+     101(b), is further amended by adding at the end the 
+     following:
+       ``(25) Election cycle.--The term `election cycle' means the 
+     period beginning on the day after the date of the most recent 
+     election for the specific office or seat that a candidate is 
+     seeking and ending on the date of the next election for that 
+     office or seat. For purposes of the preceding sentence, a 
+     primary election and a general election shall be considered 
+     to be separate elections.
+       ``(26) Personal funds.--The term `personal funds' means an 
+     amount that is derived from--
+       ``(A) any asset that, under applicable State law, at the 
+     time the individual became a candidate, the candidate had 
+     legal right of access to or control over, and with respect to 
+     which the candidate had--
+       ``(i) legal and rightful title; or
+       ``(ii) an equitable interest;
+       ``(B) income received during the current election cycle of 
+     the candidate, including--
+       ``(i) a salary and other earned income from bona fide 
+     employment;
+       ``(ii) dividends and proceeds from the sale of the 
+     candidate's stocks or other investments;
+       ``(iii) bequests to the candidate;
+       ``(iv) income from trusts established before the beginning 
+     of the election cycle;
+       ``(v) income from trusts established by bequest after the 
+     beginning of the election cycle of which the candidate is the 
+     beneficiary;
+       ``(vi) gifts of a personal nature that had been customarily 
+     received by the candidate prior to the beginning of the 
+     election cycle; and
+       ``(vii) proceeds from lotteries and similar legal games of 
+     chance; and
+       ``(C) a portion of assets that are jointly owned by the 
+     candidate and the candidate's spouse equal to the candidate's 
+     share of the asset under the instrument of conveyance or 
+     ownership, but if no specific share is indicated by an 
+     instrument of conveyance or ownership, the value of \1/2\ of 
+     the property.''.
+
+     SEC. 305. TELEVISION MEDIA RATES.
+
+       (a) Lowest Unit Charge.--Subsection (b) of section 315 of 
+     the Communications Act of 1934 (47 U.S.C. 315) is amended--
+       (1) by striking ``(b) The charges'' and inserting the 
+     following:
+       ``(b) Charges.--
+       ``(1) In general.--Except as provided in paragraph (2), the 
+     charges'';
+       (2) by redesignating paragraphs (1) and (2) as 
+     subparagraphs (A) and (B), respectively; and
+       (3) by adding at the end the following:
+       ``(2) Television.--The charges made for the use of any 
+     television broadcast station, or by a provider of cable or 
+     satellite television service, to any person who is a legally 
+     qualified candidate for any public office in connection with 
+     the campaign of such candidate for nomination for election, 
+     or election, to such office shall not exceed, during the 
+     periods referred to in paragraph (1)(A), the lowest charge of 
+     the station (at any time during the 180-day period preceding 
+     the date of the use) for the same amount of time for the same 
+     period.''.
+       (b) Rate Available for National Parties.--Section 315(b)(2) 
+     of such Act (47 U.S.C. 315(b)(2), as added by subsection 
+     (a)(3), is amended by inserting ``, or to a national 
+     committee of a political party making expenditures under 
+     section 315(d) of the Federal Election Campaign Act of 1971 
+     on behalf of such candidate in connection with such 
+     campaign,'' after ``such office''.
+       (c) Preemption.--Section 315 of such Act (47 U.S.C. 315) is 
+     amended--
+       (1) by redesignating subsections (c) and (d) as subsections 
+     (e) and (f), respectively; and
+       (2) by inserting after subsection (b) the following new 
+     subsection:
+       ``(c) Preemption.--
+       ``(1) In general.--Except as provided in paragraph (2), a 
+     licensee shall not preempt the use of a television broadcast 
+     station, or a provider of cable or satellite television 
+     service, by an eligible candidate or political committee of a 
+     political party who has purchased and paid for such use 
+     pursuant to subsection (b)(2).
+       ``(2) Circumstances beyond control of licensee.--If a 
+     program to be broadcast by a television broadcast station, or 
+     a provider of cable or satellite television service, is 
+     preempted because of circumstances beyond the control of the 
+     station, any candidate or party advertising spot scheduled to 
+     be broadcast during that program may also be preempted.''.
+       (d) Random Audits.--Section 315 of such Act (47 U.S.C. 
+     315), as amended by subsection (c), is amended by inserting 
+     after subsection (c) the following new subsection:
+       ``(d) Random Audits.--
+       ``(1) In general.--During the 45-day period preceding a 
+     primary election and the 60-day period preceding a general 
+     election, the Commission shall conduct random audits of 
+     designated market areas to ensure that each television 
+     broadcast station, and provider of cable or satellite 
+     television service, in those markets is allocating television 
+     broadcast advertising time in accordance with this section 
+     and section 312.
+       ``(2) Markets.--The random audits conducted under paragraph 
+     (1) shall cover the following markets:
+       ``(A) At least 6 of the top 50 largest designated market 
+     areas (as defined in section 122(j)(2)(C) of title 17, United 
+     States Code).
+       ``(B) At least 3 of the 51-100 largest designated market 
+     areas (as so defined).
+       ``(C) At least 3 of the 101-150 largest designated market 
+     areas (as so defined).
+       ``(D) At least 3 of the 151-210 largest designated market 
+     areas (as so defined).
+       ``(3) Broadcast stations.--Each random audit shall include 
+     each of the 3 largest television broadcast networks, 1 
+     independent network, and 1 cable network.''.
+       (e) Definition of Broadcasting Station.--Subsection (e)(1) 
+     of section 315 of such Act (47 U.S.C. 315(e)(1)), as 
+     redesignated by subsection (c)(1) of this section, is amended 
+     by inserting ``, a television broadcast station, and a 
+     provider of cable or satellite television service'' before 
+     the semicolon.
+       (f) Stylistic Amendments.--Section 315 of such Act (47 
+     U.S.C. 315) is amended--
+       (1) in subsection (a), by inserting ``In General.--'' 
+     before ``If any'';
+       (2) in subsection (e), as redesignated by subsection (c)(1) 
+     of this section, by inserting ``Definitions.--'' before ``For 
+     purposes''; and
+       (3) in subsection (f), as so redesignated, by inserting 
+     ``Regulations.--'' before ``The Commission''.
+
+     SEC. 306. LIMITATION ON AVAILABILITY OF LOWEST UNIT CHARGE 
+                   FOR FEDERAL CANDIDATES ATTACKING OPPOSITION.
+
+       (a) In General.--Section 315(b) of the Communications Act 
+     of 1934 (47 U.S.C. 315(b)), as amended by this Act, is 
+     amended by adding at the end the following:
+       ``(3) Content of broadcasts.--
+       ``(A) In general.--In the case of a candidate for Federal 
+     office, such candidate shall not be entitled to receive the 
+     rate under paragraph (1)(A) or (2) for the use of any 
+     broadcasting station unless the candidate provides written 
+     certification to the broadcast station that the candidate 
+     (and any authorized committee of the candidate) shall not 
+     make any direct reference to another candidate for the same 
+     office, in any broadcast using the rights and conditions of 
+     access under this Act, unless such reference meets the 
+     requirements of subparagraph (C) or (D).
+       ``(B) Limitation on charges.--If a candidate for Federal 
+     office (or any authorized committee of such candidate) makes 
+     a reference described in subparagraph (A) in any
+
+[[Page H399]]
+
+     broadcast that does not meet the requirements of subparagraph 
+     (C) or (D), such candidate shall not be entitled to receive 
+     the rate under paragraph (1)(A) or (2) for such broadcast or 
+     any other broadcast during any portion of the 45-day and 60-
+     day periods described in paragraph (1)(A), that occur on or 
+     after the date of such broadcast, for election to such 
+     office.
+       ``(C) Television broadcasts.--A candidate meets the 
+     requirements of this subparagraph if, in the case of a 
+     television broadcast, at the end of such broadcast there 
+     appears simultaneously, for a period no less than 4 seconds--
+       ``(i) a clearly identifiable photographic or similar image 
+     of the candidate; and
+       ``(ii) a clearly readable printed statement, identifying 
+     the candidate and stating that the candidate has approved the 
+     broadcast and that the candidate's authorized committee paid 
+     for the broadcast.
+       ``(D) Radio broadcasts.--A candidate meets the requirements 
+     of this subparagraph if, in the case of a radio broadcast, 
+     the broadcast includes a personal audio statement by the 
+     candidate that identifies the candidate, the office the 
+     candidate is seeking, and indicates that the candidate has 
+     approved the broadcast.
+       ``(E) Certification.--Certifications under this section 
+     shall be provided and certified as accurate by the candidate 
+     (or any authorized committee of the candidate) at the time of 
+     purchase.
+       ``(F) Definitions.--For purposes of this paragraph, the 
+     terms `authorized committee' and `Federal office' have the 
+     meanings given such terms by section 301 of the Federal 
+     Election Campaign Act of 1971 (2 U.S.C. 431).''.
+       (b) Conforming Amendment.--Section 315(b)(1)(A) of the 
+     Communications Act of 1934 (47 U.S.C. 315(b)(1)(A)), as 
+     amended by this Act, is amended by inserting ``subject to 
+     paragraph (3),'' before ``during the forty-five days''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to broadcasts made after the effective date of 
+     this Act.
+
+     SEC. 307. SOFTWARE FOR FILING REPORTS AND PROMPT DISCLOSURE 
+                   OF CONTRIBUTIONS.
+
+       Section 304(a) of the Federal Election Campaign Act of 1971 
+     (2 U.S.C. 434(a)) is amended by adding at the end the 
+     following:
+       ``(12) Software for filing of reports.--
+       ``(A) In general.--The Commission shall--
+       ``(i) promulgate standards to be used by vendors to develop 
+     software that--
+
+       ``(I) permits candidates to easily record information 
+     concerning receipts and disbursements required to be reported 
+     under this Act at the time of the receipt or disbursement;
+       ``(II) allows the information recorded under subclause (I) 
+     to be transmitted immediately to the Commission; and
+       ``(III) allows the Commission to post the information on 
+     the Internet immediately upon receipt; and
+
+       ``(ii) make a copy of software that meets the standards 
+     promulgated under clause (i) available to each person 
+     required to file a designation, statement, or report in 
+     electronic form under this Act.
+       ``(B) Additional information.--To the extent feasible, the 
+     Commission shall require vendors to include in the software 
+     developed under the standards under subparagraph (A) the 
+     ability for any person to file any designation, statement, or 
+     report required under this Act in electronic form.
+       ``(C) Required use.--Notwithstanding any provision of this 
+     Act relating to times for filing reports, each candidate for 
+     Federal office (or that candidate's authorized committee) 
+     shall use software that meets the standards promulgated under 
+     this paragraph once such software is made available to such 
+     candidate.
+       ``(D) Required posting.--The Commission shall, as soon as 
+     practicable, post on the Internet any information received 
+     under this paragraph.''.
+
+     SEC. 308. MODIFICATION OF CONTRIBUTION LIMITS.
+
+       (a) Increase in Individual Limits for Certain 
+     Contributions.--Section 315(a)(1) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 441a(a)(1)) is amended--
+       (1) in subparagraph (A), by striking ``$1,000'' and 
+     inserting the following: ``$2,000 (or, in the case of a 
+     candidate for Representative in or Delegate or Resident 
+     Commissioner to the Congress, $1,000)''; and
+       (2) in subparagraph (B), by striking ``$20,000'' and 
+     inserting ``$25,000''.
+       (b) Increase in Annual Aggregate Limit on Individual 
+     Contributions.--Section 315(a)(3) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 441a(a)(3)) is amended to read 
+     as follows:
+       ``(3) During the period which begins on January 1 of an 
+     odd-numbered year and ends on December 31 of the next even-
+     numbered year, no individual may make contributions 
+     aggregating more than--
+       ``(A) $37,500, in the case of contributions to candidates 
+     and the authorized committees of candidates;
+       ``(B) $57,500, in the case of any other contributions, of 
+     which not more than $37,500 may be attributable to 
+     contributions to political committees which are not political 
+     committees of national political parties.''.
+       (c) Increase in Senatorial Campaign Committee Limit.--
+     Section 315(h) of the Federal Election Campaign Act of 1971 
+     (2 U.S.C. 441a(h)) is amended by striking ``$17,500'' and 
+     inserting ``$35,000''.
+       (d) Indexing of Contribution Limits.--Section 315(c) of the 
+     Federal Election Campaign Act of 1971 (2 U.S.C. 441a(c)) is 
+     amended--
+       (1) in paragraph (1)--
+       (A) by striking the second and third sentences;
+       (B) by inserting ``(A)'' before ``At the beginning''; and
+       (C) by adding at the end the following:
+       ``(B) Except as provided in subparagraph (C), in any 
+     calendar year after 2002--
+       ``(i) a limitation established by subsections (a)(1)(A), 
+     (a)(1)(B), (a)(3), (b), (d), or (h) shall be increased by the 
+     percent difference determined under subparagraph (A);
+       ``(ii) each amount so increased shall remain in effect for 
+     the calendar year; and
+       ``(iii) if any amount after adjustment under clause (i) is 
+     not a multiple of $100, such amount shall be rounded to the 
+     nearest multiple of $100.
+       ``(C) In the case of limitations under subsections 
+     (a)(1)(A), (a)(1)(B), (a)(3), and (h), increases shall only 
+     be made in odd-numbered years and such increases shall remain 
+     in effect for the 2-year period beginning on the first day 
+     following the date of the last general election in the year 
+     preceding the year in which the amount is increased and 
+     ending on the date of the next general election.''; and
+       (2) in paragraph (2)(B), by striking ``means the calendar 
+     year 1974'' and inserting ``means--
+       ``(i) for purposes of subsections (b) and (d), calendar 
+     year 1974; and
+       ``(ii) for purposes of subsections (a)(1)(A), (a)(1)(B), 
+     (a)(3), and (h), calendar year 2001''.
+       (e) Effective Date.--The amendments made by this section 
+     shall apply with respect to contributions made on or after 
+     January 1, 2003.
+
+     SEC. 309. DONATIONS TO PRESIDENTIAL INAUGURAL COMMITTEE.
+
+       (a) In General.--Chapter 5 of title 36, United States Code, 
+     is amended by--
+       (1) redesignating section 510 as section 511; and
+       (2) inserting after section 509 the following:
+
+     ``Sec. 510. Disclosure of and prohibition on certain 
+       donations
+
+       ``(a) In General.--A committee shall not be considered to 
+     be the Inaugural Committee for purposes of this chapter 
+     unless the committee agrees to, and meets, the requirements 
+     of subsections (b) and (c).
+       ``(b) Disclosure.--
+       ``(1) In general.--Not later than the date that is 90 days 
+     after the date of the Presidential inaugural ceremony, the 
+     committee shall file a report with the Federal Election 
+     Commission disclosing any donation of money or anything of 
+     value made to the committee in an aggregate amount equal to 
+     or greater than $200.
+       ``(2) Contents of report.--A report filed under paragraph 
+     (1) shall contain--
+       ``(A) the amount of the donation;
+       ``(B) the date the donation is received; and
+       ``(C) the name and address of the person making the 
+     donation.
+       ``(c) Limitation.--The committee shall not accept any 
+     donation from a foreign national (as defined in section 
+     319(b) of the Federal Election Campaign Act of 1971 (2 U.S.C. 
+     441e(b))).''.
+       (b) Reports Made Available by FEC.--Section 304 of the 
+     Federal Election Campaign Act of 1971 (2 U.S.C. 434), as 
+     amended by sections 103, 201, and 212 is amended by adding at 
+     the end the following:
+       ``(h) Reports From Inaugural Committees.--The Federal 
+     Election Commission shall make any report filed by an 
+     Inaugural Committee under section 510 of title 36, United 
+     States Code, accessible to the public at the offices of the 
+     Commission and on the Internet not later than 48 hours after 
+     the report is received by the Commission.''.
+
+     SEC. 310. PROHIBITION ON FRAUDULENT SOLICITATION OF FUNDS.
+
+       Section 322 of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 441h) is amended--
+       (1) by inserting ``(a) In General.--'' before ``No 
+     person''; and
+       (2) by adding at the end the following:
+       ``(b) Fraudulent Solicitation of Funds.--No person shall--
+       ``(1) fraudulently misrepresent the person as speaking, 
+     writing, or otherwise acting for or on behalf of any 
+     candidate or political party or employee or agent thereof for 
+     the purpose of soliciting contributions or donations; or
+       ``(2) willfully and knowingly participate in or conspire to 
+     participate in any plan, scheme, or design to violate 
+     paragraph (1).''.
+
+     SEC. 311. STUDY AND REPORT ON CLEAN MONEY CLEAN ELECTIONS 
+                   LAWS.
+
+       (a) Clean Money Clean Elections Defined.--In this section, 
+     the term ``clean money clean elections'' means funds received 
+     under State laws that provide in whole or in part for the 
+     public financing of election campaigns.
+       (b) Study.--
+       (1) In general.--The Comptroller General shall conduct a 
+     study of the clean money clean elections of Arizona and 
+     Maine.
+       (2) Matters studied.--
+       (A) Statistics on clean money clean elections candidates.--
+     The Comptroller General shall determine--
+       (i) the number of candidates who have chosen to run for 
+     public office with clean money clean elections including--
+
+       (I) the office for which they were candidates;
+       (II) whether the candidate was an incumbent or a 
+     challenger; and
+
+[[Page H400]]
+
+       (III) whether the candidate was successful in the 
+     candidate's bid for public office; and
+
+       (ii) the number of races in which at least one candidate 
+     ran an election with clean money clean elections.
+       (B) Effects of clean money clean elections.--The 
+     Comptroller General of the United States shall describe the 
+     effects of public financing under the clean money clean 
+     elections laws on the 2000 elections in Arizona and Maine.
+       (c) Report.--Not later than 1 year after the date of 
+     enactment of this Act, the Comptroller General of the United 
+     States shall submit a report to the Congress detailing the 
+     results of the study conducted under subsection (b).
+
+     SEC. 312. CLARITY STANDARDS FOR IDENTIFICATION OF SPONSORS OF 
+                   ELECTION-RELATED ADVERTISING.
+
+       Section 318 of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 441d) is amended--
+       (1) in subsection (a)--
+       (A) in the matter preceding paragraph (1)--
+       (i) by striking ``Whenever'' and inserting ``Whenever a 
+     political committee makes a disbursement for the purpose of 
+     financing any communication through any broadcasting station, 
+     newspaper, magazine, outdoor advertising facility, mailing, 
+     or any other type of general public political advertising, or 
+     whenever'';
+       (ii) by striking ``an expenditure'' and inserting ``a 
+     disbursement''; and
+       (iii) by striking ``direct''; and
+       (iv) by inserting ``or makes a disbursement for an 
+     electioneering communication (as defined in section 
+     304(f)(3))'' after ``public political advertising''; and
+       (B) in paragraph (3), by inserting ``and permanent street 
+     address, telephone number, or World Wide Web address'' after 
+     ``name''; and
+       (2) by adding at the end the following:
+       ``(c) Specification.--Any printed communication described 
+     in subsection (a) shall--
+       ``(1) be of sufficient type size to be clearly readable by 
+     the recipient of the communication;
+       ``(2) be contained in a printed box set apart from the 
+     other contents of the communication; and
+       ``(3) be printed with a reasonable degree of color contrast 
+     between the background and the printed statement.
+       ``(d) Additional Requirements.--
+       ``(1) Communications by candidates or authorized persons.--
+       ``(A) By radio.--Any communication described in paragraph 
+     (1) or (2) of subsection (a) which is transmitted through 
+     radio shall include, in addition to the requirements of that 
+     paragraph, an audio statement by the candidate that 
+     identifies the candidate and states that the candidate has 
+     approved the communication.
+       ``(B) By television.--Any communication described in 
+     paragraph (1) or (2) of subsection (a) which is transmitted 
+     through television shall include, in addition to the 
+     requirements of that paragraph, a statement that identifies 
+     the candidate and states that the candidate has approved the 
+     communication. Such statement--
+       ``(i) shall be conveyed by--
+
+       ``(I) an unobscured, full-screen view of the candidate 
+     making the statement, or
+       ``(II) the candidate in voice-over, accompanied by a 
+     clearly identifiable photographic or similar image of the 
+     candidate; and
+
+       ``(ii) shall also appear in writing at the end of the 
+     communication in a clearly readable manner with a reasonable 
+     degree of color contrast between the background and the 
+     printed statement, for a period of at least 4 seconds.
+       ``(2) Communications by others.--Any communication 
+     described in paragraph (3) of subsection (a) which is 
+     transmitted through radio or television shall include, in 
+     addition to the requirements of that paragraph, in a clearly 
+     spoken manner, the following audio statement: `__________ is 
+     responsible for the content of this advertising.' (with the 
+     blank to be filled in with the name of the political 
+     committee or other person paying for the communication and 
+     the name of any connected organization of the payor). If 
+     transmitted through television, the statement shall be 
+     conveyed by an unobscured, full-screen view of a 
+     representative of the political committee or other person 
+     making the statement, or by a representative of such 
+     political committee or other person in voice-over, and shall 
+     also appear in a clearly readable manner with a reasonable 
+     degree of color contrast between the background and the 
+     printed statement, for a period of at least 4 seconds.''.
+
+     SEC. 313. INCREASE IN PENALTIES.
+
+       (a) In General.--Subparagraph (A) of section 309(d)(1) of 
+     the Federal Election Campaign Act of 1971 (2 U.S.C. 
+     437g(d)(1)(A)) is amended to read as follows:
+       ``(A) Any person who knowingly and willfully commits a 
+     violation of any provision of this Act which involves the 
+     making, receiving, or reporting of any contribution, 
+     donation, or expenditure--
+       ``(i) aggregating $25,000 or more during a calendar year 
+     shall be fined under title 18, United States Code, or 
+     imprisoned for not more than 5 years, or both; or
+       ``(ii) aggregating $2,000 or more (but less than $25,000) 
+     during a calendar year shall be fined under such title, or 
+     imprisoned for not more than one year, or both.''.
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to violations occurring on or after the effective 
+     date of this Act.
+
+     SEC. 314. STATUTE OF LIMITATIONS.
+
+       (a) In General.--Section 406(a) of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 455(a)) is amended by striking 
+     ``3'' and inserting ``5''.
+       (b) Effective Date.--The amendment made by this section 
+     shall apply to violations occurring on or after the effective 
+     date of this Act.
+
+     SEC. 315. SENTENCING GUIDELINES.
+
+       (a) In General.--The United States Sentencing Commission 
+     shall--
+       (1) promulgate a guideline, or amend an existing guideline 
+     under section 994 of title 28, United States Code, in 
+     accordance with paragraph (2), for penalties for violations 
+     of the Federal Election Campaign Act of 1971 and related 
+     election laws; and
+       (2) submit to Congress an explanation of any guidelines 
+     promulgated under paragraph (1) and any legislative or 
+     administrative recommendations regarding enforcement of the 
+     Federal Election Campaign Act of 1971 and related election 
+     laws.
+       (b) Considerations.--The Commission shall provide 
+     guidelines under subsection (a) taking into account the 
+     following considerations:
+       (1) Ensure that the sentencing guidelines and policy 
+     statements reflect the serious nature of such violations and 
+     the need for aggressive and appropriate law enforcement 
+     action to prevent such violations.
+       (2) Provide a sentencing enhancement for any person 
+     convicted of such violation if such violation involves--
+       (A) a contribution, donation, or expenditure from a foreign 
+     source;
+       (B) a large number of illegal transactions;
+       (C) a large aggregate amount of illegal contributions, 
+     donations, or expenditures;
+       (D) the receipt or disbursement of governmental funds; and
+       (E) an intent to achieve a benefit from the Federal 
+     Government.
+       (3) Assure reasonable consistency with other relevant 
+     directives and guidelines of the Commission.
+       (4) Account for aggravating or mitigating circumstances 
+     that might justify exceptions, including circumstances for 
+     which the sentencing guidelines currently provide sentencing 
+     enhancements.
+       (5) Assure the guidelines adequately meet the purposes of 
+     sentencing under section 3553(a)(2) of title 18, United 
+     States Code.
+       (c) Effective Date; Emergency Authority To Promulgate 
+     Guidelines.--
+       (1) Effective date.--Notwithstanding section 402, the 
+     United States Sentencing Commission shall promulgate 
+     guidelines under this section not later than the later of--
+       (A) 90 days after the effective date of this Act; or
+       (B) 90 days after the date on which at least a majority of 
+     the members of the Commission are appointed and holding 
+     office.
+       (2) Emergency authority to promulgate guidelines.--The 
+     Commission shall promulgate guidelines under this section in 
+     accordance with the procedures set forth in section 21(a) of 
+     the Sentencing Reform Act of 1987, as though the authority 
+     under such Act has not expired.
+
+     SEC. 316. INCREASE IN PENALTIES IMPOSED FOR VIOLATIONS OF 
+                   CONDUIT CONTRIBUTION BAN.
+
+       (a) Increase in Civil Money Penalty for Knowing and Willful 
+     Violations.--Section 309(a) of the Federal Election Campaign 
+     Act of 1971 (2 U.S.C. 437g(a)) is amended--
+       (1) in paragraph (5)(B), by inserting before the period at 
+     the end the following: ``(or, in the case of a violation of 
+     section 320, which is not less than 300 percent of the amount 
+     involved in the violation and is not more than the greater of 
+     $50,000 or 1000 percent of the amount involved in the 
+     violation)''; and
+       (2) in paragraph (6)(C), by inserting before the period at 
+     the end the following: ``(or, in the case of a violation of 
+     section 320, which is not less than 300 percent of the amount 
+     involved in the violation and is not more than the greater of 
+     $50,000 or 1000 percent of the amount involved in the 
+     violation)''.
+       (b) Increase in Criminal Penalty.--Section 309(d)(1) of 
+     such Act (2 U.S.C. 437g(d)(1)) is amended by adding at the 
+     end the following new subparagraph:
+       ``(D) Any person who knowingly and willfully commits a 
+     violation of section 320 involving an amount aggregating more 
+     than $10,000 during a calendar year shall be--
+       ``(i) imprisoned for not more than 2 years if the amount is 
+     less than $25,000 (and subject to imprisonment under 
+     subparagraph (A) if the amount is $25,000 or more);
+       ``(ii) fined not less than 300 percent of the amount 
+     involved in the violation and not more than the greater of--
+       ``(I) $50,000; or
+       ``(II) 1,000 percent of the amount involved in the 
+     violation; or
+       ``(iii) both imprisoned under clause (i) and fined under 
+     clause (ii).''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply with respect to violations occurring on or after 
+     the effective date of this Act.
+
+     SEC. 317. RESTRICTION ON INCREASED CONTRIBUTION LIMITS BY 
+                   TAKING INTO ACCOUNT CANDIDATE'S AVAILABLE 
+                   FUNDS.
+
+       Section 315(i)(1) of the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 441a(i)(1)), as added by this Act, is amended 
+     by adding at the end the following:
+       ``(E) Special rule for candidate's campaign funds.--
+       ``(i) In general.--For purposes of determining the 
+     aggregate amount of expenditures from personal funds under 
+     subparagraph (D)(ii), such amount shall include the
+
+[[Page H401]]
+
+     gross receipts advantage of the candidate's authorized 
+     committee.
+       ``(ii) Gross receipts advantage.--For purposes of clause 
+     (i), the term `gross receipts advantage' means the excess, if 
+     any, of--
+
+       ``(I) the aggregate amount of 50 percent of gross receipts 
+     of a candidate's authorized committee during any election 
+     cycle (not including contributions from personal funds of the 
+     candidate) that may be expended in connection with the 
+     election, as determined on June 30 and December 31 of the 
+     year preceding the year in which a general election is held, 
+     over
+       ``(II) the aggregate amount of 50 percent of gross receipts 
+     of the opposing candidate's authorized committee during any 
+     election cycle (not including contributions from personal 
+     funds of the candidate) that may be expended in connection 
+     with the election, as determined on June 30 and December 31 
+     of the year preceding the year in which a general election is 
+     held.''.
+
+     SEC. 318. CLARIFICATION OF RIGHT OF NATIONALS OF THE UNITED 
+                   STATES TO MAKE POLITICAL CONTRIBUTIONS.
+
+       Section 319(b)(2) of the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 441e(b)(2)) is amended by inserting after 
+     ``United States'' the following: ``or a national of the 
+     United States (as defined in section 101(a)(22) of the 
+     Immigration and Nationality Act)''.
+
+     SEC. 319. PROHIBITION OF CONTRIBUTIONS BY MINORS.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.), as amended by section 101, is further 
+     amended by adding at the end the following new section:
+
+
+                ``prohibition of contributions by minors
+
+       ``Sec. 324. An individual who is 17 years old or younger 
+     shall not make a contribution to a candidate or a 
+     contribution or donation to a committee of a political 
+     party.''.
+
+                 TITLE IV--SEVERABILITY; EFFECTIVE DATE
+
+     SEC. 401. SEVERABILITY.
+
+       If any provision of this Act or amendment made by this Act, 
+     or the application of a provision or amendment to any person 
+     or circumstance, is held to be unconstitutional, the 
+     remainder of this Act and amendments made by this Act, and 
+     the application of the provisions and amendment to any person 
+     or circumstance, shall not be affected by the holding.
+
+     SEC. 402. EFFECTIVE DATE.
+
+       (a) In General.--Except as otherwise provided in section 
+     308 and subsection (b), this Act and the amendments made by 
+     this Act shall take effect November 6, 2002.
+       (b) Transition Rule for Spending of Funds by National 
+     Parties.--If a national committee of a political party 
+     described in section 323(a)(1) of the Federal Election 
+     Campaign Act of 1971 (as added by section 101(a)), including 
+     any person who is subject to such section, has received funds 
+     described in such section prior to the effective date 
+     described in subsection (a), the following rules shall apply 
+     with respect to the spending of such funds by such committee:
+       (1) Prior to January 1, 2003, the committee may spend such 
+     funds to retire outstanding debts or obligations incurred 
+     prior to such effective date, so long as such debts or 
+     obligations were incurred solely in connection with an 
+     election held on or before November 5, 2002 (or any runoff 
+     election or recount resulting from such an election).
+       (2) At any time after such effective date, the committee 
+     may spend such funds for activities which are solely to 
+     defray the costs of the construction or purchase of any 
+     office building or facility.
+       (c) Regulations.--Not later than 90 days after the date of 
+     the enactment of this Act, the Federal Election Commission 
+     shall promulgate regulations to carry out title I of this Act 
+     and the amendments made by such title. Not later than 270 
+     days after the date of the enactment of this Act, the Federal 
+     Election Commission shall promulgate regulations to carry out 
+     all other titles of this Act and all other amendments made by 
+     this Act which are under the Commission's jurisdiction.
+
+     SEC. 403. JUDICIAL REVIEW.
+
+       (a) Special Rules For Actions Brought on Constitutional 
+     Grounds.--If any action is brought for declaratory or 
+     injunctive relief to challenge the constitutionality of any 
+     provision of this Act or any amendment made by this Act, the 
+     following rules shall apply:
+       (1) The action shall be filed in the United States District 
+     Court for the District of Columbia and shall be heard by a 3-
+     judge court convened pursuant to section 2284 of title 28, 
+     United States Code.
+       (2) A copy of the complaint shall be delivered promptly to 
+     the Clerk of the House of Representatives and the Secretary 
+     of the Senate.
+       (3) A final decision in the action shall be reviewable only 
+     by appeal directly to the Supreme Court of the United States. 
+     Such appeal shall be taken by the filing of a notice of 
+     appeal within 10 days, and the filing of a jurisdictional 
+     statement within 30 days, of the entry of the final decision.
+       (4) It shall be the duty of the United States District 
+     Court for the District of Columbia and the Supreme Court of 
+     the United States to advance on the docket and to expedite to 
+     the greatest possible extent the disposition of the action 
+     and appeal.
+       (b) Intervention by Members of Congress.--In any action in 
+     which the constitutionality of any provision of this Act or 
+     any amendment made by this Act is raised (including but not 
+     limited to an action described in subsection (a)), any member 
+     of the House of Representatives (including a Delegate or 
+     Resident Commissioner to the Congress) or Senate shall have 
+     the right to intervene either in support of or opposition to 
+     the position of a party to the case regarding the 
+     constitutionality of the provision or amendment. To avoid 
+     duplication of efforts and reduce the burdens placed on the 
+     parties to the action, the court in any such action may make 
+     such orders as it considers necessary, including orders to 
+     require intervenors taking similar positions to file joint 
+     papers or to be represented by a single attorney at oral 
+     argument.
+
+               TITLE V--ADDITIONAL DISCLOSURE PROVISIONS
+
+     SEC. 501. INTERNET ACCESS TO RECORDS.
+
+       Section 304(a)(11)(B) of the Federal Election Campaign Act 
+     of 1971 (2 U.S.C. 434(a)(11)(B)) is amended to read as 
+     follows:
+       ``(B) The Commission shall make a designation, statement, 
+     report, or notification that is filed with the Commission 
+     under this Act available for inspection by the public in the 
+     offices of the Commission and accessible to the public on the 
+     Internet not later than 48 hours (or not later than 24 hours 
+     in the case of a designation, statement, report, or 
+     notification filed electronically) after receipt by the 
+     Commission.''.
+
+     SEC. 502. MAINTENANCE OF WEBSITE OF ELECTION REPORTS.
+
+       (a) In General.--The Federal Election Commission shall 
+     maintain a central site on the Internet to make accessible to 
+     the public all publicly available election-related reports 
+     and information.
+       (b) Election-related Report.--In this section, the term 
+     ``election-related report'' means any report, designation, or 
+     statement required to be filed under the Federal Election 
+     Campaign Act of 1971.
+       (c) Coordination With Other Agencies.--Any Federal 
+     executive agency receiving election-related information which 
+     that agency is required by law to publicly disclose shall 
+     cooperate and coordinate with the Federal Election Commission 
+     to make such report available through, or for posting on, the 
+     site of the Federal Election Commission in a timely manner.
+
+     SEC. 503. ADDITIONAL DISCLOSURE REPORTS.
+
+       (a) Principal Campaign Committees.--Section 304(a)(2)(B) of 
+     the Federal Election Campaign Act of 1971 is amended by 
+     striking ``the following reports'' and all that follows 
+     through the period and inserting ``the treasurer shall file 
+     quarterly reports, which shall be filed not later than the 
+     15th day after the last day of each calendar quarter, and 
+     which shall be complete as of the last day of each calendar 
+     quarter, except that the report for the quarter ending 
+     December 31 shall be filed not later than January 31 of the 
+     following calendar year.''.
+       (b) National Committee of a Political Party.--Section 
+     304(a)(4) of such Act (2 U.S.C. 434(a)(4)) is amended by 
+     adding at the end the following flush sentence: 
+     ``Notwithstanding the preceding sentence, a national 
+     committee of a political party shall file the reports 
+     required under subparagraph (B).''.
+
+     SEC. 504. PUBLIC ACCESS TO BROADCASTING RECORDS.
+
+       Section 315 of the Communications Act of 1934 (47 U.S.C. 
+     315), as amended by this Act, is amended by redesignating 
+     subsections (e) and (f) as subsections (f) and (g), 
+     respectively, and inserting after subsection (d) the 
+     following:
+       ``(e) Political Record.--
+       ``(1) In general.--A licensee shall maintain, and make 
+     available for public inspection, a complete record of a 
+     request to purchase broadcast time that--
+       ``(A) is made by or on behalf of a legally qualified 
+     candidate for public office; or
+       ``(B) communicates a message relating to any political 
+     matter of national importance, including--
+       ``(i) a legally qualified candidate;
+       ``(ii) any election to Federal office; or
+       ``(iii) a national legislative issue of public importance.
+       ``(2) Contents of record.--A record maintained under 
+     paragraph (1) shall contain information regarding--
+       ``(A) whether the request to purchase broadcast time is 
+     accepted or rejected by the licensee;
+       ``(B) the rate charged for the broadcast time;
+       ``(C) the date and time on which the communication is 
+     aired;
+       ``(D) the class of time that is purchased;
+       ``(E) the name of the candidate to which the communication 
+     refers and the office to which the candidate is seeking 
+     election, the election to which the communication refers, or 
+     the issue to which the communication refers (as applicable);
+       ``(F) in the case of a request made by, or on behalf of, a 
+     candidate, the name of the candidate, the authorized 
+     committee of the candidate, and the treasurer of such 
+     committee; and
+       ``(G) in the case of any other request, the name of the 
+     person purchasing the time, the name, address, and phone 
+     number of a contact person for such person, and a list of the 
+     chief executive officers or members of the executive 
+     committee or of the board of directors of such person.
+       ``(3) Time to maintain file.--The information required 
+     under this subsection shall be placed in a political file as 
+     soon as possible and shall be retained by the licensee for a 
+     period of not less than 2 years.''.
+
+
+[[Page H402]]
+
+
+  The CHAIRMAN. Pursuant to section 2 of House Resolution 344, the 
+gentleman from Connecticut (Mr. Shays) and a Member opposed each will 
+control 20 minutes.
+  Mr. NEY. Mr. Chairman, I claim the time in opposition to the 
+amendment.
+  Mr. SHAYS. Mr. Chairman, for the purposes of yielding, I yield 5 
+minutes to the gentleman from Maryland (Mr. Hoyer) and 7\1/2\ minutes 
+to the gentleman from Massachusetts (Mr. Meehan), and I ask unanimous 
+consent that they be permitted to control that time.
+  The CHAIRMAN. Is there objection to the request of the gentleman from 
+Connecticut?
+  There was no objection.
+  Mr. SHAYS. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, I would just say that this is, in fact, the amendment 
+that has worked its way through the House on two occasions, in 1998 and 
+1999, and on both occasions has been changed slightly. This amendment 
+now has gone to the Senate in which the Senate worked on 21 amendments, 
+and we met with Senators from both sides of the aisle to learn what 
+they needed in that bill in order for them to pass it, and we think we 
+have worked out a bill that is about 85 percent of what we had hoped it 
+would be in 1998 and 1999. This is not the identical bill that passed 
+the Chamber in 1998 and 1999, but it is darn close.
+  I am asking this House to vote out this substitute and allow this to 
+be the base bill, so that we can then have the 10 amendments from the 
+gentleman from Texas (Mr. Armey) and the 3 amendments that will be 
+offered by the gentleman from Massachusetts (Mr. Meehan) and myself, 
+and by other individuals.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HOYER. Mr. Chairman, I yield such time as he may consume to the 
+distinguished gentleman from Michigan (Mr. Dingell), the dean of the 
+House.
+  (Mr. DINGELL asked and was given permission to revise and extend his 
+remarks.)
+  Mr. DINGELL. Mr. Chairman, I rise to assert my strong support for the 
+Shays-Meehan substitute and to urge my colleagues to do likewise and to 
+vote down all poison pills and crippling amendments.
+  Mr. MEEHAN. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, the bill before us represents bipartisan, bicameral 
+campaign finance reform. A lot has been said on the floor of the House 
+relative to changes in this bill over a period of the last several 
+months. This bill has been a bipartisan, bicameral work in progress 
+over a period of the last several years. I want to thank my Republican 
+colleagues, particularly the gentleman from Connecticut (Mr. Shays) for 
+his efforts, as well as our colleagues from both sides of the aisle in 
+the other body.
+  We have crafted a bill that gets at the soft money system that is 
+clearly out of control. All one has to do is go back to one's home 
+district and listen to people talk about unlimited contributions to 
+both political parties, corporate contributions, union treasury dues 
+being used for political campaigns, and wealthy individuals 
+contributing unlimited amounts of money to the parties.
+  Mr. Chairman, Senator McCain once said that it is going to take a 
+scandal to get this bill passed. That was back two or three scandals 
+ago when we were looking at foreign nationals coming in and 
+contributing millions of dollars. The latest one is Enron, $4 million 
+over the last 10 years in soft money; 70 percent of all of the money 
+that Enron has contributed since 1995, soft money, including nearly $2 
+million in the last election cycle.
+  We face an historic vote. It is time for the votes to be counted. The 
+Congress, the House has an opportunity to fundamentally change the soft 
+money system that has been such an abuse over the last decade. The eyes 
+of this entire country are looking at this House to determine whether 
+or not our bipartisanship and bicameral work will pay off and send a 
+bill over to the United States Senate and get it to the President's 
+desk.
+  I thank all of the Members on both sides of the aisle that have made 
+this moment possible. Now it is time for a gut check. All the Members 
+who have been for reform over the last several years have to look 
+within themselves to show the courage, the independence, the commitment 
+to true reform, to make this reform happen today in the House of 
+Representatives.
+  Mr. Chairman, I yield 1 minute to the gentlewoman from Connecticut 
+(Ms. DeLauro), who has played such a critical role in our efforts to 
+pass campaign finance reform.
+  Ms. DeLAURO. Mr. Chairman, today, at long last, we are on the 
+precipice of cleaning up our electoral system, of standing up to 
+special interests, standing up for democracy.
+  This is an historic moment. We have the opportunity to end the era of 
+unregulated soft money. We may bring to a close a period when ordinary 
+citizens could not be heard above the clamor of the special interests. 
+Today is the day Congress can say no to special treatment. The people 
+say no more Enrons.
+  I ask my colleagues, Democrats and Republicans, to stand together to 
+defend this bill against the onslaught. Our opposition will make 
+certain that every vote on every amendment today pits us against one 
+another, but the American people are fed up with business as usual. 
+They stand with us as we bring down the curtain on this era.
+  We have a responsibility to strengthen our democracy. Vote for the 
+bipartisan Shays-Meehan substitute. Turn aside the poison pill 
+amendments so that in our political process we can empower people over 
+money.
+  Mr. NEY. Mr. Chairman, I yield 4 minutes to the gentleman from Texas 
+(Mr. DeLay), the majority whip.
+  Mr. DeLAY. Mr. Chairman, I appreciate the gentleman yielding me this 
+time.
+  Mr. Chairman, I rise in opposition to this substitute, to the 
+substitute to the substitute to the substitute for Shays-Meehan. With 
+this substitute, I say to my colleagues, if we pass this substitute, we 
+can no longer call it campaign finance reform, it is now campaign 
+finance regulation, because with this substitute more loopholes are 
+created, more changes are made, and those changes are made to satisfy 
+people's own special interests, either in the Senate or in the House. 
+This substitute pits the national parties against special interest 
+groups, unions and others, and weakens our national party system.
+  This substitute, as we found out this morning, when written last 
+night, wanted to protect the good soft money that the Democrat national 
+parties have already raised and the good soft money that they are going 
+to raise between now and the election by changing the effective date. 
+And they changed the effective date until the next election. Now, what 
+is the difference? If it is bad soft money, and if it is corrupting 
+like they say, then what is the difference in doing it now or after the 
+election? The difference is they have a bunch of soft money that they 
+think is good now and they want to use it. Not only that, but this 
+creates a system that allows them to borrow soft money and hard money 
+and then pay it off with soft money, a brand new approach to campaign 
+finance. It is regulation when you pick winners and losers.
+  Now, they have said that they disagree, that my interpretation of 
+their language is wrong, and they tried it out on a couple of lawyers, 
+a Mr. Larry Noble. Mr. Larry Noble happens to be a lobbyist for the 
+Center of Responsive Politics. He is a former FEC counsel that was a 
+pretty bad one. He lost almost every case that he ever brought before 
+the FEC, and he writes that our interpretation is wrong.
+  Then, to add cynicism to this whole process, they sent a person by 
+the name of Trevor Potter over to the Republican Tuesday Group. Now, 
+Trevor Potter is a lobbyist for the Campaign Finance Institute. He is 
+on the board of Common Cause, and he was formerly Senator McCain's 
+Presidential counsel. He spoke to the Tuesday Group, told them one 
+thing, and when we pull up his Website, he says something completely 
+different than what he told the Republican Tuesday Group.
+  Now, when a bunch of lawyers start going around, there is smoke, and 
+where there is smoke, there is fire. The point is that I am no lawyer, 
+so I am not encumbered. When I read this legislation, it is quite clear 
+that they can borrow money, hard or soft, and pay it off with soft 
+money. They can do it.
+
+[[Page H403]]
+
+ They are opening loopholes everywhere. This is not reform. This is 
+regulation.
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, will the gentleman yield?
+  Mr. DeLAY. I yield to the gentleman from Virginia, the chairman of 
+the NRCC.
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, a statement was made earlier 
+that Trevor Potter has now disowned. For clarification, and this is the 
+Website that I would ask be included in the Record, the Website makes 
+it very clear that it does not make reference to contributions or 
+expenditures; in other words, that the Federal dollars goes along with 
+what the gentleman just said. Trevor Potter is a trustee of the 
+organization. It may appear that he is now disowning the statement of 
+the organization of which he is on the letterhead.
+  There is just a lot of double-talk going on around here today. It 
+looks to me like an honest drafting error, but it is a very serious 
+error that changes the rule of the game that allows unlimited amounts 
+of soft money to be spent as Federal dollars in this election cycle, 
+and it is currently illegal.
+  Mr. DeLAY. Mr. Chairman, reclaiming my time, I would just correct the 
+gentleman. It is not an honest drafting error, it is intentional so 
+that they can use their good soft money and pay for it later with other 
+soft money. It is their use of soft money when they stand before the 
+American people saying they are getting rid of this terrible soft 
+money.
+  Mr. HOYER. Mr. Chairman, I yield myself 35 seconds.
+  We believe the interpretation of the gentleman from Virginia and the 
+majority whip is absolutely incorrect; wrong. It does not do what they 
+say it does.
+  However, having said that, for the Record, it is clearly the 
+drafters' intent that it not allow, nor do we believe it does allow, 
+the use of soft money to pay hard money bills.
+  So the interpretation is clear, and the intent is without question. 
+The representations of the chairman of the NRCC are incorrect.
+  Mr. NEY. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Kentucky (Mr. Whitfield).
+
+                              {time}  1500
+
+  Mr. WHITFIELD. Mr. Chairman, when I think about the Shays-Meehan 
+bill, I think of many people who have described it in the news media as 
+an incumbent protection act. And I think that adequately describes what 
+this bill is all about because we all know that if you are an incumbent 
+Member of Congress, it is very easy to raise hard money through 
+political action committees. But if you are a challenger to an 
+incumbent, it is very difficult to raise hard money, and you get your 
+best support from soft money through issue advocacy ads.
+  The only thing this legislation does is it does not apply in any way 
+to money spent by politicians for their campaigns, but does seriously 
+restrict money spent by other groups and entities to talk about 
+campaigns, and particularly that is true within the last 60 days of an 
+election.
+  The Supreme Court has made it very clear that there are two types of 
+money. Hard money; if you expressly advocate the defeat or election of 
+a candidate, you can only use hard money. But if you talk about issues 
+and tell people the way a candidate votes on an issue without expressly 
+advocating his defeat or election, you can use soft money. But Shays-
+Meehan says that any ad run within 60 days of an election must use hard 
+money. And the Supreme Court and other Federal courts have consistently 
+said that if you create obstacles to participating in the election 
+system in the democracy that we live in, then it is unconstitutional. 
+So I do not think there is any question that trying to deprive people 
+of speaking within the last 60 days of an election unless they meet all 
+of the requirements in meeting the rules and regulations set out by the 
+Federal Election Commission, unless they are able to meet that hard 
+burden, then they are shut out of the political system. I urge a no 
+vote on Shays-Meehan.
+  Mr. MEEHAN. Mr. Chairman, I yield myself 15 seconds.
+  The gentleman from Kentucky says this is an incumbent protection 
+bill. Look, under the soft money system in the last election cycle, 98 
+percent of the Members of Congress who ran for reelection were 
+reelected. The cycle before that under the soft money system, 98 
+percent of the Members of Congress who ran for reelection were 
+reelected. We could not have a system that is more friendly to 
+incumbents than the system we have right now.
+  Mr. Chairman, I yield 1 minute to the gentlewoman from California 
+(Ms. Woolsey).
+  (Ms. WOOLSEY asked and was given permission to revise and extend her 
+remarks.)
+  Ms. WOOLSEY. Mr. Chairman, today the people's House can clean up our 
+election system. We have a real chance.
+  My constituents in Marin and Sonoma Counties just north of San 
+Francisco across the Golden Gate Bridge vote 85 percent every time we 
+have an election. They come out. They want to make sure that the Shays-
+Meehan bill is passed because they wisely understand the influence of 
+big money on our government. My constituents want fair campaign 
+processes where everyone's involvement counts. They want a government 
+that is trustworthy and responsive to their needs, not the needs of 
+special interests. They want our children to have an election system 
+that they will be proud to participate in.
+  Without real reform we tell our children that only wealthy 
+contributors have a voice in the political process. I urge my 
+colleagues support the Shays-Meehan bill. Vote for it and show our 
+children that we want them to participate, too.
+  Mr. NEY. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Mississippi (Mr. Wicker).
+  Mr. WICKER. Mr. Chairman, first of all, I want to say I appreciate my 
+friend, the gentleman from Connecticut (Mr. Shays), frankly 
+acknowledging that the bill that is before us today is different from 
+the one that he has been advocating in the past.
+  I wonder, Mr. Chairman, however, if this has sunk in on the American 
+people, the fact that this is a substantially different bill and it was 
+changed at midnight last night to accommodate certain votes that were 
+needed to enact the legislation. One of the more egregious changes is 
+the creation of a giant loophole in the so-called soft money ban. Under 
+the Shays-Meehan amendment, Members of Congress would be allowed to 
+raise soft money from 501(c) organizations.
+  Now, these are special interest groups that have a legitimate place 
+in our society. However, if the Shays proposal is enacted as it is now 
+before us, the use of 501(c) organizations will drastically change.
+  Last year we all remember one ad from a 501(c) coordinated 
+organization in the Presidential campaign. The ad focused on the 
+horrific death of a young man in Texas and criticized then-candidate 
+Bush for not supporting a proposal regarding hate crimes. By creating 
+this loophole regarding special interest groups, sham 501(c) 
+organizations will be popping up all over the country to funnel soft 
+money to campaigns. Members will be able to get their biggest 
+contributors to say, ``I know of a good government group that is 
+involved in voter education. Would you please donate a million dollars 
+to this good government group?'' And then the good government group 
+gets involved in voter education and politics in that Congressman's 
+district, aiding or abetting the Congressman's campaign.
+  Remember previous finance reforms? They were supposed to fix our 
+campaign system; instead they created new loopholes. Mr. Chairman, this 
+is a brand new loophole created at midnight last night. I urge my 
+colleagues to oppose this Shay substitute for that very reason.
+  Mr. MEEHAN. Mr. Chairman, I yield 2\3/4\ minutes to the gentleman 
+from Massachusetts (Mr. Frank).
+  Mr. FRANK. Mr. Chairman, I want to welcome converts. I do not always 
+get a chance to do that, but for years here I have tried to defend 
+freedom of expression, free speech and the first amendment. We have 
+passed information censoring the Internet that was thrown out 
+unanimously by the Supreme Court. We have passed other restrictions. 
+And, frankly, I have usually found most of my friends on the other side 
+voting for these restrictions, but today is the day of conversion.
+
+[[Page H404]]
+
+  The first amendment and freedom of speech have gained today defenders 
+that they have never had before. Unfortunately, I am afraid they will 
+never have them in the future either. But, for instance, I was looking 
+at the amendment that will be offered later by the majority leader in 
+defense of the first amendment. The first four cases he cites are from 
+the Warren Court. Oh, for the days of Warren and Douglas and Black and 
+Brennan. That is the version of the first amendment that they are 
+embracing, and if I thought that was a lasting embrace, I would welcome 
+it. But it is a very temporary use of a particular version of the first 
+amendment that they never had before and they will never have again.
+  Let us be very clear that if you are, in fact, going to adopt their 
+version of the first amendment, which I think is not a correct one, you 
+are going to encompass a lot more than simply letting yourselves spend 
+money, although maybe that is a distinction.
+  I thought about it as free speech. You have had a number of people, 
+including the majority whip who just spoke, who had not previously 
+distinguished himself, in my view, as a great defender of free speech. 
+The key is this: They are for free speech as long as it is not free. If 
+you pay for the speech, they are for it. Free free speech they never 
+defend, but paid free speech is something that many of these people 
+find acceptable.
+  I will tell Members this, that, in fact, if you endorse this version 
+of virtually untrammeled free expression, understand that in no way 
+logically and philosophically can you confine it to this. We have 
+obscenity decisions being quoted here. We have decisions about the 
+right to speak in very radical terms about opposition to the 
+government. It does not fit logically to be someone who has been for 
+severe restrictions on free speech in every other context and suddenly 
+become a first amendment absolutist in this case.
+  And the doctrine of free speech that is being used to try to 
+discredit this bill, which I think is an inaccurate one, because the 
+notion that speech you pay for is somehow fully endowed and that no 
+restriction can be made and no regulation on that, that does not seem 
+to me to be free speech. But if that is what people hold, let me say 
+the lead Senate opponent of this says to be consistent he is against 
+the flag burning amendment because he says he is against this on free 
+speech grounds, the Senator from Kentucky, and he is against the flag 
+burning constitutional amendment.
+  So let us be clear, if you want to adopt that version of free speech, 
+adopt it, but you cannot turn it on and off like a water faucet.
+  Mr. HOYER. Mr. Chairman, I yield 2 minutes to the distinguished vice 
+chairman of the Democratic Caucus, the gentleman from New Jersey (Mr. 
+Menendez).
+  (Mr. MENENDEZ asked and was given permission to revise and extend his 
+remarks.)
+  Mr. MENENDEZ. Mr. Chairman, our system of campaign finance is out of 
+control, drowning in money, including the money of corporate polluters 
+and scam artists like the Enron crowd, and in the process drowning out 
+the voices of working Americans and their families.
+  I ask why do we not have a patients' bill of rights and why do we 
+have a fiasco like Enron? The unlimited, unregulated special interest 
+soft money has got to go. It has got to go now, today, once and for 
+all.
+  Mr. Chairman, democracy is about the people. It is about every single 
+person who can hear my voice. This is their House, their Congress, 
+their government, and they want it back. But the Republican leadership 
+has done everything it can to kill this bill. In fact, the only way we 
+got this bill to the floor was by getting Members to sign a discharge 
+petition to force the leadership to give this bill a chance. Well, 
+today they may try to defeat campaign finance reform with procedural 
+tactics and poison bill amendments, and we have to defeat those 
+efforts.
+  Millions of special interest soft money should not undermine the 
+millions of Americans who want their vote to be the powerful tool in 
+this democracy. For the sake of our democracy, we have to defeat these 
+tactics, level the playing fields, get the special interest soft money 
+out of politics once and for all, and return this government to the 
+American people.
+  Vote for Shays-Meehan. Vote against all of the poison pills, and let 
+us have a new day dawn in our democracy, one that is a democracy in 
+which the individual citizens' right to their vote and the power of 
+their vote will ultimately determine the fate of policy in this 
+country, not hundreds of millions of dollars of special interest 
+monies.
+  The CHAIRMAN. The gentleman from Connecticut (Mr. Shays) has 6\1/2\ 
+minutes remaining. The gentleman from Ohio (Mr. Ney) has 12 minutes 
+remaining. The gentleman from Maryland (Mr. Hoyer) has 2\1/2\ minutes 
+remaining. The gentleman from Ohio (Mr. Ney) has the right to close.
+  Mr. NEY. Mr. Chairman, I yield 2 minutes to the gentleman from 
+California (Mr. Doolittle).
+  (Mr. DOOLITTLE asked and was given permission to revise and extend 
+his remarks.)
+  Mr. DOOLITTLE. Mr. Chairman, it is not reform. It is deception. That 
+is what Mr. Samuelson from the Washington Post says about Shays-Meehan. 
+I want to keep repeating that. It is not reform. It is deception. 
+Because that is exactly what it is. It is deception.
+  By the way, one part of this deception I really like which is this 
+part about the loan provision is marvelous. That is perfectly 
+consistent with my plan for deregulation, which would eliminate all the 
+limits and would solve this problem once and for all because we would 
+have full disclosure, and you would not have to have this subterfuge of 
+soft money and issue ads and independent expenditures and all these 
+things that are getting worse and worse because of you folks. You gave 
+us the present law, and you are making it worse. But this loan 
+provision is fantastic.
+  I want to draw everyone's attention to it. If this horrible bill 
+somehow becomes law, we will take full advantage of it, I promise you, 
+because we can do this, too, as Republicans thanks to the provision 
+that you have given us.
+  Here is the analysis I am reading from. ``In contrast to current law, 
+the proposed language would allow the national party committee to pay 
+any debt with soft non-Federal dollars from the period of November 5, 
+2002, to January 1, 2003.''
+  Now, that is not consistent with the current regulations that 
+specifically require hard debt to be paid with hard dollars. As a 
+practical matter, the plain wording of the proposed language would 
+allow a national party committee to borrow hard dollars, spend those 
+dollars in an upcoming election, and then use the remaining soft 
+dollars to pay the debt. This is great. You cannot even do this under 
+current law, but under the change you are making, it is just effective, 
+just for the end of this year we will be able to do this.
+  Why not just go all the way, defeat your bill and pass deregulation, 
+which really does solve the problem? Because if soft money is evil, why 
+is it good for you to be able to do this and pack it in with all you 
+can with your collateralized loans to get all the advantage you can out 
+of this election? Just like Samuelson said, ``It is not reform. It is 
+deception.''
+
+                              {time}  1515
+
+  Mr. HOYER. Mr. Chairman, I reserve the balance of my time.
+  Mr. NEY. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Virginia (Mr. Tom Davis).
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, let me say just a few months 
+ago we sat in this body and the advocates at that point said that this 
+bill needs to be passed now, that we could not delay it, we wanted to 
+get it ready for the next cycle. Now just a few months later, instead 
+of being ready for the 2002 cycle and because the campaign committee on 
+the other side of the aisle has been unable to raise hard dollars and 
+retire their hard dollar debt and they have looked at the discrepancy 
+between the committees, they want the rules to be delayed in 
+implementation until the next election. Why? So they can spend their 
+soft dollars this year. So they can trade their soft dollars this year 
+for hard dollars under the loophole that has been discovered in the 
+drafting.
+  It reminds me of the old drunk who swears he is going to quit 
+drinking tomorrow but tonight he is going to get real drunk and tie it 
+down. That is what they are doing.
+  Mr. FORD. Mr. Chairman, will the gentleman yield?
+
+[[Page H405]]
+
+  Mr. TOM DAVIS of Virginia. I yield to the gentleman from Tennessee.
+  Mr. FORD. Mr. Chairman, I know the gentleman made the point about the 
+Democratic Party, but was not the gentleman quoted in the front page of 
+one of our local newspapers here on the Hill urging us not to consider 
+a telecom bill because it would hurt campaign contributions to the 
+party?
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, I do not believe I was 
+quoted as saying that.
+  Tonight this substitute is not fair. It is not bipartisan. It is 
+written to gain the current system. Their leadership on the other side 
+woke up and found they had a huge hard-dollar gap. If my colleagues 
+reject this substitute, remember this, those who signed the petition: 
+if my colleagues reject the substitute, we are down to the base bill. 
+That is the bill my colleagues signed the discharge petition for. They 
+have not lost anything.
+  This substitute was unveiled for the first time last evening at 10 
+p.m. That is when the public, that is when the opposition got to see 
+it; and as we can see, drafting errors occur sometimes when people do 
+these things at the last moment, and I think that is the problem that 
+we have here.
+  The underlying bill would still stand if this substitute is rejected. 
+I oppose this legislation as it is now being amended again. I say to my 
+friends who signed the discharge petition, if my colleagues reject this 
+and beat this they have still the underlying bill. That is what they 
+signed the discharge petition for and we can go on amendments from 
+there.
+  Mr. SHAYS. Mr. Chairman, I yield myself 15 seconds to just point out, 
+we petitioned out the base bill; but we also knew we were going to come 
+forward with the amendments that we intended to come forward with in 
+July which was divided into 13 parts. So it is all part of a process 
+and this is a substitute, and this is ultimately what we hoped would 
+happen.
+  Mr. NEY. Mr. Chairman, I yield 15 seconds to the gentleman from 
+Virginia (Mr. Tom Davis).
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, if I could say to my friend, 
+I understand that was part of the process, but he has to understand 
+that nobody knew when they signed the petition what this amendment 
+would be, what this substitute would be; and so for many members who 
+signed the petition, if they do not like this, they can be consistent 
+with signing this petition and vote against this substitute. That is 
+the only point. I would say my friend and honorable gentleman who has 
+offered this, I think, is most sincere.
+  Mr. HOYER. Mr. Chairman, can the Chair tell me what the time is 
+remaining?
+  The CHAIRMAN. The gentleman from Maryland (Mr. Hoyer) has 2\1/2\ 
+minutes remaining. The gentleman from Ohio (Mr. Ney) has 7\3/4\ minutes 
+remaining. The gentleman from Connecticut (Mr. Shays) has 6\1/4\ 
+minutes remaining, and the gentleman from Ohio (Mr. Ney) has the right 
+to close.
+  Mr. SHAYS. Mr. Chairman, I yield 1 minute to the gentleman from New 
+York (Mr. Boehlert).
+  (Mr. BOEHLERT asked and was given permission to revise and extend his 
+remarks.)
+  Mr. BOEHLERT. Mr. Chairman, I rise in strong support of the Shays-
+Meehan substitute.
+  The reason we need Shays-Meehan is quite simple. The American people 
+are continuing to lose faith and confidence in our political system 
+because of the unregulated flow of soft money into the campaign 
+coffers. In fact, we need to look no further for proof of America's 
+dissatisfaction than the dismal 51 percent turnout of registered voters 
+in the last election, one of the closest elections in history.
+  Quite frankly, I am sort of tired of apologizing for a system that I 
+think works quite well. People think money taints every decision that 
+is made in this Congress. This is not so. I do not believe it for a 
+minute, but the fact of the matter is people think it and they are 
+losing confidence. We need to change the system.
+  Shays-Meehan is not perfect, but it is much better than what we have; 
+and for those who would argue that we should do nothing, I would say 
+they are not listening to the voice and they are not considering the 
+will of the American people. The time for campaign finance reform is 
+long overdue, and the Shays-Meehan substitute is one way to get reform 
+to the President's desk, and I feel confident that he will sign it.
+  Mr. SHAYS. Mr. Chairman, how much time do I have remaining?
+  The CHAIRMAN. The gentleman from Connecticut (Mr. Shays) has 5\1/4\ 
+minutes remaining.
+  Mr. SHAYS. Mr. Chairman, I yield 4 minutes to the gentleman from 
+Tennessee (Mr. Wamp).
+  Mr. WAMP. Mr. Chairman, I thank the gentleman from Connecticut (Mr. 
+Shays) for the honor of participating here in the closing of the debate 
+on this meaningful legislation.
+  President Roosevelt, the Democrat, FDR, said we have nothing to fear 
+but fear itself. I say to our friends in leadership, do not be afraid 
+of this legislation. Do not be afraid of giving up soft money. I know 
+that fear drives a lot of their actions, but we should not be afraid to 
+go into a new era and to leave the old behind.
+  I think a lot of their mentality is that they cannot survive without 
+it. I respect them but I respectfully disagree. I think both parties 
+will do just fine without it. The American people will be encouraged 
+greatly, the process will be cleaned up, and we will take a major step 
+in the right direction.
+  In a lot of ways this debate is about the leadership versus rank-and-
+file Members because the truth is there are a lot of rank-and-file 
+Members on both sides, people of goodwill, that know this is a problem 
+and know that something needs to be done about it. My hope is that they 
+will come together later today and along the way for that common 
+purpose.
+  The people ask how could a bill that has overwhelmingly passed the 
+House twice in recent years, passed the Senate with 59 votes, come up 
+again today and have so much opposition; and I can only tell them that 
+the closer we get to finality the more intense the fight, the higher 
+the temperature.
+  President Roosevelt, the Republican, Teddy, passionately fought to 
+make sure that large corporations, rich and powerful people, were not 
+treated differently than ordinary citizens, that they did not receive 
+special treatment. I have got to tell my colleagues this soft-money 
+loophole has brought about that result a hundred years later.
+  My party needs to recommit itself to those TR principles, to make 
+sure that ordinary citizens have just as much protection under our laws 
+and under our rules as rich and powerful people.
+  Soft money is now being given in a shameful way. It has proliferated 
+beyond measure in recent years, and it is a real corrupting influence. 
+Legislation comes before this body at the same time these large 
+unlimited, unregulated contributions go to the political parties. That 
+is wrong. We must stop it.
+  Even the opponents of Shays-Meehan earlier today with their 
+amendments acknowledge it is a problem. They even offered an amendment 
+to ban it. We have made a lot of progress in the last 4 years because 
+their amendments prove that we are on a just mission.
+  This is the people's House. Civility and respect should rule. My 
+colleagues may not want to hear this, but Republicans are not always 
+right and Democrats are not always wrong. Neither party has an 
+exclusive on integrity or ideas. We need to come together as people of 
+goodwill, Democrats and Republicans, who might not agree on any other 
+issues and put the people ahead of our parties, ahead of our own 
+reelection, ahead of all the lobbying and the special interests and do 
+what has not been done in 28 years in the United States of America.
+  We need to move this process forward today and beat back the 
+amendments because this is the most meaningful reform in a generation, 
+and this is the moment. We have been on this mission for a long time. 
+Today, together, in a civil and respectful way, we will prevail.
+  Mr. NEY. Mr. Chairman, I yield myself such time as I may consume.
+  I would note that we are not afraid to give up soft money. If it is 
+bad next year, it is bad now. Let us do it immediately instead of 
+waiting till next year.
+  Mr. Chairman, I yield 3 minutes to the gentleman from Missouri (Mr. 
+Blunt).
+  Mr. BLUNT. Mr. Chairman, I thank the gentleman from Ohio (Mr. Ney) 
+for yielding me the time.
+
+[[Page H406]]
+
+  We will have a chance to do what the Shays-Meehan bill did in an 
+earlier time, to ban all soft money. It did that, it had random FEC 
+audits, it had strong penalties for violators. None of those things are 
+there, and one of the things that is there is this huge confusion over 
+what can be done with the money that is in the coffers of the parties 
+after the November 5 election this year.
+  This is what happens when my colleagues file a bill at 10 or 11 
+o'clock at night to vote on the next day that did not have committee 
+hearings, that everybody says would just be devastated by going through 
+the regular process and going through conference.
+  There has been a lot of discussion about that, a lot of letters 
+flying around, lots of things put on the file. I just received from two 
+of the current commissioners of the FEC, David Mason, the chairman, and 
+Bradley Smith, the commissioner, a letter indicating their views, not 
+the official views of the agency, because they have not met yet; but 
+this is the chairman and one of the commissioners.
+  This says that ``the transition rule allowing national party 
+committees to spend soft money between November 6, 2002, and January 1, 
+2003, does not prohibit the use of soft money to pay debts related to 
+Federal elections. Because the proposed bill effectively invalidates 
+the Federal Election Commission's soft money allocation regulations,'' 
+which as they apply to national parties, ``as of the effective date of 
+November 6, no rule of the Commission would address how parties could 
+use these funds to retire debts.'' Two current commissioners of the FEC 
+say in the concluding sentence, ``If Congress wishes to prohibit the 
+use of soft money to retire hard money debts during the transition 
+period, the legislation should be amended to specify this 
+restriction.''
+  That is exactly what we have been saying on the floor all day. It is, 
+in fact, the case. It opens the door fully to use any soft money that 
+can be collected or is in either party's coffers this year to retire 
+hard-money debts this year. That may not be what my friends who drafted 
+this legislation thought it would mean. Maybe they did not even look at 
+this particular provision that was being drafted, but that is what it 
+means. Not only does this bill not close the door on soft money in the 
+future, it knocks down the door on the impact that soft money would 
+have in this election.
+  We will see the greatest race for soft money, if this bill passes, 
+that we have seen to date. Last cycle, my friends on the Democratic 
+side collected more soft money than we did on the Republican side. I 
+suppose they could do that again. If they do this in a partisan sense, 
+it would make a lot of sense. I cannot believe that would be the result 
+they would want the American people to think was the purpose of 
+campaign finance reform.
+  That is what this bill says. It should have had a hearing. A 
+conference would be a good thing. We need to do this in the regular 
+order. We are not doing it that way.
+  Mr. HOYER. Mr. Chairman, I yield myself 30 seconds.
+  Mr. Chairman, I know the two commissioners and I have a lot of 
+dealings with the FEC, but they must have had a very quick reading. The 
+fact of the matter is section 441(b) of the Federal Election Campaign 
+Act prohibits what they assert the bill allows, and the transition rule 
+to which they refer does not affect this provision. So that I fear what 
+has happened is they have analyzed the transition provision without 
+analyzing existing law which is not changed, which prohibits that which 
+the gentleman from Virginia (Mr. Tom Davis) and the gentleman from 
+Missouri (Mr. Blunt) and others have asserted would happen.
+  Mr. Chairman, I yield 45 seconds to the gentleman from Wisconsin (Mr. 
+Barrett) and apologize for not having more time to yield.
+  Mr. BARRETT of Wisconsin. Mr. Chairman, I stand as a proud supporter 
+of the Shays-Meehan bill and congratulate the gentleman from 
+Connecticut (Mr. Shays) and the gentleman from Massachusetts (Mr. 
+Meehan) for the fine work that they have done. It is time. It is time 
+that we start moving this train for reform forward.
+  What we have heard this afternoon is we have heard people who have 
+long opposed campaign finance reform come down to this well and try to 
+nitpick, try to nitpick at this bill. They are trying to love this bill 
+to death, to death because the last thing they want to do is have 
+campaign finance reform in this country.
+  This bill is not perfect; but for the first time in a generation, we 
+are trying to clean up this system.
+
+                              {time}  1530
+
+  I love having people in this country involved in our democracy. It is 
+the ultimate participatory sport. But fewer and fewer people believe 
+that they can have an impact in our democracy when big money rules the 
+day.
+  Mr. Chairman, it is time for us to pass this bill.
+  Mr. HOYER. Mr. Chairman, I yield 45 seconds to the distinguished 
+gentleman from Massachusetts (Mr. Neal).
+  Mr. NEAL of Massachusetts. Mr. Chairman, I thank the gentleman for a 
+long 45 seconds.
+  The gentleman from Virginia (Mr. Davis), my friend, raised the 
+question earlier why did somebody sign the discharge petition. It is 
+the first one I have signed in 14 years in this House, and I was number 
+218, precisely for the purpose of giving the American people a full and 
+fair discussion about campaign finance.
+  Everybody knows what has happened in this institution. It is no 
+secret that the Republican leadership is opposed to campaign finance. 
+Enron has cast a new day around here.
+  This debate appears to be complicated. The task ahead of us is really 
+quite simple. The time is now to adopt this legislation. This part of 
+our campaign finance season in this House is known for one thing: It is 
+search and destroy with soft money. It is not to enlighten. It is to 
+eviscerate the public debate.
+  Mr. Chairman, I would suggest now that we take down the ``For Sale'' 
+sign that hangs over this wonderful old House and pass Shays-Meehan. We 
+need to move forward with this campaign finance bill.
+  Mr. SHAYS. Mr. Chairman, I yield the balance of my time to the 
+distinguished gentleman from Delaware (Mr. Castle).
+  Mr. CASTLE. Mr. Chairman, I thank the gentleman for yielding me this 
+time, and I, too, rise in strong support of Shays-Meehan.
+  This has been going on for 3 or 4 years. We hear statements being 
+made such as this bill was drafted at 10 or 11 at night, or there 
+should have been committee hearings and whatever. It has been going on 
+for a long time. We hear about all the substitutes and whatever, but 
+the truth of the matter is that what we have before us is what has been 
+worked out by a lot of people who have worked on this bill.
+  We cannot revert to the underlying bill here. If we did, it would go 
+to conference and the bill would be dead. Instead, we have to face what 
+we are doing, and basically in this legislation we are doing things 
+that I think need to happen. We are not doing other things which should 
+not happen. We are not banning voter guides.
+  I disagree entirely with the argument that you can use soft money to 
+pay off hard money debts. That is another section entirely of the Code, 
+and I hope everybody will take the time to read that carefully. And the 
+support for that comes from the Democratic side, I might add.
+  There is no limit to free speech here. I have heard that. There is no 
+limit whatsoever to free speech. In fact, there are no real changes in 
+what we are limiting here. We are just focusing on the methodology by 
+which money is paid for campaigns, not what is stated, not free speech. 
+That is just an absolutely wrong statement with respect to that.
+  This bill basically plays no tricks. What you see is what you get. It 
+is taking soft money, the large contributions which have come in from 
+corporations, labor unions, wealthy individuals, into the parties, and 
+then are spent to their benefit out altogether and is providing for a 
+good financial package and good elections.
+  We should all support the Shays-Meehan substitute.
+  Mr. HOYER. Mr. Chairman, I yield such time as she may consume to the 
+gentlewoman from California (Ms. Millender-McDonald).
+  (Ms. MILLENDER-McDONALD asked and was given permission to revise and 
+extend her remarks.)
+
+[[Page H407]]
+
+  Ms. MILLENDER-McDONALD. Mr. Chairman, I stand in strong support of 
+the Shays-Meehan bill, as it will help us to clean up our campaign 
+financing system.
+  Mr. Chairman, I rise in opposition to the Ney amendment because it 
+deviates from the original Shays-Meehan bill that we supported in the 
+House. At this juncture, when we are debating the merits of campaign 
+finance reform, it is critical that we send a clear message to the 
+American people that we are not pawns of campaign contributors.
+  Furthermore, given the cynical attitudes of the American public about 
+the affect of campaign contributions on the actions of Representatives, 
+we must send a deafening message.
+  Notwithstanding our past history of using soft monies to facilitate 
+traditional and legitimate Get Out The Vote [GOTV] election-day 
+efforts, we are prepared to embrace a clean piece of campaign 
+legislation, Shays-Meehan, which will place us on the footpath of 
+political integrity.
+  Mr. Chairman, we stand on the brink of challenge and change. The 
+challenge is whether we will support true campaign finance reform and 
+will change the landscape of campaigns; or will we opt to poison the 
+well of potential campaign finance reform by supporting poison pill 
+amendments. I urge my colleagues to vote down all such amendments and 
+support Shays-Meehan. Give full democracy back to the people.
+  Mr. Chairman, I rise today as an ardent supporter of the Shays-Meehan 
+substitute because it is time for this House to pass true campaign 
+finance reform.
+  We have a unique opportunity to step up to the plate and hit a 
+homerun for promoting true change in the way we finance campaigns. The 
+American people continue to be cynical about whether their legislators 
+are bought by special interests. The path to true reform is being 
+blocked by poison pill amendments that if agreed to, would have the 
+effect of serving as procedural landmines that will have destroyed 
+well-conceived and crafted reform language.
+  I urge my colleagues to choose the path of cleaning up our campaign 
+finance and encourage them and vote down all poison pill amendments, 
+and support the Shays-Meehan substitute.
+  Mr. HOYER. Mr. Chairman, I yield such time as she may consume to the 
+distinguished gentlewoman from New York (Mrs. Maloney).
+  (Mrs. MALONEY of New York asked and was given permission to revise 
+and extend her remarks.)
+  Mrs. MALONEY of New York. Mr. Chairman, I likewise request unanimous 
+consent to revise and extend my remarks, and I congratulate the 
+extraordinary leadership of the gentleman from Connecticut (Mr. Shays) 
+and the gentleman from Massachusetts (Mr. Meehan) in bringing this 
+historic, important bill to the floor. I strongly, strongly support it.
+  Mr. Chairman, I rise today in support of the bipartisan and common 
+sense Shays-Meehan bill.
+  The time has come to take the money out of politics and return the 
+system to the American people.
+  We have passed this legislation twice, and it's time to send it to 
+the President.
+  Shays-Meehan would prohibit officeholders and candidates from 
+soliciting soft money in connection with federal elections and would 
+prevent national and state parties from spending soft money on federal 
+election activities.
+  The legislation also would allow capped soft money contributions to 
+state and local parties to be used for limited, non-federal voter 
+registration and get-out-the-vote activity.
+  Shays-Meehan would bring honesty back to political advertising by 
+prohibiting the use of corporate and union treasury money for broadcast 
+communications that mention a federal candidate within 60 days of a 
+general election or 30 days of a primary.
+  We need only to look at the Enron scandal to see how much access 
+money can buy in Washington. Recent media reports have indicated that 
+Enron established a cleverly calculated system to determine how much 
+money to funnel into the coffers of politicians. If a rule change would 
+cost Enron too much money, it was time to get out their wallets.
+  Enron donated to many campaigns, and played the lobbying game as well 
+as anyone.
+  We must accept the hard truth that if there weren't so much money in 
+politics, there might be more money in the 401k accounts of Enron 
+employees.
+  Shays-Meehan will take big money out of politics by ending soft money 
+contributions to the national political parties and by bringing honesty 
+back to campaign advertising.
+  Today, we have the opportunity to pass meaningful campaign finance 
+reform.
+  However, we can accept no substitutes, alternatives, or poison pill 
+amendments, which are all designed to prevent this bill from being 
+passed.
+  Vote for real reform. Vote for Shays-Meehan.
+  Mr. HOYER. Mr. Chairman, I yield myself the balance of my time.
+  We come to the end of the debate on the central amendment. This is 
+the amendment. This is the vote. This is the time when Congress will 
+decide whether or not we will have campaign finance reform.
+  I ask my colleagues to vote ``yes'' on this amendment. I ask them to 
+take this historic step for the House and for America.
+  Mr. NEY. Mr. Chairman, I yield myself the balance of my time.
+  It was mentioned that this bill has changed slightly at the beginning 
+of this debate. This bill is a different species. It has morphed all 
+the way through the system. And the sad part about it is that it has 
+not done it at the desks of the committees, it has done it in the back 
+rooms. We can do communication these days, I guess, in the back rooms 
+and change something, but, oh, if we want to do an amendment on the 
+floor of the House, it is a poison pill, even if it is a good 
+amendment. And that was quoted in the newspapers.
+  For my colleagues who want to ban soft money, Shays-Meehan does not 
+ban soft money. We can drive an Enron limousine, $60 million worth, 
+across this country through this bill. It does not do what the original 
+Shays-Meehan did, what they said it would do. So if we want to ban soft 
+money, it does not do it.
+  It does not ban all the issue ads. It only prohibits broadcast ads. 
+It is unconstitutional. An issue ad ban is likely to be struck down. 
+Then what are we really going to be stuck with?
+  It weakens the national parties, but it makes special interest groups 
+and individuals stronger. We have a great two-party system, and any 
+other party that wants to come onto the scene in this country will be 
+weakened by this bill. They will have to come begging for their 
+approval and money from the incumbents.
+  It treats House and Senate candidates differently. We have talked 
+about that. The charity money-raising that is going to go on here and 
+the influence-peddling that can come out of that is going to be 
+absolutely amazing. If we truly want to clean the system up, this goes 
+in reverse.
+  I am asking people to vote ``no,'' because my colleagues are going to 
+have some amendments and alternatives in the Ney-Wynn proposal that is 
+coming up that has disclosure and the good things I think we need to do 
+and which embark upon reform. This does not do it. This is a different 
+animal today that we are dealing with.
+  Above all, the worst part of this bill, I believe, Mr. Chairman, and 
+I hope the American people understand, that as we stand here and debate 
+this today is the fact that we have the greatest democracy in the 
+world, where people speak out, they say what they want to say, groups 
+push either direction for advocacy, for what they think is right in 
+this country, but this does gag groups, make no bones about it.
+  Groups can spend all the soft money they want in the newspapers. If 
+they want to speak for the second amendment from an NRA perspective, if 
+they want to speak for gun control, they are going to have a problem. 
+Millions of people involved in the labor movement are going to have a 
+problem. Millions of people that work in small businesses, the people 
+of this country, Mr. Chairman, that go out on the treadmill every day 
+trying to figure out how on Earth they are going to feed their families 
+and keep their communities going, the people that have a right to speak 
+out are going to be gagged.
+  I ask my colleagues to look into their hearts. They know we are right 
+on these issues. They know this has changed. We can do the right thing. 
+We will have some alternatives coming down the road today. That is what 
+we need to do, vote ``no'' on this. This is not the same bill. This is 
+a sham bill. It has the loopholes; it does not do what we thought it 
+was going to do. It does not do what they said it would do last year.
+  We need to be able to let the American people speak freely. Do not 
+gag Americans. Vote ``no'' on this measure.
+  Mr. SHAYS. Mr. Chairman, I rise to discuss an issue in the Shays-
+Meehan bill that has prompted some questions--what fundraising 
+activities may federal candidates and officeholders engage in.
+
+[[Page H408]]
+
+  These are important and legitimate questions, and I intend here to 
+clarify the lines drawn in the bill. It is a key purpose of the bill to 
+stop the use of soft money as a means of buying influence and access 
+with federal officials. As an important part of this goal, we have 
+taken federal officials, including Members of Congress, out of the 
+business of raising soft money for political parties, political 
+committees and candidates. Federal candidates and officeholders, 
+furthermore, cannot establish or control political committees that 
+raise or spend soft money.
+  We recognize that Federal officeholders and candidates raise money 
+for nonprofit organizations. The bill applies some restrictions to such 
+fundraising activities when the principal purpose of the organization 
+involves get-out-the-vote and voter registration activities, or where 
+the solicitation is specifically for the purpose of the funds being 
+used for GOTV and voter registration activities. In addition, federal 
+officeholders and candidates cannot raise money for nonprofit 
+organizations to use on public communications that mention a federal 
+candidate.
+
+
+                   solicitations for party committees
+
+  The basic rule in the bill is that federal candidates and officials 
+cannot raise non-federal (or soft) money donations--that is, funds that 
+do not comply with federal contribution limits and source prohibitions.
+  Thus, the rule for solicitations by federal officeholders or 
+candidates for party committees is simple: federal candidates and 
+officeholders cannot solicit soft money funds for any party committee--
+national, state or local.
+  Federal candidates and officeholders also cannot raise funds in 
+connection with a non-Federal election, unless those funds comply with 
+federal contribution limits and source prohibitions. Thus, if a Federal 
+candidate or officeholder raises money for a state candidate, the 
+amounts solicited need to comply with the source and amount limitations 
+in federal law.
+  This, of course, means that a federal candidate or official can 
+continue to solicit hard money for party committees. So a federal 
+officeholder can, on behalf of his or her national party committees, 
+including their congressional campaign committees, solicit individuals 
+for contributions of up to $25,000 per year, or $50,000 per election 
+cycle, per committee (subject, of course, to a donor's aggregate hard 
+money contribution limit of $57,500 to all party committees in a two-
+year cycle).
+  A federal official can also solicit individuals for hard money 
+donations to state party committees--under the bill of up to $10,000 
+per year, or $20,000 per cycle, from an individual subject again to the 
+donor's aggregate contribution limit, and up to $5,000 per year or 
+$10,000 per cycle from a federal PAC. These funds can be spent by the 
+state party for activities in connection with a federal election, 
+including for federal election activities.
+  A federal official can, in addition, solicit money for a state party 
+to spend on non-federal elections, as long as the funds comply with 
+federal limits and source prohibitions. This would allow a federal 
+official to solicit up to $10,000 a year from an individual, or up to 
+$5,000 per year from a PAC, to donate to the state party non-federal 
+account, even if that same individual has already given a similar 
+amount to the state party hard money account.
+  The Levin amendment expressly provides that federal candidates and 
+officeholders can not solicit the funds authorized to be spent under 
+the Levin amendment.
+  Similarly, a federal official can solicit money for state candidates, 
+but such solicitations would be subject to the federal contribution 
+limits and source prohibitions--$2,000 per election from individuals 
+and $5,000 per election from PACs, and no contributions from 
+corporations or labor unions.
+
+
+                    solicitations for outside groups
+
+  The bill allows federal officials and candidates to make general 
+solicitations without restriction for outside non-profit groups (those 
+exempt from taxation under the Internal Revenue Code, such as 501(c)(3) 
+and (c)(4) groups), so long as the group is not one with a principal 
+purpose of conducting get-out-the-vote or voter registration 
+activities, and so long as the money is not solicited specifically for 
+the purpose of conducting GOTV and voter registration activities. The 
+general solicitation cannot specify how the funds will or should be 
+spent.
+  An official can also make a solicitation for non-profit groups that 
+do principally engage in such voter activities, or for funds 
+specifically to be spent for GOTV or voter registration activities, but 
+the solicitation must be made only to individuals, and is no more than 
+$20,000 per year. An official cannot solicit funds from a corporation 
+or labor union for such purposes.
+  These restrictions apply to the solicitation of funds by a federal 
+candidate or official. A federal official can sit on the board of a 
+non-profit or otherwise participate in the activities of the nonprofit, 
+so long as he or she was not engaged in raising money for the non-
+profit on election-related activities. A federal candidate or 
+officeholder cannot direct the expenditure of such funds.
+  Mr. KILDEE. Mr. Chairman, this is a historical day for this House and 
+for this country.
+  Today we have the opportunity to limit the scandalous infusion of 
+money into the electoral process.
+  Our Founding Fathers never foresaw this existing system for 
+democratic elections.
+  Today we can move closer to the principles of those Founding Fathers.
+  Vote for the substitute offered today by Mr. Shays and Mr. Meehan.
+  This may be our last best chance.
+  Mr. FALEOMAVAEGA. Mr. Chairman, I rise today in support of the Shays-
+Meehan substitute and want to explain one provision in the bill which 
+will clarify campaign finance law with respect to contributions to 
+federal candidates by U.S. nationals.
+  American Samoa is the only jurisdiction under U.S. authority in which 
+a person can be born with the status of U.S. national. A national is a 
+person who owes his or her allegiance to the United States, but is not 
+a citizen. U.S. nationals travel with U.S. passports and are eligible 
+for permanent residence in the United States. They are not foreign 
+citizens or foreign nationals. In fact, they have most of the same 
+privileges and immunities as U.S. citizens. However, federal campaign 
+law was enacted before American Samoa had representation in the U.S. 
+Congress and current law fails to address the issue of contributions 
+from U.S. nationals.
+  Mr. Chairman, federal campaign law currently specifies that U.S. 
+citizens and permanent resident foreign nationals may make 
+contributions to candidates for federal office. Although there is an 
+advisory opinion from the Federal Election Commission which interprets 
+current law to allow U.S. nationals to contribute to federal elections, 
+a federal court could at any time interpret the law to exclude U.S. 
+nationals. Our failure to amend current law could also be interpreted 
+to mean that Congress originally intended to prohibit U.S. nationals 
+from contributing to federal elections.
+  Mr. Chairman, I do not believe it was or is the intent of Congress, 
+or the law, to exclude U.S. nationals from contributing to federal 
+campaigns. Congress simply enacted a law before American Samoa had 
+representation in the U.S. Congress. Now it is time to amend the law to 
+specifically address the issue of U.S. nationals. Therefore, I urge my 
+colleagues to support this technical change in any bill which moves 
+forward.
+  Mr. RAMSTAD. Mr. Chairman, today we are casting historic votes on the 
+most important campaign finance reforms since the Watergate reforms of 
+25 years ago.
+  Today, we will finally have the opportunity to eradicate the biggest 
+cancer on the federal campaign finance system--soft money.
+  Shays-Meehan will go a long way in reducing the disproportionate and 
+undue influence of unregulated and unlimited soft money.
+  We should pass this common-sense reform legislation to restore 
+people's trust in the system and give the American people a bigger 
+voice in their government.
+  Mr. Chairman, let's get real honest for a minute! The truth is that 
+both political parties are addicted to soft money, and campaign finance 
+reform gives both parties heartburn.
+  But the political parties will survive and continue to flourish with 
+these reforms, and public faith in the political process will be 
+enhanced.
+  Let's do the right thing! Let's rid the system of unregulated, 
+unlimited soft money. Let's pass Shays-Meehan.
+  The American people deserve nothing less!
+  Mr. SHAYS. Mr. Chairman, I rise to discuss one of the key sections of 
+the Shays-Meehan substitute, the soft money provisions relating to 
+national and state parties. The state party provisions contain a 
+section, commonly referred to as the Levin amendment, that I want to 
+take this opportunity to explain. In addition, some who oppose campaign 
+finance reform characterize the Levin amendment as a major loophole in 
+the Shays-Meehan substitute. They are wrong. This discussion is 
+intended to spell out what the Levin amendment does and does not allow.
+
+
+         shays-meehan's treatment of national party soft money
+
+  The soft money provisions of the Shays-Meehan bill regarding the 
+national political parties operate in a straight-forward way. The 
+national parties are prohibited entirely from raising or spending any 
+soft money. At the national party level, the ban on soft money is 
+complete. This ban covers not only the national party committees 
+themselves, but also the congressional campaign committees of the 
+national parties. And it covers any officer or agent acting on behalf 
+of the national party committees, as well as any entity that is 
+established, financed, maintained or controlled by a national party 
+committee.
+  The purpose of these provisions is simple: to put the national 
+parties entirely out of the soft money business. The provision is 
+intended to be comprehensive at the national party level. Simply put, 
+the national parties, and anyone operating for or on behalf of them,
+
+[[Page H409]]
+
+are not to raise or spend, nor to direct or control, soft money. This 
+ban covers all activities of the national parties, even those that 
+might appear to affect only non-federal elections. Because the national 
+parties operate at the national level, and are inextricably intertwined 
+with federal officeholders and candidates, who raise the money for the 
+national party committees, there is a close connection between the 
+funding of the national parties and the corrupting dangers of soft 
+money on the federal political process. The only effective way to 
+address this problem of corruption is to ban entirely all raising and 
+spending of soft money by the national parties.
+
+
+           shays-meehan's treatment of state party soft money
+
+  The treatment of the state parties is different. This is because 
+state parties obviously engage in activities which are purely directed 
+to non-federal elections. The Shays-Meehan bill does not regulate the 
+kind of money that can be raised by the state parties. That is left to 
+state law. What the bill does do is direct the state parties to spend 
+only hard money on those activities which affect, even in part, federal 
+elections. This is necessary to prevent blatant evasion of the federal 
+campaign finance laws.
+  This approach is in many ways similar to current law. Currently, if a 
+state party engages in activity that directly affects federal 
+elections--such as running an ad that says ``vote for Congressman 
+Smith''--the state party would be required to spend hard money on these 
+activities. Similarly, if the state party engages in activity that 
+purely affects state elections--such as an ad that says ``vote for 
+Governor Smith''--it could spend whatever non-federal money is 
+permitted under state law.
+
+  The Shays-Meehan bill does not change either one of these 
+propositions.
+  But there is a range of activities that state parties engage in that, 
+by their very nature, affect both federal and non-federal elections. 
+These are the familiar ``party building activities,'' such as get-out-
+the vote drives or voter registration drives. These activities--
+registering voters to vote in elections that have both federal and non-
+federal candidates, or engaging in activities designed to bring them to 
+the polls to vote for federal and non-federal candidates--clearly have 
+an impact on both federal and non-federal elections.
+  Under current law, state parties pay for these ``mixed'' activities 
+using a mixture of both hard and soft money pursuant to allocation 
+formulae set by the Federal Election Commission. But these allocation 
+rules have proven wholly inadequate to guard against the use of soft 
+money to influence federal campaigns. Much state party ``party building 
+activity'' is directed principally to influence federal elections, and 
+all of the party voter activity inevitably does have a substantial 
+impact on federal campaigns. Further, the state parties run TV and 
+radio ads, purportedly as ``issue ads,'' that directly praise or 
+criticize federal candidates by name without using words like ``vote 
+for'' or ``vote against''--and the FEC has taken the unrealistic 
+position that such ads have an impact on both federal and non-federal 
+elections, and should accordingly be funded with an allocated mixture 
+of hard and soft money.
+  The Shays-Meehan bill addresses these problems by simply applying the 
+principle of current law--that state parties must use solely hard money 
+to pay for activities that affect federal elections--to a category of 
+activities which clearly affect federal elections and which the bill 
+defines as ``federal election activities.'' Section 101(b) of the bill 
+defines these activities as the following:
+  (i) Voter registration activity in the last four months before a 
+Federal election,
+  (ii) Voter identification, GOTV, and generic campaign activity (i.e., 
+activity relating to a party not a specific candidate) that is 
+conducted in an election in which a Federal candidate appears on the 
+ballot,
+  (iii) Public communications (also a defined term that includes 
+communications by radio, TV, newspapers, phone banks and other methods 
+of public political advertising) that refer to a clearly identified 
+Federal candidate and that promotes or supports, or attacks or opposes, 
+a federal candidate for that office.
+  (iv) Services provided by employees of a state or local party who 
+spend more than 25 percent of their compensated time on Federal 
+elections.
+  This definition of ``Federal election activities'' is significant 
+because in section 101(a) of the bill (new section 323(b) of the Act), 
+there is a requirement that state parties spend only Federal money 
+(hard money) on ``Federal election activities.'' That is how the Shays-
+Meehan bill prevents soft money from being injected into federal races 
+through the state parties.
+  Again, the bill does not restrict fundraising by state parties. That 
+is left as a matter of state law. But it does say to the state parties 
+that when they spend money on activities that affect federal elections, 
+including the defined category of ``Federal election activities,'' they 
+must spend solely hard money for those activities.
+  The lack of a state party soft money provision is a fundamental 
+shortcoming of the proposal of Mr. Ney and Mr. Wynn. The restrictions 
+on state parties using soft money to influence federal elections is one 
+of the most important features of the Shays-Meehan bill. Much of the 
+soft money being raised today by the national parties is transferred to 
+state parties to be spent on activities that influence federal 
+elections. An effective effort to address state party soft money 
+spending to influence federal elections is absolutely essential to real 
+campaign finance reform and solving the soft money problem.
+
+
+                          The Levin Amendment
+
+  Critics have contended that the state parties should not be prevented 
+from spending money that is legal in their state on activities that are 
+designed to improve voter turnout and assist state candidates in a 
+state election. When the McCain-Feingold bill was considered in the 
+Senate last year. Senator Carl Levin of Michigan, a long-time and 
+strong supporter of the bill, worked with the sponsors of the 
+legislation to craft a provision to allow limited spending of soft 
+money by state parties on a limited subset of state party activities. 
+On the Senate floor, Senator Levin explained that his amendment:
+
+       . . . will allow the use of some non-Federal dollars by 
+     State parties for voter registration and get out the vote, 
+     where the contributions are allowed by State law, where there 
+     is no reference to Federal candidates, where limited to 
+     $10,000 of the contribution which is allowed by State law, 
+     and where the allocation between Federal and non-Federal 
+     dollars is set by the Federal Election Commission.
+
+  Senator Levin also specified: ``These are dollars not raised through 
+any effort on the part of Federal officeholders, Federal candidates, or 
+national parties. These are non-Federal dollars allowed by State law.''
+
+
+             Changes to the Levin Amendment in shays-Meehan
+
+  In addressing the Levin amendment in our substitute, the sponsors of 
+the Shays-Meehan bill wanted to accomplish two things. First, we wanted 
+to respect the original intent and purpose of the Levin amendment. 
+Second, we wanted to make sure that it did not create a new 
+loophole for corporations, unions, wealthy individuals to exploit. In 
+our view, those purposes were not in conflict, since Senator Levin made 
+it clear it was not his intent to undermine the campaign finance reform 
+effort, but only to support legitimate state party activities that 
+promote voter participation by allowing a limited amount of non-federal 
+money to be used for those purposes.
+
+  The changes in the Levin amendment incorporated in our substitute 
+have been agreed on with the sponsors of the Senate bill. They do not 
+change the essential thrust of the Levin amendment, but they do provide 
+additional restrictions to help ensure that the amendment will not 
+become a new loophole in the law.
+
+
+                 description of revised levin amendment
+
+  With that background in mind, let me describe the Levin amendment, as 
+modified in the Shays-Meehan substitute. New section 323(b)(2)(A) of 
+the FECA permits state parties to spend non-federal money (soft money) 
+on certain Federal election activities, as long as the spending is made 
+up of both Federal money ( hard money) and soft money in a ratio to be 
+prescribed by the FEC. The activities that state and local parties can 
+pay for under this exception are voter registration in the last 120 
+days prior to an election, and certain GOTV and other activities 
+specified in new section 301(20(A)(ii).
+  Under new section 323(b)(2)(B)(i), the exception applies only if the 
+activity paid for does not refer to a clearly identified Federal 
+candidate. In addition, under new section 323(b)(2)(B)(ii), the 
+exception does not apply to any activity that involves a broadcast, 
+cable or satellite communication, unless that communication refers only 
+to state and local candidates. In other words, GOTV efforts paid for in 
+part with so-called ``Levin money'' may mention state or local 
+candidates or contain a generic party message, but they cannot mention 
+Federal candidates. And if these efforts are carried out through radio 
+or TV ads they must mention clearly identified state or local 
+candidates only, or they will be subject to the state party soft money 
+restrictions and no ``Levin money'' can be used. To be clear, ``Levin 
+money'' cannot be used by state parties to pay for broadcast ads that 
+mention federal candidates.
+  In addition, the soft money or ``Levin money'' portion of the 
+spending is subject to a number of restrictions. Under new section 
+323(b)(2)(B)(iii), it must be legally raised under state law, and no 
+person can give more than $10,000 per year to a individual state or 
+local committee, even if state law permits greater contributions. So if 
+a state allows direct corporate or labor union contributions to 
+political parties corporations and unions can make contributions of up 
+to $10,000 or the state limit, whichever is lower, to the party 
+committee each year. Obviously, if a state prohibits corporate or labor 
+union contributions to political parties, the Levin amendment does not 
+supersede that prohibition, and corporate
+
+[[Page H410]]
+
+or union contributions of ``Levin money' would be banned.
+  After the Senate passed the Levin amendment, the question arose 
+whether the amendment was intended to limit a donor to a single $10,000 
+contribution to all of the non-Federal political committees in a state, 
+or to permit separate contributions to the state committee and local 
+committees. Since the Senate appears to have intended that there is not 
+a single per donor limit on all contributions to party committees in a 
+state, further restrictions on the raising and spending of ``Levin 
+money'' by the committees are imposed in order to prevent the Levin 
+amendment from becoming a new loophole.
+  Accordingly, under new section 323(b)(2)(B)(iv), the version of the 
+amendment contained in the Shays-Meehan substitute, all of the non-
+Federal and Federal money spent on the activities authorized by the 
+Levin amendment must be raised solely by the committee doing the 
+spending. Transfers of money between committees are not permitted. 
+Thus, a county committee of a political party may accept a $10,000 
+contribution, but it must raise and spend that money itself, and it 
+cannot work with any other party committee in raising or spending that 
+money. It cannot transfer that money to the state committee. 
+Furthermore, it must itself raise the hard money allocation required by 
+the FEC, and it may not accept a transfer of hard money from a state or 
+national party committee to satisfy that allocation requirement.
+  Finally, and very importantly, in new section 323(b)(2)(C), we affirm 
+that federal candidates or officeholders and the national parties may 
+not participate in the raising or spending of the soft money that is 
+permitted to be spent under the Levin amendment. In addition, joint 
+fundraisers between state committees or state and local committees are 
+not permitted. Prohibiting Members of Congress and Executive Branch 
+officials from being involved in soft money fundraising is one of the 
+central purposes of the campaign finance reform effort. Consistent with 
+Senator Levin's original intent, this new provision will ensure that 
+that central purpose of the bill is not undermined. The joint 
+fundraising prohibition will prevent a single fundraiser for multiple 
+state and local party committees.
+  Mr. Chairman, let me address two additional questions that have 
+arisen as to the interpretation of the Levin amendment. First, the 
+$10,000 per year limit applies collectively to a corporation and its 
+subsidiaries, and to a union and its locals, in the same way as 
+contributions from PACS set up by subsidiaries and local unions are 
+treated under current law. See 2 U.S.C. Sec. 441a(a)(5). To allow a 
+separate contribution limit to apply to subsidiaries of a corporation 
+or locals of a union would completely undermine the $10,000 limit as a 
+check against the Levin amendment being used to continue the unlimited 
+contributions that the soft money system now permits.
+  Second, while state and local committees may accept separate 
+contributions of up to $10,000 per year from donors permitted to give 
+that much under state law, state and local committees are not allowed 
+to create their own multiple subsidiary committees to raise separate 
+$10,000 contributions under this provision. The proliferation of new 
+state party committees (e.g., the Northern California Republican Party 
+Committee, the Southern California Party Committee or the New York 
+Democratic Committee A, Committee B, Committee C, etc.) would be in 
+complete contradiction to the provision, which allows only limited 
+amounts of non-federal money to be given to a state or local committee 
+for limited party-building activities that do not refer to federal 
+candidates.
+  Mr. KLECZKA. Mr. Chairman, today, at long last, the House of 
+Representatives will finally get a fair vote on campaign finance reform 
+legislation. In order to reach this point, 218 Members had to sign a 
+discharge petition to force the anti-reform Republican leadership to 
+bring this measure to the floor for a debate and hopefully passage. 
+H.R. 2356, the Bipartisan Campaign Reform Act of 2001, is necessary if 
+we are to remove the undue influence of soft money on our political 
+process and the unregulated issue advertisements that inundate our 
+airwaves during each election season.
+  When Congress passed the Federal Election Campaign Act (FECA) of 1971 
+it included a provision that allowed national political parties to use 
+unregulated contributions, ``soft money,'' for generic party-building 
+activities such as get-out-the-vote drives and voter registration 
+efforts. Initially, the parties adhered to the restrictions on the use 
+of soft money, but soon began shifting soft money contributions to 
+state parties to be used for paid television and radio campaign 
+advertisements. Under FECA, such advertisements were supposed to be 
+paid for by regulated hard money that is raised through limited 
+contributions to political parties and candidates.
+  We have recently seen an unacceptable increase in the amount of soft 
+money used in campaigns. In the year 2000 elections alone, $495 million 
+in soft money was spent by the parties, an amount that is nearly double 
+the $262 million spent four years earlier. The steadily increasing use 
+of soft money to skirt federal campaign contribution laws has given it 
+a growing role in our system of elections that cannot be allowed to 
+continue.
+  An equally troubling aspect of today's campaign system is the number 
+of issue advertisements broadcast on the television and radio. Although 
+these ads technically adhere to federal campaign regulations, they 
+violate the spirit of the law. Issue ads are supposed to be used to 
+discuss issues of legislation, not to attack or support candidates, 
+like they often do today. Through this loophole, corporations, unions, 
+and other organizations have avoided federal reporting and disclosure 
+laws by running ads that avoid the magic words ``vote for,'' ``vote 
+against,'' ``support,'' and ``defeat.'' Since the ads are technically 
+campaign ads, the people paying for them do not need to identify 
+themselves or their supporters, which is contrary to the basic tenets 
+of campaign-finance regulations.
+  H.R. 2356 would fill in the gaps left by FECA. First, it would ban 
+all national party use of soft money. In order to ensure that get-out-
+the-vote drives and other genuinely generic party activities are not 
+hindered, it would allow state and local parties to spend soft money on 
+these activities. Individuals, corporations, and labor unions can give 
+$10,000 in soft money to party committees organized at the state, 
+county, and local level for these legitimate efforts.
+  H.R. 2356 would also prevent corporations and organizations from 
+skirting the law with unregulated issue advertisements by requiring 
+that all campaign ads for federal office be paid for with publicly 
+disclosed and regulated campaign funds that are subject to federal 
+contribution limits. This would be achieved by expanding the definition 
+of ``campaign advertisement'' to include any ads that clearly identify 
+a federal candidate made within 60 days of a general election or 30 
+days of a primary and are targeted to that candidate's electorate.
+  Some of my colleagues claim that these regulations would violate the 
+freedom of speech guaranteed by the First Amendment. That is simply 
+untrue. Corporations, labor unions, and other organizations would still 
+be permitted to use any funds they have to run ads that discuss issues 
+of legislation, so long as they do not specifically refer to a 
+candidate for federal office. If they do mention a candidate by name, 
+all they have to do is to use hard money, which is regulated, subject 
+to contribution limits and disclosure laws. These groups may also fund 
+advertisements that do attack or support a specific candidate, the only 
+requirement being that they do so through the established regulated 
+process using hard money donations to their political action 
+committees.
+  This bill would also retain several important hard money contribution 
+limits. Individuals would still be permitted to contribute only $1000 
+per election to candidates for the House of Representatives and 
+political action committees would be restricted to the current $5000 
+per election limit.
+  This day has been a long time coming. We need to reduce the influence 
+of unregulated money which has been flowing at an increasing rate into 
+our political system. H.R. 2356 reigns in soft money and issue 
+advertising that has operated outside the framework of our campaign-
+finance laws. I urge my colleagues to support the amendments that the 
+reform measure's authors must offer in order to get the complete bill 
+to the floor under the GOP leadership's rule. Similarly, I urge Members 
+to oppose those ``poison pill'' amendments designed to kill the bill, 
+and instead support final passage of this important measure.
+  Mr. SHAYS. Mr. Chairman, I rise to address the scope of an exception 
+to the definition of ``electioneering communications'' set out in 
+section 201(3)(B), which include (i) news distributed by broadcast 
+stations that are not owned or controlled by a candidate, (ii) 
+independent expenditures, (iii) candidate debates and forums and (iv) 
+``any other communication exempted under such regulations as the 
+Commission may promulgate .  .  . to ensure appropriate implementation 
+of this paragraph.'' I wish to discuss the purpose of the fourth 
+exception.
+  The definition of ``electioneering communication'' is a bright line 
+test covering all broadcast, satellite and cable communications that 
+refer to a clearly identified federal candidate and that are made 
+within the immediate pre-election period of 60 days before a general 
+election or 30 days before a primary. But it is possible that thee 
+could be some communications that will fall within this definition even 
+though they are plainly and unquestionably not related to the election.
+  Section 201(3)(B)(iv) was added to the bill to provide Commission 
+with some limited discretion in administering the statute so that it 
+can issue regulations to exempt such communications from the definition 
+of ``electioneering
+
+[[Page H411]]
+
+communications'' because they are wholly unrelated to an election.
+  For instance, if a church that regularly broadcasts its religious 
+services does so in the pre-election period and mentions in passing and 
+as part of its service the name of an elected official who is also a 
+candidate, and the Commission can reasonably conclude that the routine 
+and incidental mention of the official does not promote his candidacy, 
+the Commission could promulgate a rule to exempt that type of 
+communication from the definition of ``electioneering communications.'' 
+There could be other examples where the Commission could conclude that 
+the broadcast communication in the immediate pre-election period does 
+not in any way promote or support any candidate, or oppose his 
+opponent.
+  Charities exempt from taxation under Section 501(c)(3) of the 
+Internal Revenue Code are prohibited by existing tax law from 
+supporting or opposing candidates for elective office. Notwithstanding 
+this prohibition, some such charities have run ads in the guise of so-
+called ``issue advocacy'' that clearly have had the effect of promoting 
+or opposing federal candidates. Because of these cases, we do not 
+intend that Section 201(3)(B)(iv) be used by the FEC to create any per 
+se exemption from the definition of ``electioneering communications'' 
+for speech by Section 501(c)(3) charities. Nor do we indent that 
+Section 201(3)(B)(iv) apply only to communications by section 501(c)(3) 
+charities.
+  But we do urge the FEC to take cognizance of the standards that have 
+been developed by the IRS in administering the law governing Section 
+501(c)(3) charities, and to determine the standards, if any, that can 
+be applied to exempt specific categories of speech where it is clear 
+that such communications are made in a manner that is neutral in 
+nature, wholly unrelated to an election, and cannot be used to promote 
+or attack any federal candidates.
+  We urge the Commission to exercise this rulemaking power within 90 
+days of the effective date of the bill. We also expect the Commission 
+to use its Advisory Opinion process to address these situations both 
+before and after the issuance of regulations.
+  The CHAIRMAN. All time has expired.
+  The question is on the amendment in the nature of a substitute 
+offered by the gentleman from Connecticut (Mr. Shays).
+  The question was taken; and the Chairman announced that the noes 
+appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. SHAYS. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 240, 
+noes 191, not voting 3, as follows:
+
+                             [Roll No. 21]
+
+                               AYES--240
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barcia
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Bereuter
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capito
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Edwards
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Filner
+     Foley
+     Ford
+     Frank
+     Frelinghuysen
+     Frost
+     Ganske
+     Gephardt
+     Gilchrest
+     Gilman
+     Gonzalez
+     Gordon
+     Graham
+     Green (TX)
+     Greenwood
+     Grucci
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hill
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holden
+     Holt
+     Honda
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     Kirk
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     LaTourette
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Moore
+     Moran (VA)
+     Morella
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Osborne
+     Ose
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pelosi
+     Petri
+     Phelps
+     Platts
+     Pomeroy
+     Price (NC)
+     Quinn
+     Ramstad
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ross
+     Rothman
+     Roukema
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Simmons
+     Skelton
+     Slaughter
+     Smith (MI)
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Taylor (MS)
+     Thompson (CA)
+     Thune
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Upton
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Weldon (PA)
+     Wexler
+     Wolf
+     Woolsey
+     Wu
+
+                               NOES--191
+
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barr
+     Bartlett
+     Barton
+     Biggert
+     Bilirakis
+     Blunt
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Brady (TX)
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Ferguson
+     Flake
+     Fletcher
+     Forbes
+     Fossella
+     Gallegly
+     Gekas
+     Gibbons
+     Gillmor
+     Goode
+     Goodlatte
+     Goss
+     Granger
+     Graves
+     Green (WI)
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hilleary
+     Hilliard
+     Hobson
+     Hoekstra
+     Hostettler
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     King (NY)
+     Kingston
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Mollohan
+     Moran (KS)
+     Murtha
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Otter
+     Oxley
+     Paul
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Saxton
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shows
+     Shuster
+     Simpson
+     Skeen
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tauzin
+     Taylor (NC)
+     Terry
+     Thomas
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Toomey
+     Vitter
+     Walden
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wynn
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--3
+
+     Cubin
+     Riley
+     Traficant
+
+                              {time}  1607
+
+  Ms. HART and Mr. SKEEN changed their vote from ``aye'' to ``no.''
+  So the amendment in the nature of a substitute was agreed to.
+  The result of the vote was announced as above recorded.
+  The CHAIRMAN. Under the rule, the substitute is finally adopted.
+  (By unanimous consent, Mr. Largent was allowed to speak out of 
+order.)
+
+
+                            Farewell Remarks
+
+  Mr. LARGENT. Mr. Chairman, this being my last week to serve in 
+Congress, I wanted to make just a brief statement to my friends and 
+colleagues.
+  Last week my youngest son Kramer completed an essay on Mark Twain. I 
+was struck by how many facts about Mark Twain's life reminded me of my 
+7 years in Congress. Samuel Clemens was born at the appearance of 
+Halley's Comet in 1835 and died the next time it came around in 1910. I 
+thought about that as I prepare to cast my last vote in Congress on 
+campaign finance reform and harken back to the days of 1994 when the 
+first vote I cast was on GATT, the last vote of the 103rd Congress.
+  In my son's report I also learned something I did not know, that 
+Samuel Clemens' alias, Mark Twain, was actually a nautical term that 
+was used by riverboat crews, and it denoted two fathoms, or 12 feet, 
+the depth necessary for safe passage.
+  We in Congress often refer to our Nation as our ship of state, and we 
+hear pollsters ask questions to voters, do you think that the ship is 
+headed in the right direction or the wrong direction? I ran for 
+Congress in 1994 because I believed our country was headed in the wrong 
+direction, and I wanted to
+
+[[Page H412]]
+
+make a difference, like most of you, the reason that you ran.
+  Now, 7 years later, I believe that together we have worked to move 
+our country into safer waters. We worked together to balance the 
+budget, we overhauled welfare, we cut taxes, we strengthened the 
+military together, we deregulated telecommunications and repealed 
+Glass-Steagall.
+  Yes, much good has been accomplished the last 7 years, but as we all 
+know, there are always potentially treacherous waters around the next 
+bend. The long-term solvency of Social Security and Medicare, the 
+unrestrained growth of government spending and the ongoing war on 
+terrorism are all shoals upon which we could run aground.
+  As I leave Congress, I wish to thank you all for the gift of your 
+wisdom, your guidance and your friendship that you have given me, and I 
+want to thank you all for your service to our great country. I admire 
+and respect each of you. Early on I have to admit that I sometimes felt 
+frustrated when some of you did not think like I did. Though we will 
+always have different points of view in this body, I have come to 
+appreciate the fact that many of you hold thoughtful and principled 
+positions that differ from my own. I recognize that our divergent views 
+on the left and right, among Democrats and Republicans, southerners and 
+northerners, those representing the east coast and the west coast, are 
+a great strength of this Congress. The right course and safe passage 
+for the Nation is not the exclusive property of either side.
+  Serving with you all in this esteemed body has been the greatest 
+honor and the greatest privilege that I have ever known. I want to 
+thank the great Oklahomans who entrusted me with this rare privilege, 
+and I thank you, my friends and colleagues, for your efforts to serve 
+our Nation. I will never forget this 7-year journey.
+  As I return to my home State to seek the office of Governor, I will 
+continue to pray for each of you. I will pray that God would grant you 
+insight as you help our Nation navigate through the challenges ahead. 
+Thank you, and may God bless you and our great Nation.
+
+                              {time}  1615
+
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment offered by the gentleman from Texas (Mr. Armey).
+
+
+                  Amendment No. 32 Offered by Mr. Hyde
+
+  Mr. HYDE. Mr. Chairman, as the designee of the majority leader, I 
+offer an amendment.
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 32 offered by Mr. Hyde:
+       Add at the end the following title:
+
+          TITLE VI--NO RESTRICTIONS ON FIRST AMENDMENT RIGHTS
+
+     SEC. 601. FINDINGS.
+
+       Congress finds the following:
+       (1) The First Amendment to the United States Constitution 
+     states that, ``Congress shall make no law respecting an 
+     establishment of religion, or prohibiting the free exercise 
+     thereof; or abridging the freedom of speech, or of the press; 
+     or of the right of the people to peaceably assemble, and to 
+     petition the Government for a redress of grievances.''
+       (2) The First Amendment affords the broadest protection to 
+     such political expression in order ``to assure [the] 
+     unfettered interchange of ideas for the bringing about of 
+     political and social changes desired by the people. Roth v. 
+     United States, 354 U.S. 476, 484 (1957).
+       (3) According to Mills v. Alabama, 384 U.S. 214, 218 
+     (1966), there is practically universal agreement that a major 
+     purpose of that Amendment was to protect the free discussion 
+     of governmental affairs, ``. . . of course including[ing] 
+     discussions of candidates . . .''.
+       (4) According to New York Times Co. v. Sullivan, 376 U.S. 
+     254, 270 (1964), the First Amendment reflects our ``profound 
+     national commitment to the principle that debate on public 
+     issues should be uninhibited, robust, and wide-open''. In a 
+     republic where the people are sovereign, the ability of the 
+     citizenry to make informed choices among candidates for 
+     office is essential, for the identities of those who are 
+     elected will inevitably shape the course that we follow as a 
+     nation.
+       (5) The First Amendment protects political association as 
+     well as political expression. The constitutional right of 
+     association explicated in NAACP v. Alabama, 357 U.S. 449, 460 
+     (1958), stemmed from the Court's recognition that 
+     ``[e]ffective advocacy of both public and private points of 
+     view, particularly controversial ones, is undeniably enhanced 
+     by group association.'' Subsequent decisions have made clear 
+     that the First and Fourteenth Amendments guarantee ``freedom 
+     to associate with others for the common advancement of 
+     political beliefs and ideas,'' a freedom that encompasses `` 
+     `[t]he right to associate with the political party of one's 
+     choice.' '' Kusper v. Pontikes, 414 U.S. 51, 56, 57, quoted 
+     in Cousins v. Wigoda, 419 U.S. 477, 487 (1975).
+       (6) In Buckley v. Valeo, the Supreme Court stated, ``A 
+     restriction on the amount of money a person or group can 
+     spend on political communication during a campaign 
+     necessarily reduces the quantity of expression by restricting 
+     the number of issues discussed, the depth of their 
+     exploration, and the size of the audience reached. This is 
+     because virtually every means of communicating ideas in 
+     today's mass society requires the expenditure of money. The 
+     distribution of the humblest handbill or leaflet entails 
+     printing, paper, and circulation costs. Speeches and rallies 
+     generally necessitate hiring a hall and publicizing the 
+     event. The electorate's increasing dependence on television, 
+     radio, and other mass media for news and information has made 
+     these expensive modes of communication indispensable 
+     instruments of effective political speech.''.
+       (7) In response to the relentlessly repeated claim that 
+     campaign spending has skyrocketed and should be legislatively 
+     restrained, the Buckley Court stated that the First Amendment 
+     denied the government the power to make that determination: 
+     ``In the free society ordained by our Constitution, it is not 
+     the government but the people--individually as citizens and 
+     candidates and collectively as associations and political 
+     committees--who must retain control over the quantity and 
+     range of debate on public issues in a political campaign.''.
+       (8) In Buckley, the Court also stated, ``The concept that 
+     government may restrict the speech of some elements of our 
+     society in order to enhance the relative voice of others is 
+     wholly foreign to the First Amendment, which was designed `to 
+     secure the widest possible dissemination of information from 
+     diverse and antagonistic sources,' and `to assure unfettered 
+     exchange of ideas for the bringing about of political and 
+     societal changes desired by the people' ''.
+       (9) The courts of the United States have consistently 
+     reaffirmed and applied the teachings of Buckley, striking 
+     down such government overreaching. The courts of the United 
+     States have consistently upheld the rights of the citizens of 
+     the United States, candidates for public office, political 
+     parties, corporations, labor unions, trade associations, non-
+     profit entities, among others. Such decisions provide a very 
+     clear line as to what the government can and cannot do with 
+     respect to the regulation of campaigns. See Federal Election 
+     Comm'n v. Massachusetts Citizens for Life, Inc., 479 U.S. 238 
+     (1986); Federal Election Comm'n v. National Conservative 
+     Political Action Comm., 470 U.S. 480 (1985); California 
+     Medical Assn. v. Federal Election Comm'n, 453 U.S. 182 
+     (1981).
+       (10) The FEC has lost time and time again in court 
+     attempting to move away from the express advocacy bright line 
+     test of Buckley v. Valeo. In fact, in some cases, the FEC has 
+     had to pay fees and costs because the theory is frivolous. 
+     See FEC v. Christian Action Network, 110 F.3d 1049 (4th Cir. 
+     1997), aff'g 894 F. Supp. 946 (W.D.Va. 1995); Maine Right to 
+     Life Comm. v. FEC, 914 F. Supp. 8 (D.Me. 1996), aff'd 98 F.3d 
+     1 (1st Cir. 1996), cert. denied, 118 S. Ct. 52 (1997); 
+     Clifton v. FEC, 114 F.3d 1309 (1st Cir. 1997); Faucher v. 
+     FEC, 928 F.2d 468, 472 (1st Cir.), cert. denied, 502 U.S. 820 
+     (1991); FEC v. Colorado Republican Federal Campaign Comm., 
+     839 F. Supp. 1448 (D. Co.), rev'd on other grounds, 59 F.3d 
+     1015 (10th Cir.), vacated on other grounds, 116 S. Ct. 2309 
+     (1996); FEC v. Central Long Island Tax Reform Immediately 
+     Comm., 616 F.2d 45, 53 (2d Cir. 1980); Minnesota Citizens 
+     Concerned for Life, Inc. v. FEC, 936 F. Supp. 633 (D. Minn. 
+     1996), aff'd 113 F.3d 129 (8th Cir. 1997), reh'g. en banc 
+     denied, 1997 U.S. App. LEXIS 17528; West Virginians for Life, 
+     Inc. v. Smith, 960 F. Supp. 1036, 1039 (S.D.W.Va. 1996); FEC 
+     v. Survival Education Fund, 1994 U.S. Dist. Lexis 210 
+     (S.D.N.Y. 1994), aff'd in part and rev'd in part, 65 F.3d 285 
+     (2nd Cir. 1995); FEC v. National Organization for Women, 713 
+     F. Supp. 428, 433-34 (D.D.C. 1989); FEC v. American 
+     Federation of State, County and Municipal Employees, 471 F. 
+     Supp. 315, 316-17 (D.D.C. 1979). Even the FEC abandoned the 
+     ``electioneering communication'' standard soon after the 1996 
+     election due to its vagueness.
+       (11) The courts have also repeatedly upheld the rights of 
+     political party committees. As Justice Kennedy noted: ``The 
+     central holding in Buckley v. Valeo is that spending money on 
+     one's own speech must be permitted, and that this is what 
+     political parties do when they make expenditures FECA 
+     restricts.'' Colo. Republican Fed. Campaign Comm. v. Federal 
+     Election Comm'n, 518 U.S. 604, 627 (1996) (J. Kennedy, 
+     concurring). Justice Thomas added: ``As applied in the 
+     specific context of campaign funding by political parties, 
+     the anticorruption rationale loses its force. See Nahra, 
+     Political Parties and the Campaign Finance Laws: Dilemmas, 
+     Concerns and Opportunities, 56 Ford L. Rev. 53, 105-106 
+     (1987). What could it mean for a party to `corrupt' its 
+     candidates or to exercise `coercive' influence over him? The 
+     very aim of a political party is to influence its candidate's 
+     stance on issues and, if the candidate takes office or is 
+     reelected, his votes. When political parties
+
+[[Page H413]]
+
+     achieve that aim, that achievement does not, in my view, 
+     constitute `a subversion of the political process.' Federal 
+     Election Comm'n v. NCPAC, 470 U.S. at 497. For instance, if 
+     the Democratic Party spends large sums of money in support of 
+     a candidate who wins, takes office, and then implements the 
+     Party's platform, that is not corruption; that is successful 
+     advocacy of ideas in the political marketplace and 
+     representative government in a party system. To borrow a 
+     phrase from Federal Election Comm'n v. NCPAC, `the fact that 
+     candidates and elected officials may alter or reaffirm their 
+     own positions on issues in response to political messages 
+     paid for by [political groups] can hardly be called 
+     corruption, for one of the essential features of democracy is 
+     the presentation of the electorate of varying points of 
+     view.' Id. at 498. Cf. Federal Election Comm'n v. MCFL, 479 
+     U.S. at 263 (suggesting that `[v]oluntary political 
+     associations do not . . . present the specter of 
+     corruption').''. Colo. Republican Fed. Campaign Comm. v. 
+     Federal Election Comm'n, 518 U.S. 604, 647 (1996) (J. Thomas, 
+     concurring). Justice Thomas continued: ``The structure of 
+     political parties is such that the theoretical danger of 
+     those groups actually engaging in quid pro quos with 
+     candidates is significantly less than the threat of 
+     individuals or other groups doing so. See Nahra, Political 
+     Parties and the Campaign Finance Laws: Dilemmas, Concerns and 
+     Opportunities, 56 Ford L. Rev. 53, 97-98 (1987) (citing F. 
+     Sorauf, Party Politics in America 15-18 (5th ed. 1984)). 
+     American political parties, generally speaking, have numerous 
+     members with a wide variety of interests, features necessary 
+     for success in majoritarian elections. Consequently, the 
+     influence of any one person or the importance of any single 
+     issue within a political party is significantly diffused. For 
+     this reason, as the Party's amici argue, see Brief for 
+     Committee for Party Renewal et al. as Amicus Curiae 16, 
+     campaign funds donated by parties are considered to be some 
+     of `the cleanest money in politics.' J. Bibby, Campaign 
+     Finance Reform, 6 Commonsense 1, 10 (Dec. 1983). And, as long 
+     as the Court continues to permit Congress to subject 
+     individuals to limits on the amount they can give to parties, 
+     and those limits are uniform as to all donors, see 2 U.S.C. 
+     section 441a(a)(1), there is little risk that an individual 
+     donor could use a party as a conduit for bribing candidates. 
+     Id.''.
+       (12) As recently as 2000, the Supreme Court reminded us 
+     once again of the vital role that political parties play on 
+     our democratic life, by serving as the primary vehicles for 
+     the political views and voices of millions and millions of 
+     Americans. ``Representative democracy in any populous unit of 
+     governance is unimaginable without the ability of citizens to 
+     band together in promoting the electoral candidates who 
+     espouse their political views. The formation of national 
+     political parties was almost concurrent with the formation of 
+     the Republic itself.'' California Democratic Party v. Jones, 
+     530 U.S. 567 (2000). Moreover, just last year, a Federal 
+     court struck down a state law that included a so-called 
+     ``soft money ban,'' which in reality was a ban on corporate 
+     and union contributions to political parties--which as a 
+     factual matter is correct. The Anchorage Daily News reported:
+       (13) A Federal judge says corporations and unions have a 
+     constitutional right to give unlimited amounts of ``soft 
+     money'' to political parties, so long as none of the money is 
+     used to get specific candidates elected. In a decision dated 
+     June 11, U.S. District Judge James Singleton struck down a 
+     section of Alaska's 1997 political contributions law that 
+     barred corporations, unions and other businesses from 
+     contributing any money to political candidates or parties. 
+     The ban against corporate contributions to individual 
+     candidates is fine, Singleton said. Public concern about the 
+     corrupting influence or corporate contributions on a specific 
+     candidate is legitimate and important enough to somewhat 
+     limit freedom of speech and political association, the judge 
+     concluded. But contributions to the noncandidate work of a 
+     political party do not raise undue influence issues and 
+     therefore may not be restricted, the judge concluded.
+       (14) Sheila Toomey, Anchorage Daily News (June 14, 2001) 
+     (reporting on Kenneth P. Jacobus, et al. vs. State of Alaska, 
+     et al., No. A97-0272 (D. Alaska filed June 11, 2001).
+       (15) Nor is speech any less protected by the First 
+     Amendment simply because the one making the speech contacted 
+     or communicated with others. For some time, the Federal 
+     Election Commission held the view that such ``coordination'' 
+     (an undefined term), even of communications that did not 
+     contain express advocacy, somehow was problematic, and 
+     subject to the limitations and prohibitions of the Act. This 
+     view has been rejected by the courts. Federal Election 
+     Commission v. Christian Coalition, 52 F. Supp. 2d 45 (D.D.C. 
+     1999). In fact, lower Federal courts have held that even 
+     political party committee limits on coordinated expenditures 
+     are an unconstitutional restriction on speech. Federal 
+     Election Commission v. Colo. Republican Fed. Campaign Comm., 
+     213 F.3d 1221 (10th Cir. 2000). Unless a party committee's 
+     expenditure is the functional equivalent of a contribution 
+     (and thus not ``coordinated''), it cannot be limited. See 
+     Federal Election Commission v. Colo. Republican Fed. Campaign 
+     Comm., 150 L.Ed.2d 461, nt. 17, nt. 2 (J. Thomas, dissenting) 
+     (2001). As a factual matter, many party committee 
+     ``coordinated'' expenditures are not the functional 
+     equivalent of contributions. See Amicus Curie Brief of the 
+     National Republican Congressional Committee, Federal Election 
+     Commission v. Colo. Republican Fed. Campaign Comm., 150 
+     L.Ed.2d 461 (2001).
+       (16) Commentators, legal experts and testimony in the 
+     record echoes the need to be mindful of the First Amendment. 
+     Whether it is the American Civil Liberties Union, see March 
+     10, 2001 ACLU Letter to Senate (and all cases cited therein) 
+     & June 14, 2001 ACLU testimony before the House 
+     Administration Committee (and cases cited therein), or the 
+     counsel to the National Right to Life Committee and the 
+     Christian Coalition, see June 14, 2001 testimony of James 
+     Bopp before the House Administration Committee (and cases 
+     cited therein), experts across the political spectrum have 
+     thoughtfully explained the need to ensure the First Amendment 
+     rights of citizens of this country.
+       (17) Citizens who have an interest in issues have the 
+     Constitutional right to criticize or praise their elected 
+     officials individually or collectively as a group. 
+     Communication in the form of criticism or praise of elected 
+     officials is preciously protected as free speech under the 
+     First Amendment of the Constitution of the United States.
+       (18) This Act contains restrictions on the rights of 
+     citizens, either individually or collectively, to communicate 
+     with or about their elected representatives and to the 
+     general public. Such restrictions would stifle and suppress 
+     individual and group advocacy pertaining to politics and 
+     government--the political expression at the core of the 
+     electoral process and of First Amendment freedoms--the very 
+     engine of democracy. Such restrictions also hinder citizens' 
+     ability to communicate their support or opposition on issues 
+     to their elected officials and the general public.
+       (19) Candidate campaigns and issue campaigns are the 
+     primary vehicles for giving voice to popular grievances, 
+     raising issues and proposing solutions. An election, and the 
+     time leading up to it, is when political speech should be at 
+     its most robust and unfettered.
+
+     SEC. 602. NO RESTRICTIONS ON FIRST AMENDMENT RIGHTS.
+
+       Notwithstanding any provision of this Act, and in 
+     recognition of the First Amendment to the United States 
+     Constitution, nothing in this Act or in any amendment made by 
+     this Act may be construed to abridge those freedoms found in 
+     that Amendment, specifically the freedom of speech or of the 
+     press, or the right of people to peaceably assemble, and to 
+     petition the government for a redress of grievances, 
+     consistent with the rulings of the courts of the United 
+     States (as provided in section 601).
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentleman from Illinois (Mr. Hyde) and a Member opposed each 
+will control 10 minutes.
+  Does the gentleman from Maryland (Mr. Hoyer) seek to control the time 
+in opposition?
+  Mr. HOYER. Mr. Chairman, I do.
+  The CHAIRMAN pro tempore. The gentleman from Maryland (Mr. Hoyer) 
+will be recognized for 10 minutes.
+  The Chair recognizes the gentleman from Illinois (Mr. Hyde).
+  Mr. HYDE. Mr. Chairman, I yield myself such time as I may consume.
+  (Mr. HYDE asked and was given permission to revise and extend his 
+remarks.)
+  Mr. HYDE. Mr. Chairman, with the passage of the Shays-Meehan 
+substitute all the suspense seems to have gone out of this controversy, 
+and all I have to look forward to is the gentleman from Massachusetts 
+(Mr. Frank) berating me for not being a charter member of the Earl 
+Warren Fan Club, and I await his bashes with mild interest.
+  Mr. Chairman, since some of us feel that the first amendment is in 
+jeopardy, nonetheless, rereading the first amendment of our 
+Constitution might be therapeutic. ``Congress shall make no law,'' no 
+law, emphasis my own, ``respecting an establishment of religion, or 
+prohibiting the free exercise thereof; or abridging the freedom of 
+speech, or of the press; or of the right of the people to peaceably 
+assemble, and to petition the Government for a redress of grievances.''
+  Now, the amendment I am offering consists of 14 pages. The first 13 
+are a listing of findings based on Supreme Court decisions explaining 
+the first amendment and/or its relationship to free speech.
+  For example, on page 2, we cite the New York Times Company versus 
+Sullivan, a 1964 case which said the first amendment reflects our 
+``profound and national commitment to the principle that debate on 
+public issues should be uninhibited, robust, and wide-open.'' The first 
+amendment protects political association as well as political 
+expression, NAACP versus Alabama, and so on. Page 3 of the amendment 
+quotes Buckley v. Valeo.
+  But the essence of what I am offering is section 602, which is on 
+pages 13 and
+
+[[Page H414]]
+
+14, and if I may read that, you will have the amendment's gravamen in 
+your grasp.
+  ``Section 602: Notwithstanding any provisions of this Act, and in 
+recognition of the First Amendment to the United States Constitution, 
+nothing in this Act or in any amendment made by this Act may be 
+construed to abridge those freedoms found in that Amendment, 
+specifically the freedom of speech or of the press, or the right of the 
+people to peaceably assemble, and to petition the government for 
+redress of grievances, consistent with the rulings of the courts of the 
+United States.''
+  So, that is rather simple. Supporting my amendment gives us a chance 
+to reaffirm our loyalty, our dedication, our devotion to the first 
+amendment.
+  Now, before going on much farther, I would like to give the House a 
+quotation from an article, January 28, 2002, in the National Journal, 
+and this is by Stewart Taylor, Jr., who is not conservative. I do not 
+think he is liberal. I think he is a true moderate.
+  But in writing about this issue, he said something that I found 
+extraordinarily interesting. Mr. Taylor says Shays-Meehan's most 
+extreme and least publicized provisions have nothing to do with soft 
+money. One would make it a Federal crime for any association of 
+citizens other than PACs to criticize, praise or even name a candidate 
+for Congress in an ad broadcast in his or her State within 30 days of a 
+primary or 60 days of a general election. Another would define illegal 
+spending/coordination with candidates so broadly as to make it risky 
+for any group to praise or even mention at any time in any public 
+communications a Member of Congress with whom it had met or worked on 
+legislative issues.
+  I think that is interesting, and that is another reason why I am very 
+disturbed about what we are doing here today.
+  If ever there was a time where free speech should be unfettered, 
+robust, it is at election time. Instead, this legislation in essence 
+tells democracy to shut up and sit down. We are suffocating uninhibited 
+political advocacy, that rare dynamic earned for us by the blood of our 
+forefathers. And why? Because there is too much money in politics.
+  No, we are not talking about Major League Baseball, a utility 
+infielder. We are not talking about a professional basketball team or a 
+rock band. We are talking about politics.
+  In the last Presidential election, so excited by the prospect of 
+picking a President, 51 percent of those eligible to vote, of voting 
+age, bothered to vote. Now, it seems to me a little more interest in a 
+Presidential election in a viable democracy is certainly called for.
+  In the congressional cycle of 1999 and 2000, I am talking about 2 
+years now, Congress raised $1.05 billion. Coca-Cola, in one year, 2000, 
+marketing and advertising, spent $1.74 billion. One B-2 Stealth Bomber 
+costs $1.16 billion. So too much money in politics is, I think, a bit 
+of a stretch.
+  By banning soft money to the political parties from unions, 
+corporations and individuals, money that pays for issue ads, you do 
+real damage to the parties. You emasculate them and you make the voices 
+of the special interests the last and the loudest voices to be heard in 
+the campaign. A vigorous two-party system has been the bedrock of our 
+democracy. You hurt challengers and reinforce incumbency, and political 
+advocacy is strangled, not encouraged.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HOYER. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, let me start by saying that we all respect the 
+gentleman from Illinois. Those who read this amendment will nod their 
+heads in agreement on much of this amendment. But I am reminded of the 
+words of the great President from the State of Illinois, the State of 
+the gentleman from Illinois (Mr. Hyde), Abraham Lincoln. Abraham 
+Lincoln once observed during the course of the Civil War that if in the 
+end things turned out all right, nothing that was said would matter; 
+but however, if in the end things turned out wrong, that all the angels 
+in Heaven speaking on its behalf would not matter.
+  In the last page of this amendment, section 602, the language says: 
+``Notwithstanding any provision of this Act and in recognition of the 
+First Amendment to the United States Constitution, nothing in this Act 
+or in any amendment made by this Act may be construed to abridge those 
+freedoms found in that amendment.''
+  With all due respect, that is not within the power of this Congress. 
+It is not within the power of this Congress to say that this is 
+constitutional or it is not constitutional. And why is that? It is 
+because the Founding Fathers' genius was to separate the powers and to 
+give to an independent judiciary the right to say whether an act of 
+Congress is constitutional or whether it was not.
+  If that were not the case, then a majority of us could say, ``No, 
+that which we have done is constitutional.'' That clearly would not be 
+consistent with either the separation of powers, or the general purpose 
+for the creation of a Supreme Court, which could protect the minority. 
+And I say to my friend from Illinois, that nothing we say in this bill 
+can abridge the constitutional rights of any American, if the Supreme 
+Court determines by five or more votes, that we have abridged those 
+rights. It is not within our power, except by way of a constitutional 
+amendment, which, of course, this bill is not, to take that step.
+  Mr. HYDE. Mr. Chairman, will the gentleman yield?
+  Mr. HOYER. I yield to the gentleman from Illinois.
+  Mr. HYDE. Mr. Chairman, I just want to say it is true, we do not have 
+the power to adjudicate constitutionality, but we certainly have the 
+power to recognize it when we see it and assert our opinion that 
+something is unconstitutional. We are sworn to protect that document.
+  Mr. HOYER. Mr. Chairman, reclaiming my time, I agree with the 
+gentleman; and I say to the gentleman, he and I have voted on different 
+sides of an issue that I think was a very central first amendment 
+right. He and I differed on that issue. But our opinion on that issue, 
+other than that it may have motivated each of us to vote, is 
+irrelevant. In the final analysis what is relevant, what is important 
+to the individual, is what the Supreme Court of the United States says 
+we did, and nothing we say in our legislation, affirming its 
+constitutionality or questioning its constitutionality, will make any 
+difference. It is the opinion of the Supreme Court that will make the 
+difference.
+  Therefore, I oppose this amendment, not because its sentiment is 
+wrong--because its sentiment is not--but because it is mere surplusage, 
+and not relevant to this legislation. I do not mean to say to the 
+gentleman from Illinois that his opinion as to the constitutionality of 
+one or more provisions of the act is not relevant. Clearly it is, and 
+it may well motivate his vote on this particular piece of legislation. 
+But to add this surplusage does not add to or subtract from the 
+substance of this legislation.
+  I would hope that this body would reject this amendment because of 
+the process that this amendment will require the legislation to then go 
+through.
+  Mr. Chairman, I yield 1 minute to the distinguished gentlewoman from 
+Michigan (Ms. Rivers).
+  Ms. RIVERS. Mr. Chairman, Shays-Meehan does not prohibit speech of 
+any type. It seeks to stop the use of soft money to pay for campaign 
+ads. This is a long-standing authority that Congress has been able to 
+exercise, starting with prohibitions on corporation monies in 1907, 
+unions in 1947, and then 1974 for Buckley v. Valeo.
+  Soft money is not protected by the Constitution. Soft money was 
+created by the FEC in 1978. It is a creature of the Federal 
+bureaucracy. It has no particular standing under the Constitution. The 
+Supreme Court has never held soft money to be constitutionally 
+inviolate, and to argue that the Congress cannot undo what a Federal 
+agent has wrought is to deliberately ignore who is the master and who 
+is the servant. There is no free-speech violation in Shays-Meehan and 
+no reason to support this amendment.
+
+                              {time}  1630
+
+  Mr. HYDE. Mr. Chairman, I am pleased to yield 2 minutes to the 
+gentleman from Indiana (Mr. Pence).
+  Mr. PENCE. Mr. Chairman, I thank the distinguished chairman for 
+yielding me this time, and I rise in strong
+
+[[Page H415]]
+
+ support of the Hyde amendment to this legislation.
+  I consider it a privilege to debate men of such eloquence as the 
+gentleman from Maryland in this Chamber, but, if I may say so, I take 
+issue with the assertion that the determination of constitutionality is 
+outside of our purview. I will grant the point to the gentleman from 
+Maryland that it is not our purview under this Constitution to 
+determine what is and is not constitutional, but I would offer that 
+while it is not our power, it is most assuredly our duty expressed in 
+the oath of office that every man and woman who has served in this 
+institution takes, an oath of office to defend and uphold and support 
+the Constitution of the United States of America. It presupposes that 
+we make a judgment in our own hearts, in our own minds, and express it 
+with our own vote about that which we consider to be constitutional and 
+that which we do not.
+  I must tell my colleagues, Mr. Chairman, that this bill's prohibition 
+of political speech in the last 2 months by individuals or 
+organizations other than political action committees is even to my 10-
+year-old son a clear violation of those words that ``Congress shall 
+make no law abridging the freedom of speech.'' Only by adopting the 
+Hyde amendment will we as an institution say that whatever the courts 
+may do, and, if I may say so, they have occasionally made some bone-
+headed decisions, whatever the courts may do at whatever level, that it 
+was never the intention of this institution to trample on that first 
+amendment.
+  If I may say, Mr. Chairman, I think many of the advocates of this 
+bill suspect the provisions might be unconstitutional. It is perhaps 
+the reason why they oppose the nonseverability provisions that have 
+attempted to be added to this bill. I believe it is the reason why they 
+do not want to stand with those of us that say, if there is a part of 
+this found unconstitutional, then all of it must be rejected. Let us 
+say yes to the blood-bought freedoms of the Bill of Rights and yes to 
+the Hyde amendment.
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from 
+Illinois (Mr. Hyde) has 1 minute remaining; the gentleman from Maryland 
+(Mr. Hoyer) has 4\1/2\ minutes remaining.
+  Mr. HOYER. Mr. Chairman, I yield 2\1/2\ minutes to the distinguished 
+gentleman from Massachusetts (Mr. Frank).
+  Mr. FRANK. Mr. Chairman, I was struck by reading the findings. 
+Members will be pleased to know that if they vote for this amendment, 
+they will be certifying the American Civil Liberties Union as an expert 
+on the interpretation of the first amendment.
+  Now, I often agree with the ACLU on the First Amendment, not on some 
+other amendments, but I think this is a new height in freedom of 
+expression. Look at finding 16 on page 12: Whether it is the American 
+Civil Liberties Union or the counsel to National Right to Life, experts 
+have thoughtfully explained this need. I am sure the ACLU appreciates 
+the gentleman from Illinois's very occasional endorsement, because I 
+must say, having served on the Committee on the Judiciary with him for 
+years, I do not remember too many other occasions when he and the ACLU 
+have agreed on constitutionality; not on the antiterrorism bill.
+  In fact, I agree with the gentleman from Indiana. I do not think we 
+should vote for things that we think are unconstitutional. That is why 
+I have consistently voted against the censorship of the Internet which 
+this House passes every other year, and, in the alternative year, the 
+Supreme Court throws out.
+  The fact is that there is a pattern here of people who have never 
+found much virtue with the ACLU and the first amendment suddenly 
+becomes believers. Now, it also sanctifies here the case of New York 
+against Sullivan, the libel case that I have heard Members be critical 
+of, but people also talk about draftsmanship. Let me say I was 
+particularly impressed with finding 14.
+  This is the finding. Finding 14: Sheila Toomey, Anchorage Daily News. 
+It does not say anything else, except that she was reporting on a 
+story. So Ms. Toomey, whoever she is, has now become an official 
+finding of the United States if you pass that amendment. That is a 
+great honor to her. So you have sanctified the expertise of the ACLU, 
+you have officially found Ms. Toomey, who probably did not know 
+heretofore that she was lost, and you have, in fact, added surplus 
+verbiage, at best.
+  The gentleman from Illinois is well aware nothing we can do could 
+impinge on the First Amendment. So what this amendment comes down to, 
+in addition to certifying the expertise of the ACLU, and they will 
+appreciate every Republican who votes that way, and they will probably 
+cite you in their literature, and you may expect the people in your own 
+districts to be thanked by the ACLU for sending a supporter of their 
+expertise to the Congress of the United States and to officially vote 
+and certify them as experts.
+  Mr. HOYER. Mr. Chairman, will the gentleman yield?
+  Mr. FRANK. I yield to the gentleman from Maryland.
+  Mr. HOYER. Mr. Chairman, is the gentleman aware that in this 
+resolution a case is cited by name, Federal Election Commission v. 
+Colorado Republican Federal Campaign Commission, citing a case that has 
+been overruled by the Supreme Court? Was the gentleman aware of that?
+  Mr. FRANK. Mr. Chairman, I was not, but I hope Sheila Toomey has not 
+been lost in this thing.
+  Mr. HOYER. Mr. Chairman, I hope not.
+  The CHAIRMAN pro tempore. The gentleman from Illinois (Mr. Hyde) has 
+1 minute remaining; the gentleman from Maryland (Mr. Hoyer) has 2 
+minutes remaining.
+  Mr. HYDE. Mr. Chairman, I had some people who wanted to talk, but 
+they do not seem to be here.
+  Mr. HOYER. Mr. Chairman, if the gentleman will yield for 1 minute, I 
+have the right to close, and I have 2 minutes, and I will yield to the 
+gentleman from Tennessee (Mr. Clement), and then the gentleman from 
+Illinois can take his minute, and I will take the last minute to close.
+  Mr. HYDE. Mr. Chairman, I thank the gentleman from Maryland. Just so 
+the gentleman from Massachusetts (Mr. Frank) does not leave the room.
+  Mr. HOYER. Mr. Chairman, I cannot guarantee that, I would say to the 
+gentleman.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the gentleman from 
+Tennessee (Mr. Clement).
+  Mr. CLEMENT. Mr. Chairman, I thank the gentleman for yielding me this 
+time.
+  This is a critical debate, and I am very pleased, number one, that 
+the Shays-Meehan passed by such an overwhelming vote. Now we have 
+various amendments that could very well impact Shays-Meehan. I am not a 
+lawyer, I am not a constitutional scholar, but I know one thing, that 
+this language contains biased findings and attempts to impose a one-
+sided interpretation of the First Amendment as a matter of statutory 
+law to falsely imply that the Shays-Meehan bill violates the First 
+Amendment.
+  All of us have to look at all of these amendments very, very closely, 
+particularly these perfecting amendments, and how is it going to affect 
+Shays-Meehan, because we have a good piece of legislation. We have not 
+had any major reform on campaign finance reform since the 1970s. Why? 
+Because of Watergate. And why are we getting the vote on Shays-Meehan 
+and real campaign finance reform today? Because of the Enron scandal. 
+Let us support strongly Shays-Meehan.
+  Mr. HYDE. Mr. Chairman, I yield myself such time as I may consume 
+just to say to my friend from the upper regions of Massachusetts that 
+Nadine Strossen, the president of the ACLU, has written me several warm 
+letters, and we have worked together on civil asset forfeiture, a 
+concept that the gentleman has supported. So we found common ground on 
+more than one issue with the ACLU.
+  Lastly, I would hope the gentleman would read section 602. The 
+inaccuracies and errors in the petition itself are the result of 
+midnight draftsmanship which is brought upon us as a gift from the 
+gentleman from Maryland (Mr. Hoyer) and his party whose devotion to 
+rapidity sometimes intrudes on coherence.
+  Mr. HOYER. Mr. Chairman, will the gentleman yield on that point?
+  Mr. HYDE. Surely.
+  Mr. HOYER. Mr. Chairman, first of all, the gentleman from Maryland 
+(Mr.
+
+[[Page H416]]
+
+Hoyer) was not involved in this, but secondly, let me say to the 
+gentleman that I will remind him of his remarks as we go through 
+legislation in the coming months.
+  The CHAIRMAN pro tempore. The time of the gentleman from Illinois 
+(Mr. Hyde) has expired.
+  Mr. HOYER. Mr. Chairman, I yield 10 seconds to the gentleman from 
+Massachusetts (Mr. Frank).
+  Mr. FRANK. Mr. Chairman, this is the second time we have heard 
+reference on the other side to the haste, et cetera. These are the 
+people who refused to let the bill out. These are the people who 
+bottled it up and forced it to be forced out by the petition. So I have 
+never seen a case where people guilty of a misdeed freely blamed other 
+people for the consequences of their own action. Yes, it was not done 
+the appropriate way. That is because the other side would not allow it 
+to be done in the appropriate way.
+  Mr. HOYER. Mr. Chairman, I have 50 seconds remaining; is that 
+correct?
+  The CHAIRMAN pro tempore. The gentleman from Maryland (Mr. Hoyer) is 
+recognized for the remaining time.
+  Mr. HOYER. Mr. Chairman, first of all, let me respond to the 
+gentleman from Illinois. These issues were raised over 2 years ago, not 
+last night, not the night before, or the night before that. The issues 
+we raise in this legislation were raised 2 years ago, and 4 years ago, 
+and we all know that. They are legitimate issues, and they will be 
+issues that will be fought out in the future in front of the Supreme 
+Court.
+  But this amendment is not appropriate on this piece of legislation at 
+this time, not because we do not subscribe to the first amendment, not 
+because we do not want to ensure that the Constitution is followed in 
+our legislation, but because we all know that it is time to act, time 
+to adopt this reform, and not the time to pretend that we are doing 
+things that we do not have the power to do. Vote this amendment down.
+  Mr. ISSA. Mr. Chairman, I rise today in support of this amendment and 
+I want to thank my colleague and friend, Chairman Hyde for bringing it 
+to the floor. Mr. Chairman, this amendment strikes at the very heart of 
+this debate, but, more importantly, it strikes at the heart of our 
+Constitution, which is the bedrock of our great nation and the 
+foundation of our democracy. This afternoon Members of Congress have 
+the opportunity to lay partisan self-interests aside and vote to 
+support the 1st amendment to the Constitution. There are no frills to 
+this amendment, there are no special interests who are serviced in this 
+amendment. Rather, it serves the interests and protects a fundamental 
+right of the American people. It states simply and seeks only to insure 
+that nothing in the act shall violate the 1st amendment to the 
+Constitution of the United States--our right to speak freely, to speak 
+politically without the threat of censorship or retribution from the 
+government. Are we going to turn our backs today on this fundamental 
+right, to sacrifice our freedom of speech on the altar of campaign 
+finance reform?
+  Let me remind some of my colleagues who will not support this 
+amendment what we believe about free speech in this country. We believe 
+that free speech is an inalienable right. We believe that all people 
+should be allowed to express their political beliefs openly, without 
+arbitrary rules that restrict the means with which they can share and 
+debate ideas. We believe that our constitution should govern Congress' 
+laws, not the other way around. Mr. Chairman, this amendment assures 
+the constitutionality of this proposed law. By supporting our 
+Constitution, and our freedom as Americans to enjoy free speech, it 
+affords the broadest protection to political expression, and it assures 
+the unfettered exchange of ideas.
+  Mr. Chairman, every type of organized communication takes money. 
+Pamphlets need to be printed, letters need to be written and mailed, 
+and television ads need to be broadcasted. The scam that is being 
+pulled here by my colleagues who support H.R. 2356 is really quite 
+remarkable. In the name of stabilizing our Nation's political system, 
+they want to prevent people from spending the money necessary to share 
+their ideas with each other. Whether this is the result of malicious 
+intent or a totally misguided effort to ``reform'' our campaign finance 
+system, it is not any less outrageous.
+  Mr. Chairman, I urge my colleagues to take a look at this amendment, 
+search their hearts, and vote to protect our Constitution. Let's have 
+campaign finance reform, but let's live up to our oath of office and 
+protect our Constitution.
+  Mr. BEREUTER. Mr. Chairman, this Member would like to take this 
+opportunity to explain his ``present'' vote on the Hyde amendment to 
+H.R. 2356, the Campaign Reform Act of 2001. This Member voted 
+``present'' on the amendment as he believes that there is nothing 
+Congress can do through such an amendment itself to assure that the 
+language of this measure is constitutional. As to the matter of the 
+constitutionality of any such legislation, that determination is within 
+the power and authority given to our judicial branch--not the Congress. 
+The language offered in the Hyde amendment is irrelevant. It is the 
+nature of the language itself which will be judged to be constitutional 
+by the courts and ultimately by the U.S. Supreme Court. That fact is 
+one reason why the ``Severability Clause'' is essential to foster some 
+advancement of campaign finance reform legislation.
+  The CHAIRMAN pro tempore. The question is on the amendment offered by 
+the gentleman from Illinois (Mr. Hyde).
+  The question was taken; and the Chairman pro tempore announced that 
+the noes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. HYDE. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 188, 
+noes 237, answered ``present'' 1, not voting 9, as follows:
+
+                             [Roll No. 22]
+
+                               AYES--188
+
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barr
+     Bartlett
+     Barton
+     Biggert
+     Bilirakis
+     Blunt
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Flake
+     Fletcher
+     Forbes
+     Fossella
+     Gallegly
+     Gekas
+     Gibbons
+     Gilchrest
+     Gillmor
+     Goode
+     Goodlatte
+     Goss
+     Granger
+     Graves
+     Green (WI)
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hostettler
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     King (NY)
+     Kingston
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McHugh
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Moran (KS)
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Otter
+     Oxley
+     Paul
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Saxton
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shows
+     Shuster
+     Simpson
+     Skeen
+     Smith (MI)
+     Smith (TX)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Terry
+     Thomas
+     Thornberry
+     Tiahrt
+     Tiberi
+     Toomey
+     Upton
+     Vitter
+     Walden
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weller
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wynn
+     Young (AK)
+     Young (FL)
+
+                               NOES--237
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barcia
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Edwards
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Foley
+     Ford
+     Frank
+     Frelinghuysen
+     Frost
+     Ganske
+     Gephardt
+     Gilman
+     Gonzalez
+     Gordon
+     Graham
+     Green (TX)
+     Greenwood
+     Grucci
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holden
+     Holt
+     Honda
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+
+[[Page H417]]
+
+
+     Kirk
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Mollohan
+     Moore
+     Moran (VA)
+     Morella
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Osborne
+     Ose
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pelosi
+     Petri
+     Phelps
+     Platts
+     Pomeroy
+     Price (NC)
+     Quinn
+     Rahall
+     Ramstad
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ross
+     Rothman
+     Roukema
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Simmons
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Thompson (CA)
+     Thompson (MS)
+     Thune
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watson (CA)
+     Waxman
+     Weiner
+     Weldon (PA)
+     Wexler
+     Wolf
+     Woolsey
+     Wu
+
+                        ANSWERED ``PRESENT''--1
+
+       
+     Bereuter
+       
+
+                             NOT VOTING--9
+
+     Aderholt
+     Brady (TX)
+     Cubin
+     Rangel
+     Riley
+     Smith (NJ)
+     Traficant
+     Watt (NC)
+     Whitfield
+
+                              {time}  1700
+
+  Ms. McCOLLUM and Ms. SANCHEZ changed their vote from ``aye'' to 
+``no.''
+  Ms. PRYCE of Ohio and Mr. GILCHREST changed their vote from ``no'' to 
+``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+  Stated for:
+  Mr. ADERHOLT. Mr. Chairman, on rollcall No. 22 I was inadvertently 
+detained. Had I been present, I would have voted ``aye.''
+  Mr. WHITFIELD. Mr. Chairman, on rollcall No. 22 I was unavoidably 
+detained. Had I been present, I would have voted ``aye.''
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Connecticut (Mr. Shays) or the 
+gentleman from Massachusetts (Mr. Meehan).
+
+
+             Amendment No. 11 Offered by Mr. Green of Texas
+
+  Mr. GREEN of Texas. Mr. Chairman, I offer an amendment as the 
+designee of the gentleman from Connecticut (Mr. Shays).
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 11 offered by Mr. Green of Texas:
+       Strike section 305.
+       In section 306(a), strike the subsection designation and 
+     all that follows through ``Content of broadcasts.--'' and 
+     insert the following:
+       (a) In General.--Section 315(b) of the Communications Act 
+     of 1934 (47 U.S.C. 315(b)) is amended--
+       (1) by striking ``(b) The charges'' and inserting the 
+     following:
+       ``(b) Charges.--
+       ``(1) In general.--The charges'';
+       (2) by redesignating paragraphs (1) and (2) as 
+     subparagraphs (A) and (B), respectively; and
+       (3) by adding at the end the following:
+       ``(2) Content of broadcasts.--
+       In section 306(a), strike ``or (2)'' each place such term 
+     appears.
+       In section 306(b), strike ``(3)'' and insert ``(2)''.
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentleman from Texas (Mr. Green) and a Member opposed each 
+will control 10 minutes.
+  The Chair recognizes the gentleman from Texas (Mr. Green).
+  Mr. GREEN of Texas. Mr. Chairman, I ask unanimous consent to split 
+our allowable time with the gentleman from North Carolina (Mr. Burr), 
+my colleague from the Committee on Energy and Commerce.
+  The CHAIRMAN pro tempore. Is there objection to the request of the 
+gentleman from Texas?
+  There was no objection.
+  The gentleman from North Carolina (Mr. Burr) will control 5 minutes 
+and the gentleman from Texas (Mr. Green) will control 5 minutes.
+  The gentleman from Texas is recognized for 5 minutes.
+  Mr. GREEN of Texas. Mr. Chairman, I yield myself 1 minute.
+  As a long-time supporter of the Shays-Meehan legislation, including 
+signing the discharge petition, I believe we are on the verge of 
+passing this historic campaign finance legislation. I am offering an 
+amendment that would correct, I think, an oversight that was in the 
+Senate bill that came to the House; and that is what my colleague, the 
+gentleman from North Carolina (Mr. Burr), and I are doing.
+  The amendment we are offering today is not a poison pill, and if 
+passed would not force the underlying bill into conference with the 
+Senate. Senators McCain and Feingold have already indicated that the 
+passage of this amendment would not be a hindrance in the Senate. It is 
+not a poison pill.
+  This amendment is designed to remove a provision out of the Shays-
+Meehan bill that creates a new perk for candidates for Federal offices. 
+We cannot blame the problems associated with the high costs of 
+campaigning on television, and this is an example of Congress 
+overreaching and helping ourselves; and that is why we offer this 
+amendment and encourage my colleagues to support it.
+  Mr. Chairman, I reserve the balance of my time.
+  Ms. SLAUGHTER. Mr. Chairman, I rise in opposition to the Green 
+amendment.
+  The CHAIRMAN pro tempore. The gentlewoman from New York (Ms. 
+Slaughter) will control 10 minutes.
+  Ms. SLAUGHTER. Mr. Chairman, I yield myself 2 minutes.
+  Mr. Chairman, it is no wonder that so many of our colleagues have 
+been lobbying heavily to oppose the section 305, despite the fact that 
+the air waves are a public resource. And let me restate that again. 
+Despite the fact that the airwaves belong to the people of the United 
+States, the Broadcasting Industry Association has spent millions of 
+dollars lobbying against legislation to regulate political ads. If we 
+add up the money that was spent lobbying for the broadcasting industry 
+from 1996 to 1999, the total is well over $111 million.
+  In the past few years, I have personally encountered the power of the 
+broadcasting lobby. Throughout the 1990s I lobbied for a bill called 
+Fairness in Political Advertising which would have required stations to 
+offer modest blocks of free television time to candidates. However, the 
+broadcasting industry spent $11 million to defeat that one bill. The 
+broadcasting industry has successfully blocked reform by spending vast 
+amounts of money to protect its interest. I find it extremely ironic 
+that this body would consider an amendment to protect this special 
+interest group as we work to limit the influence of special interest 
+money in our political process. If we are really serious about campaign 
+finance reform we must preclude this provision.
+  Please join me in supporting the lowest unit charge provision within 
+Shays-Meehan, which passed the Senate by over two to one and obviously 
+is realized by the Senate to be an integral part of campaign finance 
+reform. This part of this legislation is a simple way to close the 
+loophole in existing law that has never worked, never worked in the way 
+it was designed.
+  By reducing the greatest single expense of campaigns, we can decrease 
+the need for candidates to raise outrageous amounts of money, and this 
+is an excellent way for us to improve political discourse in the 
+electoral process and to balance the playing field.
+  Mr. Chairman, I yield 3 minutes to the gentleman from New York (Mr. 
+Nadler).
+  Mr. NADLER. Mr. Chairman, we all know that the major problem we are 
+dealing with in all this campaign finance reform legislation is that 
+the cost of campaigning, of getting a message out to the public, has 
+gotten out of hand; and consequently, Members and challengers feel 
+compelled to spend much of their time in an ever-increasing race of 
+trying to get more and more money from contributors, from special 
+interest groups, et cetera; and that has caused all the problems that 
+we have been dealing with.
+  TV stations use a public resource. We have given them the license to 
+use the public air waves, a scarce public resource, because they are 
+limited for free. Just a few years ago we gave them for nothing $77 
+billion to the broadcasters of additional spectrum. Senator Dole was 
+quite outraged, and properly so, at this.
+
+[[Page H418]]
+
+  Now they have the nerve to say that we should not enforce the 1971 
+law that said that when they sell ads to political candidates they must 
+do it at the lowest rate they give it to anyone else. There are two 
+loopholes to this law. One, they will sell a candidate an ad for the 
+lowest cost; but then they will say, oh, we are going to bump the 
+candidate from 6 p.m. the day before the election to 3 a.m. because 
+someone else is willing to pay a higher rate, unless of course the 
+candidate pays the premium rate to guarantee getting the 6 p.m. slot. 
+No candidate can risk that, so everybody pays the premium rate. They 
+have completely undermined the existing law which says they have got to 
+pay the cheapest rate.
+  All this bill does, and the amendment would negate, is enforce the 
+existing law and say they must give them unpreemptible time so people 
+can take it and it means it at the lowest rate they have sold for the 
+last few months.
+  Secondly, it is amazing to see that the sponsor of this amendment 
+would say that this is a new perk for candidates. It is not a perk for 
+candidates. It is saying that as a beginning of paying off their 
+obligation to the public, we no longer have the equal-time doctrine, we 
+no longer have the fairness doctrine, we no longer enforce anything 
+that says they have got to really cover political campaigns for the 
+public service requirement for which they get their license. They do 
+not have to cover someone that 45 seconds per campaign or 45 seconds 
+per election per night. We are simply saying sell the ads, but sell it 
+as the Congress has said 30 years ago, for the lowest unit rate they 
+sell it to anybody else.
+  TV ads cost 80 percent of the cost of all communication to voters. 
+There is no reason why we cannot ask these broadcasters who get, again 
+their entire product is on public air waves, which we give them for 
+free, we license to them for free, the least we can ask is that they 
+enable candidates to try to conduct election campaigns for the cheapest 
+rate they sell to other people to strengthen our democracy.
+  Mr. BURR of North Carolina. Mr. Chairman, I yield 30 seconds to the 
+gentleman from Louisiana (Mr. Tauzin), the chairman of the Committee on 
+Energy and Commerce.
+  Mr. TAUZIN. Mr. Chairman, if ever there was an amendment that 
+provided preferential speech in America it is the Torricelli amendment, 
+and we ought to strike it.
+  This amendment says that somehow Federal candidates for office in 
+America, Federal politicians are entitled to special privileges, 
+special rates, special time on the broadcast waves of America while 
+other citizens are treated differently. Other citizens do not get those 
+breaks. Other people who want to speak in this country politically do 
+not get those breaks, just Federal candidates. Come on.
+  This is the sort of thing the Founding Fathers worried about when 
+they wrote the first amendment that said we should protect American 
+citizens against the government dictating free speech.
+  Mr. BURR of North Carolina. Mr. Chairman, I yield 1 minute to the 
+gentleman from Ohio (Mr. Boehner), the chairman of the Committee on 
+Education and the Workforce.
+  Mr. BOEHNER. Mr. Chairman, I want to thank the gentleman from North 
+Carolina for yielding me the time.
+  Every 2 years we as Members raise our right hand and swear to uphold 
+and defend the Constitution of the United States. That means when bills 
+come before this House we have a responsibility to, in our opinion, 
+look to see if we are, in fact, following the Constitution.
+  One of the unconstitutional provisions in the underlying bill is this 
+provision that would require broadcasters to sell time at the lowest 
+unit cost of any time during the last 180 days. It is clearly 
+unconstitutional. There is no requirement in here that newspapers sell 
+us ad time at the lowest possible rate or radio stations who get their 
+air waves from the public. There is no requirement there that they pay 
+the lowest unit cost.
+  This is a subsidy to Federal office holders and only Federal office 
+holders. It is blatantly unconstitutional. We should support the 
+amendment offered by our colleagues, the gentleman from Texas (Mr. 
+Green) and the gentleman from North Carolina (Mr. Burr), and approve 
+this product.
+  Mr. GREEN of Texas. Mr. Chairman, I yield 45 seconds to the gentleman 
+from Ohio (Mr. Strickland).
+  Mr. STRICKLAND. Mr. Chairman, the Torricelli language allows Federal 
+candidates to buy premium air time at a dirt cheap price. Some say that 
+if ad time costs less, campaigns will spend less. To the contrary, they 
+will spend more. If my colleagues think people are sick of 30-second 
+attack ads now, imagine how they will feel if we keep the Torricelli 
+language.
+  We have got to get back to the basics, the firm handshake, the 
+sincere look in the eye and the sympathetic ear. Not only would this 
+amendment require us to rely on personal connections with the people, 
+it will also prevent us from placing an unfair burden on the broadcast 
+industry. As Federal candidates we do not deserve special treatment. 
+Vote for this amendment.
+  Ms. SLAUGHTER. Mr. Chairman, may I inquire how much time I have 
+remaining?
+  The CHAIRMAN pro tempore. The gentlewoman from New York (Ms. 
+Slaughter) has 5 minutes remaining. The gentleman from Texas (Mr. 
+Green) has 3\1/4\ minutes remaining, and the gentleman from North 
+Carolina (Mr. Burr) has 2\1/2\ minutes remaining.
+
+                              {time}  1715
+
+  Ms. SLAUGHTER. Mr. Chairman, I yield 3 minutes to the gentleman from 
+Michigan (Mr. Levin).
+  (Mr. LEVIN asked and was given permission to revise and extend his 
+remarks.)
+  Mr. LEVIN. Mr. Chairman, I do not understand the argument that this 
+part of Shays-Meehan is unconstitutional. The LUC provision has been in 
+the law for 30 years. The problem is that it is not working.
+  TV advertising is a major method of communication. It is said by the 
+proponents of this amendment that TV is only 25 percent, but in 
+contested elections it is probably 60 or 70 percent of the cost.
+  And here is what has been happening with the present law, and I read 
+and I quote from someone who is a time buyer. ``It's become common 
+practice for station ad salesmen to pressure you out of buying LUC into 
+buying non-preemptible by telling you it's the only way they can be 
+sure the ads will be run when you want.''
+  And so here is the problem. These TV costs have been skyrocketing. 
+There is a question of corporate responsibility here. The last month of 
+the election of 2000, the TV stations on the average gave 1 minute of 
+time, free media, for candidate discourse. So I think there is a real 
+challenge to the broadcast industry.
+  The Senate addressed it by a 70-to-30 vote. By a 70-to-30 vote. This 
+amendment would reverse it and essentially leave us back where we were. 
+That is not a responsible approach to the needs of democracy or a 
+responsible approach by the broadcast media of this country.
+  I urge for that reason that we defeat the Green amendment.
+  Mr. BURR of North Carolina. Mr. Chairman, I yield 1 minute to the 
+gentleman from Nebraska (Mr. Osborne), the greatest football coach in 
+my lifetime.
+  Mr. OSBORNE. Mr. Chairman, I thank the gentleman for yielding me the 
+time and for that fine endorsement. I appreciate it.
+  I rise in support of the Green-Burr amendment, which would strike 
+section 305 of the Shays-Meehan bill. While attempting to reform the 
+campaign finance system, section 305 unfairly burdens television 
+stations. Giving political candidates dramatically lower rates for 
+advertising hurts the television industry and interferes with normal 
+commerce. Lowering the amount of money candidates spend on television 
+ads supplants advertisers who pay standard rates, and this is very 
+unfair.
+  In addition, section 305 will not reduce campaign spending. If 
+candidates are allowed to buy cheaper spots on television, this will 
+only lead to a large influx of political ads during the campaign 
+season.
+  I urge support for the Green-Burr amendment.
+  Mr. GREEN of Texas. Mr. Chairman, I yield 45 seconds to the gentleman 
+from New York (Mr. Towns).
+  Mr. TOWNS. Mr. Chairman, I rise to strongly urge my colleagues to 
+vote ``yes'' on the Green-Burr amendment.
+
+[[Page H419]]
+
+  Everyone in this Chamber agrees that campaigns are too expensive and 
+that the majority of the money is spent on the airwaves. I can 
+understand how some might think that the solution is to lower the cost 
+of air time, but they are so wrong.
+  It sounds great, but the only thing lowering the rates of television 
+air time will do is to increase the amount of ads that will be on. It 
+will increase the cost of campaigns.
+  I would like to commend the gentleman from Texas and the gentleman 
+from North Carolina for offering this cost-saving amendment, and I urge 
+my colleagues to support this amendment. This is the right thing to do.
+  Ms. SLAUGHTER. Mr. Chairman, I yield 2 minutes to the gentleman from 
+New York (Mr. Owens), one of our brightest and most articulate Members 
+and my colleague from New York.
+  (Mr. OWENS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. OWENS. Mr. Chairman, the airwaves, the spectrum, is owned by the 
+American people. Most of the American people do not know that we own it 
+and that the representatives of government, including the Members of 
+Congress, are the trustees for the American people. We need to take 
+back our airwaves and use our airwaves and our spectrum and our media 
+for the benefit of the people.
+  This is not an infringement upon the rights of the broadcasters. This 
+is a fulfillment of the capacity and the possibilities of the broadcast 
+media. Most of the industrialized nations, the civilized nations, are 
+providing greater access to media for candidates, far greater than we 
+are. So we need to take this first step.
+  The broadcasters are very anxious, upset, because they know if we 
+take one step, it might lead to a greater realization by the public as 
+a whole that the airwaves belong to the people. Freedom of speech has 
+to be guaranteed some way. We cannot do it the way we do with the print 
+media, where anybody can get access to the print. We regulate, we 
+carefully regulate the airwaves and the spectrum.
+  There is not enough room for everybody, so those who are regulated 
+must bow to the regulation which puts forward the interest of the 
+people. They must bow to certainly making our political campaigns more 
+accessible to people.
+  Big money will always have an advantage, as long as we leave the 
+broadcasters in charge, to charge what they want to charge. Eventually 
+we must reach the point where the airwaves time is mostly free. That is 
+the point they do not want us to move toward, and any step in that 
+direction is going to hurt. That is why we have such great resistance 
+to this tiny step forward by having them lower the unit cost to allow 
+everybody to be able to afford, or most candidates better afford access 
+to the media.
+  It belongs to us in the first place. We are not infringing on any 
+God-given right of the broadcasters. We are returning the spectrum to 
+the people and letting the people know it belongs to them.
+  Mr. BURR of North Carolina. Mr. Chairman, it is a pleasure to yield 1 
+minute to the gentleman from Florida (Mr. Stearns), the chairman of the 
+Subcommittee on Commerce, Trade, and Consumer Protection of the 
+Committee on Energy and Commerce.
+  Mr. STEARNS. Mr. Chairman, I thank my colleague. I rise in strong 
+support of the Green-Burr amendment.
+  Do my colleagues want to see what happens when we force the networks 
+to subsidize the races for Members of Congress? Go to the June 10, 
+1998, article in The Hill magazine. They talked about the campaign in 
+California. The campaign was such that the requests for political 
+advertising were so overly demanding, the networks could not even 
+comply. The TV stations in response to such high demands were forced to 
+restrict local and State candidates besides those running for Governor 
+from airing political ads. As a result, some TV stations even refused 
+to take ads from campaigns other than the Governor or Federal 
+candidates, infuriating candidates for other office, squeezing out all 
+candidates for local races.
+  Without this amendment, this bill will result in further socializing 
+political campaigns. Furthermore, it epitomizes the law of unintended 
+consequences, ultimately doing more harm than good in attempting to 
+level the political playing field.
+  So I urge the Green-Burr amendment.
+  Mr. GREEN of Texas. Mr. Chairman, how much time is remaining?
+  The CHAIRMAN pro tempore. The gentleman from Texas (Mr. Green) has 
+2\1/2\ minutes remaining, the gentleman from North Carolina (Mr. Burr) 
+has 1\1/2\ minutes remaining, and the gentlewoman from New York (Ms. 
+Slaughter) has 1 minute remaining.
+  Mr. GREEN of Texas. Mr. Chairman, I yield 45 seconds to my colleague, 
+the gentleman from Hawaii (Mr. Abercrombie).
+  (Mr. ABERCROMBIE asked and was given permission to revise and extend 
+his remarks.)
+  Mr. ABERCROMBIE. Mr. Chairman, if we hear one more talk about special 
+interests. This is all special interests. The question is whether it is 
+in the public interest or not.
+  I can tell my colleagues what is going to happen, and we all better 
+remember it. All politics is local. And out where I am anyway, if 
+anyone thinks they are going to show the football game at one time and 
+another infomercial at another time, and that is going to work out 
+somehow in the number of days that you got where you get the lowest 
+rate, you are dreaming.
+  What is going to happen is the local advertisers, aside from me or 
+aside from my colleagues, are going to have to make up the difference. 
+And I am not going back in my district and tell people that are trying 
+to make a living, especially after 9/11, in their advertising that they 
+have to pay more so that people can listen to me.
+  All I am trying to do when I get down there is express all the 
+virtues I have. And at least in my district they already know I am full 
+of virtue.
+  Mr. Chairman, I rise in support of the Burr-Green amendment.
+  It obviates Section 305 of underlying bill, a provision that does not 
+address the central issues of the campaign finance debate: soft money 
+and so-called ``issue ads''.
+  The language in Section 305 is well intentioned. It seeks to lower 
+the costs of campaigns, a goal everyone agrees is worthwhile.
+  However, the mechanism if flawed. Forcing broadcasters to charge 
+artificially low rates for political ads only invites them to look 
+elsewhere to make up the lost revenue. Section 305 virtually forces 
+them to raise the rates for non-political ads.
+  Using an example from my home state of Hawaii, is it realistic to 
+expect a station to charge the same rate for the UH-BYU football game 
+as for a late-night infomercial? If we force broadcasters to do that, 
+we shouldn't be surprised when business economics compel them to charge 
+more for the ads in slots with smaller audiences. And who ultimately 
+winds up paying for the added charge? Not the advertisers--they're 
+going to turn around and make it up with higher prices for their goods 
+and services.
+  So the ultimate subsidizer of forced ad rate reductions is--you 
+guessed it--the consumer. That's you, me and all the people in our 
+districts. We'll pay more for food, prescription drugs, gasoline--
+everything from Spam musubi to that neighbor island trip for a family 
+reunion.
+  The bottom line is that Burr-Green is pro-consumer. It has no effect 
+on the thrust of Shays-Meehan. This is an amendment that every Member 
+can support, regardless of which side of this debate you're on.
+  Ms. SLAUGHTER. Mr. Chairman, I yield myself the balance of my time.
+  This is a debate that has gone on one way or another here in the 
+House since the early 1970s. It was considered a great reform in 1970 
+that we would try to do something about controlling television time.
+  I even remember there was a bill way back in the dark days by 
+Congressman Udall when he was here. Congressman Udall did not believe 
+if you owned a major television station in a media market that you 
+should also own the newspapers and all the radio stations, and Congress 
+agreed with him. It was really quite an astonishing thing.
+  We will never see the like of that again, because I think we have 
+gotten to the point now where, at least in my media market, there is 
+not a homegrown station there. They are all
+
+[[Page H420]]
+
+bought out by conglomerates back and forth, and several have one room 
+where large machines spill out talk radio all day long, call-in shows. 
+At any rate, that is media in America today.
+  As my colleague, the gentleman from New York (Mr. Owens), pointed 
+out, almost every civilized country in the world understands it is an 
+important thing for democracy, not to help candidates out, but for 
+democracy, to hear two sides of an issue. We have not been able to do 
+that in the United States over the media since 1986 when it was taken 
+away.
+  We are on the cusp of history here, and I want to urge my colleagues 
+not to take a chance on losing this bill by annoying the Senate, who 
+passed this 2 to 1. Please vote ``no.''
+  Mr. BURR of North Carolina. Mr. Chairman, I yield 1 minute to the 
+gentleman from South Carolina (Mr. Graham), a good friend and a proven 
+reformer.
+  Mr. GRAHAM. Mr. Chairman, I am not bound by the rule that if it 
+passes in the Senate 2 to 1, it is a good idea. That may come later in 
+my life, but not right now.
+  This is not reform. When I signed up in 1996, I never envisioned that 
+reform would be that we would require a local TV station to sell some 
+Federal politician an ad at a cheap rate during the Super Bowl almost a 
+year before the election. That is not reform. And that should not kill 
+any effort to reform the way we do our campaigns.
+  By making the campaigns start a year earlier, or 7 or 8 or 9 months 
+earlier, and giving a Federal politician a better deal than we give 
+somebody living in our own State, that is not reform, that is bad 
+business. Vote for the amendment.
+  Mr. GREEN of Texas. Mr. Chairman, I yield myself 45 seconds.
+  Mr. Chairman, there have been studies done, and every campaign is 
+different, but that the average amount spent on TV in a campaign is 25 
+percent. Now, maybe somebody is spending more than that percent, but 
+maybe they should do like my colleague the gentleman from Ohio (Mr. 
+Strickland) suggested and get out and meet the folks. We may still need 
+to do TV, but there are a lot of other ways to do it.
+  We already enjoy, since 1971, the lowest unit cost preferences when 
+we buy political ads. No other elected officials can enjoy that. What 
+this would do with the Torricelli amendment is add insult to injury. 
+The lowest unit cost means that we politicians or public servants get 
+the same rates broadcasters provide their best-paying commercial 
+customers. What the Torricelli amendment does is back that up and say 
+we can pick the rates of the dog days of summer. That is what is wrong. 
+That is why we need to vote for this amendment.
+  Mr. BURR of North Carolina. Mr. Chairman, I yield myself the balance 
+of my time.
+  Mr. Chairman, since 1971, an amazing thing has happened. This law has 
+actually worked, with no complaint since 1995, and yet we are here 
+talking about changing it. The result on average is that candidates 
+have received a 30 percent discount.
+  To my colleagues that are here, I ask that we not shift this to the 
+businesses in communities. They do not need it now. To my colleagues 
+who are here, I suggest we support this legislation because it is the 
+right thing to do.
+
+                              {time}  1730
+
+  Mr. GREEN of Texas. Mr. Chairman, I yield the balance of my time to 
+the gentleman from Michigan (Mr. Dingell).
+  (Mr. DINGELL asked and was given permission to revise and extend his 
+remarks.)
+  Mr. DINGELL. Mr. Chairman, shame on us. This is an outrage. Current 
+law says that Members of Congress get the lowest unit rate now on radio 
+and television. This amendment says we get the lowest unit rate on the 
+basis of being preemptable. That makes the other users of the broadcast 
+spectrum subsidize us. The mom-and-pop stores, the drugstores, the 
+automobile dealers, are all going to be paying our costs for our 
+political ads, as will the local political candidates.
+  We are literally putting our hands in the pockets of the local folks 
+to get ourselves a special benefit. I do not have the arrogance to vote 
+for a proposal of this kind, or to say this is in the public interest. 
+This is nothing more or less than dipping into the pockets of the home 
+folks to get Members a subsidy for the campaign. What is the change 
+that it makes? It changes the law so that now, if passed, the bill 
+would give special treatment to us above and beyond these other 
+persons. This is unfair. I urge Members to adopt the amendment which 
+will be approved by the Senate. Read BNA's publication this morning.
+  The CHAIRMAN pro tempore (Mr. Thornberry). All time has expired.
+  The question is on the amendment offered by the gentleman from Texas 
+(Mr. Green).
+  The question was taken; and the Chairman pro tempore announced that 
+the noes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. GREEN of Texas. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 327, 
+noes 101, not voting 6, as follows:
+
+                             [Roll No. 23]
+
+                               AYES--327
+
+     Abercrombie
+     Aderholt
+     Akin
+     Allen
+     Andrews
+     Armey
+     Baca
+     Bachus
+     Baird
+     Baker
+     Baldacci
+     Baldwin
+     Ballenger
+     Barcia
+     Barr
+     Bartlett
+     Barton
+     Bass
+     Becerra
+     Bentsen
+     Bereuter
+     Berkley
+     Berry
+     Biggert
+     Bilirakis
+     Bishop
+     Blumenauer
+     Blunt
+     Boehlert
+     Boehner
+     Bonilla
+     Bonior
+     Bono
+     Boozman
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brown (FL)
+     Brown (OH)
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Capps
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Chabot
+     Chambliss
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Coble
+     Collins
+     Combest
+     Condit
+     Cooksey
+     Costello
+     Cox
+     Cramer
+     Crane
+     Crenshaw
+     Culberson
+     Cummings
+     Cunningham
+     Davis (FL)
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeGette
+     Delahunt
+     DeLay
+     DeMint
+     Deutsch
+     Diaz-Balart
+     Dicks
+     Dingell
+     Dooley
+     Doolittle
+     Doyle
+     Dreier
+     Duncan
+     Dunn
+     Edwards
+     Ehrlich
+     Emerson
+     Engel
+     English
+     Etheridge
+     Everett
+     Fattah
+     Ferguson
+     Filner
+     Flake
+     Fletcher
+     Forbes
+     Ford
+     Fossella
+     Frelinghuysen
+     Frost
+     Gallegly
+     Ganske
+     Gekas
+     Gibbons
+     Gilchrest
+     Gillmor
+     Gilman
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Goss
+     Graham
+     Granger
+     Graves
+     Green (TX)
+     Green (WI)
+     Greenwood
+     Grucci
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hill
+     Hilleary
+     Hilliard
+     Hinojosa
+     Hobson
+     Hoekstra
+     Holden
+     Hooley
+     Hostettler
+     Hoyer
+     Hulshof
+     Hunter
+     Hyde
+     Inslee
+     Isakson
+     Issa
+     Istook
+     Jackson-Lee (TX)
+     Jefferson
+     Jenkins
+     John
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kennedy (RI)
+     Kerns
+     Kind (WI)
+     King (NY)
+     Kingston
+     Kirk
+     Knollenberg
+     Kolbe
+     Kucinich
+     LaHood
+     Lampson
+     Larsen (WA)
+     Larson (CT)
+     Latham
+     LaTourette
+     Lewis (KY)
+     Linder
+     Lipinski
+     LoBiondo
+     Lucas (KY)
+     Lucas (OK)
+     Luther
+     Lynch
+     Maloney (CT)
+     Manzullo
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCrery
+     McHugh
+     McInnis
+     McIntyre
+     McKeon
+     Meek (FL)
+     Meeks (NY)
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Mink
+     Mollohan
+     Moore
+     Moran (KS)
+     Moran (VA)
+     Morella
+     Myrick
+     Neal
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Oberstar
+     Ortiz
+     Osborne
+     Ose
+     Otter
+     Oxley
+     Pallone
+     Pastor
+     Paul
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Phelps
+     Pickering
+     Pitts
+     Platts
+     Pombo
+     Portman
+     Price (NC)
+     Pryce (OH)
+     Putnam
+     Quinn
+     Radanovich
+     Rahall
+     Ramstad
+     Regula
+     Rehberg
+     Reyes
+     Reynolds
+     Rodriguez
+     Roemer
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Ross
+     Roukema
+     Royce
+     Rush
+     Ryan (WI)
+     Ryun (KS)
+     Sanchez
+     Sandlin
+     Sawyer
+     Saxton
+     Schaffer
+     Schrock
+     Scott
+     Sensenbrenner
+     Serrano
+     Sessions
+     Shadegg
+     Shaw
+     Shimkus
+     Shows
+     Shuster
+     Simmons
+     Simpson
+     Skeen
+     Skelton
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Snyder
+     Souder
+     Spratt
+     Stearns
+     Stenholm
+     Strickland
+     Stump
+     Stupak
+     Sununu
+     Sweeney
+     Tancredo
+     Tanner
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Terry
+     Thomas
+     Thompson (MS)
+     Thornberry
+     Thurman
+     Tiahrt
+     Tiberi
+     Toomey
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Upton
+     Walden
+     Walsh
+     Wamp
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Wynn
+     Young (AK)
+     Young (FL)
+
+[[Page H421]]
+
+
+
+                               NOES--101
+
+     Ackerman
+     Barrett
+     Berman
+     Blagojevich
+     Brady (PA)
+     Capuano
+     Conyers
+     Coyne
+     Crowley
+     Davis (CA)
+     Davis (IL)
+     DeFazio
+     DeLauro
+     Doggett
+     Ehlers
+     Eshoo
+     Evans
+     Farr
+     Foley
+     Frank
+     Gephardt
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hinchey
+     Hoeffel
+     Holt
+     Honda
+     Horn
+     Houghton
+     Israel
+     Jackson (IL)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kildee
+     Kilpatrick
+     Kleczka
+     LaFalce
+     Langevin
+     Lantos
+     Largent
+     Leach
+     Lee
+     Levin
+     Lewis (CA)
+     Lewis (GA)
+     Lofgren
+     Lowey
+     Maloney (NY)
+     Markey
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McKinney
+     McNulty
+     Meehan
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Murtha
+     Nadler
+     Napolitano
+     Obey
+     Olver
+     Owens
+     Pascrell
+     Payne
+     Pelosi
+     Pomeroy
+     Rangel
+     Rivers
+     Rothman
+     Roybal-Allard
+     Sabo
+     Sanders
+     Schakowsky
+     Schiff
+     Shays
+     Sherman
+     Sherwood
+     Slaughter
+     Smith (WA)
+     Solis
+     Stark
+     Tauscher
+     Thompson (CA)
+     Thune
+     Tierney
+     Velazquez
+     Visclosky
+     Vitter
+     Waters
+     Watson (CA)
+     Waxman
+     Weiner
+     Wexler
+     Woolsey
+     Wu
+
+                             NOT VOTING--6
+
+     Brady (TX)
+     Cubin
+     Gutierrez
+     Riley
+     Traficant
+     Watt (NC)
+
+                              {time}  1750
+
+  Ms. McCOLLUM changed her vote from ``aye'' to ``no.''
+  Mrs. MORELLA, Mr. PALLONE and Mr. McHUGH changed their vote from 
+``no'' to ``aye.''
+  So the amendment was agreed to.
+  The result of the vote was announced as above recorded.
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Texas (Mr. Armey).
+
+
+               Amendment No. 27 Offered by Mr. Pickering
+
+  Mr. PICKERING. Mr. Chairman, as the designee of the majority leader, 
+I offer an amendment.
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 27 offered by Mr. Pickering:
+       Add at the end title II the following new subtitle:
+
+   Subtitle C--Exemption of Communications Pertaining to the Second 
+                     Amendment of the Constitution
+
+     SEC. 221. FINDINGS.
+
+       Congress finds the following:
+       (1) The Second Amendment to the United States Constitution 
+     protects the right of individual persons to keep and bear 
+     arms.
+       (2) There are more than 60,000,000 gun owners in the United 
+     States.
+       (3) The Second Amendment to the Constitution of the United 
+     States protects the right of Americans to carry firearms in 
+     defense of themselves and others.
+       (4) The United States Court of Appeals in U.S. v. Emerson 
+     reaffirmed the fact that the right to keep and bear arms is 
+     an individual right protected by the Constitution.
+       (5) Americans who are concerned about threats to their 
+     ability to keep and bear arms have the right to petition 
+     their government.
+       (6) The Supreme Court, in U.S. v. Cruikshank (92 U.S. 542, 
+     1876) recognized that the right to arms preexisted the 
+     Constitution. The Court stated that the right to arms ``is 
+     not a right granted by the Constitution. Neither is it in any 
+     manner dependent upon that instrument for its existence.''.
+       (7) In Beard v. United States (158 U.S. 550, 1895) the 
+     Court approved the common-law rule that a person ``may repel 
+     force by force'' in self-defense, and concluded that when 
+     attacked a person ``was entitled to stand his ground and meet 
+     any attack made upon him with a deadly weapon, in such a way 
+     and with such force'' as needed to prevent ``great bodily 
+     injury or death''. The laws of all 50 states, and the 
+     constitutions of most States, recognize the right to use 
+     armed force in self-defense.
+       (8) In order to protect Americans' constitutional rights 
+     under the Second Amendment, the First Amendment provides the 
+     ability for citizens to address the Government.
+       (9) The First Amendment to the United States Constitution 
+     states that, ``Congress shall make no law respecting an 
+     establishment of religion, or prohibiting the free exercise 
+     thereof; or abridging the freedom of speech, or of the press; 
+     or of the right of the people to peaceably assemble, and to 
+     petition the Government for a redress of grievances.''.
+       (10) The Supreme Court recognized and emphasized the 
+     importance of free speech rights in Buckley v. Valeo, where 
+     it stated, ``A restriction on the amount of money a person or 
+     group can spend on political communication during a campaign 
+     necessarily reduces the quantity of expression by restricting 
+     the number of issues discussed, the depth of their 
+     exploration, and the size of the audience reached. This is 
+     because virtually every means of communicating ideas in 
+     today's mass society requires the expenditure of money. The 
+     distribution of the humblest handbill or leaflet entails 
+     printing, paper, and circulation costs. Speeches and rallies 
+     generally necessitate hiring a hall and publicizing the 
+     event. The electorate's increasing dependence on television, 
+     radio, and other mass media for news and information has made 
+     these expensive modes of communication indispensable 
+     instruments of effective political speech.''.
+       (11) In response to the relentlessly repeated claim that 
+     campaign spending has skyrocketed and should be legislatively 
+     restrained, the Buckley Court stated that the First Amendment 
+     denied the government the power to make that determination: 
+     ``In the free society ordained by our Constitution, it is not 
+     the government but the people--individually as citizens and 
+     candidates and collectively as associations and political 
+     committees--who must retain control over the quantity and 
+     range of debate on public issues in a political campaign.''.
+       (12) In Buckley, the Court also stated, ``The concept that 
+     government may restrict the speech of some elements of our 
+     society in order to enhance the relative voice of others is 
+     wholly foreign to the First Amendment, which was designed `to 
+     secure the widest possible dissemination of information from 
+     diverse and antagonistic sources,' and `to assure unfettered 
+     exchange of ideas for the bringing about of political and 
+     societal changes desired by the people' ''.
+       (13) Citizens who have an interest in issues about or 
+     related to the Second Amendment of the Constitution have the 
+     Constitutional right to criticize or praise their elected 
+     officials individually or collectively as a group. 
+     Communications in the form of criticism or praise of elected 
+     officials is preciously protected as free speech under the 
+     First Amendment of the Constitution of the United States.
+       (14) This title contains restrictions on the rights of 
+     citizens, either individually or collectively, to communicate 
+     with or about their elected representatives and to the 
+     general public. Such restrictions would stifle and suppress 
+     individual and group advocacy pertaining to politics and 
+     government--the political expression at the core of the 
+     electoral process and of First Amendment freedoms--the very 
+     engine of democracy. Such restrictions also hinder citizens' 
+     ability to communicate their support or opposition on issues 
+     concerning the right to keep and bear arms to their elected 
+     officials and the general public.
+       (15) Candidate campaigns and issue campaigns are the 
+     primary vehicles for giving voice to popular grievances, 
+     raising issues and proposing solutions. An election, and the 
+     time leading up to it, is when political speech should be at 
+     its most robust and unfettered.
+
+     SEC. 222. EXEMPTION FOR COMMUNICATIONS PERTAINING TO THE 
+                   SECOND AMENDMENT OF THE CONSTITUTION.
+
+       None of the restrictions or requirements contained in this 
+     title shall apply to any form or mode of communication to the 
+     public that consists of information or commentary regarding 
+     the statements, actions, positions, or voting records of any 
+     person who holds congressional or other Federal office, or 
+     who is a candidate for congressional or other Federal office, 
+     on any matter pertaining to the Second Amendment.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentleman from Mississippi (Mr. Pickering) and the gentleman 
+from Texas (Mr. Stenholm) each will control 10 minutes.
+  The Chair recognizes the gentleman from Mississippi (Mr. Pickering).
+  Mr. PICKERING. Mr. Chairman, I yield myself such time as I may 
+consume.
+  My amendment is very compact, simple and precise. My amendment 
+preserves the free speech rights of any constituency or grassroots 
+organization that desires to educate the public as to the voting 
+record, statements or actions of Federal officeholders or candidates 
+for office as they relate to the second amendment. This amendment 
+protects all parties that want to engage in the debate over the second 
+amendment, from Sarah Brady to the NRA.
+  One of the fundamental problems I have with this legislation is its 
+regulation of free speech by grassroots organizations that engage in 
+issue advocacy and educating the public to the voting record and 
+positions of candidates. The base text of Shays-Meehan regulates the 
+free speech of everyone from the far left to the far right, from the 
+prolife movement to farmers, from veterans groups to religious 
+organizations.
+  I regret that I did not have more time to draft an amendment that 
+would have been able to restore more of the free speech rights of some 
+of these other organizations; however, I believe this amendment is a 
+bright line for which Members must make a stand on whether they support 
+the first amendment protections afforded to our citizens and afforded 
+to grassroots organizations, or whether they support
+
+[[Page H422]]
+
+the regulation of these groups' free speech rights.
+  In short, you are either for the first amendment and the second 
+amendment, or you oppose those free speech first amendment rights and 
+the rights of those who want to defend the second amendment.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. STENHOLM. Mr. Chairman, I yield 2 minutes to the gentleman from 
+California (Mr. Schiff).
+  Mr. SCHIFF. I thank the gentleman for yielding me this time.
+  Mr. Chairman, I rise in opposition to this amendment, which 
+effectively states that the provisions of campaign finance reform shall 
+not apply to any form of communication on any matter pertaining to the 
+second amendment.
+  Imagine a world in which campaign finance reform applies to 
+everything except the second amendment, and you might ask, how could 
+that possibly be constitutional? And, of course, the answer is, it 
+cannot be. We cannot single out any amendment, no matter how favored it 
+might be, for different treatment under the law. Those regulations that 
+are content-based, as opposed to time, place or manner, are the most 
+suspect under the first amendment, and plainly we cannot 
+constitutionally single out the second amendment, or any other, for 
+different treatment under the campaign finance laws.
+  But even if we could, is this good policy? And, of course, it is not. 
+Whether you are a strict constructionist of the second amendment or you 
+are not, whether you are pro-gun control or anti-gun control, why would 
+you want to allow unlimited, unaccountable, anonymous expenditures on 
+campaign ads around election time on something as important as the 
+second amendment and be precluded from knowing who is paying for it? 
+Because if this amendment were to pass and somehow be constitutional, 
+that is what we would have. We would have these anonymous, unlimited 
+expenditures on ads about the second amendment, and you would not know 
+who is paying the freight. How can that possibly be good policy? It is 
+not. Whatever your position on the second amendment is, this is bad 
+policy.
+  So why is it offered when it is plainly unconstitutional and when it 
+is bad policy whether you are for or against a strict construction of 
+the second amendment? It is offered precisely because it is 
+unconstitutional, because it would force the bill into conference 
+committee, because it would effectively kill Shays-Meehan.
+  Make no bones about it. These amendments are all over the boards. 
+This one goes after the second amendment; another, civil rights. But 
+the design is the same. It is to kill reform. Oppose this amendment.
+  Mr. PICKERING. Mr. Chairman, I yield 3 minutes to the gentleman from 
+California (Mr. Doolittle).
+  Mr. DOOLITTLE. Mr. Chairman, again to quote from today's Washington 
+Post, Robert Samuelson, not a conservative, not even a Republican, says 
+of Shays-Meehan, ``It's not reform, it's deception.'' ``It's not 
+reform, it's deception.''
+  Why are we offering this on the second amendment, the previous 
+speaker asked? We have amendments to exempt everyone, frankly. The 
+point we want to make is that this deception is trying to curb the free 
+speech rights of all Americans. It is unbelievable how, despite the 
+facts, these people continue to pursue this quest to regulate and crimp 
+down as much as you can on the amount of money that can be spent.
+  Mr. Samuelson, if anybody takes the time to read this, says this 
+about campaign contributions:
+  ``Do restrictions on campaign contributions curb free speech? Yes.
+
+                              {time}  1800
+
+  ``Because modern communication, TV, mailings, phone banks, Internet 
+sites require money, limits on contributions restrict communication. 
+More restrictions on contributions to political candidates and parties 
+is self-defeating. It simply encourages outside groups, unions, 
+industry associations, environmental groups with their own agendas to 
+increase campaign spending to influence elections.''
+  Mr. Chairman, the only reason we have all of the soft money is 
+because these so-called reformers with their failed reforms who gave us 
+the present law have so restricted the amounts of money that can be 
+contributed from hard-money sources that all you have left is soft 
+money.
+  When they get done taking away the soft money, we will move the 
+speech further out into these so-called special interest groups. The 
+previous speaker talked about, well, would this not be terrible, having 
+these unaccountable groups? If he wants the unaccountable groups, vote 
+for Shays-Meehan.
+  It is not reform, it is deception, to quote once again Mr. Samuelson, 
+because I guarantee you, you are moving speech away from the candidate 
+and out into third parties increasingly as you clamp down on the amount 
+of money that can be spent. You empower some groups at the expense of 
+others.
+  We think groups that want to discuss the second amendment ought to be 
+able to do so. We think all Americans ought to be able to do so. We 
+will offer amendments to protect the rights of all Americans, and I 
+guess you can vote against all of their rights too.
+  Mr. STENHOLM. Mr. Chairman, I yield 30 seconds to the gentleman from 
+Texas (Mr. Green).
+  Mr. GREEN of Texas. Mr. Chairman, I am a strong supporter of the 
+second amendment and proud to be a life member of the NRA and the Texas 
+Rifle Association and Houston Gun Collectors; and if I thought this 
+Shays-Meehan would stop those groups from contacting me or any of my 
+constituents, I would vote for the amendment. But that is not true.
+  They can do the letters, everything they need to do to make sure 
+their members know how we as Members of Congress are voting. That is 
+why I think this is just another one of those poison pill amendments to 
+come up with an issue that is not there. That is why I urge a vote in 
+opposition to this amendment.
+  Mr. PICKERING. Mr. Chairman, I yield 3 minutes to the gentleman from 
+Arizona (Mr. Shadegg).
+  Mr. SHADEGG. Mr. Chairman, I thank the gentleman for yielding me 
+time, and I rise in strong support of his amendment.
+  The constitutional rights of many Americans are being trampled upon 
+by this legislation; but I want to address my remarks to a more 
+troubling issue, an issue that arose last night at midnight. It is the 
+language on page 79 of this legislation which does something shocking. 
+It provides that in this election and this election only, you can spend 
+money that you borrow as though it were hard money to expressly 
+advocate the defeat of a candidate, and then you can repay that debt 
+with soft money.
+  If soft money is so evil, why was this language inserted in the bill 
+late last night? I know that Mr. Shays did not write this language; and 
+I know that both sides, Mr. Shays and his colleagues on the other side, 
+have said it is not our intent to do that, and I have read the two 
+letters they have produced to address that issue.
+  But it is our job not to rely on our intent, but on the words we 
+write; and I would urge my colleagues to read the words on page 79. 
+They are very clear. They say: ``The committee may spend such funds to 
+retire outstanding debts.''
+  It does not say outstanding soft-money debts, Chris. It says 
+outstanding debts of every kind. I have read both of the letters that 
+you have produced, and I want to ask you, Chris, if you understand that 
+this language means that you can take soft money that you have on hand 
+and spend borrowed money for hard-money purposes, you can advocate the 
+defeat of a candidate with that and then repay it with soft money, 
+something you say you do not intend, are you willing to amend this? 
+Because that is what this language does. It will create a huge loophole 
+through which $40 million of money can be borrowed and then spent on 
+hard-money purposes to advocate the defeat of candidates this year, and 
+then repaid with soft money. The letters do not say to the contrary, 
+Chris.
+  Mr. SHAYS. Mr. Chairman, will the gentleman yield?
+  Mr. SHADEGG. I yield to the gentleman from Connecticut.
+  Mr. SHAYS. Mr. Chairman, I would say to the gentleman, we do not 
+agree with the gentleman's analysis, but I want to answer the question.
+  Mr. SHADEGG. Reclaiming my time, find me one sentence in here, Chris, 
+find me one word, you can read
+
+[[Page H423]]
+
+English, do you have page 79 of your bill?
+  Mr. SHAYS. Yes, I do.
+  Mr. SHADEGG. Will you please read it, Chris?
+  Mr. SHAYS. I did read it. That is what I gave you.
+  Mr. SHADEGG. No. Well, read it right now, and read these words, 
+Chris. Would you read these words? It says ``retire outstanding 
+debts.''
+  Mr. SHAYS. I do not disagree with the gentleman's words. I do not 
+disagree. But may I have a chance to respond?
+
+
+                Announcement by the Chairman Pro Tempore
+
+  The CHAIRMAN pro tempore (Mr. Thornberry). Members will suspend.
+  The Chair would request that Members yield time properly, and the 
+Chair further requests Members address their remarks to the Chair, and 
+finally the Chair requests that Members refer to other Members by their 
+proper State designation and not by first names.
+  The gentleman from Arizona controls the time.
+  Mr. SHADEGG. Chris, I would be happy to yield to you, if you would 
+look at the words and insert, or the gentleman from Connecticut. Will 
+the gentleman from Connecticut read the words of his bill and show me a 
+word in there that says that it cannot be used to repay hard debts?
+  Mr. SHAYS. If the gentleman will yield further, I would cite to the 
+gentleman the entire law. It is illegal to use soft money for hard 
+money. I would just answer this one question you asked me. Please allow 
+me this opportunity, if I could. If there was a vehicle that we can 
+satisfy your ambiguity, the ambiguity that you thinks exists, I would 
+be eager to settle this and to adopt it. Eager to.
+  Mr. SHADEGG. Oh, it is not ambiguous, Chris.
+  Mr. STENHOLM. Mr. Chairman, I yield 1 minute to the gentleman from 
+Mississippi (Mr. Shows).
+  Mr. SHOWS. Mr. Chairman, I appreciate my friend yielding me time.
+  Mr. Chairman, I am pleased to speak in favor of this language 
+protecting the constitutional freedoms guaranteed to Americans by the 
+second amendment. The second amendment does not belong to the 
+Republican Party, and it does not belong to the Democrats either; it 
+belongs to all the people in this great country.
+  No one in this Chamber is a stronger advocate of second amendment 
+freedoms than I am, and I appreciate having this time to make this 
+clear to my colleagues. I am committed to protecting our second 
+amendment freedoms and to making sure that the language we are debating 
+right now is included in any campaign reform legislation that is 
+advanced by this House.
+  Let us pass this pro-freedom amendment.
+  The CHAIRMAN pro tempore. The gentleman from Mississippi (Mr. 
+Pickering) has 2\1/2\ minutes remaining, and the gentleman from Texas 
+(Mr. Stenholm) has 6\1/2\ minutes remaining.
+  Mr. STENHOLM. Mr. Chairman, I yield 1 minute to the gentleman from 
+Tennessee (Mr. Ford).
+  Mr. FORD. Mr. Chairman, my dear friend, the gentleman from Arizona 
+(Mr. Shadegg), there is probably little that can be done to satisfy his 
+concerns, I would say to the gentleman from Connecticut (Mr. Shays), 
+because he was opposed to the bill before reading the excerpt from last 
+night.
+  I am reminded in some ways as I hear my colleagues of the recent 
+Presidential race, when our current President, and congratulations 
+again to him, would say to his opponent, Al Gore, that this guy will 
+say anything to win. In a lot of ways, my friends on this side of the 
+aisle are pulling any and everything out of their hat to try to confuse 
+and distort Members on this side and their own to try to send this bill 
+to conference.
+  I would say to the gentleman from California (Mr. Doolittle), the 
+same columnist you cite over and over again, Mr. Samuelson, he referred 
+to the Republican tax package as deceptive also. Maybe he is wrong on 
+both fronts.
+  I say to my friend, the gentleman from Texas (Mr. Armey), and to my 
+dear friend, the gentleman from Virginia (Mr. Tom Davis), and to my 
+friend, the gentleman from Texas (Mr. DeLay), all the amendments that 
+are being offered, this is the same group that was opposed to campaign 
+finance before we arrived here today.
+  I close on this: the addiction to soft money, all of us will be okay 
+without it. We can find ways to pay for our golf tournaments, to pay 
+for our resort visits. We can find ways to pay for all of those things 
+we pay for with soft money now. Vote for Shays-Meehan. Vote down these 
+poisoned amendments.
+  Mr. STENHOLM. Mr. Chairman, I yield 1 minute to the gentleman from 
+New Jersey (Mr. Andrews).
+  (Mr. ANDREWS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. ANDREWS. Mr. Chairman, I thank my friend for yielding me time.
+  Mr. Chairman, we should all oppose this amendment irrespective of our 
+position for or against gun control. We should oppose this amendment 
+because it is unconstitutional. It violates the equal protection clause 
+of the U.S. Constitution. The underlying bill is a proper regulation of 
+free speech. What is wrong with this amendment is that it segregates 
+that regulation of free speech according to what you are saying.
+  So this body is going to say if you speak about the second amendment, 
+you have one set of rights; but if you speak about anything else, 
+anything else, you do not have that same set of rights.
+  On its face, on its face, this amendment violates the equal 
+protection clause of the United States Constitution; and whether you 
+are for gun control or against gun control, you should honor your oath 
+to uphold the Constitution and oppose this amendment.
+  Mr. PICKERING. Mr. Chairman, I yield 1 minute to the gentleman from 
+Illinois (Mr. Shimkus).
+  Mr. SHIMKUS. Mr. Chairman, I thank the gentleman for yielding me 
+time.
+  Mr. Chairman, you have heard me say many times on this floor that 
+freedom is not free, and it is paid for by the blood of our sons and 
+daughters.
+  This is a constitutional issue. This is a right of people to protect 
+their right to keep and bear arms. Allowing people to have that 
+discourse is critical in this constitutional Republic.
+  I am proud that my constituents have called me today overwhelmingly 
+in support of this amendment. I am going to be true to them. This is a 
+pro-gun vote, and I want you to know and my constituents to know that I 
+am standing up for the second amendment with this vote.
+  Mr. STENHOLM. Mr. Chairman, I yield 30 seconds to the gentleman from 
+Arkansas (Mr. Snyder).
+  Mr. SNYDER. Mr. Chairman, I thank the gentleman for yielding me time.
+  Mr. Chairman, the Constitution is not a buffet table. We cannot walk 
+in and pick and choose which rights we want to protect. That is what 
+this amendment does.
+  I have people back home that care greatly about prayer in schools. 
+This amendment will not let them have the same rules as gun owners back 
+home. I have people back home that care about the President's faith-
+based initiative. This amendment does not protect their rights of 
+speech in the same way.
+  The Constitution is not a buffet table, that we select one thing we 
+like and one thing we do not. Vote ``no'' on this blatantly 
+unconstitutional amendment.
+  Mr. STENHOLM. Mr. Chairman, I yield myself the balance of my time.
+  Mr. Chairman, I rise in strong opposition to this amendment. I have 
+read it. It has nothing to do with the second amendment. It has nothing 
+to do with the first amendment. It has everything to do with creating a 
+little mischief on the bill before us today. That is all that it does.
+  I am reminded at this time of the infamous words of Will Rogers when 
+he said, ``It ain't people's ignorance that bothers me so much, it is 
+them knowing so much that ain't so that is the problem.''
+  As you listen to the debate and discussion on this, I would challenge 
+anyone to find anyone in this body more strongly in favor of the second 
+amendment and/or the first amendment, and that is why I rise in strong 
+opposition to this amendment. The amendment before us would create a 
+tremendous loophole that would allow the flood of soft money from 
+wealthy individuals, corporations and union dues to continue to 
+unfairly dominate our electoral system.
+
+[[Page H424]]
+
+  There is a lot of misinformation about what the Shays-Meehan bill 
+actually does, and it is circulating all over my district today. The 
+Shays-Meehan bill does not prohibit political advertisement by groups 
+prior to an election. It does not prohibit using the name of any Member 
+of Congress or other candidate in a group's political advertisement. It 
+does not prohibit any group from providing its Members information 
+about the records of elected officials through mailings or other 
+communications.
+  The bill simply requires that independent organizations who 
+participate in the political process do so in the sunshine so voters 
+know who is trying to influence their decision and make their own 
+judgment about the ads. Under the bill before us, any organization 
+could run ads right up to election day, mentioning names of candidates 
+and their positions as they wish, so long as they comply with the rules 
+that apply to everyone else, including Members of Congress. I have to 
+comply with these rules, and I do not feel they restrict my speech in 
+any way.
+  I strongly support free speech. I strongly support the right of 
+anyone to say whatever they want to about me or anyone else running for 
+office. But I do not believe that the right to free speech is about the 
+ability of someone to spend $1 million to influence elections without 
+disclosing who they are or where they get their money.
+  I do not believe that the first amendment offers individuals or 
+groups to spend unlimited amounts of money to influence an election 
+without disclosing who they are and where their money is coming from. 
+This bill should not be a problem for groups such as the National Rifle 
+Association and National Right-to-Life who have a large political 
+action committee, and they can use that to finance whatever ads they 
+want to.
+
+                              {time}  1815
+
+  The folks who will be affected by this bill are those who are not 
+willing to be open and aboveboard in their efforts to influence 
+elections. The current campaign finance system gives a loudspeaker to 
+wealthy individuals who can afford to make large political donations 
+and gives the average working man and woman little voice in the 
+political process. Our campaign rules have been abused by smart lawyers 
+and political consultants who have found loopholes to get around the 
+law. We need to put teeth back into laws long on the books preventing 
+corporate treasury money, union dues, and unlimited contributions from 
+wealthy individuals from being used for campaign ads. We need to be 
+closing these loopholes, not creating new loopholes that can be abused 
+to avoid sunshine.
+  Vote against this amendment. This amendment will create a gigantic 
+loophole that we are trying to close, those of us who support the 
+Shays-Meehan. Oppose this amendment. It has nothing to do with the 
+second amendment or the first amendment. It has everything to do with 
+whether or not we are going to clean up our political system just a 
+little bit.
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from 
+Mississippi (Mr. Pickering) has 1\1/2\ minutes remaining.
+  Mr. PICKERING. Mr. Chairman, I yield myself the remaining time.
+  Let me use the words of those who advocate this reform to tell what 
+this legislation is all about. They are very clear about their 
+purposes.
+  Scott Harshberger, the president of the Washington D.C.-based Common 
+Cause, says, ``We need to make the connection with every person who 
+cares about gun control that there is a need for campaign finance 
+reform because that is how you are going to break their power.''
+  He goes on to say, ``The equation,'' he says, ``is a simple one. A 
+vote for campaign finance reform is a vote against the second amendment 
+gun lobby.'' It says, ``This is one of those times when there is a very 
+direct connection.'' They say, ``A vote for campaign finance reform is 
+a vote for policies about guns.''
+  It is very clear that their intent here is to gut and to defeat those 
+who want to advocate and defend the second amendment. A vote here is to 
+take away the rights of those on the first amendment, the freedom of 
+speech, to help defeat those who want to defend the second amendment.
+  This is about the second amendment. The whole underlying text of the 
+legislation of this section is unconstitutional. I am convinced it will 
+be struck down. But we need to make sure that people know what is 
+really going on right here. This is an attempt by their own words to 
+defeat those who want to defend and protect the second amendment. If 
+one stands for the second amendment, if one believes in the first 
+amendment, then I urge my colleagues to support this amendment.
+  Mr. BARR. Mr. Chairman, I rise today in support of the amendment to 
+H.R. 2356, offered by Representative Chip Pickering.
+  This so-called campaign finance reform legislation is a direct attack 
+on every American's fundamental right of free speech. It is the 1st 
+amendment right of free speech that is most necessary to protect and 
+defend the Bill of Rights and the entire Constitution.
+  Those supporting this legislation have delivered long and flowery 
+orations, telling us how campaign finance ``reform'' is about the 
+wealthy and the corrupt influencing our electoral process. In fact, it 
+is about who controls the information being delivered to the 
+electorate. Should it be the liberal and media elitists who are so 
+removed from the average American? Should it be this same group that at 
+every opportunity attempts to prohibit law-abiding Americans everywhere 
+from owning firearms? Or should it be grassroots organizations; 
+reflecting the views of their millions of members? It should be the 
+latter, and the Pickering amendment will help ensure that.
+  It is preposterous to place the power of media access into the hands 
+of the elite; and the Pickering Amendment will at least ensure this 
+cabal will not be able to dominate the 2nd Amendment debate that is the 
+lifeblood of our freedoms. If this vital amendment fails, then one of 
+our most fundamental liberties will be diminished. That small group of 
+elitists who disdain the common American, and scorn their right to own 
+firearms, will do everything in their power to influence the gun debate 
+by libeling candidates who stand firm in the protection of the 2nd 
+amendment.
+  It is our constitutional freedom that is at stake here, and we must 
+not allow it to be jeopardized under the guise of ``reforming the 
+electoral process.'' I urge you to vote ``aye'' on the Pickering 
+amendment.
+  The CHAIRMAN pro tempore. All time for debate has expired.
+  The question is on the amendment offered by the gentleman from 
+Mississippi (Mr. Pickering).
+  The question was taken; and the Chairman pro tempore announced that 
+the noes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. PICKERING. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 209, 
+noes 219, not voting 7, as follows:
+
+                             [Roll No. 24]
+
+                               AYES--209
+
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barcia
+     Barr
+     Bartlett
+     Barton
+     Bereuter
+     Biggert
+     Bilirakis
+     Bishop
+     Blunt
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Boswell
+     Boyd
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Carson (OK)
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Cramer
+     Crane
+     Crenshaw
+     Cubin
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Flake
+     Forbes
+     Fossella
+     Gallegly
+     Ganske
+     Gekas
+     Gibbons
+     Gillmor
+     Goode
+     Goodlatte
+     Gordon
+     Goss
+     Graham
+     Granger
+     Graves
+     Green (WI)
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hilleary
+     Hilliard
+     Hobson
+     Hoekstra
+     Holden
+     Hostettler
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     John
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     King (NY)
+     Kingston
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lucas (KY)
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McHugh
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Mollohan
+     Moran (KS)
+     Myrick
+     Nethercutt
+     Ney
+     Norwood
+     Nussle
+     Osborne
+     Otter
+     Oxley
+     Paul
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Phelps
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Ross
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+
+[[Page H425]]
+
+
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shows
+     Shuster
+     Simmons
+     Simpson
+     Skeen
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Strickland
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tanner
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Terry
+     Thomas
+     Thornberry
+     Tiahrt
+     Tiberi
+     Toomey
+     Upton
+     Vitter
+     Walden
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Young (AK)
+     Young (FL)
+
+                               NOES--219
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Berkley
+     Berman
+     Berry
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonior
+     Borski
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Edwards
+     Ehlers
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Foley
+     Ford
+     Frank
+     Frelinghuysen
+     Frost
+     Gephardt
+     Gilchrest
+     Gilman
+     Gonzalez
+     Green (TX)
+     Greenwood
+     Grucci
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hill
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holt
+     Honda
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (CT)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     Kirk
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Lofgren
+     Lowey
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Moore
+     Moran (VA)
+     Morella
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Northup
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Ose
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pelosi
+     Platts
+     Pomeroy
+     Price (NC)
+     Quinn
+     Ramstad
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Rothman
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Saxton
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Skelton
+     Slaughter
+     Smith (MI)
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Stupak
+     Tauscher
+     Thompson (CA)
+     Thompson (MS)
+     Thune
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Weldon (PA)
+     Wexler
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+
+                             NOT VOTING--7
+
+     Boucher
+     Brady (TX)
+     Fletcher
+     Kennedy (RI)
+     Riley
+     Roukema
+     Traficant
+
+                              {time}  1847
+
+  Mr. WAMP and Mr. WATT of North Carolina changed their vote from 
+``aye'' to ``no.''
+  Mr. RADANOVICH and Mr. EHRLICH changed their vote from ``no'' to 
+``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+  Stated for:
+  Mr. FLETCHER. Mr. Chairman, on rollcall No. 24, I was unavoidably 
+detained. Had I been present, I would have voted ``aye.''
+  Stated against:
+  Mr. KENNEDY of Rhode Island. Mr. Chairman, on rollcall No. 24, I was 
+unavoidably detained. Had I been present, I would have voted ``no.''
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Texas (Mr. Armey).
+
+
+           Amendment No. 31 Offered by Mr. Watts of Oklahoma
+
+  Mr. WATTS of Oklahoma. Mr. Chairman, I offer an amendment as the 
+designee of the gentleman from Texas (Mr. Armey).
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 31 offered by Mr. Watts of Oklahoma:
+       Add at the end title II the following new subtitle:
+
+Subtitle C--Exemption of Communications Pertaining to Civil Rights and 
+                      Issues Affecting Minorities
+
+     SEC. 221. FINDINGS.
+
+       Congress finds the following:
+       (1) More than 70 million people in the United States belong 
+     to a minority race.
+       (2) More than 34 million people in the United States are 
+     African American, 35 million are Hispanic or Latino, 10 
+     million are Asian, and 2 million are American Indian or 
+     Alaska Native.
+       (3) Minorities account for around 24 percent of the U.S. 
+     workforce.
+       (4) Minorities, who owned fewer than 7 percent of all U.S. 
+     firms in 1982, now own more than 15 percent. Minorities owned 
+     more than 3 million businesses in 1997, of which 615,222 had 
+     paid employees, generated more than $591 billion in revenues, 
+     created more than 4.5 million jobs, and provided about $96 
+     billion in payroll to their workers.
+       (5) Self-employment as a share of each group's 
+     nonagricultural labor force (averaged over the 1991-1999 
+     decade) was White, 9.7 percent; African American, 3.8 
+     percent; American Indian, Eskimo, or Aleut, 6.4 percent; and 
+     Asian or Pacific Islander, 10.1 percent.
+       (6) Of U.S. businesses, 5.8 percent were owned by Hispanic 
+     Americans, 4.4 percent by Asian Americans, 4.0 percent by 
+     African Americans, and 0.9 percent by American Indians.
+       (7) Of the 4,514,699 jobs in minority-owned businesses in 
+     1997, 48.8 percent were in Asian-owned firms, 30.8 percent in 
+     Hispanic-owned firms, 15.9 percent in African American-owned 
+     firms, and 6.6 percent in American Native-owned firms.
+       (8) Minority-owned firms had about $96 billion in payroll 
+     in 1997. The average payroll per employee was roughly $21,000 
+     in the major minority groups and ranged from just under 
+     $15,000 to just over $27,000 in various subgroups of the 
+     minority population.
+       (9) African Americans were the only race or ethnic group to 
+     show an increase in voter participation in congressional 
+     elections, increasing their presence at the polls from 37 
+     percent in 1994 to 40 percent in 1998. Nationwide, overall 
+     turnout by the voting-age population was down from 45 percent 
+     in 1994 to 42 percent in 1998.
+       (10) In 2000, there were 8.7 million African American 
+     families. The United States had 96,000 African American 
+     engineers, 41,000 African American physicians and 47,000 
+     African American lawyers in 1999.
+       (11) The number of Asians and Pacific Islanders voting in 
+     congressional elections increased by 366,000 between 1994 and 
+     1998.
+       (12) Businesses owned by Asians and Pacific Islanders made 
+     up 4 percent of the nation's 20.8 million nonfarm businesses.
+       (13) Asians tend to have larger families - the average 
+     family size is 3.6 persons, as opposed to an average 
+     Caucasian family of 3.1 persons.
+       (14) The First Amendment to the United States Constitution 
+     states that, ``Congress shall make no law respecting an 
+     establishment of religion, or prohibiting the free exercise 
+     thereof; or abridging the freedom of speech, or of the press; 
+     or of the right of the people to peaceably assemble, and to 
+     petition the Government for a redress of grievances.''.
+       (15) The Supreme Court recognized and emphasized the 
+     importance of free speech rights in Buckley v. Valeo, where 
+     it stated, ``A restriction on the amount of money a person or 
+     group can spend on political communication during a campaign 
+     necessarily reduces the quantity of expression by restricting 
+     the number of issues discussed, the depth of their 
+     exploration, and the size of the audience reached. This is 
+     because virtually every means of communicating ideas in 
+     today's mass society requires the expenditure of money. The 
+     distribution of the humblest handbill or leaflet entails 
+     printing, paper, and circulation costs. Speeches and rallies 
+     generally necessitate hiring a hall and publicizing the 
+     event. The electorate's increasing dependence on television, 
+     radio, and other mass media for news and information has made 
+     these expensive modes of communication indispensable 
+     instruments of effective political speech.''.
+       (16) In response to the relentlessly repeated claim that 
+     campaign spending has skyrocketed and should be legislatively 
+     restrained, the Buckley Court stated that the First Amendment 
+     denied the government the power to make that determination: 
+     ``In the free society ordained by our Constitution, it is not 
+     the government but the people--individually as citizens and 
+     candidates and collectively as associations and political 
+     committees--who must retain control over the quantity and 
+     range of debate on public issues in a political campaign.''.
+       (17) In Buckley, the Court also stated, ``The concept that 
+     government may restrict the speech of some elements of our 
+     society in order to enhance the relative voice of others is 
+     wholly foreign to the First Amendment, which was designed `to 
+     secure the widest possible dissemination of information from 
+     diverse and antagonistic sources,' and `to assure unfettered 
+     exchange of ideas for the bringing about of political and 
+     societal changes desired by the people' ''.
+       (18) Citizens who have an interest in issues about or 
+     related to civil rights have the Constitutional right to 
+     criticize or praise their elected officials individually or 
+     collectively as a group. Communications in the form of 
+     criticism or praise of elected officials is preciously 
+     protected as free speech under the
+
+[[Page H426]]
+
+     First Amendment of the Constitution of the United States.
+       (19) This title contains restrictions on the rights of 
+     citizens, either individually or collectively, to communicate 
+     with or about their elected representatives and to the 
+     general public. Such restrictions would stifle and suppress 
+     individual and group advocacy pertaining to politics and 
+     government--the political expression at the core of the 
+     electoral process and of First Amendment freedoms--the very 
+     engine of democracy. Such restrictions also hinder citizens' 
+     ability to communicate their support or opposition on issues 
+     concerning civil rights to their elected officials and the 
+     general public.
+       (20) Candidate campaigns and issue campaigns are the 
+     primary vehicles for giving voice to popular grievances, 
+     raising issues and proposing solutions. An election, and the 
+     time leading up to it, is when political speech should be at 
+     its most robust and unfettered.
+
+     SEC. 222. EXEMPTION FOR COMMUNICATIONS PERTAINING TO CIVIL 
+                   RIGHTS AND ISSUES AFFECTING MINORITIES.
+
+       None of the restrictions or requirements contained in this 
+     title or the amendments made by this title shall apply to any 
+     form or mode of communication to the public that consists of 
+     information or commentary regarding the statements, actions, 
+     positions, or voting records of any individual who holds 
+     congressional or other Federal office, or who is a candidate 
+     for congressional or other Federal office, on any matter 
+     pertaining to civil rights and issues affecting minorities.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentleman from Oklahoma (Mr. Watts) and a Member opposed, the 
+gentleman from Maryland (Mr. Hoyer), each will control 10 minutes.
+  The Chair recognizes the gentleman from Oklahoma (Mr. Watts).
+  Mr. WATTS of Oklahoma. Mr. Chairman, I yield myself such time as I 
+may consume.
+  I rise to stand up for free speech on civil rights and other issues 
+involving members of minority communities. This bill will create 
+consequences for all constituents that are not good.
+  The 34 million Americans of African descent, 35 million Hispanics and 
+Latinos, 10 million Asian Americans, and 2 million American Indians 
+deserve the right to free speech as enshrined in the first amendment to 
+the United States Constitution. These important constituencies have 
+interests that are unique and special. They should not be gagged in the 
+name of reform.
+  Mr. Chairman, this amendment is pretty simple. It states that no 
+restrictions in the Shays-Meehan bill can ban statements, actions or 
+positions of a candidate pertaining to civil rights and other issues 
+affecting minorities.
+  This amendment is not about soft money. It is not about the RNC, the 
+DNC, the NRCC, the DCCC. It makes clear, regardless of political party, 
+issues concerning civil rights and minorities will not be restricted in 
+any way as a result of some parameters on free speech politicians write 
+today to protect their incumbency.
+  Let us take education for example, Mr. Chairman. It is a documented 
+fact that Americans in the black communities support giving parents the 
+choice of where to send their kids to school. They support the right to 
+send students to private and religious schools if they think those 
+schools are better suited to their educational needs. Why should an 
+organized group of black parents not be able to communicate on 
+television or radio, at any time, their opinions on a candidate's views 
+about parental choice? I would also ask the question, if it is bad 
+somehow or another to say that they cannot voice their concerns, their 
+opinions in the last 60 days, why should they be able to voice their 
+concerns at all? If it is bad in the last 60 days, it ought to be bad 
+all year round. Under the Shays-Meehan bill, these parents would be 
+silenced. Under my amendment, we protect their first amendment rights.
+  The voices of African Americans should not be constrained. The 
+thoughts and ideas of those speaking on issues concerning minorities 
+and civil rights must not be muted. The right to free speech is too 
+important to sacrifice at the altar of what I believe is a flawed 
+campaign finance bill.
+  Winston Churchill, in a speech to the British House of Commons in 
+1944, said: ``The United States is a land of free speech. Nowhere is 
+speech freer.'' I say we might not like what people say about us, but 
+we ought to protect the right to say it.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HOYER. Mr. Chairman, I yield 2\1/2\ minutes to the gentleman from 
+North Carolina (Mr. Price) at the outset for the purpose of entering a 
+colloquy with the gentleman from Massachusetts (Mr. Meehan), and then I 
+will respond.
+  Mr. PRICE of North Carolina. Mr. Chairman, I thank the gentleman from 
+Maryland (Mr. Hoyer) for yielding me the time.
+  Mr. Chairman, I rise in strong support of the Shays-Meehan bill, 
+which would plug two gaping loopholes that have made a mockery of the 
+law. It would ban unlimited, unaccountable soft-money contributions; 
+and it would place issue-advocacy ads that mention candidates under the 
+same rules that govern other campaign ads.
+  Campaign reform is not just about money, however. It is also about 
+encouraging truthfulness and a focus on the issues. We cannot and 
+should not regulate the content of ads, but we can and must ensure that 
+candidates take responsibility for the content of their ads and their 
+campaign materials. That is the intent of the provisions in the bill 
+that would strengthen the disclaimers contained in radio and TV ads.
+  I am grateful to the gentleman from Massachusetts (Mr. Meehan) and 
+the gentleman from Connecticut (Mr. Shays) for working with me to 
+include most components of my Stand by Your Ad bill, H.R. 156, in this 
+bill. The Shays-Meehan bill improves upon similar Senate-passed 
+language, giving candidates and representatives of political committees 
+the option of appearing full screen in their television ads and 
+delivering the disclaimer directly, or delivering the disclaimer in 
+voice-over with a ``clearly identifiable'' picture on the screen. This 
+tracks the law passed in North Carolina in 1999, which most believe had 
+a positive effect on the 2000 gubernatorial elections.
+  There is one aspect of the bill's language about which I wish to seek 
+additional clarification, and I would like to yield to the gentleman 
+from Massachusetts (Mr. Meehan) to get an answer to the following 
+question.
+  I would like to clarify for the record the authors' intent with 
+respect to the voice-over option. To my mind, the postage stamp-sized 
+picture that often accompanies disclaimers cannot be considered 
+``clearly identifiable.'' Is that the gentleman from
+Massachusetts's view, or could he provide any further sense of the 
+intent of the term ``clearly identifiable'' with respect to the size of 
+the photograph that would appear on screen?
+  Mr. MEEHAN. Mr. Chairman, will the gentleman yield?
+  Mr. PRICE of North Carolina. I yield to the gentleman from 
+Massachusetts.
+  Mr. MEEHAN. Mr. Chairman, I thank the gentleman from North Carolina 
+(Mr. Price) not only for his question but his very important support on 
+this most important issue.
+  I do think the FEC standard should understand that the language reads 
+not identifiable but clearly identifiable. There will be some 
+photographic images that would not meet the clearly identifiable 
+standard.
+  So I do think that the FEC should understand that the language reads 
+not identifiable but clearly identifiable; and there would be some 
+photographic images, as I said, that would not meet the clearly 
+identifiable standard, and I thank the gentleman from North Carolina 
+(Mr. Price) for his question.
+  Mr. PRICE of North Carolina. Mr. Chairman, I thank the gentleman from 
+Massachusetts (Mr. Meehan) for his clarification. The FEC will no doubt 
+issue regulations that carry out the intent of this language.
+  I urge my colleagues to pass this vitally important legislation, to 
+restore the faith of the American people in the integrity of our 
+election process, an indispensable keystone of democracy.
+  Mr. HOYER. Mr. Chairman, I yield myself 2 minutes.
+  Mr. Chairman, I rise in opposition to this amendment. This amendment 
+is no different than the two amendments like it which we previously 
+defeated. In fact, it is in essence exactly like the last amendment.
+  I tell my friend from Oklahoma that this is not about whether we are 
+for or against civil rights. I take a backseat to no one in this 
+institution in support of civil rights and human rights, here and 
+around the world.
+  This is about making some speech more protected than other speech. 
+The first amendment does not say that. In
+
+[[Page H427]]
+
+fact, it is the essence of the first amendment that all speech is 
+protected, that no speech is more protected than any other, that there 
+is no State-favored speech. This is about a bill which I suggest to the 
+gentleman from Oklahoma (Mr. Watts) does not stop any speech, contrary 
+to his representations.
+  Does it say under the rules that someone has to use hard money that 
+is discloseable to make that speech on television and on radio? Yes, it 
+does, and it treats all speech exactly the same. If it were not so, I 
+suggest to the gentleman it would be unconstitutional.
+  The gentleman may take the position that, in fact, the bill is 
+unconstitutional, and that will be argued clearly in the Supreme Court; 
+but this is not about undermining civil rights speech, undermining 
+speech about the second amendment, undermining speech, in fact, 
+pursuant to the first amendment.
+
+                              {time}  1900
+
+  This is about reforming campaign finances.
+  And I will say to my friend that this amendment, like the other 
+amendments, clearly is designed, in my opinion, to undermine and defeat 
+campaign finance reform, not to protect civil rights speech, which is, 
+in fact, protected under the first amendment, which is, in fact, 
+protected under the thirteenth, fourteenth and fifteenth amendments.
+  This amendment, like its predecessors, which were exactly alike, is 
+unnecessary, unneeded, and ought to be opposed.
+  Mr. WATTS of Oklahoma. Mr. Chairman, I yield myself such time as I 
+may consume to say to my friend from Maryland that he is right, these 
+amendments are offered to show the consequences that this legislation 
+creates is going to be bad for every constituency in America that wants 
+to have a voice the last 60 days of a campaign.
+  Mr. Chairman, I yield 3 minutes to the gentleman from Mississippi 
+(Mr. Pickering).
+  Mr. PICKERING. Mr. Chairman, I rise in support of the amendment 
+offered by the gentleman from Oklahoma. The previous amendment dealt 
+with the second amendment. We are trying to make the point, whether it 
+is on civil rights or the second amendment, whether it is a prolife 
+group, religious or secular group, farmers, veterans, those who want to 
+participate in the political process, that we are going to regulate 
+them, restrict their first amendment or free speech rights, their 
+political rights to express themselves.
+  In my district, the African American community, the Choctaw Tribe, 
+the Mississippi Band of Choctaws, a growing Hispanic community, if they 
+want to engage in a grassroots organization in informing people of the 
+positions and the parties or the candidates, are we going to place the 
+heavy hand of government on them to make it more difficult to 
+participate, to restrict their freedoms?
+  This is something that should cut across all groups, all parties, in 
+the defense of the very fundamental rights we have as Americans, that 
+we enjoy as Americans, and that is the freedom of speech without 
+government regulating it, restricting it, or making it more difficult 
+for people to participate regardless of their power or their position. 
+This is a long tradition that we have had in American politics. I think 
+in name of reform we are forgetting very foundational, fundamental 
+truths and principles that we want to protect as a country, as a 
+Nation, and as a people.
+  So I rise in proud support of the amendment. I am disappointed that 
+the previous amendment on the second amendment did not pass, but this 
+is still the fundamental issue before us; the first amendment rights 
+for all groups at any time to participate without the government 
+regulation and restriction upon them.
+  Mr. HOYER. Mr. Chairman, I yield myself 15 seconds for the purpose of 
+saying that everybody's speech is protected. It is how we fund it that 
+is critical. It is how we fund it so that the American people know who 
+is talking to them, that is the issue here, as well as the freedom to 
+talk. Both are protected under Shays-Meehan.
+  Mr. Chairman, I yield 2 minutes to the distinguished gentleman from 
+Georgia (Mr. Lewis), who, as I have said before, has risked life and 
+health to protect the civil rights of not only African Americans, but 
+all Americans.
+  Mr. LEWIS of Georgia. Mr. Chairman, I want to thank my friend, the 
+gentleman from Maryland (Mr. Hoyer), for yielding me this time.
+  This amendment is another poison pill. It is a phony issue. It has 
+nothing but nothing to do with free speech or with civil rights. I know 
+something about civil rights. I grew up at a time when I saw those 
+signs that said ``white men,'' ``colored men,'' ``white women,'' 
+``colored women,'' ``white waiting,'' ``colored waiting.'' As a child, 
+I tasted the bitter fruits of integration and racial discrimination, so 
+I know something about civil rights.
+  In 1960, when we were sitting in; in 1961, when we went on the 
+freedom rides; in 1963, when we marched on Washington; in 1964, when we 
+went to Mississippi during the Mississippi summer project; in 1965, 
+when we marched from Selma to Montgomery, that was about civil rights. 
+We did not have a Web site, a Web page. We did not have a fax machine. 
+We did not have a cellular telephone. But we had our bodies. We had our 
+feet. And we put our bodies on the line for civil rights. We did not 
+have much money of any kind, hard or soft, but we had a dream that we 
+could create an America, a truly interracial democracy, a beloved 
+community.
+  I say to my colleagues that we should be real. This is not about 
+civil rights. This is not about free speech. This is about cleaning up 
+our political process, opening it up and letting all the people come 
+in. This is about campaign finance reform. That is what it is about. Do 
+not be fooled tonight.
+  Mr. WATTS of Oklahoma. Mr. Chairman, I yield myself such time as I 
+may consume, and I would submit to my colleagues that I, too, remember 
+the day that I could not swim in the public swimming pool; that I had 
+to sit in the balcony of the movie theater; that I could not sit down 
+below with my white friends.
+  Now, to say that in the last 60 days of a campaign that a Member of 
+Congress who had voted to keep J.C. Watts in the balcony of the movie 
+theater, to make J.C. Watts go to the swimming pool in somebody's 
+backyard and not the public swimming pool, to say that some Member of 
+Congress is protected, to say that I cannot point out that they voted 
+for that in the last 60 days of a campaign, that is straight from the 
+annals of Fidel Castro.
+  Mr. Chairman, I yield 3 minutes to the gentleman from Georgia (Mr. 
+Kingston).
+  Mr. KINGSTON. Mr. Chairman, I thank the gentleman for yielding me 
+this time, and I want to say respectfully to my very good friend from 
+Georgia, as well as my very good friend from Oklahoma, that civil 
+rights is not a franchise of any one race. True, some in a race may 
+have felt it stronger than others, but having been a white child to 
+integrate a black high school in Athens, Georgia, and my friend from 
+Georgia may well remember Bernie Harris, I was in the civil rights 
+issues, knew them very personally, very many issues, which we have 
+discussed in the past.
+  I would say that the gentleman from Oklahoma is right. How do we turn 
+around to people and say they have free speech but not in the last 60 
+days? Sunday night I had the opportunity to go to the Chinese 
+Benevolent Society in Savannah, Georgia, and welcome in the Year of the 
+Horse, which was yesterday. I have a hard time saying to these Chinese 
+American constituents that they can participate in the system, but here 
+is how your free speech is protected. If you are in a certain group, 
+you can give up to $60 million in soft money.
+  But I do not think they are going to be able to raise that at the 
+Chinese Benevolent Society because they are a small group.
+  If I go down to Toombs Central High School, in Toombs County, 
+Georgia, and I say to a very strong, growing Hispanic group of people, 
+listen, we are going to clean it up, but there is going to be about $40 
+million in the bill that can go to the Democrats to build a new 
+building. That is cleaning up America.
+  I would say very carefully, very guardedly that what the Watts 
+amendment does is make it unequivocal to all minority groups that civil 
+rights will be protected, because the distinguished gentleman from 
+Georgia and so many
+
+[[Page H428]]
+
+others from so many other States and so many other races have paid such 
+a high price for full participation in our society today.
+  As we celebrate February and Black History Month, one of the clear 
+messages that comes to me from my African American constituents is that 
+the struggle continues. It is not over. And I believe that what this 
+amendment says is that we need to protect that and make it abundantly 
+clear, and I think that is what this is about.
+  I can understand people wanting to vote ``no.'' I can understand for 
+partisan reasons voting one way or the other on any bill. But let us 
+not say this bill protects the interests of minorities or anybody else. 
+It just refunnels the money. It reregulates it. Soft money is not 
+banned under this bill, it just says that certain interest groups get 
+the last whack at it. Certain interest groups are protected just a 
+little bit more than others.
+  So I would urge my colleagues to vote for the Watts amendment.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the gentleman from New 
+York (Mr. Meeks).
+  Mr. MEEKS of New York. Mr. Chairman, I stand here in strong 
+opposition to this amendment.
+  This is a clear case where we must read the label very carefully, 
+look at the small print, because to say that this is about civil 
+rights, if this House and if we wanted to talk about civil rights, we 
+would be really talking about election reform. This bill has nothing to 
+do with civil rights. It is what I would call mislabeling.
+  What this bill is about is about allowing people who have been locked 
+out of a process to be in the process. What this bill is about is about 
+not misleading people with ads at the end of a campaign that tells them 
+something that is not true. What this bill is about is really about the 
+first amendment rights of people, having the right to petition when 
+they feel aggrieved, and the American people have felt aggrieved with 
+what we are doing here with campaign financing, and it needs reforming.
+  This is not a civil rights bill.
+  Mr. WATTS of Oklahoma. Mr. Chairman, I reserve the balance of my 
+time.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the gentlewoman from 
+Texas (Ms. Jackson-Lee).
+  (Ms. JACKSON-LEE of Texas asked and was given permission to revise 
+and extend her remarks.)
+  Ms. JACKSON-LEE of Texas. Civil rights is extremely personal, it has 
+to do with convictions and commitment. I am reminded of the time Rosa 
+Parks sat down on a Montgomery bus and she called Martin King. There 
+were no special interest dollars there, and a civil rights movement 
+began, and it changed the Nation.
+  That is the basis for what we do today, and that is how we open the 
+doors now for new voices to be heard, like the NAACP, LULAC, the 
+Mexican American Legal Defense Fund, and the NAACP Legal Defense Fund, 
+and others. None of them who have a need to advocate are prevented by 
+Shays-Meehan from doing so. This amendment does not protect civil 
+rights it only protects special interest large soft dollars.
+  When the civil rights movement marched to Washington the momentum 
+created the opportunity for the Civil Rights Act of 1964 and the Voter 
+Rights Act of 1965 to pass no special interest dollars were there, only 
+the heart and soul of people who believed in a better nation. It was 
+simply the right decision for America and its people.
+  I have said before, let us stand alongside the voices of the people 
+today and refute all of these poison pills and vote for real campaign 
+finance reform so that the people's voices can be heard for the new 
+civil rights movement of the 21st century, above the disjangled chords 
+of special interest money.
+  Mr. WATTS of Oklahoma. Mr. Chairman, I yield myself 30 seconds.
+  We have heard a lot today about people being locked out. What has 
+this Congress worked on the last 7 years? We have given people more of 
+their money to spend. We have paid down the public debt. We have given 
+our soldiers more money to protect America's interests and protect 
+themselves around the country. We have had a successful welfare reform 
+bill passed that Republicans and Democrats both boast about. Those are 
+the things that we have done.
+  My constituents have a right to vote against me if they do not like 
+what we have done. How has anyone been locked out of the process?
+  Mr. Chairman, I yield the balance of my time to the gentleman from 
+Virginia (Mr. Cantor).
+  Mr. CANTOR. Mr. Chairman, I would just say that this bill is not 
+about true campaign finance reform. What the amendment of the gentleman 
+from Oklahoma (Mr. Watts) tries to do is it tries to stop the 
+censorship of free speech having to do with civil rights and protecting 
+and being a proponent of protecting the rights of minorities. Without 
+this amendment, and contrary to what has been said before, there are 
+elevated cases of increased scrutiny on certain classes of speech, on 
+certain attributes of individuals in this country.
+  What we are trying to do by this amendment is to ensure that free 
+speech having to do with the protection of civil rights will be 
+protected.
+
+                              {time}  1915
+
+  Mr. HOYER. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, if an argument lacks substance, Members create a straw 
+man, and make that straw man look exceedingly bad. Then they knock that 
+straw man down, and then say how great that is. The problem here is 
+this straw man is hollow and not true. There is no restriction in this 
+bill for any American to raise an issue on either side of the second 
+amendment, to raise any first amendment issue, or to raise any issue of 
+civil rights. There is no Member of this House on this side, and I do 
+not believe there is any Member on that side, who would stand to limit 
+debate or speech on any of those issues. That is a straw man.
+  Mr. Chairman, this bill is about campaign finance reform. This bill 
+is about letting Americans know who is paying for elections. This bill 
+is trying to give Americans confidence that they are included in the 
+process.
+  Mr. Chairman, I reject out of hand the straw man, and let us reject 
+out of hand this amendment.
+  The CHAIRMAN pro tempore (Mr. Thornberry). All time has expired.
+  The question is on the amendment offered by the gentleman from 
+Oklahoma (Mr. Watts).
+  The question was taken; and the Chairman pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. HOYER. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 185, 
+noes 237, not voting 12, as follows:
+
+                             [Roll No. 25]
+
+                               AYES--185
+
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barr
+     Bartlett
+     Barton
+     Bereuter
+     Biggert
+     Bilirakis
+     Blunt
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Flake
+     Fletcher
+     Forbes
+     Fossella
+     Gallegly
+     Gekas
+     Gibbons
+     Gillmor
+     Goode
+     Goodlatte
+     Goss
+     Granger
+     Graves
+     Green (WI)
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Holden
+     Hostettler
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     King (NY)
+     Kingston
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McHugh
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Moran (KS)
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Otter
+     Paul
+     Pence
+     Peterson (PA)
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Saxton
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shuster
+     Simpson
+     Skeen
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+
+[[Page H429]]
+
+
+     Tauzin
+     Taylor (NC)
+     Terry
+     Thomas
+     Thornberry
+     Tiberi
+     Toomey
+     Upton
+     Vitter
+     Walden
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Young (AK)
+     Young (FL)
+
+                               NOES--237
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barcia
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Edwards
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Foley
+     Ford
+     Frank
+     Frelinghuysen
+     Frost
+     Ganske
+     Gephardt
+     Gilchrest
+     Gilman
+     Gonzalez
+     Gordon
+     Graham
+     Green (TX)
+     Greenwood
+     Grucci
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holt
+     Honda
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     Kirk
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Mollohan
+     Moore
+     Moran (VA)
+     Morella
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Osborne
+     Ose
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Pelosi
+     Peterson (MN)
+     Petri
+     Phelps
+     Platts
+     Pomeroy
+     Price (NC)
+     Quinn
+     Rahall
+     Ramstad
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ross
+     Rothman
+     Roybal-Allard
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Shows
+     Simmons
+     Skelton
+     Slaughter
+     Smith (MI)
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Taylor (MS)
+     Thompson (CA)
+     Thompson (MS)
+     Thune
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Weldon (PA)
+     Wexler
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+
+                             NOT VOTING--12
+
+     Brady (TX)
+     Cubin
+     DeFazio
+     Johnson (CT)
+     Oxley
+     Payne
+     Riley
+     Roukema
+     Rush
+     Stark
+     Tiahrt
+     Traficant
+
+                              {time}  1936
+
+  Ms. HOOLEY of Oregon and Messrs. Maloney of Connecticut, Larson of 
+Connecticut and Wynn changed their vote from ``aye'' to ``no.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Connecticut (Mr. Shays) or the 
+gentleman from Massachusetts (Mr. Meehan).
+
+
+                Amendment No. 10 Offered by Mrs. Capito
+
+  Mrs. CAPITO. Mr. Chairman, I offer an amendment as the designee of 
+the gentleman from Connecticut (Mr. Shays).
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 10 offered by Mrs. Capito:
+       Add at the end of title III the following new section:
+
+     SEC. 320. MODIFICATION OF INDIVIDUAL CONTRIBUTION LIMITS FOR 
+                   HOUSE CANDIDATES IN RESPONSE TO EXPENDITURES 
+                   FROM PERSONAL FUNDS.
+
+       (a) Increased Limits.--Title III of the Federal Election 
+     Campaign Act of 1971 (2 U.S.C. 431 et seq.) is amended by 
+     inserting after section 315 the following new section:
+
+
+ ``modification of certain limits for house candidates in response to 
+                personal fund expenditures of opponents
+
+       ``Sec. 315A. (a) Availability of Increased Limit.--
+       ``(1) In general.--Subject to paragraph (3), if the 
+     opposition personal funds amount with respect to a candidate 
+     for election to the office of Representative in, or Delegate 
+     or Resident Commissioner to, the Congress exceeds $350,000--
+       ``(A) the limit under subsection (a)(1)(A) with respect to 
+     the candidate shall be tripled;
+       ``(B) the limit under subsection (a)(3) shall not apply 
+     with respect to any contribution made with respect to the 
+     candidate if the contribution is made under the increased 
+     limit allowed under subparagraph (A) during a period in which 
+     the candidate may accept such a contribution; and
+       ``(C) the limits under subsection (d) with respect to any 
+     expenditure by a State or national committee of a political 
+     party on behalf of the candidate shall not apply.
+       ``(2) Determination of opposition personal funds amount.--
+       ``(A) In general.--The opposition personal funds amount is 
+     an amount equal to the excess (if any) of--
+       ``(i) the greatest aggregate amount of expenditures from 
+     personal funds (as defined in subsection (b)(1)) that an 
+     opposing candidate in the same election makes; over
+       ``(ii) the aggregate amount of expenditures from personal 
+     funds made by the candidate with respect to the election.
+       ``(B) Special rule for candidate's campaign funds.--
+       ``(i) In general.--For purposes of determining the 
+     aggregate amount of expenditures from personal funds under 
+     subparagraph (A), such amount shall include the gross 
+     receipts advantage of the candidate's authorized committee.
+       ``(ii) Gross receipts advantage.--For purposes of clause 
+     (i), the term `gross receipts advantage' means the excess, if 
+     any, of--
+
+       ``(I) the aggregate amount of 50 percent of gross receipts 
+     of a candidate's authorized committee during any election 
+     cycle (not including contributions from personal funds of the 
+     candidate) that may be expended in connection with the 
+     election, as determined on June 30 and December 31 of the 
+     year preceding the year in which a general election is held, 
+     over
+       ``(II) the aggregate amount of 50 percent of gross receipts 
+     of the opposing candidate's authorized committee during any 
+     election cycle (not including contributions from personal 
+     funds of the candidate) that may be expended in connection 
+     with the election, as determined on June 30 and December 31 
+     of the year preceding the year in which a general election is 
+     held.
+
+       ``(3) Time to accept contributions under increased limit.--
+       ``(A) In general.--Subject to subparagraph (B), a candidate 
+     and the candidate's authorized committee shall not accept any 
+     contribution, and a party committee shall not make any 
+     expenditure, under the increased limit under paragraph (1)--
+       ``(i) until the candidate has received notification of the 
+     opposition personal funds amount under subsection (b)(1); and
+       ``(ii) to the extent that such contribution, when added to 
+     the aggregate amount of contributions previously accepted and 
+     party expenditures previously made under the increased limits 
+     under this subsection for the election cycle, exceeds 100 
+     percent of the opposition personal funds amount.
+       ``(B) Effect of withdrawal of an opposing candidate.--A 
+     candidate and a candidate's authorized committee shall not 
+     accept any contribution and a party shall not make any 
+     expenditure under the increased limit after the date on which 
+     an opposing candidate ceases to be a candidate to the extent 
+     that the amount of such increased limit is attributable to 
+     such an opposing candidate.
+       ``(4) Disposal of excess contributions.--
+       ``(A) In general.--The aggregate amount of contributions 
+     accepted by a candidate or a candidate's authorized committee 
+     under the increased limit under paragraph (1) and not 
+     otherwise expended in connection with the election with 
+     respect to which such contributions relate shall, not later 
+     than 50 days after the date of such election, be used in the 
+     manner described in subparagraph (B).
+       ``(B) Return to contributors.--A candidate or a candidate's 
+     authorized committee shall return the excess contribution to 
+     the person who made the contribution.
+       ``(b) Notification of Expenditures From Personal Funds.--
+       ``(1) In general.--
+       ``(A) Definition of expenditure from personal funds.--In 
+     this paragraph, the term `expenditure from personal funds' 
+     means--
+       ``(i) an expenditure made by a candidate using personal 
+     funds; and
+       ``(ii) a contribution or loan made by a candidate using 
+     personal funds or a loan secured using such funds to the 
+     candidate's authorized committee.
+       ``(B) Declaration of intent.--Not later than the date that 
+     is 15 days after the date on which an individual becomes a 
+     candidate for the office of Representative in, or Delegate or 
+     Resident Commissioner to, the Congress, the candidate shall 
+     file a declaration stating the total amount of expenditures 
+     from personal funds that the candidate intends to make, or to 
+     obligate to make, with respect to the election that will 
+     exceed $350,000.
+       ``(C) Initial notification.--Not later than 24 hours after 
+     a candidate described in subparagraph (B) makes or obligates 
+     to make an aggregate amount of expenditures from personal 
+     funds in excess of $350,000 in connection with any election, 
+     the candidate shall file a notification.
+
+[[Page H430]]
+
+       ``(D) Additional notification.--After a candidate files an 
+     initial notification under subparagraph (C), the candidate 
+     shall file an additional notification each time expenditures 
+     from personal funds are made or obligated to be made in an 
+     aggregate amount that exceeds $10,000. Such notification 
+     shall be filed not later than 24 hours after the expenditure 
+     is made.
+       ``(E) Contents.--A notification under subparagraph (C) or 
+     (D) shall include--
+       ``(i) the name of the candidate and the office sought by 
+     the candidate;
+       ``(ii) the date and amount of each expenditure; and
+       ``(iii) the total amount of expenditures from personal 
+     funds that the candidate has made, or obligated to make, with 
+     respect to an election as of the date of the expenditure that 
+     is the subject of the notification.
+       ``(F) Place of filing.--Each declaration or notification 
+     required to be filed by a candidate under subparagraph (C), 
+     (D), or (E) shall be filed with--
+       ``(i) the Commission; and
+       ``(ii) each candidate in the same election and the national 
+     party of each such candidate.
+       ``(2) Notification of disposal of excess contributions.--In 
+     the next regularly scheduled report after the date of the 
+     election for which a candidate seeks nomination for election 
+     to, or election to, Federal office, the candidate or the 
+     candidate's authorized committee shall submit to the 
+     Commission a report indicating the source and amount of any 
+     excess contributions (as determined under subsection (a)) and 
+     the manner in which the candidate or the candidate's 
+     authorized committee used such funds.
+       ``(3) Enforcement.--For provisions providing for the 
+     enforcement of the reporting requirements under this 
+     subsection, see section 309.''.
+       (b) Conforming Amendment.--Section 315(a)(1) of the Federal 
+     Election Campaign Act of 1971 (2 U.S.C. 441a), as amended by 
+     section 304(a), is amended by striking ``subsection (i),'' 
+     and inserting ``subsection (i) and section 315A,''.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentlewoman from West Virginia (Mrs. Capito) and the gentleman 
+from Pennsylvania (Mr. Fattah) each will control 10 minutes.
+  The Chair recognizes the gentlewoman from West Virginia (Mrs. 
+Capito).
+  Mrs. CAPITO. Mr. Chairman, I yield myself such time as I may consume.
+  (Mrs. CAPITO asked and was given permission to revise and extend her 
+remarks.)
+  Mrs. CAPITO. Mr. Chairman, as a strong supporter of campaign finance 
+reform, I am glad to see us debating this issue on the floor this 
+evening. I want to thank the gentleman from Connecticut (Mr. Shays) for 
+allowing me to offer this amendment, and I appreciate his willingness 
+to allow me to stand in to offer the amendment.
+  Mr. Chairman, this amendment was created in cooperation with the most 
+ardent supporters of campaign finance reform in an attempt to devise a 
+way to correct what I believe is one of the most glaring inequities in 
+the current system, the problem of self-financed candidates giving 
+unlimited personal resources to outspend and defeat their opponents. 
+Unfortunately, the bill that we are currently considering tilts the 
+playing field away from average Americans wishing to run for office. My 
+amendment would help return a sense of balance to congressional 
+elections by allowing candidates who are unfairly disadvantaged by 
+their opponent's personal wealth to raise matching funds through higher 
+contribution limits and additional assistance from the national party.
+  Quite simply, once a candidate spends $350,000, and I think that is 
+quite a bit, or more of their own money on their own campaign, their 
+opponent is eligible to raise matching funds. These matching funds can 
+come in the form of national party assistance and/or additional 
+individual contribution raised at three times the current limits. Once 
+parity is achieved, the regular contribution limits go back into 
+effect.
+  I want to stress to my colleagues that my intention in offering this 
+amendment is not to add more money to the system. Rather, I want to 
+encourage all candidates, wealthy or not, to play by the same rules. 
+This amendment is not about throwing more money into campaigns. It is 
+about making money less important by correcting the inequities that are 
+created when wealthy candidates use their own resources to sway 
+elections.
+  There are many candidates, and I am one, who have attempted to run a 
+successful campaign against an opponent who had an unlimited war chest 
+of personal finances. It is unfortunate that the strength and the 
+seemingly bottomless nature of a candidate's pocketbook can present 
+additional obstacles beyond the basic debate over the merits of ideas. 
+Large personal fortunes were not a prerequisite that our Founding 
+Fathers envisioned for being a public servant. The creators of our 
+government never intended for big bank accounts to be the key to 
+ensuring many years in office. That was to be a decision for the 
+voters.
+  The American public's cry for campaign finance reform is a testimony 
+to the widespread, accepted truth that money can have the ability to 
+distort government and politics. The uneven playing field that is 
+created when candidates throw millions and millions of their own money 
+into an election must be addressed and remedied here and now if we want 
+true and comprehensive campaign finance reform.
+  The only way a pure American democracy can work is if people have 
+faith in the system and if they participate. That includes running for 
+office. It is time to recognize that the realities of today's elections 
+prevent many from participating.
+  I urge my colleagues to accept the amendment so that any American 
+running for office can compete on an even playing field.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. FATTAH. Mr. Chairman, the gentlewoman makes a persuasive case for 
+her amendment. I yield 4 minutes to the gentleman from New York (Mr. 
+Owens).
+  (Mr. OWENS asked and was given permission to revise and extend his 
+remarks.)
+
+                              {time}  1945
+
+  Mr. OWENS. Mr. Chairman, the gentlewoman makes a persuasive case, and 
+I would not want to argue with the fairness, logic or commonsense 
+arithmetic of what she has to say. It makes sense.
+  The important thing is that Shays-Meehan makes sense as it is right 
+now, and if this amendment is being offered as another way of tinkering 
+with it in a way which makes it impossible to get a settlement between 
+the two Houses, then that I would be certainly opposed to.
+  But I cannot argue with the logic. All of us ought to understand that 
+the American public out there, our constituents, are like the little 
+child in Hans Christian Anderson's tale of ``The Emperor's New 
+Clothes.'' They understand what is happening. They understand what 
+makes sense.
+  If we are tinkering and posturing in order to prevent anything moving 
+forward, they can understand that. In the long run, we will have to be 
+on the side of logic, and this amendment certainly makes a lot of 
+sense. In fact, the campaign finance reform bill law which is in effect 
+in New York City governing municipal elections is a very good law that 
+I would point to as a good model.
+  Mr. FATTAH. Mr. Chairman, will the gentleman yield?
+  Mr. OWENS. I yield to the gentleman from Pennsylvania.
+  Mr. FATTAH. Mr. Chairman, if I could ask the author of the amendment, 
+could they clarify whether this language was considered in the Senate. 
+If we could get some clarification, it might be helpful.
+  Mr. SHAYS. Mr. Chairman, will the gentleman yield?
+  Mr. OWENS. I yield to the gentleman from Connecticut.
+  Mr. SHAYS. Mr. Chairman, I appreciate the gentleman yielding.
+  Mr. Chairman, the Senate has what they refer to as a ``millionaire's 
+amendment'' or a level playing field amendment. They allow for three 
+times the amount of hard money at a certain level, and then at a 
+certain point they allow 10 times the amount. But each Senate district 
+is different. So they did it for each Senate territory. The States have 
+different populations and so on.
+  So what was done by the gentlewoman from West Virginia is an 
+amendment that allows House Members to have the same kind of amendment. 
+It would be compatible with the Senate amendment. It works in harmony 
+with it.
+  We have this as what we refer to as a neutral amendment. The Senate 
+does not care whether we pass it or not. We want to make sure that the 
+House does its will. I support this amendment with all my heart. I 
+think the one weakness
+
+[[Page H431]]
+
+in our bill is that when you run against someone wealthy, you cannot 
+get the same resources and you are put at a disadvantage, and 
+especially if we are going to take away soft money.
+  Mr. OWENS. Mr. Chairman, reclaiming my time, I will say emphatically 
+I support the amendment if it is not part of a process of under the 
+cloak of good government attempting to sabotage the Shays-Meehan bill. 
+I think it makes sense. As I said before, it is in harmony with the New 
+York City municipal election law which has provisions similar to this, 
+and I would certainly support it.
+  I hope we understand that the people out there understand also when 
+we are posturing. They want to see some real reform. They understand 
+the relationship between Enron's contributions and Global Crossing's 
+contributions and the fact that regulators have not regulated 
+appropriately.
+  It is just a matter of time before all of this is going to be clearly 
+understood by the whole public, and we might as well move to stay ahead 
+of the people and have real reform here.
+  I would certainly support this particular amendment in that spirit.
+  Mrs. CAPITO. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Virginia (Mr. Tom Davis).
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, I think the gentleman from 
+Connecticut has made it clear this is not offered as a gutting 
+amendment. This is in fact harmonious with a similar Senate version, 
+but I think a much better version.
+  This gets around the Supreme Court decision in Buckley v. Valeo that 
+basically said millionaire candidates can spend as much money as they 
+want on behalf of their own campaigns, while the rest of us are limited 
+in what we can raise by the Federal election law.
+  This relaxes those laws that will allow parties to come in relaxing 
+their contributory limits to candidates, and also the way we raise 
+money. This evens the playing field for candidates who are challenging 
+millionaires or who are challenged by millionaires; the individual who 
+can go to McDonald's, have breakfast with himself, write himself a $3 
+million check and have the largest fund-raising breakfast in history. 
+This would allow us the tools to be able to go and compete fairly with 
+them.
+  So I think I applaud the gentlewoman for her amendment in this case. 
+I think it makes a bad bill better. I think it is a problem that is in 
+existing law. It does not exist because of the Shays-Meehan bill; this 
+is a problem in existing law. And I think this is an appropriate 
+remedy, and I would urge my colleagues to support it.
+  Mr. FATTAH. Mr. Chairman, I yield such time as he may consume to the 
+gentleman from New Mexico (Mr. Udall).
+  (Mr. UDALL of New Mexico asked and was given permission to revise and 
+extend his remarks.)
+  Mr. UDALL of New Mexico. Mr. Chairman, I rise to support this 
+amendment because I think it brings fairness to this process.
+  Mr. Chairman, today, as we debate this critical legislation, it is 
+important to remember how we got here. In the aftermath of the 
+Watergate scandal, our nation began looking for a way to address the 
+major problems facing our political system. Congress led the way to 
+reform by amending the 1971 Federal Election Campaign Act (FECA) in the 
+hope that we could clean up our politics and diminish the influence of 
+big money in campaigns and elections.
+  After Watergate, we heard stories of bags of cash used to corrupt our 
+politics. Those bags of cash were the Soft Money of their day. Then we 
+had soft money in cash--today we have soft money checks. And the 
+amounts are astronomical.
+  Almost 30 years later, we are faced with a system that, while 
+certainly better than it was in the early 1970's, remains riddled with 
+loopholes that allow wealthy special interests to exert too much 
+influence. In the resulting flood of cash, the average voter isn't 
+heard. The 1970's campaign finance reforms were intended to clean up 
+our system. Yet the well-intentioned efforts failed to imagine how 
+corporations, unions and individuals would exploit loopholes and find 
+ways to inject their money into the political system.
+  It is legitimate to ask: why ban soft money. What do political 
+parties and interest groups do with their money other than advocate for 
+the election of their candidates? They do very important party building 
+work such as registering voters and encouraging them to vote, but too 
+much of their money is spent buying attack ads paid for with soft 
+money. Shays-Meehan will still allow these real and important party-
+building activities, but we can take a step in the right direction 
+today to end sham issues ads.
+  Campaign finance reform goes even deeper than today's debate. All 
+legislation we debate is affected.
+  If we are to finally achieve what our predecessors sought over a 
+quarter century ago, we much put an end to the soft money that makes a 
+mockery of our current campaign finance laws. What is at stake is 
+nothing less than our democracy. The principle of one man, one vote is 
+consistently undermined by the ability of wealthy individuals and 
+interests to purchase political power.
+  I am often asked why Congress has not been able to pass legislation 
+such as a patient's bill of rights or a Medicare prescription drug 
+benefit for the nation's seniors. I have to say that we in Congress 
+must fight against a powerful tide of money as we try to protect the 
+public interest against the interests of a privileged few. The 
+ubiquitous and pernicious influence of money in Washington mocks our 
+best efforts to protect the underprivileged. Campaign finance reform is 
+especially important because it will allow us to serve those who need 
+our help the most, the average citizens who can't afford to give 
+hundreds of thousands in soft money.
+  The time for change is now.
+  I traveled all across my district in January conducting town hall 
+meetings at every stop. My constituents were outraged by the Enron 
+scandal and what it really means. My constituents detected the 
+corrupting connection between money and politics and so do yours.
+  In the aftermath of Enron, many in the halls of government and across 
+the country are taking a new look at the role that soft money plays in 
+politics. The true outrage of Enron is not that they broke the rules, 
+it is that they were able to use their money and influence to make the 
+rules in the first place. Enron got the best regulations money can buy, 
+and their workers and shareholders paid the price.
+  The case of Enron only proved what most people already know about our 
+campaign finance system. Even before Enron, 75 percent of Americans 
+supported campaign finance reform. But, if the American people so 
+overwhelming support it, why has this government failed to enact 
+meaningful reform? It is because for years, opponents of reform have 
+found a way to kill reform proposals quietly, ensuring that they would 
+never have to take a stand against such popular measures.
+  This year, opponents of reform will yet again attempt to kill reform 
+through dishonesty and subterfuge. We will see amendment after 
+amendment aimed at sending Shays-Meehan, the most comprehensive reform 
+bill currently on the table, to conference committee, where its 
+opponents predict it will die a slow but silent death. These amendments 
+will no doubt seem reform-oriented on the surface, but beneath their 
+shell they are poison pills, designed to kill our efforts for reform. 
+That's what poison does . . . it kills. We must stand together against 
+these poison pills. If we hold our united front on these tough 
+amendments, we will have a final product that we can send to the other 
+body and to President Bush for his signature.
+  If the American people are to participate in and respect the 
+electoral process, they must see that the influence of the voter is not 
+outweighed by the purchased influence of wealthy special interests. We 
+must restore dignity to the process by putting people ahead of money. 
+Shays-Meehan, although it is not the end of the road, is a real step 
+towards a political system of, by and for the people, without the 
+corrupting influence of enormous amounts of soft money. I hope you will 
+join me in passing Shays-Meehan, free of poison pill amendments, so 
+that we may take yet another step toward a more representative 
+democracy and a more perfect union.
+  In closing, I want to congratulate and thank my colleagues, Mr. Shays 
+and Mr. Meehan, for their leadership on this issue. I am proud to 
+associate myself with their hard work on this important legislation and 
+look forward to its passage.
+  I urge my colleagues to vote no on these sham poison pill amendments 
+and vote yes on final passage. It's the best option for honest campaign 
+reform we have had in a generation.
+  Mr. FATTAH. Mr. Chairman, I yield 1 minute to the gentleman from New 
+Jersey (Mr. Andrews).
+  (Mr. ANDREWS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. ANDREWS. Mr. Chairman, I thank the gentleman for yielding me 
+time.
+  Mr. Chairman, I rise in support of this very-well-thought-out 
+amendment. I commend the author for her efforts in crafting what 
+appears to be a very sensible approach to this issue.
+  I would also say that this amendment rather distinguishes itself in 
+the
+
+[[Page H432]]
+
+long line of amendments we are dealing with tonight, as I think it is a 
+serious amendment to improve the legislation and not an attempt to 
+scuttle it.
+  Again, I think adjusting the hard-money contributions when one runs 
+against a person with great wealth is fair, reasonable and entirely 
+consistent with the underlying scheme, and I urge my colleagues to vote 
+in favor of the amendment.
+  Mrs. CAPITO. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, I would like to thank my colleagues for their support 
+and in verbalizing it this evening. My intent, of course, is to improve 
+the legislation and not to bring it down in any form or fashion. I 
+think I made a good point that I have worked with the most ardent 
+supporters of campaign finance reform to improve this bill.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. FATTAH. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, on reflection from the debate and persuaded by my 
+worthy colleague, I would recede from my opposition. I urge all Members 
+to support the amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  The CHAIRMAN pro tempore (Mr. Thornberry). The question is on the 
+amendment offered by the gentlewoman from West Virginia (Mrs. Capito).
+  The amendment was agreed to.
+  The CHAIRMAN pro tempore. Pursuant to the order of the House of 
+Tuesday, February 12, 2002, it is now in order to consider an amendment 
+offered by the gentleman from Texas (Mr. Armey).
+
+
+          Amendment No. 28 Offered by Mr. Sam Johnson of Texas
+
+  Mr. SAM JOHNSON of Texas. Mr. Chairman, I offer an amendment.
+  The CHAIRMAN pro tempore. Is the gentleman from Texas a designee of 
+the gentleman from Texas (Mr. Armey)?
+  Mr. SAM JOHNSON of Texas. Yes, Mr. Chairman.
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 28 offered by Mr. Sam Johnson of Texas:
+       Add at the end of title II the following new subtitle:
+
+    Subtitle C--Exemption of Communications Pertaining to Veterans, 
+                     Military Personnel, or Seniors
+
+     SEC. 221. FINDINGS.
+
+       Congress finds the following:
+       (1) More than 42,000,000 men and women have served in the 
+     United States Armed Forces from the Revolution onward and 
+     more than 25 million are still living. Living veterans and 
+     their families, plus the living dependents of deceased 
+     veterans, constitute a significant part of the present United 
+     States population.
+       (2) American veterans are black and they are white; they 
+     are of every race and ethnic heritage. They are men, and they 
+     are women. They are Christians, they are Muslims, they are 
+     Jews. They are fathers, mothers, sisters, brothers, sons and 
+     daughters. They are neighbors, down the street or right next 
+     door. They are teachers in our schools, they are factory 
+     workers. They are Americans living today who served in the 
+     armed services, and they are the more than 1,000,000 who have 
+     died in America's wars.
+       (3) America's veterans are men and women who have fought to 
+     protect the United States against foreign aggressors as 
+     Soldiers, Sailors, Airmen, Coast Guardsmen and Marines. The 
+     members of our elite organization are those who have 
+     discharged their very special obligation of citizenship as 
+     servicemen and women, and who today continue to expend great 
+     time, effort and energy in the service of their fellow 
+     veterans and their communities.
+       (4) There is a bond joining every veteran from every branch 
+     of the service. Whether drafted or enlisted, commissioned or 
+     noncommissioned, each took an oath, lived by a code, and 
+     stood ready to fight and die for their country.
+       (5) American men and women in uniform risk their lives on a 
+     daily basis to defend our freedom and democracy. Americans 
+     have always believed that there are values worth fighting 
+     for--values and liberties upon which America was founded and 
+     which we have carried forward for more than 225 years, that 
+     men and women of this great nation gave their lives to 
+     preserve.
+       (6) It is the sacrifice borne by generations of American 
+     veterans that has made us strong and has rendered us the 
+     beacon of freedom guiding the course of nations throughout 
+     the world. American veterans have fought for freedom for 
+     Americans, as well as citizens throughout the world. They 
+     have helped to defend and preserve the values of freedom of 
+     speech, democracy, voting rights, human rights, equal access 
+     and the rights of the individual--those values felt and 
+     nurtured on every continent in our world.
+       (7) The freedoms and opportunities we enjoy today were 
+     bought and paid for with their devotion to duty and their 
+     sacrifices. We can never say it too many times: We are the 
+     benefactors of their sacrifice, and we are grateful.
+       (8) Of the 25,000,000 veterans currently alive, nearly 
+     three of every four served during a war or an official period 
+     of hostility. About a quarter of the Nation's population--
+     approximately 70,000,000 people--are potentially eligible for 
+     Veterans' Administration benefits and services because they 
+     are veterans, family members or survivors of veterans.
+       (9) The present veteran population is estimated at 
+     25,600,000, as of July 1, 1997. Nearly 80 of every 100 living 
+     veterans served during defined periods of armed hostilities. 
+     Altogether, almost one-third of the nation's population-
+     approximately 70,000,000 persons who are veterans, dependents 
+     and survivors of deceased veterans--are potentially eligible 
+     for Veterans' Administration benefits and services.
+       (10) Care for veterans and dependents spans centuries. The 
+     last dependent of a Revolutionary War veteran died in 1911; 
+     the War of 1812's last dependent died in 1946; the Mexican 
+     War's, in 1962.
+       (11) The Veterans' Administration health care system has 
+     grown from 54 hospitals in 1930, to include 171 medical 
+     centers; more than 350 outpatient, community, and outreach 
+     clinics; 126 nursing home care units; and 35 domiciliaries. 
+     Veterans' Administration health care facilities provide a 
+     broad spectrum of medical, surgical, and rehabilitative care.
+       (12) World War II resulted in not only a vast increase in 
+     the veteran population, but also in large number of new 
+     benefits enacted by the Congress for veterans of the war. The 
+     World War II GI Bill, signed into law on June 22, 1944, is 
+     said to have had more impact on the American way of life than 
+     any law since the Homestead Act more than a century ago.
+       (13) About 2,700,000 veterans receive disability 
+     compensation or pensions from VA. Also receiving Veterans' 
+     Administration benefits are 592,713 widows, children and 
+     parents of deceased veterans. Among them are 133,881 
+     survivors of Vietnam era veterans and 295,679 survivors of 
+     World War II veterans. In fiscal year 2001, Veterans' 
+     Administration planned to spend $22,000,000,000 yearly in 
+     disability compensation, death compensation and pension to 
+     3,200,000 people.
+       (14) Veterans' Administration manages the largest medical 
+     education and health professions training program in the 
+     United States. Veterans' Administration facilities are 
+     affiliated with 107 medical schools, 55 dental schools and 
+     more than 1,200 other schools across the country. Each year, 
+     about 85,000 health professionals are trained in Veterans' 
+     Administration medical centers. More than half of the 
+     physicians practicing in the United States have had part of 
+     their professional education in the Veterans' Administration 
+     health care system.
+       (15) 75 percent of Veterans' Administration researchers are 
+     practicing physicians. Because of their dual roles, Veterans' 
+     Administration research often immediately benefits patients. 
+     Functional electrical stimulation, a technology using 
+     controlled electrical current to activate paralyzed muscles, 
+     is being developed at Veterans' Administration clinical 
+     facilities and laboratories throughout the country. Through 
+     this technology, paraplegic patients have been able to stand 
+     and, in some instances, walk short distances and climb 
+     stairs. Patients with quadriplegia are able to use their 
+     hands to grasp objects.
+       (16) There are more than 35,000,000 persons in the United 
+     States aged 65 and over.
+       (17) Seniors are a diverse population, each member having 
+     his or her own political and economic issues.
+       (18) Seniors and their families have many important issues 
+     for which they seek congressional action. Some of these 
+     issues include, but are not limited to, health care, Social 
+     Security, and taxes.
+       (19) The First Amendment to the United States Constitution 
+     states that, ``Congress shall make no law respecting an 
+     establishment of religion, or prohibiting the free exercise 
+     thereof; or abridging the freedom of speech, or of the press; 
+     or of the right of the people to peaceably assemble, and to 
+     petition the Government for a redress of grievances.''.
+       (20) The Supreme Court recognized and emphasized the 
+     importance of free speech rights in Buckley v. Valeo, where 
+     it stated, ``A restriction on the amount of money a person or 
+     group can spend on political communication during a campaign 
+     necessarily reduces the quantity of expression by restricting 
+     the number of issues discussed, the depth of their 
+     exploration, and the size of the audience reached. This is 
+     because virtually every means of communicating ideas in 
+     today's mass society requires the expenditure of money. The 
+     distribution of the humblest handbill or leaflet entails 
+     printing, paper, and circulation costs. Speeches and rallies 
+     generally necessitate hiring a hall and publicizing the 
+     event. The electorate's increasing dependence on television, 
+     radio, and other mass media for news and information has made 
+     these expensive modes of communication indispensable 
+     instruments of effective political speech.''.
+
+[[Page H433]]
+
+       (21) In response to the relentlessly repeated claim that 
+     campaign spending has skyrocketed and should be legislatively 
+     restrained, the Buckley Court stated that the First Amendment 
+     denied the government the power to make that determination: 
+     ``In the free society ordained by our Constitution, it is not 
+     the government but the people--individually as citizens and 
+     candidates and collectively as associations and political 
+     committees--who must retain control over the quantity and 
+     range of debate on public issues in a political campaign.''.
+       (22) In Buckley, the Court also stated, ``The concept that 
+     government may restrict the speech of some elements of our 
+     society in order to enhance the relative voice of others is 
+     wholly foreign to the First Amendment, which was designed `to 
+     secure the widest possible dissemination of information from 
+     diverse and antagonistic sources,' and 'to assure unfettered 
+     exchange of ideas for the bringing about of political and 
+     societal changes desired by the people' ".
+       (23) Citizens who have an interest in issues about or 
+     related to veterans, military personnel, seniors, and their 
+     families have the Constitutional right to criticize or praise 
+     their elected officials individually or collectively as a 
+     group. Communications in the form of criticism or praise of 
+     elected officials is preciously protected as free speech 
+     under the First Amendment of the Constitution of the United 
+     States.
+       (24) This title contains restrictions on the rights of 
+     citizens, either individually or collectively, to communicate 
+     with or about their elected representatives and to the 
+     general public. Such restrictions would stifle and suppress 
+     individual and group advocacy pertaining to politics and 
+     government--the political expression at the core of the 
+     electoral process and of First Amendment freedoms--the very 
+     engine of democracy. Such restrictions also hinder citizens' 
+     ability to communicate their support or opposition on issues 
+     concerning veterans, military personnel, seniors, and their 
+     families to their elected officials and the general public.
+       (25) Candidate campaigns and issue campaigns are the 
+     primary vehicles for giving voice to popular grievances, 
+     raising issues and proposing solutions. An election, and the 
+     time leading up to it, is when political speech should be at 
+     its most robust and unfettered.
+
+     SEC. 222. EXEMPTION FOR COMMUNICATIONS PERTAINING TO 
+                   VETERANS, MILITARY PERSONNEL, OR SENIORS.
+
+       None of the restrictions or requirements contained in this 
+     title or the amendments made by this title shall apply to any 
+     form or mode of communication to the public that consists of 
+     information or commentary regarding the statements, actions, 
+     positions, or voting records of any individual who holds 
+     congressional or other Federal office, or who is a candidate 
+     for congressional or other Federal office, on any matter 
+     pertaining to veterans, military personnel, or senior 
+     citizens, or to the immediate family members of veterans, 
+     military personnel, or senior citizens.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentleman from Texas (Mr. Sam Johnson) and a Member opposed 
+each will control 10 minutes.
+  Does the gentleman from Pennsylvania (Mr. Fattah) seek to control the 
+time in opposition?
+  Mr. FATTAH. Yes, Mr. Chairman.
+  The CHAIRMAN pro tempore. The gentleman from Pennsylvania will be 
+recognized for 10 minutes in opposition.
+  The Chair recognizes the gentleman from Texas (Mr. Sam Johnson).
+  Mr. SAM JOHNSON of Texas. Mr. Chairman, I yield myself such time as I 
+may consume.
+  This amendment, Mr. Chairman, addresses the rights of veterans of 
+this Nation. As a 29-year Air Force veteran and prisoner of war who had 
+my freedom stripped away for many years, nearly 7, I am appalled that 
+anyone would try to take away the rights of any American, especially 
+those who put their lives in harm's way to defend our Constitution and 
+this Nation.
+  Let us not forget that between 1940 and 1947, over 16 million 
+Americans signed up to stand with their country against the forces of 
+fascism and tyranny. Over 400,000 never returned.
+  Let us not forget that a decade later, almost 7 million Americans 
+served in the Korean War, and 55,000 ended up giving up their lives.
+  Throughout the conflicts, from the Revolutionary War to Vietnam, 
+Desert Storm, and now Afghanistan, let us not forget that more than 42 
+million brave men and women have answered the call to protect our 
+freedom, and today more than 25 million of those brave souls are still 
+alive in this country wanting their freedom.
+  Veterans understand that freedom is not free, and I think everyone in 
+here knows that. Those men and women fought and defended this Nation 
+for us to be able to stand here on this floor today and talk. It must 
+be defended again. Would anyone disagree with this? I do not think so.
+  Is there anyone who would deny a veteran's right to be heard or the 
+right to hear what affects them? After all, veterans' issues are not 
+Republican issues. They are not Democrat issues either. Veterans' 
+issues are not liberal; they are not conservative. Veterans' issues are 
+American issues. They have the right to talk about them, and we have an 
+obligation to listen to them.
+  Veterans' issues are about defending our country, providing quality 
+health care and protecting Social Security. We must not silence the men 
+and women who have fought and died to keep America free. I need a vote 
+for this amendment. We need to vote for veterans.
+  Let me just tell you that our veterans today are over there in 
+Afghanistan protecting the freedoms of America and the freedom of the 
+world. We are doing everything we can to provide them the sustenance, 
+the equipment, the best training possible; and we have the best-trained 
+men and women in the world. They are going to protect us and our 
+rights, and we need to protect them and their right to free speech.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. FATTAH. Mr. Chairman, I ask unanimous consent that the gentleman 
+from Connecticut (Mr. Shays) may control 5 minutes of my time and be 
+permitted to yield said time.
+  The CHAIRMAN pro tempore. Is there objection to the request of the 
+gentleman from Pennsylvania?
+  There was no objection.
+  The CHAIRMAN pro tempore. The gentleman from Connecticut (Mr. Shays) 
+will control 5 minutes, and the gentleman from Pennsylvania (Mr. 
+Fattah) will control 5 minutes.
+  Mr. FATTAH. Mr. Chairman, I yield 1\1/2\ minutes to the gentleman 
+from the great State of Texas (Mr. Edwards).
+  Mr. EDWARDS. Mr. Chairman, I cochair the Bipartisan House Army 
+Caucus. I represent the largest Army installation in the United States, 
+Fort Hood. I represent over 65,000 military retirees and veterans. I 
+will match my record in supporting veterans and a strong national 
+defense with any Member of either party in this House.
+  This amendment is not about fighting for veterans. If we want to 
+fight for veterans, then maybe some Members of this House can vote 
+``no'' tomorrow on some tax cuts, that because of those tax cuts we 
+will have less money for veterans' health care.
+  This amendment would actually allow an anti-veteran, anti-defense 
+group to run a sham ad in the last hours of a campaign under the guise 
+of a Texans for Veterans group.
+  So let no one be deceived. Despite the good intentions perhaps of 
+this amendment that this is all about pro-veteran, pro-military, pro-
+senior citizen groups wanting to come in and want ads, most veterans I 
+represent in my district do not have $1 million to put into a soft-
+money account. They are hard-working, decent Americans like most 
+others, trying to struggle to pay their bills.
+  Mr. Chairman, if we want to fight for veterans, let us fight for 
+funding for veterans' health care and not try to make this amendment 
+look like it is a litmus test vote of whether you are for or against 
+military might or veterans and our servicemen and women.
+  This is a bad amendment; it is a Trojan horse; it is a poison pill. 
+We should vote against it.
+  Mr. SAM JOHNSON of Texas. Mr. Chairman, I yield 1\1/2\ minutes to the 
+gentleman from Florida (Mr. Bilirakis).
+  Mr. BILIRAKIS. Mr. Chairman, I appreciate being yielded the time.
+  Mr. Chairman, this amendment will do what the gentleman from Texas 
+says it will do. It is a good amendment. Veterans come from all walks 
+of life and represent a true cross-section of this country. They took 
+an oath, lived by a code and stood ready to fight and die for their 
+country. Should those who defended our Nation against tyranny and 
+oppression not have a strong voice in our political process? Should 
+they not be heard above all else?
+  It is not easy to wear the uniform of one's Nation, and too often the 
+needs of these great men and women are overlooked by the great country 
+they proudly served. This amendment guarantees our veterans will have 
+the right to express their views on issues affecting them.
+  The Constitution grants Americans the right to criticize or praise 
+their
+
+[[Page H434]]
+
+elected officials, and we should not punish the very individuals who 
+put their lives on the line to protect our freedom and way of life by 
+depriving them, as this bill would probably do, of their voice in our 
+political process.
+  As a 4-year veteran myself, I urge my colleagues to support this 
+important amendment. We will never be able to properly thank those 
+veterans who gave up so much for our Nation, but we can honor them.
+
+                              {time}  2000
+
+  We can honor them by passing this amendment. Vote for the Armey-
+Johnson amendment.
+  Mr. SHAYS. Mr. Chairman, I yield myself 2 minutes.
+  I would like to start by saying I have a number of heroes in this 
+House. One of them is the gentleman from Illinois (Mr. Hyde), right 
+over there, the best reason why we should not ever think of having term 
+limits. Another hero is sitting right there.
+  When I was elected, I wanted to meet the gentleman from Georgia (Mr. 
+Lewis) more than almost anyone else, but after I was elected, when I 
+heard that the gentleman from Texas (Mr. Sam Johnson) won, I wanted to 
+meet him more than anyone else. I went to him and asked him if I could 
+get his book and pay for it, and he did not make me pay for it, but I 
+read that book, and I figuratively bended my knees in gratitude for his 
+service.
+  So I say that because I think he believes that his amendment is 
+needed, but his amendment is not needed, and his veterans have all the 
+voice they need.
+  What we are doing in our substitute is we are saying the 1907 law 
+banning corporate treasury money will be enforced, the 1947 law banning 
+union dues money will be enforced, and the 1974 law that says 
+individual contributions can have limits unless it is just one 
+individual who is spending it.
+  We allow for people to speak out. Sixty days before an election, soft 
+money can be used. Sixty days to an election, it is hard money 
+contributions. All of the money that individual veterans raise can be 
+spent and can be advertised.
+  So I know he believes in this amendment, but I can tell my 
+colleagues, we have had a lot of groups that have voiced concern, but 
+the veterans are not one of them. They know in this country they have a 
+voice, and they know in this Congress they have a lot of people who 
+listen.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. FATTAH. Mr. Chairman, I yield 1 minute to the gentleman from Ohio 
+(Mr. Strickland).
+  Mr. STRICKLAND. Mr. Chairman, I think all of us honor our veterans in 
+this Chamber, but what veterans are really interested in is having 
+adequate health care.
+  Just a few days ago, this administration changed the $2-per-
+prescription copay or deductible that veterans have been required to 
+pay for their prescription medications to $7 a prescription, a whopping 
+$250 one-time increase. Many veterans in my district get 10 or more 
+prescriptions per month. We take 7 times 10, that is $70 a month on 
+veterans with a fixed income. I think we ought to all join in 
+supporting my legislation to return that deductible to $2 per 
+prescription and keep it there for the next 5 years.
+  Why are we imposing a $1,500 deductible, annual deductible, for 
+veterans who get health care at many of our VA facilities? That is a 
+new policy.
+  If we want to help our veterans, we will make sure they get the kind 
+of health care they need rather than putting an additional burden upon 
+them.
+  Mr. SAM JOHNSON of Texas. Mr. Chairman, I kind of agree with the 
+gentleman, but if we take away their right to speak, we are not ever 
+going to get that fixed.
+  Mr. Chairman, I yield 1\1/2\ minutes to the gentleman from North 
+Carolina (Mr. Hayes).
+  Mr. HAYES. Mr. Chairman, I thank the gentleman for yielding me this 
+time.
+  Mr. Chairman, make no mistake about it, this is a vote for veterans, 
+if one supports the Johnson amendment, which I do; if we vote against 
+it, it is a vote against veterans.
+  The gentleman from Ohio made the case very, very strongly. Their 
+voice. Look at the gentleman from Texas. Look at how he walks. Look at 
+his hand. Do we not want veterans to have free speech at the time of an 
+election when decisions are made?
+  I represent Fort Bragg. My veterans, my soldiers, men and women in 
+uniform appreciate tax cuts as well, because that gives them the 
+freedom and the flexibility and the financial ability to meet the 
+challenges that they face.
+  So please join me in voting for the Johnson amendment which will 
+allow veterans the voice that they need, particularly at election time.
+  Mr. FATTAH. Mr. Chairman, can I have an audit of the time, please?
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from 
+Pennsylvania (Mr. Fattah) has 2\1/2\ minutes remaining; the gentleman 
+from Connecticut (Mr. Shays) has 3\1/4\ minutes remaining; the 
+gentleman from Texas (Mr. Sam Johnson) has 4\1/4\ minutes remaining.
+  Mr. SAM JOHNSON of Texas. Mr. Chairman, I yield 3 minutes to the 
+gentleman from Arizona (Mr. Hayworth), a member of the Committee on 
+Ways and Means.
+  Mr. HAYWORTH. Mr. Chairman, I thank the gentleman from Texas for 
+yielding me this time.
+  As the former chairman of the Subcommittee on Benefits of the House 
+Committee on Veterans' Affairs, I am pleased and proud to rise in 
+strong support of this amendment offered by the gentleman from Texas 
+(Mr. Sam Johnson).
+  Mr. Chairman, it is a curious process here, because actually, through 
+the amendment process, we are trying to restore first amendment rights. 
+Think about what was done earlier today. It was bad enough that we 
+established a new and, really, the ultimate loophole with this bill, 
+allegedly taking effect or going to take effect the day after Election 
+Day. Curious timing. Congratulations if it helps the fine folks in a 
+partisan manner and allows them to take soft money, use it as 
+collateral, turn it into hard money and presto-chango, the day after 
+the election, pay off the loan. It is very crafty. But the American 
+people see through it.
+  Now, tonight we are in the ironic position of trying to restore first 
+amendment rights piece by piece, group by group, to American citizens. 
+To the very people who fought to defend the first amendment, we have to 
+say tonight, could we possibly restore those rights?
+  What should be beyond debate, beyond dispute is now suddenly put in 
+contention. Mr. Chairman, I say to my colleagues, that is the very 
+problem with the legislation, and that leads us to the irony of tonight 
+where we seek to restore the first amendment.
+  Now, you are going to hear under the misguided label of reform, that 
+oh, no, no, there is no intention to in any way diminish the rights of 
+Americans. Why, this notion of reform, the same misguided notion of 
+reform that leads to a loophole, that is obscene, a loophole that takes 
+something that is illegal today, makes it legal for a certain amount of 
+time. This is what is labeled in this almost Orwellian legislation as 
+reform. And now our friends tell us, oh, no, no, it is not their intent 
+to in any way abridge the first amendment. It is not their intent to in 
+any way stop free debate. Yet here we are tonight trying to thaw the 
+chilling effect of abridging the first amendment, of abridging debate 
+on the part of everyday Americans who, yes, have the right and the 
+franchise to vote, but should not lose their voice in the process.
+  Curiouser and curiouser, said Alice. It is sad to see this 
+deliberative body put behind the looking glass.
+  Mr. SHAYS. Mr. Chairman, I yield myself such time as I may consume.
+  I have a lot of respect for the gentleman from Arizona, but I totally 
+disagree with his analysis. The reason why we are opposing this 
+amendment is because we do not believe that the amendment is needed 
+because we know that first amendment rights are not threatened. One of 
+the curious things here is that this does not just involve veterans, it 
+involves senior citizens. Senior citizens.
+  AARP supports and has asked for this amendment, asked for our bill, 
+our substitute, because they think their voice is being drowned out by 
+large corporate interests and large union dues interests, as do some 
+veterans. Some veterans think their voice has been drowned out by the 
+voice of large
+
+[[Page H435]]
+
+corporations. My party for some reason has given the impression that 
+this is doomsday if this bill passes. The thing that they are really 
+saying is that they cannot exist unless they have large corporate 
+contributions. I do not believe it, and I do not think it is true.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. FATTAH. Mr. Chairman, I yield 1 minute to the gentleman from 
+Texas (Mr. Rodriguez).
+  Mr. RODRIGUEZ. Mr. Chairman, the amendment we have before us is smoke 
+and mirrors. Veterans have every right, and, in fact, today I am going 
+to ask every single veteran to contact the Democrats, contact the 
+Republicans and hold them accountable. Hold them accountable on the 
+fact that today we have had a budget in the Committee on Veterans' 
+Affairs that talks about $3.1 billion. Yes, of that $3.1 billion, there 
+is a $1,500 codeductible that our veterans are going to have to pay. I 
+am going to ask them to call and call, call every single Congressman, 
+including the Democratic side.
+  That bill also calls for the fact that our veterans are going to have 
+to pay $400 million additional monies on prescriptions. I am going to 
+ask them, and they have the right, to call their Congressman, whether 
+Republican and Democrat.
+  They are also being asked to cut $600 million from VA. That is part 
+of the budget that is calling for a $3.1 billion increase when in 
+reality it is less than $1 billion, which is not even enough to take 
+care of existing costs.
+  If we want to help veterans, let us make sure we help veterans by 
+giving them the needs that they have and the health care needs that 
+they need now.
+  Mr. SAM JOHNSON of Texas. Mr. Chairman, may I inquire of the Chair, 
+who has the right to close?
+  The CHAIRMAN pro tempore. The gentleman from Pennsylvania (Mr. 
+Fattah) as a member of the committee has the right to close.
+  The gentleman from Pennsylvania (Mr. Fattah) has 1\1/2\ minutes 
+remaining; the gentleman from Connecticut (Mr. Shays) has 2\1/4\ 
+minutes remaining; the gentleman from Texas (Mr. Sam Johnson) has 1\1/
+4\ minutes remaining.
+  Mr. FATTAH. Mr. Chairman, I reserve the time for my close, and I have 
+no further speakers.
+  Mr. SHAYS. Mr. Chairman, I yield myself such time as I may consume.
+  We are more than halfway through our legislation. We have worked very 
+hard on it. This is one of the last amendments alleging that somehow 
+people's voices are not going to be able to be heard. There is no truth 
+to that at all, but the allegations are made. This is a bill that 
+enforces the 1907 law banning corporate treasury money, the 1947 law 
+banning union dues money, and enforces the 1974 reform laws.
+  Now, one of the allegations is that because we cannot use soft money, 
+we cannot use that corporate treasury money and the union dues money, 
+that somehow veterans do not have a voice. That is an absurdity. They 
+have a voice as individuals, and they have a voice to pool their 
+resources and to advertise. They just cannot do it with corporate 
+treasury money and union dues money. Most veterans think that makes 
+sense, because they do not have a lot of corporate treasury money and a 
+lot of union dues money. They do not get it. They do not have a lot of 
+wealthy people allowing them to advertise. What they have is a lot of 
+numbers of small contributions, of hard money, that enables them to 
+have quite a voice.
+  I would just make the point to my colleagues that this amendment is 
+dearly a threat to our legislation because it suggests something that 
+is not true.
+  Mr. Chairman, I ask unanimous consent to yield the balance of 
+whatever time I have to the gentleman from Pennsylvania (Mr. Fattah) so 
+that he can close.
+  Mr. Chairman, do I have any time remaining?
+  The CHAIRMAN pro tempore. The gentleman has three-quarters of a 
+minute remaining.
+  Is there objection to the request of the gentleman from Connecticut?
+  There was no objection.
+  Mr. FATTAH. Mr. Chairman, before the gentleman from Texas closes, I 
+would like to yield 30 seconds to the gentlewoman from Florida (Ms. 
+Brown).
+  Ms. BROWN of Florida. Mr. Chairman, I am on the House Committee on 
+Veterans' Affairs and have been on that committee for the entire 10 
+years I have been here in this Congress. Let me tell my colleagues I am 
+very upset over the fact that we have a budget before this Congress 
+that talked a great talk for veterans, but does not walk the walk. I 
+cannot believe that we are going from $2 to $7 for copayments. We in 
+this Congress ought to be ashamed of ourselves. If we want to help the 
+veterans, help them financially and not with this phony talk.
+  Vote down this amendment.
+  I believe that the Bush Administration budget for veterans is an 
+absolute disgrace. Their proposal is particularly disappointing when 
+one considers the fact that the Bush Administration made various public 
+statements describing how they were going to improve and increase the 
+veterans' budget.
+  The Administration claims that this year's budget requests a record-
+setting $25.5 billion for medical programs, but in reality, they are 
+asking Congress to appropriate $22.75 billion for veterans' medical 
+care--$2.75 billion less than the reported record-setting reported 
+total. And of the $25.5 billion the Administration claims the budget 
+will provide for veterans medical care, $794 million will simply shift 
+personnel related costs to VA from the Office of Personnel Management 
+(OPM). Moreover, there is another $1.28 billion to offset cost 
+increases like inflation, higher pharmaceutical prices, and federal pay 
+raises. Taken together, this $2 billion increase doesn't provide a 
+single dime more for medical care for veterans. Not only does this 
+budget make it tougher for the veterans to receive the health care that 
+they deserve, but it actually adds costs to the veterans by increasing 
+their prescription drug co-payments.
+  In addition, the proposed increase in the medical care appropriation 
+for fiscal year 2003 is approximately $100 million more than the $1.3 
+billion Congress appropriated for fiscal year 2002 which the 
+Administration acknowledges is $400 million short of meeting veterans' 
+needs. Five of VA's 22 networks have already projected shortfalls in 
+funding for veterans medical care by the year's end. The Administration 
+already plans to request a $142 million supplement for funding to 
+continue to treat non-service connected, higher income veterans, and 
+they claim they will ``find'' another $300 million in ``management 
+efficiencies''. As proposed by the Administration, the fiscal year 2003 
+VA medical care budget will require VA to find an additional $316 
+million in management savings in order to meet veterans' demand for 
+health care.
+  This is purely shameful. It is preposterous that the Bush 
+Administration, who has requested $48 billion for the military, refuses 
+to request more money to take care of our nation's heroes who have 
+risked their lives to defend our democracy.
+  Mr. SAM JOHNSON of Texas. Mr. Chairman, I yield 30 seconds to the 
+gentleman from Arizona (Mr. Hayworth).
+  Mr. HAYWORTH. Mr. Chairman, I thank the gentleman from Texas once 
+again.
+  My good friend from Florida proves the point. She has objections to 
+what has gone on in the Committee on Veterans' Affairs. Why muzzle the 
+veterans 60 days before the election? If they have concerns in a free 
+society, let them bring them forth and make them clear. Do not abridge 
+that. Oh, yes, I guess that is right, that they can advertise on the 
+pages of the New York Times. I know that is of acute interest to at 
+least a few in this Chamber. But why would we abridge their rights to 
+freedom of speech?
+  This is the essence of the battle of ideas in a free society, and 
+what has gone on here is suppression of that debate, the very thing we 
+should champion.
+
+                              {time}  2015
+
+  Mr. SAM JOHNSON of Texas. Mr. Chairman, I yield myself such time as I 
+may consume.
+  Mr. Chairman, I think the gentleman is absolutely correct, and I 
+happen to agree with the gentlewoman over there. I think we should do 
+something for our veterans. I think that is atrocious that they have 
+doubled or tripled that cost. I think that is the best reason I can 
+think of why we should not subjugate the veterans of the United States 
+of America, past, present, future, to some unconstitutional law that we 
+are trying to pass tonight. This amendment will fix that for our 
+veterans now and in the future.
+  Mr. Chairman, I yield back the balance of my time.
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from
+
+[[Page H436]]
+
+Pennsylvania (Mr. Fattah) has 1\3/4\ minutes remaining.
+  Mr. FATTAH. Mr. Chairman, I yield myself such time as I may consume. 
+Mr. Chairman, I rise to speak in opposition to this amendment.
+  There is not a veteran or person in our armed services who has served 
+this country who desires some special set of rights or some special 
+circumstances. What they desire for themselves is the same that we 
+would provide for any American citizen. And what we are doing here is 
+removing from politics the corruption of unlimited soft-money 
+expenditures.
+  We will not have the Enrons of this country taking a few of their 
+people and saying this is some kind of veterans committee and dumping 
+millions of dollars into campaigns. What this amendment would do is 
+tear away from the great work of John McCain, who is a well-recognized 
+veteran who has given a great deal of sacrifice to bring our country 
+now to the edge of history in terms of reforming and transforming our 
+politics.
+  So I would ask the Members not to be swayed and to come to the floor 
+and vote ``no'' on this amendment so that we can move finally at some 
+hour tonight to finally reforming the campaign election laws of our 
+country in terms of moving away the corruption of money in unlimited 
+sums and allowing the voice of our people, veterans and nonveterans, to 
+be heard so that our democracy can prosper.
+  Mr. Chairman, I yield back the balance of my time.
+  The CHAIRMAN pro tempore. The question is on the amendment offered by 
+the gentleman from Texas (Mr. Sam Johnson).
+  The question was taken; and the Chairman pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. SAM JOHNSON of Texas. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 200, 
+noes 228, not voting 7, as follows:
+
+                             [Roll No. 26]
+
+                               AYES--200
+
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barr
+     Bartlett
+     Barton
+     Bereuter
+     Biggert
+     Bilirakis
+     Blunt
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Carson (OK)
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Flake
+     Fletcher
+     Forbes
+     Fossella
+     Gallegly
+     Gekas
+     Gibbons
+     Gillmor
+     Gilman
+     Goode
+     Goodlatte
+     Goss
+     Granger
+     Graves
+     Green (WI)
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Holden
+     Hostettler
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     King (NY)
+     Kingston
+     Kirk
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McHugh
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Moran (KS)
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Osborne
+     Otter
+     Paul
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Quinn
+     Radanovich
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Saxton
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shows
+     Shuster
+     Simpson
+     Skeen
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tanner
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Terry
+     Thomas
+     Thornberry
+     Tiahrt
+     Tiberi
+     Toomey
+     Upton
+     Vitter
+     Walden
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wynn
+     Young (AK)
+     Young (FL)
+
+                               NOES--228
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barcia
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Edwards
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Foley
+     Ford
+     Frank
+     Frelinghuysen
+     Frost
+     Ganske
+     Gephardt
+     Gilchrest
+     Gonzalez
+     Gordon
+     Graham
+     Green (TX)
+     Greenwood
+     Grucci
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holt
+     Honda
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson (CT)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Mollohan
+     Moore
+     Moran (VA)
+     Morella
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Ose
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pelosi
+     Phelps
+     Platts
+     Pomeroy
+     Price (NC)
+     Rahall
+     Ramstad
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ross
+     Rothman
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Simmons
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tauscher
+     Thompson (CA)
+     Thompson (MS)
+     Thune
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Wexler
+     Wolf
+     Woolsey
+     Wu
+
+                             NOT VOTING--7
+
+     Boyd
+     Brady (TX)
+     Cubin
+     Oxley
+     Riley
+     Roukema
+     Traficant
+
+                              {time}  2036
+
+  Mr. WU changed his vote from ``aye'' to ``no.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Texas (Mr. Armey).
+
+
+                Amendment No. 30 Offered by Mr. Combest
+
+  Mr. COMBEST. Mr. Chairman, I offer an amendment as the designee of 
+the gentleman from Texas (Mr. Armey).
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 30 offered by Mr. Combest:
+       Add at the end of title II the following new subtitle:
+
+Subtitle C--Exemption of Communications Pertaining to Workers, Farmers, 
+                       Families, and Individuals
+
+     SEC. 221. FINDINGS.
+
+       Congress finds the following:
+       (1) There are approximately 138 million people employed in 
+     the United States.
+       (2) Thousands of organizations and associations represent 
+     these employed persons and their employers in numerous forms 
+     and forums, not least of which is by participating in our 
+     electoral and political system in a number of ways, including 
+     informing citizens of key votes that affect their common 
+     interests, criticizing and praising elected officials for 
+     their position on issues, contributing to candidates and 
+     political parties, registering voters, and conducting get-
+     out-the-vote activities.
+       (3) The rights of American workers to bargain collectively 
+     are protected by their First Amendment to the Constitution 
+     and by provisions in the National Labor Relations Act. 
+     Federal law guarantees the rights of workers to choose 
+     whether to bargain collectively through a union.
+       (4) Fourteen percent of the American workforce has chosen 
+     to affiliate with a labor union. Federal law allows workers 
+     and unions the opportunity to combine strength and to work 
+     together to seek to improve the lives of America's working 
+     families, bring fairness and dignity to the workplace and 
+     secure social and economic equity in our nation.
+       (5) Nearly three quarters of all United States business 
+     firms have no payroll. Most
+
+[[Page H437]]
+
+     are self-employed persons operating unincorporated 
+     businesses, and may or may not be the owner's principal 
+     source of income.
+       (6) Minorities owned fewer than 7 percent of all United 
+     States firms, excluding C corporations, in 1982, but this 
+     share soared to about 15 percent by 1997. Minorities owned 
+     more than 3 million businesses in 1997, of which 615,222 had 
+     paid employees, generated more than $591 billion in revenues, 
+     created more than 4.5 million jobs, and provided about $96 
+     billion in payroll to their workers.
+       (7) In 1999, women made up 46 percent of the labor force. 
+     The labor force participation rate of American women was the 
+     highest in the world.
+       (8) Labor/Worker unions represent 16 million working women 
+     and men of every race and ethnicity and from every walk of 
+     life.
+       (9) In recent years, union members and their families have 
+     mobilized in growing numbers. In the 2000 election, 26 
+     percent of the nation's voters came from union households.
+       (10) According to the 2000 census, total United States 
+     families were totaled at over 105 million.
+       (11) In 2000, there were 8.7 million African American 
+     families.
+       (12) Asians have larger families than other groups. For 
+     example, the average Asian family size is 3.6 persons, as 
+     opposed to an average Caucasian family of 3.1 persons.
+       (13) American farmers, ranchers, and agricultural managers 
+     direct the activities of the world's largest and most 
+     productive agricultural sectors. They produce enough food and 
+     fiber to meet the needs of the United States and produce a 
+     surplus for export.
+       (14) About 17 percent of raw United States agricultural 
+     products are exported yearly, including 83 million metric 
+     tons of cereal grains, 1.6 billion pounds of poultry, and 1.4 
+     million metric tons of fresh vegetables.
+       (15) One-fourth of the world's beef and nearly one-fifth of 
+     the world's grain, milk, and eggs are produced in the United 
+     States.
+       (16) With 96 percent of the world's population living 
+     outside our borders, the world's most productive farmers need 
+     access to international markets to compete.
+       (17) Every State benefits from the income generated from 
+     agricultural exports. 19 States have exports of $1 billion or 
+     more.
+       (18) America's total on United States exports is $49.1 
+     billion and the number of imports is $37.5 billion.
+       (19) By itself, farming-production agriculture-contributed 
+     $60.4 billion toward the national GDP (Gross Domestic 
+     Product).
+       (20) Farmers and ranchers provide food and habitat for 75 
+     percent of the Nation's wildlife.
+       (21) More than 23 million jobs-17 percent of the civilian 
+     workforce-are involved in some phase of growing and getting 
+     our food and clothing to us. America now has fewer farmers, 
+     but they are producing now more than ever before.
+       (22) Twenty-two million American workers process, sell, and 
+     trade the Nation's food and fiber. Farmers and ranchers work 
+     with the Department of Agriculture to produce healthy crops 
+     while caring for soil and water.
+       (23) By February 8, the 39th day of 2002, the average 
+     American has earned enough to pay for their family's food for 
+     the entire year. In 1970 it took 12 more days than it does 
+     now to earn a full food pantry for the year. Even in 1980 it 
+     took 10 more days--49 total days--of earning to put a year's 
+     supply of food on the table.
+       (24) Farmers are facing the 5th straight year of the lowest 
+     real net farm income since the Great Depression. Last 
+     October, prices farmers received made their sharpest drop 
+     since United States Department of Agriculture began keeping 
+     records 91 years ago. During this same period the cost of 
+     production has hit record highs.
+       (25) The First Amendment to the United States Constitution 
+     states that, ``Congress shall make no law respecting an 
+     establishment of religion, or prohibiting the free exercise 
+     thereof; or abridging the freedom of speech, or of the press; 
+     or of the right of the people to peaceably assemble, and to 
+     petition the Government for a redress of grievances.''.
+       (26) The Supreme Court recognized and emphasized the 
+     importance of free speech rights in Buckley v. Valeo, where 
+     it stated, ``A restriction on the amount of money a person or 
+     group can spend on political communication during a campaign 
+     necessarily reduces the quantity of expression by restricting 
+     the number of issues discussed, the depth of their 
+     exploration, and the size of the audience reached. This is 
+     because virtually every means of communicating ideas in 
+     today's mass society requires the expenditure of money. The 
+     distribution of the humblest handbill or leaflet entails 
+     printing, paper, and circulation costs. Speeches and rallies 
+     generally necessitate hiring a hall and publicizing the 
+     event. The electorate's increasing dependence on television, 
+     radio, and other mass media for news and information has made 
+     these expensive modes of communication indispensable 
+     instruments of effective political speech.''.
+       (27) In response to the relentlessly repeated claim that 
+     campaign spending has skyrocketed and should be legislatively 
+     restrained, the Buckley Court stated that the First Amendment 
+     denied the government the power to make that determination: 
+     ``In the free society ordained by our Constitution, it is not 
+     the government but the people--individually as citizens and 
+     candidates and collectively as associations and political 
+     committees--who must retain control over the quantity and 
+     range of debate on public issues in a political campaign.''.
+       (28) In Buckley, the Court also stated, ``The concept that 
+     government may restrict the speech of some elements of our 
+     society in order to enhance the relative voice of others is 
+     wholly foreign to the First Amendment, which was designed `to 
+     secure the widest possible dissemination of information from 
+     diverse and antagonistic sources,' and 'to assure unfettered 
+     exchange of ideas for the bringing about of political and 
+     societal changes desired by the people' ".
+       (29) Citizens who have an interest in issues about or 
+     related to their lives have the Constitutional right to 
+     criticize or praise their elected officials individually or 
+     collectively as a group. Communications in the form of 
+     criticism or praise of elected officials is preciously 
+     protected as free speech under the First Amendment of the 
+     Constitution of the United States.
+       (30) This title contains restrictions on the rights of 
+     citizens, either individually or collectively, to communicate 
+     with or about their elected representatives and to the 
+     general public. Such restrictions would stifle and suppress 
+     individual and group advocacy pertaining to politics and 
+     government--the political expression at the core of the 
+     electoral process and of First Amendment freedoms--the very 
+     engine of democracy.
+       (31) Candidate campaigns and issue campaigns are the 
+     primary vehicles for giving voice to popular grievances, 
+     raising issues and proposing solutions. An election, and the 
+     time leading up to it, is when political speech should be at 
+     its most robust and unfettered.
+
+     SEC. 222. EXEMPTION FOR COMMUNICATIONS PERTAINING TO WORKERS, 
+                   FARMERS, FAMILIES, AND INDIVIDUALS.
+
+       None of the restrictions or requirements contained in this 
+     title or the amendments made by this title shall apply to any 
+     form or mode of communication to the public that consists of 
+     information or commentary regarding the statements, actions, 
+     positions, or voting records of any individual who holds 
+     congressional or other Federal office, or who is a candidate 
+     for congressional or other Federal office, on any matter 
+     pertaining to any individual.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentleman from Texas (Mr. Combest) and a Member opposed, the 
+gentleman from Maryland (Mr. Hoyer), each will control 10 minutes.
+  The Chair recognizes the gentleman from Texas (Mr. Combest).
+  Mr. COMBEST. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, the amendment which I am offering would ensure that 
+nothing in H.R. 2356 would restrict workers, farmers, or their family 
+members from communicating their views and needs to their elected 
+leaders and the public. I believe that Shays-Meehan contains unfair 
+restrictions on the rights of citizens, either individually or 
+collectively, to communicate with their elected representatives and the 
+general public. Such restrictions would stifle and suppress individual 
+and group activity and advocacy pertaining to the public and 
+government.
+  My neighbors at home in Texas do not want more restriction on their 
+speech and ability to participate in the political process. They 
+already fear that those in Washington do not hear their wants and 
+needs. I can assure my colleagues that they do not know that this bill 
+would further limit their ability to impact the national debate.
+  One of the most effective ways for citizens to communicate is to pool 
+their voices and resources with like-minded individuals who many times 
+would not be heard if not for this ability. This is essential for 
+minority populations and those from rural areas. Without these tools to 
+educate those not from rural areas of our unique needs, it would be 
+impossible to positively impact the political debate.
+  The campaign finance reform debate demonstrates how out of touch 
+Washington, D.C., is with rural America. East Coast editorial writers 
+are the only ones who care about this issue. Before I came over to the 
+floor today, I held a telephone conference with my rural newspaper 
+editors; and not one question was asked about campaign finance reform; 
+and yet if one listened to and read a few Eastern publications, they 
+would think that the world is silently awaiting out there tonight for 
+this House to respond and to act on this bill.
+  These terrible special interest groups that we hear so much about are 
+made up of workers, farmers and families. These folks are trying to 
+make a living and raise their families, and their personal time is 
+scarce. They rely on their
+
+[[Page H438]]
+
+industry representatives to track important issues and to alert them 
+when action is needed.
+  Most important to them is when the group reports how a particular 
+candidate views their issue of interest. The problem is not interest 
+groups, but the groups that have somehow been deemed politically 
+incorrect by the political and media elites. To them Washington knows 
+best, and if they are from a less-populated rural area of the country, 
+their view and television ad should not count or be heard.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HOYER. Mr. Chairman, I ask unanimous consent that the gentleman 
+from Connecticut (Mr. Shays) and the gentleman from Massachusetts (Mr. 
+Meehan) may each control 4 minutes of time allocated to me and that 
+they may yield time.
+  The CHAIRMAN pro tempore. Is there objection to the request of the 
+gentleman from Maryland?
+  There was no objection.
+  Mr. MEEHAN. Mr. Chairman, I yield such time as he may consume to the 
+gentleman from Michigan (Mr. Stupak) for the purpose of a colloquy.
+
+                              {time}  2045
+
+  Mr. STUPAK. Mr. Chairman, I wish to engage the sponsor of the 
+legislation in a colloquy concerning election-related advertising that 
+is permitted by the Shays-Meehan substitute.
+  Would the gentleman from Massachusetts please respond to the 
+following question: Does the Shays-Meehan substitute allow political 
+action committees of labor unions and nonprofit organizations, such as 
+the Sierra Club or the National Rifle Association, to pay for broadcast 
+ads that name a candidate for Federal office during the last 60 days of 
+an election cycle?
+  Mr. MEEHAN. Mr. Chairman, will the gentleman yield?
+  Mr. STUPAK. I yield to the gentleman from Massachusetts.
+  Mr. MEEHAN. Mr. Chairman, I am happy to respond to the gentleman's 
+inquiry, and the answer is yes. Political action committees, commonly 
+known as PACs, raise money from individual donors in amounts that are 
+limited by Federal law. They are subject to the Federal Election 
+Campaign Act, thus they are not affected at all by title II of the 
+Shays-Meehan substitute which relates to electioneering communications. 
+Title II provides that corporations, including nonprofit corporations 
+and unions, cannot use their treasury funds to pay for ads that mention 
+a Federal candidate during the last 2 months of the election cycle. 
+However, PACs, because they are not corporations or unions, can run ads 
+that mention a candidate at any time during the election cycle without 
+any restriction.
+  Mr. STUPAK. Reclaiming my time, just to clarify, Mr. Chairman, am I 
+correct in saying that the Shays-Meehan substitute does not prohibit an 
+organization, any organization, even like farmers, like the amendment 
+before us now, from running any ad; it simply states that ads that 
+mention candidates within the last 60 days of an election must be paid 
+for with federally regulated hard money?
+  Mr. MEEHAN. If the gentleman will continue to yield, that is 
+absolutely correct. Organizations may run any ad they wish at any time 
+at all if they use hard money.
+  Federal PACs, such as those in corporations, labor unions, or groups 
+like the Sierra Club or the NRA have set up, are hard-money entities. 
+All their fund-raising and spending is governed by Federal law. So PACs 
+can run ads that mention candidates during the last 60 days of an 
+election cycle.
+  Mr. STUPAK. I thank the gentleman for that clarification.
+  Mr. SHAYS. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Tennessee (Mr. Wamp).
+  Mr. WAMP. Mr. Chairman, I thank the gentleman for yielding me this 
+time.
+  I want to try to put this in layman's terms on what this means. 
+Especially after that last colloquy, I think it is easy for people to 
+get lost in all the detail. I run these focus groups. I go to a civic 
+club, a good government group, and I say, let me just ask all of you: 
+Give me a show of hands if you see an ad run in the final 60 days 
+before an election and the ad mentions a candidate's name, would you 
+consider that a campaign ad? And it does not matter if the group is 
+Republican, Democrat, nonpartisan, just about everybody, everybody will 
+raise their hand. They think that is a campaign ad if it mentions a 
+candidate's name.
+  Then I say, okay, do not look at the person next to you, just answer 
+the question: Do you think that if that group that runs that ad 
+mentions the candidate's name, that they should come under the same 
+rules and regulations as the candidates themselves, who also mention 
+each other's names? And everybody raises their hands.
+  And I say it is sad that that is all that this bill does and 
+everybody talks about it being some infringement on your first 
+amendment rights. It treats the groups exactly like it treats the 
+candidates. Now, if that is unconstitutional, then the way they treat 
+us is unconstitutional, and that is not the case. It has been upheld.
+  That is the layman's description of what we are doing. We can get 
+into all the technical explanations, but it is just that simple. That 
+is what this bill does. And most people out there cannot understand why 
+they would not come under the same rules. They can run the ads. We are 
+not gagging them. We are not telling them they cannot, we are just 
+saying they have to come under the same system.
+  Now, I am frustrated with this system, but this system has been in 
+place since 1974, and it has been upheld. It is a regulated system, and 
+I do not think the people are going to let us go back to a totally 
+unregulated, unlimited system.
+  So why can we not all, if we are going to play in the final 60 days 
+before a campaign, why can we not all play by the same rules?
+  Mr. COMBEST. Mr. Chairman, I yield 3 minutes to the gentleman from 
+Georgia (Mr. Kingston).
+  Mr. KINGSTON. Okay, Mr. Chairman, I got everyone's attention. I do 
+not even know how I did that, but there must be a signal out here.
+  Let me just say this. In terms of not having different rules and 
+saying everybody's going to be treated differently, that is not bad. 
+That is the way they did it in the Soviet Union. Everybody was treated 
+right. They did not have any first amendment rights. Must have been the 
+message. Nobody can speak the last 60 days.
+  I hate attack ads. I am the father of four kids. Do my colleagues 
+know how humiliating it is to have an attack ad run when you are trying 
+to bond with your 13-year-old going through middle school and all she 
+hears on the radio is what a creep you are? Of course, she has been 
+telling me that for a long time anyhow, but it is embarrassing.
+  I do not like attack ads, but doggone it, I cannot think of America 
+without that first amendment right to run an attack ad. I think that 
+would be far worse. Even though I have been a victim of one, I have to 
+say it scares me to think of an America where we cannot run an attack 
+ad. I try to turn them around. I say, well, there goes my opponent 
+saying these bad things again. I am not going to do that. But he has 
+the right to call me a scalawag, if that is what makes him feel good. 
+And I have the right to tell the folks I am not a scalawag and vote for 
+me anyhow.
+  This bill says to my farming population, to my farmers down in Evans 
+County, in Tattnall County, in Vidalia, where we get all those great 
+Vidalia onions, it says that they cannot participate in the system. Oh, 
+the system lets certain people participate. You can give $60 million up 
+to a political party if you are a big union or a company and you want 
+to contribute. Hey, this bill allows the Democratic National Committee 
+to build a building. Hey, this bill is so good, but we do not want to 
+put it in effect until after the election. And my colleagues expect me 
+to go back and tell my farmers that? My farmers are 2 percent of the 
+population and feed 100 percent of the population and a great 
+percentage of the world.
+  I had the opportunity to go to Afghanistan recently, and I am glad 
+that American farmers are so doggone productive that we averted a lot 
+of starvation in central Asia this year. Our farmers are up against the 
+wall. They have high labor problems, they have environmental problems, 
+they have problems with NAFTA and GATT, and they have to compete 
+against countries that do not have to play by the same
+
+[[Page H439]]
+
+rules that we do. Our farmers' backs are against the wall right now 
+with credit, with import, with falling markets, yet we are going to 
+tell them, hey, just to be on the safe side, you all have to shut up 
+the last 60 days. That is not fair.
+  It is not fair that all this bill really does in the name of banning 
+soft money is reregulate it and refunnel it into preferred special 
+interest groups. In my little old Georgia farm bureau, and all the 159 
+counties of Georgia, they are not going to be able to compete against 
+the big boys because they cannot file all these reports. They do not 
+have the big-city lawyers. They do not have the $60 million.
+  Let us do not say this is banning soft money. Let us say this is 
+banning farmers from full participation. Vote for the Combest 
+amendment.
+  Mr. SHAYS. Mr. Chairman, I yield myself such time as I may consume to 
+respond to my colleague. He says they do not have the money to respond 
+to all the big guys, and that is the whole point of this amendment.
+  We do not allow corporate treasury money and union dues money 60 days 
+before an election; we allow individual contributions and PAC 
+contributions to compete. Nobody is shutting up. It is just a level 
+playing field. They can run their ads.
+  They are not the big guys, but they can do it with a unified effort 
+on the part of a whole number of farmers who are fighting for their 
+cause.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. MEEHAN. Mr. Chairman, how much time do I have remaining?
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from 
+Massachusetts has 1\1/2\ minutes remaining.
+  Mr. MEEHAN. Mr. Chairman, I yield myself \1/2\ minute.
+  This amendment seeks to protect workers, farmers, and families, 
+because we all know that workers, farmers, and families have these big 
+soft money accounts. They raise millions.
+  As I sit back and think about it, the workers, the farmers, and the 
+families are the reason why we need to pass this bill. The workers, the 
+farmers, and the families, without these big multinational soft money 
+PACs, soft money operations, are the reason why we have to pass 
+campaign finance reform.
+  This unlimited soft money is the reason why we do not have a 
+patients' bill of rights, the reason why we do not have Medicare 
+prescription drug coverage for seniors, and the reason why workers are 
+getting the shaft day in and day out because of this soft money system.
+  Mr. COMBEST. Mr. Chairman, could the Chair give us the time 
+accounting?
+  The CHAIRMAN pro tempore. The gentleman from Texas (Mr. Combest) has 
+4\1/2\ minutes remaining, the gentleman from Maryland (Mr. Hoyer) has 2 
+minutes remaining, the gentleman from Connecticut (Mr. Shays) has 1\1/
+2\ minutes remaining, and the gentleman from Massachusetts (Mr. Meehan) 
+has 1 minute remaining.
+  Mr. COMBEST. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Arizona (Mr. Flake).
+  Mr. FLAKE. Mr. Chairman, I thank the gentleman for yielding me this 
+time.
+  The supporters of this legislation wonder why the opponents of the 
+legislation seem to be wanting to single out groups for special 
+protection. I would submit that they ought to know why. It is because 
+the legislation actually singles out corporations for special 
+treatment.
+  If my colleagues wonder why the media, the big media, are so much in 
+favor of this bill, it is because they are the only ones left standing 
+once it passes. The parent company of MSNBC contributed about $2 
+million in soft money last year to the political process here. The 
+parent company of CNN contributed $2.5 million last year in soft money. 
+Yet they can speak through their media subsidiary. They are treated 
+differently. They are given a media exemption.
+  Now, if my colleagues are yelling at the other side for offering 
+amendments which single out individual groups and saying they should be 
+able to speak, and saying that that is wrong, why do my colleagues give 
+a media exemption to corporate-owned media? Why do my colleagues treat 
+corporations, some corporations, differently than others?
+  This is just one example of the blatant inconsistencies of the bill. 
+I would urge a ``yes'' vote on the Combest amendment and a ``no'' vote 
+on Shays-Meehan.
+  Mr. SHAYS. Mr. Chairman, I yield myself such time as I may consume.
+  What our law seeks to do is enforce the 1907 law banning corporate 
+treasury money, the 1947 law that bans union dues money, and enforces 
+the 1974 campaign finance reform law. That is what our bill seeks to 
+do. It allows people to speak out using the hard money 60 days before 
+an election, and, frankly, they can use all that other money 60 days 
+before an election.
+  That is what your bill seeks to do. We are getting closer and closer 
+to seeing that happen.
+  Mr. Chairman, I yield the balance of my time to the gentleman from 
+Maryland (Mr. Hoyer).
+  Mr. HOYER. Mr. Chairman, how much time did he yield back to me?
+  The CHAIRMAN pro tempore. One minute.
+  Mr. HOYER. Mr. Chairman, I yield 1 minute to the distinguished 
+gentleman from New York (Mr. Engel).
+  Mr. ENGEL. Mr. Chairman, I thank the gentleman for yielding me this 
+time. I oppose the amendment, and I urge all my colleagues to vote 
+against it.
+  I oppose all these poison pill amendments because they are simply 
+designed to kill the bill. The American people demand campaign finance 
+reform. They will not stand for the killing of this bill. This bill 
+needs to pass as is so the Senate can pass it and we can avoid a 
+conference which will solely be called to kill it.
+  The American people are outraged at Enron. That is the impetus for 
+many people switching over and supporting the bill. I have been here a 
+good number of years now. It is very rare that we have a discharge 
+petition, with a majority of Members of the House forcing a bill to 
+come to the House floor. I am sorry it had to happen that way, but it 
+happened that way because a majority of Members of this House want to 
+see campaign finance reform and a majority of the American people want 
+to see campaign finance reform.
+
+                              {time}  2100
+
+  Mr. Chairman, we know there is too much money involved in these 
+elections, and we know that soft money is probably the most egregious 
+form. We need to pass this bill, and we need to kill all of the poison 
+pill amendments. I urge a ``no'' vote on the amendment.
+  Mr. MEEHAN. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, I rise in opposition to this poison pill amendment. It 
+would break apart our coalition. It is an amendment designed to destroy 
+the sham ``issue ad'' provisions of the Shays-Meehan bill by purporting 
+to create a targeted exception, which in fact would exempt any possible 
+advertisement paid for with soft money from these provisions.
+  It is simply bad public policy offered by opponents of reform, and it 
+would blow a hole in the sham issue advocacy provisions in this bill by 
+allowing unlimited soft money to be spent on any ad that mentions an 
+individual.
+  Let me be clear. Nothing in the Shays-Meehan bill would ban an 
+outside group or a political party or a wealthy individual from running 
+an advertisement on workers or farmers. Simply put, there is no ban on 
+ads in this bill, and nothing in this bill would apply to written voter 
+guides. This bill simply says if you are a corporation, a 501(c) tax 
+exempt or a union and want to broadcast cable, broadcast satellite ads 
+60 days before the Federal election, hard money has to be used rather 
+than soft money. That is what this bill does.
+  This means that if the NRA, the Sierra Club, National Right to Life, 
+NARAL, the AFL-CIO wants to fund these ads mentioning Federal 
+candidates proximate to Federal elections, they can fund them through 
+their PACs.
+  In fact, the sham-issue ad provisions that are now in the bill are 
+much narrower than ever before. And, previous versions of this bill 
+passed the House with 252 votes.
+  We narrowed the provision to focus only on broadcast, cable and 
+satellite ads proximate to Federal elections to make sure this 
+provision stood on stronger constitutional grounds, and to ensure that 
+the bill would have no impact on voter guides.
+  The provision now is not only narrower in scope but more likely to 
+pass constitutional muster--because it supplies the bright-line
+
+[[Page H440]]
+
+test the Court prefers for distinguishing between campaign 
+advertisements and pure issue advocacy. We have found the right 
+balance--as a matter of policy, and as a matter of Constitutional law. 
+Indeed, 9 former ACLU leaders have said that our approach to sham issue 
+advocacy is constitutional.
+  We need to put teeth back into laws long on the books preventing 
+corporate treasury money or union dues from being used for campaign 
+ads.
+  It is time for this sham to end. It is time for those who pay for 
+campaign ads to play by the rules--and for the American people to know 
+exactly who is filling the airwaves with ads attacking candidates every 
+second Fall.
+  Vote ``no'' on this poison pill amendment. It's a cynical ploy 
+designed by opponents of this bill. Don't be fooled by this sham 
+amendment.
+  Mr. COMBEST. Mr. Chairman, I yield myself the balance of my time.
+  Mr. Chairman, I am going to have to go with the gentleman from 
+Tennessee someday to one of his town hall meetings. I have yet to have 
+the luxury of a town hall meeting or sitting around with a group of 
+people in a coffee shop in Texas and have them unanimously agree to the 
+fact that we ought to bring them under some new Federal regulations.
+  It seems to me that the last two opponents of the amendment have 
+pretty much brought about the argument that is being brought about 
+tonight, that anybody who is concerned about their farmers or their 
+workers or their families is bringing a poison pill. I have not quite 
+figured out why it is in the legislative process, if Members are trying 
+to protect the group of people that they represent, it is a poison 
+pill. It may have an impact on a piece of legislation that the 
+proponents would love to see put into place without any changes, but I 
+am hopeful that the legislative process does not work that way; but it 
+blows holes in it, and it is a poison pill. I would say that if there 
+is no concern about, as regulations are being changed in regards to 
+campaign financing and campaign law, that we could assure those people 
+in rural America, to those farmers and workers and families, that in 
+fact they would be protected if we adopt this amendment.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. HOYER. Mr. Chairman, I rise in opposition to this amendment. It 
+is an amendment like the four other amendments. It is an interesting 
+proposition that we have before us. We are talking about campaign 
+finance reform.
+  The gentleman from Tennessee (Mr. Wamp) said that he went and asked 
+his people about whether or not they thought that everybody ought to be 
+covered by the same rules. The gentleman from Tennessee (Mr. Wamp) said 
+yes, all of them agreed that everybody ought to be covered by the same 
+rules and they ought to know who advertises and tells them things so 
+they can figure out for themselves what people are saying.
+  I suppose there are some on the other side of the aisle who will go 
+home and say yes, I am for campaign finance reform, but I voted to 
+exempt everybody from its coverage. That would be an interesting 
+campaign finance reform. We have it on the books; but by the way, it 
+does not cover anybody. Everybody is exempt.
+  Now, this amendment exempts workers and families and farmers and 
+individuals. I am trying to figure out who, therefore, would be 
+included if we adopted this amendment, seeing as how most of us sort of 
+consider ourselves individuals?
+  So this is an extraordinarily interesting amendment, but it is also 
+an extraordinarily bad amendment; and I do not believe any Member who 
+is at all serious about trying to have some meaningful campaign finance 
+reform could in good conscience, with any intellectual honesty, and 
+with all due respect to the gentleman from Texas whom I have a great 
+relationship with and greatly respect, possibly vote for his amendment. 
+Therefore, I enthusiastically urge Members to vote against it.
+  The CHAIRMAN pro tempore (Mr. Thornberry). All time for debate on 
+this amendment has expired.
+  The question is on the amendment offered by the gentleman from Texas 
+(Mr. Combest).
+  The question was taken; and the Chairman pro tempore announced that 
+the noes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. COMBEST. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 191, 
+noes 237, not voting 6, as follows:
+
+                             [Roll No. 27]
+
+                               AYES--191
+
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barcia
+     Barr
+     Bartlett
+     Barton
+     Bereuter
+     Biggert
+     Bilirakis
+     Blunt
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Flake
+     Fletcher
+     Forbes
+     Fossella
+     Gallegly
+     Gekas
+     Gibbons
+     Goode
+     Goodlatte
+     Goss
+     Graham
+     Granger
+     Graves
+     Green (WI)
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Holden
+     Hostettler
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     King (NY)
+     Kingston
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McHugh
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Moran (KS)
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Osborne
+     Otter
+     Paul
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Phelps
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shows
+     Shuster
+     Simpson
+     Skeen
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tauzin
+     Taylor (NC)
+     Terry
+     Thomas
+     Thornberry
+     Tiahrt
+     Tiberi
+     Toomey
+     Upton
+     Vitter
+     Walden
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wynn
+     Young (AK)
+     Young (FL)
+
+                               NOES--237
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Edwards
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Foley
+     Ford
+     Frank
+     Frelinghuysen
+     Frost
+     Ganske
+     Gephardt
+     Gilchrest
+     Gillmor
+     Gilman
+     Gonzalez
+     Gordon
+     Green (TX)
+     Greenwood
+     Grucci
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holt
+     Honda
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson (CT)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     Kirk
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Mollohan
+     Moore
+     Moran (VA)
+     Morella
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Ose
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pelosi
+     Petri
+     Platts
+     Pomeroy
+     Price (NC)
+     Quinn
+     Rahall
+     Ramstad
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ross
+     Rothman
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Saxton
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Simmons
+     Skelton
+     Slaughter
+     Smith (MI)
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Taylor (MS)
+
+[[Page H441]]
+
+
+     Thompson (CA)
+     Thompson (MS)
+     Thune
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Weldon (PA)
+     Wexler
+     Wolf
+     Woolsey
+     Wu
+
+                             NOT VOTING--6
+
+     Brady (TX)
+     Cubin
+     Oxley
+     Riley
+     Roukema
+     Traficant
+
+                              {time}  2125
+
+  Mr. PASTOR changed his vote from ``aye'' to ``no.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Connecticut (Mr. Shays) or the 
+gentleman from Massachusetts (Mr. Meehan).
+
+
+                  Amendment No. 12 Offered by Mr. Wamp
+
+  Mr. WAMP. Mr. Chairman, I offer an amendment as the designee of the 
+gentleman from Connecticut (Mr. Shays).
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 12 offered by Mr. Wamp:
+       In section 315(a)(1)(A) of the Federal Election Campaign 
+     Act of 1971, as proposed to be amended by section 308(a)(1) 
+     of the bill, strike ``(or, in the case of a candidate for 
+     Representative in or Delegate or Resident Commissioner to the 
+     Congress, $1,000)''.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentleman from Tennessee (Mr. Wamp) and the gentleman from 
+California (Mr. Farr) each will control 10 minutes.
+  The Chair recognizes the gentleman from Tennessee (Mr. Wamp).
+  Mr. WAMP. Mr. Chairman, I yield myself such time as I may consume.
+  (Mr. WAMP asked and was given permission to revise and extend his 
+remarks.)
+  Mr. WAMP. Mr. Chairman, this amendment simply raises the $1,000 limit 
+for individual contributions to House candidates to $2,000, which is 
+the same as the Senate-passed bill sets for Senators. The Senate-passed 
+bill raised their $1,000 contribution limit for the first time since 
+1974 to $2,000.
+  I believe that all 435 Members of the House should pay close 
+attention to what is happening, because I also believe that this 
+legislation will succeed through the legislative process and ultimately 
+be signed into law, and I do not think it is appropriate for the Senate 
+to have a different level on individual contribution limits than House 
+candidates.
+  I also think we need to look over the last generation at exactly what 
+has happened in individual contribution limits to House candidates. In 
+1974, this $1,000 was established, and individuals had that much 
+influence in the process at that time. The fact is that the value of 
+$1,000 in 1974 was a lot greater than the value of $1,000 in 2002. As a 
+matter of fact, if it was indexed to inflation, which we index other 
+factors of money and value, if it was indexed to inflation, it would be 
+well over $3,000. I realize raising it from $1,000 to $3,000 would be 
+too much to swallow at one time.
+
+                              {time}  2130
+
+  So this amendment is designed to strike a balance, to raise it to 
+$2,000, which was the balance struck that 59 U.S. Senators voted for 
+when this legislation cleared that body, because it is a reasonable 
+approach. And then it prospectively indexes that level to inflation so 
+that you will not have to come back and adjust it later.
+  The fact is this: individuals have less influence today in the 
+political process than they had then just because the value of their 
+participation has been reduced.
+  The Senate-passed bill also sets the limit for White House candidates 
+and Senators, but it leaves the House at $1,000. So we are the only one 
+of the considered that is not raised.
+  I think from a quality standpoint we need to raise it to $2,000. From 
+a value of individual contributions standpoint we need to raise it to 
+$2,000. I think we need to adopt the underlying premise they should be 
+indexed into the future.
+  I will just say this before I reserve the balance of my time: through 
+my 10 years of passionate involvement for campaign finance reform, I 
+have never wanted and never desired not only to hurt my party, but to 
+hurt the two-party system. I believe we should support the two-party 
+system, and I certainly do not want to in any way hurt my party. But I 
+never have been able to measure whether reform would help one party or 
+hurt the other party, and at different times I felt maybe one had an 
+advantage or not an advantage. I do not know how this will end up in 
+terms of who gains the advantage, but I truly believe that this measure 
+will strengthen the two-party system, and it will strengthen the 
+parties at a time where we are removing the unlimited, unregulated soft 
+money loophole. And when you remove that from the process, you need to 
+increase the hard-dollar, the individual dollar contribution 
+participation, so the parties can continue to thrive without looking to 
+some new loophole. The parties need individual participation, and this 
+will encourage individual participation.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. FARR of California. Mr. Chairman, I yield myself 1 minute to 
+speak in opposition to this bill.
+  Mr. Chairman, this is a bad amendment; but let me put it first in 
+perspective. Ten years ago President Bush vetoed a campaign finance 
+reform bill, a tougher bill than any of the votes we have taken 
+tonight. That bill that was on the President's desk banned soft money, 
+it limited PAC contributions, it put a limit on individual 
+contributions, it eliminated the issue-advocacy ads, it tightened the 
+coordinated expenses and independent expenditures, it put stricter 
+lowest-unit rate rules on broadcasters, and it allowed some public 
+financing.
+  That bill was vetoed. We had campaign finance reform in America, and 
+it was vetoed by the President. We hope that this President will not 
+veto this bill, but he should with this amendment in it. I will tell 
+you why. This is a bad amendment. More than 300 Members in this House 
+twice have voted against this amendment. The last two times that this 
+amendment was on the floor, overwhelmingly they defeated it. I urge 
+those Members to do the same tonight.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. WAMP. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Missouri (Mr. Hulshof).
+  (Mr. HULSHOF asked and was given permission to revise and extend his 
+remarks.)
+  Mr. HULSHOF. Mr. Chairman, I thank the gentleman for yielding me 
+time.
+  Mr. Chairman, I rise to ask support for the Wamp amendment.
+  Mr. Chairman, I think that we have been viewing this entire debate 
+through the eyes of 435 incumbents. I think we need to take a look at 
+what changes are we making to campaign finance laws through the eyes of 
+a challenger.
+  I have run as a challenger on two occasions, Mr. Chairman, in 1994 
+and 1996, and then as a sitting office-holder in 1998 and the year 
+2000. I can make a case that soft money actually benefits a challenger. 
+Nonetheless, I think we should ban soft money at the Federal level.
+  But what do we do to assist that challenger in the meantime? I think 
+the gentleman's amendment is right on point. We have to make it easier 
+for someone in our respective districts to take us on. Everybody knows 
+that there are inherent advantages to an incumbency, whether it is the 
+power of the frank, whether it is the ability to stand here and talk 
+and be recognized on C-SPAN. There are these built-in advantages to a 
+sitting office-holder.
+  What do we do for the 435 candidates who may want to seek to serve in 
+this body? Based on that issue, I think that this amendment is timely. 
+I think it is an issue of parity, as far as this body and the other 
+body; and I think with the corresponding ban on soft money, I think we 
+should look to an increase in hard dollars and really give those 
+challengers the ability to stand for public office.
+  Mr. FARR of California. Mr. Chairman, I yield 1 minute to the 
+gentleman from Oregon (Mr. DeFazio).
+  Mr. DeFazio. Mr. Chairman, in response to the gentleman before me, 
+hard money was outraised by incumbents 3.2 to 1. That is a totally BS 
+argument, to say, hey, this is going to help challengers. It is going 
+to help incumbents.
+
+[[Page H442]]
+
+  Lobbyists give 92 percent of their money in hard contributions. They 
+say oh, this limit is too low, $1,000. Yes, less than 1 percent of the 
+people in America contribute $1,000, so for 99 percent of the people, 
+this a moot argument. Yes, but for those fat cats, those people who can 
+afford the $1,000, this is an argument.
+  Come on, guys, let us get real. You say oh, the Senate, the Senate is 
+doing $2,000; $2,000 every 6 years. You are talking about $2,000 every 
+2 years. That means every 6-year Senate cycle they raise $2,000, you 
+raise $6,000.
+  So the arguments that are being drug before us are false arguments. 
+Many reformers back in 1974 argued for $100. Apply the inflation rate 
+to $100. It would be far less than the $1,000 of today. True reform, 
+get the money out, stick with the lower limits.
+  Mr. FARR of California. Mr. Chairman, I yield 1 minute to the 
+gentleman from Texas (Mr. Doggett).
+  Mr. DOGGETT. Mr. Chairman, if this important bipartisan Shays-Meehan 
+proposal has any defect, it is that it does too little, not too much, 
+as its detractors have claimed tonight.
+  With the Shays-Meehan proposal, we take a very important step to 
+reform, but it certainly is not the last step that we need to take. 
+Only one-ninth of 1 percent of Americans gave $1,000 to a federal 
+candidate during the last election cycle. The sole purpose of this 
+amendment is to allow that elite group to give even more.
+  If we succeed in banning soft money on the one hand, but we increase 
+the amount of hard money on the other hand, we will have simply taken 
+from one and given to another. We have merely traded Tweedle-Dee for 
+Tweedle-Dum.
+  The purported inequity that this amendment allegedly corrects is that 
+candidates for the Senate can receive $2,000 during a 6 year term. But 
+without this amendment, Members of the House can already receive $1,000 
+every 2 years or $3,000 during the same 6 year period. There is no 
+inequity to correct.
+  Mr. Chairman, this amendment should be rejected.
+  Mr. WAMP. Mr. Chairman, I yield myself 15 seconds to respond.
+  Mr. Chairman, in response to the gentleman from Oregon who said that 
+hard money in the last election was outraised 3.2 to 1, incumbents to 
+challengers, ask him what the ratio is of PAC money incumbents to 
+challengers. It is a lot higher, because PACs do not give to 
+challengers, and at least they can get individual contributions.
+  Mr. Chairman, I yield 1\1/2\ minutes to the gentleman from California 
+(Mr. Horn).
+  Mr. HORN. Mr. Chairman, I thank the gentleman for yielding.
+  Mr. Chairman, 3 years ago I was against raising the amount we could 
+have in our coffers for running for Congress. At that time the two 
+Democratic and Republican chairmen came to the Committee on Rules and 
+they said, well, we need $3,500. I thought that was too much.
+  I have changed my mind. We have had inflation and we need to index 
+it, and we ought to move from $1,000 to $2,000.
+  Those of us, and there are a number of them here in the Chamber, that 
+do not take political action committee money, who can give $5,000 to a 
+candidate, the way those of the rest of us look to our constituency and 
+our friends and the people that elected us, and those are the ones that 
+want to back us, we do not have to then be with the interests that too 
+often are in Washington and even in our States. So I hope we would move 
+from $1,000 to $2,000.
+  Mr. FARR of California. Mr. Chairman, I yield 1 minute to the 
+gentlewoman from California (Ms. Lee).
+  Ms. LEE. Mr. Chairman, I rise today to oppose this amendment which 
+doubles the amount of money an individual can donate to a candidate, 
+known as hard money, from $1,000 to $2,000. This amendment really is a 
+complete step backwards in trying to get money out of our political 
+system.
+  As Public Campaign states in its report called ``The Color of 
+Money,'' it is an indisputable fact of our political system that those 
+candidates and laws favored by wealthy contributors usually prevail 
+over those would-be backers who cannot afford to give such large sums 
+of money.
+  Now, because of wage disparities and lower incomes in minority and 
+poor communities, these constituencies just do not have large amounts 
+of money to contribute to campaigns. We only further disenfranchise 
+them if we raise the amount of hard money that an individual can 
+contribute.
+  Also this hard-money system makes it much harder for women, people of 
+color, and low-income people to run for office. It is really 
+undemocratic. Allowing that amount to be doubled will only give wealthy 
+people even more influence in our political system.
+  Mr. Chairman, I urge my colleagues to vote no on this very 
+discriminatory amendment. We should be reducing the hard-money limits, 
+rather than increasing them.
+  Mr. FARR of California. Mr. Chairman, I yield 1 minute to the 
+gentleman from Massachusetts (Mr. Tierney).
+  Mr. TIERNEY. Mr. Chairman, I thank the gentleman for yielding me 
+time.
+  Mr. Chairman, I have great respect for the gentleman from Tennessee 
+and believe that he is not bringing this amendment for any ill purposes 
+and may genuinely believe that he is doing a good thing here. But I 
+think logic, if we can talk for a second, argues otherwise.
+  The fact of the matter is, as others have mentioned here, the 
+underlying bill is trying to get money out of politics. We take target 
+on the soft money and move that along.
+  The fact of the matter, it seems incongruous and contradictory to 
+take a look and say now, on the hard money, we are going to increase 
+the amount on that. If you can get access, if you can play in this 
+political game at $1,000, you can certainly play at $2,000. For those 
+in our American system who have not been able to play at the $1,000 
+level, you will be even further excluded and feel even more remote from 
+the process.
+  There are already too many people participating in this system, too 
+few people registering and too few a percentage of those registered 
+people voting; and a great part of it is because they think people that 
+have money in the system have access. And that does not matter whether 
+it is soft money or hard money. If you double the hard-money limits, 
+then people that do not have $1,000 to throw in a pie and do not have 
+$2,000 think you are just making it more and more difficult for them to 
+have a voice.
+  Mr. FARR of California. Mr. Chairman, I yield 1 minute to the 
+gentleman from New Mexico (Mr. Udall).
+  Mr. UDALL of New Mexico. Mr. Chairman, I thank the gentleman for 
+yielding me time.
+  Mr. Chairman, I rise to oppose the Wamp amendment. Putting more big 
+money into the system is not the solution. We should be trying to 
+encourage candidates to raise dollars in smaller amounts, not 
+increasing the contribution amount to $2,000.
+  This debate reminds me of the discussion between the candidate and 
+the contributor. The contributor asked the candidate, what do I get if 
+I contribute $500 to your campaign? The candidate says, you get good 
+government.
+  The contributor says, well, what do I get if I contribute $1,000 to 
+your campaign? The candidate says, you get good government.
+  Well, how about $2,000? The answer is, you get any kind of government 
+you want.
+  We do not want to go down that road. Keep the $1,000 maximum 
+contribution limit. Vote no on the Wamp amendment.
+  Mr. FARR of California. Mr. Chairman, I yield 1 minute to the 
+gentlewoman from Michigan (Ms. Rivers).
+  Ms. RIVERS. Mr. Chairman, I rise in opposition to this amendment. To 
+limit the availability of soft money while simultaneously raising 
+individual contribution levels will not be seen as campaign finance 
+reform by our constituents.
+
+                              {time}  2145
+
+  It will simply look like the old bait and switch, like the old 
+Washington where one hand washes the other, where lots of dollars flow 
+to officeholders, and where the public interest is not the first 
+priority in lawmaking.
+  Senator Ev Dirksen once joked, a billion here, a billion there, and 
+pretty soon you are talking about some real money. Well, Mr. Chairman, 
+to many of our constituents, $1,000 might as well be $1 billion, and a 
+thousand here and a
+
+[[Page H443]]
+
+thousand there, and pretty soon we are talking about the flood of money 
+that saturates this place.
+  Our vote on the broadcasting industry tonight demonstrates the last 
+thing that we need in this town is more money. Please vote against this 
+amendment.
+  Mr. WAMP. Mr. Chairman, I yield 1\1/2\ minutes to the distinguished 
+gentleman from Texas (Mr. Barton).
+  (Mr. BARTON of Texas asked and was given permission to revise and 
+extend his remarks.)
+  Mr. BARTON of Texas. Mr. Chairman, I thank the gentleman for yielding 
+me this time.
+  Mr. Chairman, I want to give my colleagues a real world example under 
+today's rules. Now, this is a Republican primary example; it is not 
+Republican versus Democrat. There is a new seat down in Texas that my 
+son is running in. He is running among six other primary Republicans, 
+one of which spent $4 million to run in a primary in Houston 2 years 
+ago, $4 million, and got beat by a gentleman who is sitting on this 
+floor.
+  Now, under today's campaign finance rules, if my son is able to get 
+somebody on the telephone, I mean that is pretty good, just get them on 
+the phone and talk to them for 15 minutes, he might be able to get them 
+to send him a check for $1,000 in a race that he really needs to raise 
+$1 million, and that is a thousand phone calls that he is just not 
+going to get made.
+  Now, the gentleman from Tennessee (Mr. Wamp) says, let us at least 
+raise this thing for inflation so that if my son can get somebody on 
+the phone, he may be able to get $2,000. He is still not going to match 
+the $4 million that was spent 2 years ago, but he may be able to double 
+the efficiency.
+  If we were talking about raising this to $100,000, some of my friends 
+might have an argument against it, but going from $1,000 to $2,000, 
+there is a real-world example, admittedly in a Republican primary, 
+where this, if it were law today, would give a challenger candidate who 
+is not a millionaire an opportunity to have a chance to get enough 
+funding to at least be competitive.
+  So I rise in strong support of the Wamp amendment, and I ask for its 
+adoption.
+  Mr. FARR of California. Mr. Chairman, I yield myself such time as I 
+may consume.
+  Mr. Chairman, we have been down this road before. In 1998, the 
+gentleman from Kentucky (Mr. Whitfield) had this amendment. It was 
+debated in the same sense it was debated tonight, and it was soundly 
+rejected. Mr. Chairman, 315 Members of this body voted no. We are on 
+the recorded record on that.
+  In 1999 the gentleman from Kentucky (Mr. Whitfield) again offered 
+this amendment, the same debate, and 300 of us voted against it. Why? 
+Because there is no reform in campaign reform if we are doubling the 
+amount of money that we are putting into the bill.
+  This is not reform. We are trying to do history tonight. We are 
+trying to pass campaign finance reform. We cannot have reform out there 
+with a message that says, well, we did reform, but we just doubled the 
+amount of money that we can get from individual rich contributors. 
+There is only one way to have campaign finance reform, and that is to 
+defeat this amendment with the same 300 votes that voted against it in 
+1998 and 1999. You are on the record, do not flip flop.
+  Mr. FARR of California. Mr. Chairman, I yield 1 minute to the 
+gentleman from Maine (Mr. Baldacci).
+  Mr. BALDACCI. Mr. Chairman, I thank the gentleman for that exciting 
+rendition. The points the gentleman made were very succinct, and I 
+appreciate the gentleman raising those issues, including the number of 
+Members who had voted on this measure the last time, the over 300 
+Members that voted against this amendment.
+  I want to thank the gentleman on the other side for the hard work 
+that he has put forward in bringing about true campaign finance reform, 
+but I do disagree with him on this amendment.
+  I agree with the premise that we do not need to add more money into 
+the process; we should be looking at reducing it. The other thing that 
+we need to remember is nobody is forcing anybody to run for office. 
+People choose to run for office, and they should have that opportunity, 
+and it should not be all about money, and it should be about their 
+ideas.
+  I think this sends a totally wrong message. I would encourage the 
+body to vote down this amendment, as they did vote down this amendment 
+before, and say no to this kind of politics and yes to campaign finance 
+reform.
+  Mr. FARR of California. Mr. Chairman, I yield myself the remaining 
+time.
+  Everybody here has been elected under the law that allows a $1,000 
+limit. We had no problem getting elected. Many of us have been elected 
+many, many times. There is nothing broke out there that needs fixing. 
+The law is a good law, and let us keep that good law so that we can 
+have good, meaningful campaign finance reform tonight. Do not do it by 
+throwing away the message by doubling the amount of contributions that 
+one can take if this amendment is passed. This is a bad amendment. 
+Defeat it.
+  Mr. Chairman, I yield back the balance of my time.
+  Mr. WAMP. Mr. Chairman, in trying to change that law, I yield the 
+balance of our time to the distinguished gentleman from Connecticut 
+(Mr. Shays).
+  Mr. SHAYS. Mr. Chairman, I thank the gentleman for yielding.
+  This has been a spirited debate. We did not put it in our substitute 
+so we would, in fact, have this debate. We are going to live with 
+whatever the decision is afterwards, whether this amendment fails or 
+succeeds. I hope this amendment succeeds with all that I can urge. It 
+is not a question of going from the $1,000 to $2,000, it is a question 
+of going from $2 million to $2,000, or a half a million to $2,000, or 
+$200,000 to $2,000.
+  We have gotten elected in part because of all of this soft money 
+which we are going to see disappear. We are going to return it back to 
+individual Americans.
+  Mr. Chairman, $2,000 is more than $1,000, but it should be $3,500 if 
+we were looking at 1974. I urge my colleagues as Democrats and 
+Republicans to support this amendment.
+  This bill may become law. We are going to have to live with it for 
+the next many, many years, and I think my colleagues will agree that 
+$2,000 will be better in the years to come than $1,000 and will make it 
+equal to the Senate.
+  Ms. LEE. Mr. Chairman, I rise today to oppose the Wamp amendment, 
+which doubles the amount of money an individual can donate to a 
+candidate, known as hard money, from $1000 to $2000. I personally 
+believe that we should decrease this maximum amount by 50% to $500 if 
+we are really serious about campaign finance reform. The Wamp amendment 
+is a complete step backwards in trying to get the money out of our 
+political system.
+  As Public Campaign states in its report, The Color of Money, ``It is 
+an indisputable fact of our political system that those candidates and 
+laws favored by wealthy contributors usually prevail over those whose 
+backers, or would-be backers, cannot afford to give large sums. As 
+American University law professor Jamin Raskin has stated, this system 
+is `every bit as exclusionary to poorer candidates and voters as the 
+regime of the high filing fee and the poll tax' was in discriminating 
+against African Americans and poor people in the South.''
+  Because of wage disparities and lower incomes in minority and poor 
+communities, these constituencies don't have the resources to 
+contribute to campaigns. We only further disenfranchise them if we 
+raise the amount of hard money that an individual can contribute. 
+Additionally, this hard money system makes it much harder for women, 
+people of color, and low-income people to run for office. This is 
+undemocratic. Allowing that amount to be doubled will only give wealthy 
+people even more influence in our political system.
+  We see that influence every day. For example, wealthy Enron and 
+Arthur Andersen executives gave almost $800,000 in $1000 contributions 
+since the 1990 election cycle according to U.S. Public Interest 
+Research Group. Do we want to give these executives even more influence 
+over Congress?
+  A 2000 poll by the Mellman group found that 81 percent of voters 
+either support lowering the $1000 hard money limit or keeping it the 
+same. The American people oppose the Wamp amendment and we should, too. 
+I urge my colleagues to vote no on this very discriminatory amendment.
+  The CHAIRMAN pro tempore (Mr. Thornberry). The question is on the 
+amendment offered by the gentleman from Tennessee (Mr. Wamp).
+  The question was taken; and the Chairman pro tempore announced that 
+the ayes appeared to have it.
+
+[[Page H444]]
+
+                             Recorded Vote
+
+  Mr. FARR of California. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 218, 
+noes 211, not voting 6, as follows:
+
+                             [Roll No. 28]
+
+                               AYES--218
+
+     Abercrombie
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Barr
+     Bartlett
+     Barton
+     Bass
+     Biggert
+     Bilirakis
+     Bishop
+     Blunt
+     Boehlert
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Chabot
+     Chambliss
+     Clement
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Cramer
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Ferguson
+     Flake
+     Fletcher
+     Foley
+     Forbes
+     Ford
+     Fossella
+     Frelinghuysen
+     Frost
+     Ganske
+     Gekas
+     Gibbons
+     Gilchrest
+     Gillmor
+     Gilman
+     Goss
+     Graham
+     Granger
+     Graves
+     Green (WI)
+     Greenwood
+     Grucci
+     Gutknecht
+     Hansen
+     Hart
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Herger
+     Hill
+     Hilleary
+     Hobson
+     Hoeffel
+     Hoekstra
+     Horn
+     Hostettler
+     Houghton
+     Hoyer
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, E. B.
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     King (NY)
+     Kingston
+     Kirk
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Larson (CT)
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     LoBiondo
+     Lucas (KY)
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McHugh
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Moran (KS)
+     Morella
+     Myrick
+     Nethercutt
+     Ney
+     Norwood
+     Osborne
+     Otter
+     Oxley
+     Paul
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Quinn
+     Radanovich
+     Ramstad
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Shays
+     Sherwood
+     Shimkus
+     Shuster
+     Simmons
+     Simpson
+     Skeen
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tauzin
+     Taylor (NC)
+     Terry
+     Thomas
+     Thornberry
+     Tiahrt
+     Tiberi
+     Toomey
+     Towns
+     Upton
+     Visclosky
+     Vitter
+     Walsh
+     Wamp
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Wu
+     Wynn
+     Young (AK)
+     Young (FL)
+
+                               NOES--211
+
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barcia
+     Barrett
+     Becerra
+     Bentsen
+     Bereuter
+     Berkley
+     Berman
+     Berry
+     Blagojevich
+     Blumenauer
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clyburn
+     Coble
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     Deal
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Edwards
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Filner
+     Frank
+     Gallegly
+     Gephardt
+     Gonzalez
+     Goode
+     Goodlatte
+     Gordon
+     Green (TX)
+     Gutierrez
+     Hall (OH)
+     Hall (TX)
+     Harman
+     Hastings (FL)
+     Hefley
+     Hilliard
+     Hinchey
+     Hinojosa
+     Holden
+     Holt
+     Honda
+     Hooley
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Jenkins
+     John
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     Lofgren
+     Lowey
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Mollohan
+     Moore
+     Moran (VA)
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Northup
+     Nussle
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Ose
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pelosi
+     Peterson (MN)
+     Phelps
+     Platts
+     Pomeroy
+     Price (NC)
+     Rahall
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ross
+     Rothman
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Saxton
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Sherman
+     Shows
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Taylor (MS)
+     Thompson (CA)
+     Thompson (MS)
+     Thune
+     Thurman
+     Tierney
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Walden
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Wexler
+     Woolsey
+
+                             NOT VOTING--6
+
+     Ballenger
+     Brady (TX)
+     Cubin
+     Riley
+     Roukema
+     Traficant
+
+                              {time}  2212
+
+  Mrs. KELLY, Mrs. EMERSON, and Messrs. HYDE, LoBIONDO, LUCAS of 
+Kentucky, COLLINS and FORD changed their vote from ``no'' to ``aye''.
+  So the amendment was agreed to.
+  The result of the vote was announced as above recorded.
+
+                              {time}  2215
+
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Texas (Mr. Armey).
+
+
+                Amendment No. 33 Offered by Mrs. Emerson
+
+  Mrs. EMERSON. Mr. Chairman, I offer an amendment as the designee of 
+the gentleman from Texas (Mr. Armey).
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 33 offered by Mrs. Emerson:
+       Amend section 323(b) of the Federal Election Campaign Act 
+     of 1971, as proposed to be added by section 101(a) of the 
+     bill, to read as follows:
+       ``(b) State, District, and Local Committees.--An amount 
+     that is expended or disbursed for Federal election activity 
+     by a State, district, or local committee of a political party 
+     (including an entity that is directly or indirectly 
+     established, financed, maintained, or controlled by a State, 
+     district, or local committee of a political party and an 
+     officer or agent acting on behalf of such committee or 
+     entity), or by an association or similar group of candidates 
+     for State or local office or individuals holding State or 
+     local office, shall be made from funds subject to the 
+     limitations, prohibitions, and reporting requirements of this 
+     Act.
+       Amend section 323(e)(3) of the Federal Election Campaign 
+     Act of 1971, as proposed to be added by section 101(a) of the 
+     bill, to read as follows:
+       ``(3) Fundraising events.--Notwithstanding paragraph (1), a 
+     candidate or an individual holding Federal office may attend, 
+     speak, or be a featured guest at a fundraising event for a 
+     State, district, or local committee of a political party.
+       Amend section 304(e)(2) of the Federal Election Campaign 
+     Act of 1971, as proposed to be added by section 103(a) of the 
+     bill, to read as follows:
+       ``(2) Other political committees to which section 323 
+     applies.--In addition to any other reporting requirements 
+     applicable under this Act, a political committee (not 
+     described in paragraph (1)) to which section 323(b) applies 
+     shall report all receipts and disbursements made for 
+     activities described in section 301(20)(A), unless the 
+     aggregate amount of such receipts and disbursements during 
+     the calendar year is less than $5,000.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentlewoman from Missouri (Mrs. Emerson) and a Member opposed, 
+the gentleman from Michigan (Mr. Levin), each will control 10 minutes.
+  The Chair recognizes the gentlewoman from Missouri (Mrs. Emerson).
+  Mrs. EMERSON. Mr. Chairman, I yield myself such time as I may 
+consume.
+  In November of 2000, on the night of my reelection, I told my 
+constituents that I firmly supported meaningful campaign finance 
+reform. That position has not changed and it will not change.
+  I know how hard the sponsors of this bill have worked, and I want to 
+commend them for it; but if our goal is to reduce the influence of soft 
+money, this bill does not go far enough. This bill is not true campaign 
+finance reform. This bill is campaign finance hide and seek.
+  The fact of the matter is soft money will seek a place to hide, and 
+there is a place to hide in this bill, dark enough and big enough to 
+provide cover for mountains of soft money. This bill provides that 
+cover for obscene amounts of money without Federal disclosure, without 
+Federal reporting and in total darkness. This is hide and seek at its 
+best or its worst.
+  In my home State of Missouri, it means for example that 10 
+corporations and 10 unions could give over $10 million of soft money to 
+each party each year. If creating that loophole were not bad enough, 
+Shays-Meehan creates an even bigger loophole by allowing Members of 
+Congress, us, to raise unlimited
+
+[[Page H445]]
+
+soft money from 501(c) tax-exempt organizations. That is an outrage and 
+even Senator McCain did not support that loophole.
+  Labor unions worry that corporate soft money is killing our political 
+system, and business interests worry that unions and union soft money 
+is killing our political system. In fact, the fact of the matter is 
+that the flood of soft money from both sides, from both sides drowns 
+out the only voices which are important. Those are the voices of the 
+American people.
+  The only way to allow the voices of the American people to be heard 
+is to totally ban all soft money. Let us support true campaign finance 
+reform, reform that closes all the loopholes. Let us get rid of the 
+Levin loophole. Let us get rid of the midnight loophole to solicit 
+501(c) organizations, and let us ban all soft money.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. LEVIN. Mr. Chairman, I yield myself 3 minutes.
+  Anyone who believes in grassroots activities must vote no on this 
+amendment. It has been subject, as it has been true of other 
+provisions, of grotesque mischaracterization.
+  What this does is not open the flood gates. It is make sure there is 
+no flood gate. Instead, there is a channel for grassroots activity 
+indeed for the people to be heard. The Senate adopted this provision on 
+a bipartisan basis to preserve for the States and for the local parties 
+an important role in traditional grassroots activities: registration, 
+get out the vote, voter identification. Everybody should understand 
+these restrictions.
+  The non-Federal of the State portion must be raised in accordance 
+with State law, and many States prohibit corporate or labor union 
+money. There is a limit by any entity of $10,000. There can be no 
+mention, and I emphasize this, of a Federal candidate. There can be no 
+expenditure of these moneys for broadcast television or for radio ads; 
+and the State portion, the non-Federal portion, cannot be raised by a 
+Federal office-holder or candidate. They cannot be transferred among 
+committees. They cannot be raised in coordination with other political 
+parties, and there has to be an allocation according to the FEC rules. 
+There has to be a Federal hard-dollar match for these moneys.
+  There is no way this opens a flood gate. Instead, what this does is 
+create an opportunity for the people to be heard, for grassroots 
+activities to continue, for there to be voter identification, 
+registration without a single reference to any Federal candidate. That 
+is why Senator McCain and Senator Feingold supported this, and it was 
+adopted by voice vote in the Senate.
+  This amendment is a poison pill, not only for this bill. It is a 
+poison pill if adopted for grassroots activities. I have heard so much 
+on that side of the aisle about the importance of grassroots activities 
+of democratic, with a small D, participation. This amendment runs 
+counter to that rhetoric.
+  I suggest that in a resounding way we vote no on this terribly 
+misguided amendment.
+  Mr. Chairman, I reserve the balance of my time.
+  Mrs. EMERSON. Mr. Chairman, I yield 2\1/2\ minutes to the gentleman 
+from North Carolina (Mr. Hayes).
+  Mr. HAYES. Mr. Chairman, I thank the gentlewoman from Missouri (Mrs. 
+Emerson) for yielding me the time.
+  Folks have been here a long time. The real moment of truth has 
+arrived. Are my colleagues going to fish or are they going to cut bait? 
+I strongly, enthusiastically, heartily support the gentlewoman's 
+amendment.
+  This is campaign finance reform. It takes care of the problem on page 
+79 of the so-called latest and greatest Shays-Meehan bill, that page 
+that allows soft money to borrow hard money and pay it back after the 
+election. This fixes the problem now. In some precincts in Missouri I 
+heard there was over 110 percent turnout. That is the kind of soft-
+money results that the other bill that is before us provides. Is that 
+campaign finance reform? I do not think so.
+  Let us be serious. Here is the real thing. Here is our chance, our 
+real chance to reform, to fix; and I submit to my colleagues that it is 
+not money that is the problem. It is people who are the problem; but if 
+we believe that it is money, fix it, take it out, take it now, let us 
+do it. Let us reform campaign finance and support the gentlewoman from 
+Missouri's (Mrs. Emerson) amendment.
+  Mr. LEVIN. Mr. Chairman, I yield 2 minutes to the gentlewoman from 
+Texas (Ms. Jackson-Lee), a very distinguished Member.
+  Ms. JACKSON-LEE of Texas. Mr. Chairman, I thank the gentleman from 
+Michigan (Mr. Levin) very much for yielding me the time.
+  I would ask my colleagues, are we afraid of the committeemen and 
+women, the precinct judges, the party Chairs, the people who are really 
+on the ground exercising their democratic principles, their principles 
+of belief in their parties, be it Republican or Democrat? This language 
+has nothing to do with special interest dollars influencing the votes 
+of Members of the House or Senate.
+  All it has to do is providing resources so that people who live in 
+our communities, who work every day in political activities can, in 
+fact, exercise the democratic process. These are resources to build 
+party structures. These are resources to enable the grassroots, to get 
+people involved, to do voter registration, to help young people become 
+involved, not in terms of special interest dollars, but providing them 
+the resources, maybe the stamps, maybe the literature, that helps 
+encourage people to be part of this process. The Levin provision only 
+allows what States already do themselves, there is no federal 
+intervention.
+  I believe this is an asset. This is something that contributes to 
+what we are trying to do, get more people involved, say yes you can be 
+involved and your voice is very important.
+  This deals with a myriad of groups. It does not isolate groups. It 
+does not distinguish or suggest that people cannot be involved. These 
+are resources that will be given to allow us to organize in our 
+communities. I cannot imagine any of us that go home to any of our 
+respective communities would ever say to the committeemen who work long 
+hard hours, to precinct judges that work with us, to the activists that 
+work with us, that their work in encouraging people to vote is not 
+important.
+  I would ask my colleagues to look at these resources as it is. These 
+are not dollars that come to any one of us. These are not dollars that, 
+in fact, have direct influence and direct us in any way in making 
+decisions on policy. These are dollars that have to do with bringing in 
+a whole group of individuals who will have the opportunity to exercise 
+their view and viewpoints. This is not a good amendment, and I would 
+ask my colleagues to defeat it.
+  Mrs. EMERSON. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Ohio (Mr. Ney), the tremendous chairman of the Committee on House 
+Administration.
+  Mr. NEY. Mr. Chairman, I thank my colleague for yielding me the time.
+  This, of course, what my colleague is trying to correct, this is the 
+Enron limousine part of Shays-Meehan, $60 million-some with the Levin 
+amendment. We call it the Enron limousine. They could have spread 
+around $60 million-some.
+  I think we have heard it all tonight. I do not know if it is because 
+it is getting late or because we have just got to create more on the 
+floor of the House. We have heard it all. Now eliminating soft money, 
+which is what this amendment does, is a poison pill. We have really 
+evolved.
+  Somebody said this bill has barely changed. It is not the same 
+species. I cannot believe that we are talking about doing something 
+good with the elimination of the soft money, it now becomes a poison 
+pill; but back-room deals can be cut all the time to evolve this bill. 
+We bring up good amendments and all of the sudden they are just not 
+good enough.
+  In defense, somebody said tonight it can only be used for good 
+purposes. It is still influence-peddling when someone is going to throw 
+that money around. From our point of view, this is what my colleagues 
+have said hundreds of times about this type of soft money. 501(c)(3) 
+too is also in here, the 501(c)(3)s, and there is a building fund. This 
+is so full of soft money, and my colleagues know it.
+  This is a good amendment, makes a good correction. I urge support of 
+the amendment.
+  Mr. LEVIN. Mr. Chairman, how much time is there, please?
+
+[[Page H446]]
+
+  The CHAIRMAN pro tempore. The gentlewoman from Missouri (Mrs. 
+Emerson) has 4\1/2\ minutes remaining. The gentleman from Michigan (Mr. 
+Levin) has 5 minutes remaining.
+  Mr. LEVIN. Mr. Chairman, I yield myself 15 seconds.
+  The $50 million figure comes out of thin air, made of whole cloth; 
+and the gentleman who just spoke wants to have unlimited soft money 
+while this is money under State law, carefully, carefully confined to 
+grassroots activity.
+  No one should vote for the Emerson amendment.
+  Mr. Chairman, I yield 2 minutes to the gentleman from Connecticut 
+(Mr. Shays), one of the chief cosponsors of this bill.
+  Mr. SHAYS. Mr. Chairman, I thank the gentleman from Michigan (Mr. 
+Levin) for yielding me the time.
+  This is a very interesting debate. We are on different sides. The 
+gentleman from Ohio (Mr. Ney) has a bill that will be coming up that 
+has no limits to soft money on the State level and some limits in soft 
+money on the Federal level; but on the State level he will allow 
+Federal employees to raise that money on the State level.
+  The gentleman from Michigan (Mr. Levin) has an amendment that he is 
+trying to keep in the bill that was put in by the Senate. The Senate 
+wants this amendment. They believe it is fair because they believe it 
+does not involve any Federal employees, any Federal office-holders, any 
+Federal party people.
+
+                              {time}  2230
+
+  It is soft money raised by a State, and a State chooses to do it. Any 
+State that does not allow soft money, there is no soft money. We are 
+allowing States to do what they want to do for their elections, for 
+local and State elections.
+  Now, I confess to my colleagues that there was an amendment that did 
+this before. The gentleman from Arkansas had an amendment where he 
+wanted the States to raise soft money, and I opposed it because I knew 
+we would eventually send it to the Senate. I wish this amendment were 
+not here, as a purest, but I think it is fair. My concern is that it is 
+a good amendment now, that it could be changed over time, but it is 
+fair now. It works now. And it is absolutely essential if we are to 
+pass this bill that this amendment stay in and that the amendment being 
+offered not be allowed to pass. I cannot emphasize it enough.
+  We have had some easy votes, maybe my colleagues think. They are 
+going to be really, really close now. After all this, we are going to 
+defeat this bill by accepting an amendment that frankly is pretty 
+amazing given that the gentleman from Ohio (Mr. Ney), in a few moments, 
+is going to offer an amendment to allow unlimited soft money at the 
+State level.
+  So is this a perfect bill? No. It is 85 percent of what I would like 
+it to be. The gentleman from Michigan (Mr. Levin) and I have had 
+debates about this, because I think this is something that could be 
+turned into something later on. But as it is constructed, as it is 
+used, it is fair. It makes sense. No Federal employees can raise it, it 
+cannot be used by Federal employees, it has limited use, and it cannot 
+be used for any advertising.
+  Mrs. EMERSON. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Arizona (Mr. Flake).
+  Mr. FLAKE. Mr. Chairman, I thank the gentlewoman for yielding me this 
+time.
+  We have come full circle. It is 10:30 on a Wednesday night, and I 
+think we have heard just about everything. We have heard that soft 
+money is evil, yet now it is okay. We have heard from the other side 
+that we have to do without it, but now we cannot do without it. We have 
+heard that we have to get rid of it, but now we need it to 
+collateralize loans for hard money and then to pay off hard money loans 
+through an amendment in the middle of the night that nobody seems to 
+want to own up to.
+  We have heard it all. Let us call this what it is. It is a blatant 
+attempt to buy the last couple of votes needed for this bill, and it 
+keeps getting worse and worse and worse. I wonder at what point people 
+will stand up and say, enough. This is not the bill we started out 
+with. It keeps getting worse.
+  We have come full circle. Soft money is bad; now it is not only good, 
+it is necessary to promote grassroots activity. Which is it? Please 
+tell us.
+  I urge support of the Emerson amendment.
+  Mr. LEVIN. Mr. Chairman, how much time is remaining?
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentlewoman from 
+Missouri (Mrs. Emerson) has 3\1/2\ minutes remaining, the gentleman 
+from Michigan (Mr. Levin) has 2\3/4\ minutes remaining. The gentlewoman 
+from Missouri has the right to close.
+  Mrs. EMERSON. Mr. Chairman, I reserve the balance of my time.
+  Mr. LEVIN. Mr. Chairman, I yield myself 15 seconds. To the gentleman 
+from Arizona, if he wants to defame the Members of the Senate, Mr. 
+McCain, Mr. Feingold, and all others who voted in favor of this, it was 
+by voice vote, go ahead and do so. Go ahead and do so. The gentleman is 
+making a mistake.
+  This is to preserve grassroots activity and nothing else.
+  Mr. Chairman, I reserve the balance of my time.
+  Mrs. EMERSON. Mr. Chairman, I yield 1 minute to the gentleman from 
+California (Mr. Ose).
+  Mr. OSE. Mr. Chairman, I thank the gentlewoman from Missouri for 
+yielding me this time.
+  Let me just say that I do not serve in the Senate. I serve in the 
+House. My district goes up and down the center part of California. And 
+while I am very respectful of what the fine Senators in the other body 
+might have to do or say, maybe two of California's Senators might visit 
+my district sometime in the next few months and find out what they are 
+saying, with all due respect to the gentleman. They do not speak for my 
+district, I speak for my district. And if they want to come to my 
+district and visit with my people, I will be happy to have a town hall 
+meeting with them.
+  Mr. LEVIN. Mr. Chairman, I yield myself such time as I may consume to 
+respond to the gentleman from California that I think his Senators will 
+take up his invitation.
+  Mr. Chairman, I yield the balance of my time to the gentleman from 
+Massachusetts (Mr. Meehan), who has worked so hard on this bill and who 
+very much opposes this poison pill amendment.
+  The CHAIRMAN pro tempore. The gentleman from Massachusetts is 
+recognized for 2\1/2\ minutes.
+  Mr. MEEHAN. Mr. Chairman, I thank the gentleman from Michigan for 
+yielding me this time.
+  It is about 10:35 at night, and the amendments continue. This is an 
+amendment, another attempt to destroy the coalition that we have held 
+together over a period of the last several years. There have been 
+negotiations that have taken place that have been bipartisan and 
+bicameral. We have a historic opportunity here in this House to pass a 
+bill that will fundamentally change the way elections are held in this 
+country. A historic opportunity.
+  The only way we are not going to have this opportunity is if the 
+opponents of reform are able to pass an amendment that is designed to 
+kill the bill. We have faced a series of those amendments, all taken in 
+last night at about 12 o'clock and all designed to break up the 
+coalition. Sometimes they try to break off Democrats, sometimes they 
+try to break off Republicans, sometimes they have amendments that the 
+Senate will never go along with. Sometimes it is Senate Republicans 
+they are trying to offend. Anything and everything that can be proposed 
+to try to defeat McCain-Feingold/Shays-Meehan has been proposed this 
+evening. This is nothing more than the latest attempt.
+  But I want to tell my colleagues something. The American people get 
+it. The American people are watching this debate tonight waiting to see 
+who is for real reform, who is trying to break up the coalitions, who 
+wants to pass a bill, and who wants to kill a bill, because every 
+person in this House knows that if we pass a bill designed to go to the 
+conference committee, it is going to die in conference, just where a 
+patient's bill of rights is dying. Just where campaign finance reform 
+in the past has died. That is why we have preconferenced this bill with 
+the Senate, to design a bill that is balanced and fair to both 
+political parties.
+
+[[Page H447]]
+
+  Now, if my colleagues want to defeat campaign finance reform, they 
+will have yet another possibility to do that. That is this amendment. 
+And after this amendment, we will have other amendments designed to 
+kill this bill. But I believe a majority of the Members of this House 
+are ready to stand in a bipartisan way, whether it takes until 11 
+o'clock, 12 o'clock, 1 a.m., 2 a.m., 3 a.m., or 4 a.m. we are going to 
+stand tall, opposed to any amendment that will break up our coalition.
+  I ask all Members on both sides of the aisle to defeat this amendment 
+and pass campaign finance reform.
+  Mrs. EMERSON. Mr. Chairman, I yield myself such time as I may 
+consume, and I would like to ask my good friend, the gentleman from 
+Massachusetts (Mr. Meehan), one question, please.
+  If soft money is so corrupting, why then does the gentleman allow any 
+soft money to be legal in this bill?
+  Mr. MEEHAN. Mr. Chairman, will the gentlewoman yield?
+  Mrs. EMERSON. I yield to the gentleman from Massachusetts.
+  Mr. MEEHAN. Mr. Chairman, if the gentlewoman thinks soft money is 
+okay, why does she oppose the $10,000 limit?
+  Mrs. EMERSON. I hate soft money.
+  Mr. MEEHAN. Can I answer the question?
+  Mrs. EMERSON. Yes.
+  Mr. MEEHAN. This is a limited amount, $10,000. It cannot go for 
+television ads, it cannot go for radio ads.
+  Mrs. EMERSON. Wait, stop, everyone.
+  Mr. MEEHAN. It cannot go for radio ads.
+
+
+                Announcement by the Speaker pro tempore
+
+  The CHAIRMAN pro tempore. The gentleman will suspend.
+  The Chair again requests that Members use the proper procedure in 
+yielding back and forth to each other. The gentlewoman from Missouri 
+(Mrs. Emerson) controls the time. If the gentlewoman chooses to yield 
+further to the gentleman from Massachusetts, she may do so.
+  Mrs. EMERSON. Mr. Chairman, I would like to just have a very short 
+answer from the gentleman.
+  Mr. MEEHAN. If the gentlewoman will continue to yield, my brief 
+answer is we believe that the million-dollar contributions, like the $4 
+million to Enron over a period of 10 years, the $2 million in the last 
+election cycle, that is what we are fighting; the $2 million ends up in 
+television ads.
+  This is $10,000 that cannot go on television. It cannot do anything 
+but build both parties.
+  Mrs. EMERSON. Mr. Chairman, reclaiming my time, how much time do I 
+have remaining?
+  The CHAIRMAN pro tempore. The gentlewoman has 1\1/2\ minutes 
+remaining.
+  Mrs. EMERSON. Mr. Chairman, I yield 15 seconds to the gentleman from 
+Ohio (Mr. Ney).
+  Mr. NEY. Mr. Chairman, I just want to point out that Shays-Meehan has 
+been passed around and changed more than a baby at an all-day baptism 
+party in the last 2 weeks and last night.
+  And the other thing is, my friends from Michigan and Connecticut do 
+not get the point. We have a good bill, the gentleman from Maryland 
+(Mr. Wynn) and I. We did not claim it was from the outset completely 
+pure. My colleagues all claim to ban soft money, but they do not.
+  Mrs. EMERSON. Mr. Chairman, I yield myself the remaining time.
+  Back a couple of amendments ago, I heard the gentleman from 
+Massachusetts (Mr. Meehan) talk about the corruption of soft money and 
+how we do not have a prescription drug bill for senior citizens because 
+of soft money, and his bill does not ban it. In the gentleman's bill 
+there are big huge loopholes for obscene amounts of money from 
+pharmaceutical companies, from unions, from whomever to keep us from 
+doing good legislation.
+  If we are really serious about this, we will ban all soft money now 
+and forever.
+  Mr. Chairman, I yield back the balance of my time.
+  The CHAIRMAN pro tempore. The question is on the amendment offered by 
+the gentlewoman from Missouri (Mrs. Emerson).
+  The question was taken; and the Chairman pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. LEVIN. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 185, 
+noes 244, not voting 6, as follows:
+
+                             [Roll No. 29]
+
+                               AYES--185
+
+     Aderholt
+     Akin
+     Armey
+     Baker
+     Bartlett
+     Barton
+     Bereuter
+     Biggert
+     Bilirakis
+     Blunt
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Conyers
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Ferguson
+     Flake
+     Fletcher
+     Foley
+     Forbes
+     Fossella
+     Frelinghuysen
+     Gallegly
+     Gekas
+     Gibbons
+     Gillmor
+     Goode
+     Goodlatte
+     Goss
+     Granger
+     Graves
+     Green (WI)
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kingston
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McHugh
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Moran (KS)
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Osborne
+     Ose
+     Otter
+     Oxley
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Saxton
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shuster
+     Simpson
+     Skeen
+     Smith (MI)
+     Smith (NJ)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Terry
+     Thomas
+     Thornberry
+     Thune
+     Tiahrt
+     Tiberi
+     Upton
+     Vitter
+     Walden
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Young (AK)
+     Young (FL)
+
+                               NOES--244
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Bachus
+     Baird
+     Baldacci
+     Baldwin
+     Ballenger
+     Barcia
+     Barr
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Dunn
+     Edwards
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Filner
+     Ford
+     Frank
+     Frost
+     Ganske
+     Gephardt
+     Gilchrest
+     Gilman
+     Gonzalez
+     Gordon
+     Graham
+     Green (TX)
+     Greenwood
+     Grucci
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holden
+     Holt
+     Honda
+     Hooley
+     Horn
+     Hostettler
+     Houghton
+     Hoyer
+     Hulshof
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kerns
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     King (NY)
+     Kirk
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Mollohan
+     Moore
+     Moran (VA)
+     Morella
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Paul
+     Payne
+     Petri
+     Phelps
+     Platts
+     Pomeroy
+     Price (NC)
+     Quinn
+     Rahall
+     Ramstad
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ross
+     Rothman
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Schaffer
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Shows
+     Simmons
+
+[[Page H448]]
+
+
+     Skelton
+     Slaughter
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Thompson (CA)
+     Thompson (MS)
+     Thurman
+     Tierney
+     Toomey
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Wexler
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+
+                             NOT VOTING--6
+
+     Brady (TX)
+     Cubin
+     Pelosi
+     Riley
+     Roukema
+     Traficant
+
+                              {time}  2300
+
+  Mr. TOOMEY and Mr. KERNS changed their vote from ``aye'' to ``no.''
+  Mr. BURTON of Indiana changed his vote from ``no'' to ``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Texas (Mr. Armey).
+
+
+                 Amendment No. 34 Offered by Mr. Wicker
+
+  Mr. WICKER. Mr. Chairman, as the designee of the majority leader, I 
+offer an amendment.
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 34 offered by Mr. Wicker:
+       Add at the end of title III the following new section:
+
+     SEC. 320. BANNING POLITICAL CONTRIBUTIONS IN FEDERAL 
+                   ELECTIONS BY ALL INDIVIDUALS NOT CITIZENS OR 
+                   NATIONALS OF THE UNITED STATES.
+
+       Section 319(b)(2) of the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 441e(b)(2)) is amended by striking the period 
+     at the end and inserting the following: ``, or in the case of 
+     an election for Federal office, an individual who is not a 
+     citizen of the United States or a national of the United 
+     States (as defined in section 101(a)(22) of the Immigration 
+     and Nationality Act).''.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentleman from Mississippi (Mr. Wicker) and the gentleman from 
+Maryland (Mr. Hoyer) each will control 10 minutes.
+  The Chair recognizes the gentleman from Mississippi (Mr. Wicker).
+  Mr. WICKER. Mr. Chairman, I yield myself 3\1/2\ minutes.
+  Mr. Chairman, this is a simple amendment. It closes a loophole in our 
+current campaign finance system which allows foreign interests to 
+influence United States elections. It requires that contributions to 
+Federal candidates be made by either United States citizens or American 
+nationals.
+  When discussing this amendment with many of my colleagues, Mr. 
+Chairman, they have asked me, ``Isn't that already the current law?'' 
+Unfortunately, Mr. Chairman, it is not the current law. And so this 
+amendment is being offered and designed to combat foreign influence in 
+our elections and in our Federal Government.
+  The Shays-Meehan campaign regulations bill permits contributions from 
+permanent resident aliens. The problem is this, Mr. Chairman: The 
+Federal Election Commission has interpreted this exemption to the point 
+where all a foreign citizen, a foreign citizen, needs is an address in 
+the United States to be permitted to make a contribution. This alien 
+loophole makes it easier for foreign interests to funnel money to 
+United States political campaigns.
+  Hours ago on this floor of the House, my friend the gentleman from 
+Massachusetts (Mr. Meehan) mentioned that it might take more than one 
+scandal to bring a bill to the floor. He mentioned several, but one of 
+the scandals he mentioned was the contribution of foreign nationals to 
+our Federal election in 1996. He mentioned that as one of the scandals 
+that we had had in the United States of America, and indeed it was. The 
+American people witnessed in the Clinton-Gore campaign a breathtaking 
+willingness to solicit campaign money from noncitizens. It is this 
+abuse which my amendment is designed to address. The video of Al Gore 
+soliciting money from Buddhist monks who had taken a vow of poverty is 
+an example of the type of campaign finance abuses this amendment 
+addresses.
+  This is a serious matter. The fact that it is simple in nature does 
+not take away from the seriousness of it. We are talking about 
+protecting our process from campaign contributions from China, 
+Indonesia, Saudi Arabia, wherever, into our system.
+  This amendment, has already passed this House of Representatives on 
+three occasions: once under suspension as a freestanding bill and twice 
+as amendments to the Shays-Meehan legislation. In the 105th Congress, 
+it received a vote of 282-126; in the 106th Congress, a margin of 242-
+181.
+  On both of those occasions, the amendment was adopted, the Shays-
+Meehan bill came to final passage, and the Shays-Meehan bill was 
+adopted overwhelmingly in the House of Representatives. So I challenge 
+those of my colleagues who have been saying throughout the afternoon 
+that this amendment is a poison pill amendment. We have adopted three 
+amendments already today which I think have improved this legislation.
+  This amendment is one that has widespread bipartisan support. I urge 
+my colleagues to adopt it as they have the other three amendments.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HOYER. Mr. Chairman, I yield myself 5 seconds. This amendment 
+takes away rights that currently exist.
+  Mr. Chairman, I yield 1 minute to the gentlewoman from Hawaii (Mrs. 
+Mink).
+  Mrs. MINK of Hawaii. I thank the gentleman for yielding me this time.
+  Mr. Chairman, I represent well over 100,000 individuals in my State 
+who are legal residents who have come here to make a life for their 
+families.
+  The Constitution was written by some very, very wonderful people who 
+made no distinction whatsoever in guaranteeing the rights and 
+privileges of this country when they wrote the word ``persons.'' They 
+did not say ``citizens.'' They said ``persons.'' And the courts time 
+and time again have protected the rights of persons within the United 
+States. They have not made any discriminations, neither should we, in 
+terms of dealing with these people who are legally here.
+  Twenty thousand legal residents currently serve in the military. More 
+than 20 percent of Americans who have received the Congressional Medal 
+of Honor were legal residents. How can we deny legal residents the 
+right to care about what is happening in this country? We need to keep 
+them in the political process. Do not write them off. They are our 
+friends. They are part of our community. We should respect the work 
+that they do.
+  Mr. WICKER. Mr. Chairman, I yield 2 minutes to the gentleman from 
+Arizona (Mr. Hayworth).
+  Mr. HAYWORTH. Mr. Chairman, I thank my friend from Mississippi for 
+yielding me this time, and I thank my friend from Hawaii for her 
+impassioned statement.
+  You know, the whole purpose of the amendment process is to offer 
+perfecting amendments, and indeed, if we followed the gentlewoman's 
+logic, then we would allow noncitizens to vote. After all, should they 
+not have a voice? Indeed, we have seen evidence of that in recent 
+election campaigns, just as we saw in 1996, Bernard Schwartz, the 
+leading contributor to the Democratic Party, and his Loral Missile 
+Systems give the Communist Chinese guidance systems, and our Commander 
+in Chief at that time did absolutely nothing. And that was an outrage. 
+But we understand the pop psychology of the left: ``Oh, gee, it's just 
+this horrible system. I didn't really mean it. It's just a horrible 
+system.''
+  Now, my friends, here is your chance to change the system, to say 
+lawful citizens can contribute. No more financiers of Red Pagoda 
+Communist Chinese cigarettes, no more daughters of the head of the 
+Chinese equivalent of the CIA who showed up in the Oval Office, no more 
+sham corporations, Chinese shell corporations operated by the Red Army 
+of China doing their dirty work through soft money to a Clinton-Gore 
+reelection campaign.
+  If you are serious about reform, stand up for national security, 
+stand up for this perfecting amendment, but I know the Orwellian phrase 
+will be, somehow this is a poison pill. Yes, I guess it is poisonous to 
+disallow enemies of this state access to our political system. That is 
+so bizarre.
+  Shame on those who advocate this. Support this amendment. Stand up 
+for America. Improve the system.
+  Mr. HOYER. Mr. Chairman, I yield myself 15 seconds.
+  The CHAIRMAN pro tempore. The Committee will be in order.
+
+[[Page H449]]
+
+  Mr. HOYER. The House is not in order, and particularly the gentleman 
+from Arizona is not in order.
+  The CHAIRMAN pro tempore. More than one Member is not in order.
+
+
+                         Parliamentary Inquiry
+
+  Mr. HAYWORTH. Parliamentary inquiry, Mr. Chairman.
+  The CHAIRMAN pro tempore. The gentleman will state his inquiry.
+  Mr. HAYWORTH. Mr. Chairman, is it appropriate for a Member of the 
+House to impugn the motives or the conduct of another Member of the 
+House?
+  The CHAIRMAN pro tempore. The Chair would respond that all Members 
+should refrain from impugning the personal motives of other Members or 
+engaging in personalities.
+  The Chair would also respond that the Chair is simply attempting to 
+maintain order so that we can work our way through the amendments. If 
+the Members would cooperate, that would be helpful.
+  The Chair recognizes the gentleman from Maryland (Mr. Hoyer).
+
+                              {time}  2315
+
+  Mr. HOYER. Mr. Chairman, I yield myself 15 seconds.
+  Mr. Chairman, tarring with a broad brush is not worthy of this House. 
+It has happened before, and it has demeaned the Constitution and the 
+generosity of the Statue of Liberty that stands at her door.
+  Mr. Chairman, I yield 1 minute to the distinguished gentleman from 
+New Jersey (Mr. Menendez).
+  Mr. MENENDEZ. Mr. Chairman, it is obvious that xenophobia is alive 
+and well in some quarters of this Chamber.
+  This is not about foreign influence. Legal permanent residents are 
+the sons and daughters, brothers and sisters, mothers and fathers of 
+United States citizens who obeyed the rules, followed the laws, and now 
+are in this country and live a lawful life. They fight for the country, 
+they die for the country, they contribute to the Nation's economy, and 
+they pay taxes.
+  Today there are 20,000 legal permanent residents enlisted in the 
+Armed Forces of the United States. They are protecting our airports, 
+our seaports, our borders. They risk their lives daily in Afghanistan 
+and other places around the world to protect us here at home. And they 
+have the right to make contributions to causes and to candidates they 
+support now under the law, a right that should not be taken away from 
+them.
+  If they can die for this country, sir, they certainly have the right 
+to choose who is going to send them there by the political process. But 
+they can participate by giving contributions, and that should never, 
+ever, be taken away.
+  Mr. WICKER. Mr. Chairman, I yield myself 25 seconds.
+  Mr. Chairman, I am a veteran of the United States Air Force. I have 
+worn the uniform of my country, and I still serve in the United States 
+Air Force Reserve. And I would tell my friend from New Jersey that 
+every member of the United States military is prohibited by law from 
+making political contributions.
+  When I was on active duty, I could not make political contributions. 
+I was just as good a citizen then as I am now; but because of the very 
+nature of my activity, I could not make such contributions, and I was 
+no less of a citizen.
+  Mr. HOYER. Mr. Chairman, I am proud to yield 1 minute to the 
+gentleman from Texas (Mr. Reyes), the chairman of the Hispanic Caucus.
+  Mr. REYES. Mr. Chairman, I thank the gentleman for yielding me time.
+  Mr. Chairman, this evening it is a simple situation that we are 
+facing here in the House. Each one of you is going to get one of these 
+handouts this evening, and let me just read it to you.
+  It says, ``He saved the lives of our American soldiers under fire in 
+Vietnam. He received the Congressional Medal of Honor. He now heads the 
+United States Selective Service System. Now we want to make him, and 
+others like him, guilty of an unlawful act if they contribute to your 
+campaign.
+  ``Alfred Rascon, now director of the United States Selective Service, 
+was a legal permanent resident when he served our country in Vietnam 
+and earned the Congressional Medal of Honor.''
+  That is what it gets down to. It gets down to fairness. It gets down 
+to recognizing that legal permanent residents live here, work here, pay 
+taxes; they serve in the military, they earn Medals of Honor, and we 
+should be ashamed of ourselves if we pass this tonight.
+  Mr. HOYER. Mr. Chairman, I yield 45 seconds to the distinguished 
+gentleman from Texas (Mr. Gonzalez), whose father was a giant in this 
+institution on the rights of all people.
+  Mr. GONZALEZ. Mr. Chairman, I rise in strong opposition. We really 
+thought this was going to be the last amendment, because we thought 
+they would save the worst for last; but it is not, and we are here at 
+this moment, and I have about 30 seconds.
+  Who are you talking about? Who are these legal permanent residents 
+that you refer to? Are they faceless members of a crowd? I will tell 
+you who they are. They are people that are in this country by choice; 
+who have a greater appreciation for the freedoms of our democracy than 
+most people that are here today simply by accident of birth. They 
+contribute the blood, sweat and tears to this country. They have as 
+great a love as anyone that was ever born here.
+  If you come to San Antonio, Texas, you will know exactly what I am 
+talking about. Do you want to know what we are talking about tonight? I 
+will tell you. Look in the mirror. You will see the faces of your 
+grandparents and your parents, your brothers and your sisters and your 
+neighbors. That is who we are talking about tonight.
+  Mr. HOYER. Mr. Chairman, I yield 45 seconds to the gentlewoman from 
+Maryland (Mrs. Morella).
+  Mrs. MORELLA. Mr. Chairman, I rise in opposition to this amendment, 
+which would threaten the rights of minorities to participate in our 
+Nation's political process.
+  Just as citizens do, legal permanent residents are required to 
+register for the draft. Many are veterans. It has already been 
+mentioned there are 20,000 legal immigrants serving voluntarily in the 
+military, and that 20 percent of the Congressional Medal of Honor 
+recipients in U.S. wars have been legal immigrants or naturalized 
+Americans.
+  Mr. Chairman, in addition to this being a poison pill amendment, it 
+is also clearly unconstitutional. Federal courts have held that 
+immigrants have the same first amendment rights as citizens. Let us not 
+deny them that.
+  Mr. HOYER. Mr. Chairman, I yield 45 seconds to the distinguished 
+gentleman from California (Mr. Becerra).
+  Mr. BECERRA. Mr. Chairman, I thank the gentleman for yielding me 
+time.
+  Mr. Chairman, ``Hundreds of thousands of immigrants take the oath of 
+citizenship every year. Each has come not only to take, but to give. 
+They come asking for a chance to work hard, support their families, and 
+rise in the world. And together they make our Nation more, not less, 
+American.''
+  Those are not my words. Those are the words of George W. Bush, the 
+President of the United States. He said that while he was flanked by 
+two individuals who happened to have been former lawful permanent 
+residents, his Secretary of Labor, Elaine Chao, and his Secretary of 
+Housing and Urban Development, Mel Martinez, who are now U.S. citizens.
+  You seek to deprive people like Secretary Martinez and Secretary 
+Chao, and my mother, the opportunity to participate in this process. 
+Today we can argue on the floor of this House about the freedoms of 
+this country, while people stand in Afghanistan to secure our freedom 
+and stand at our airports to secure our freedom. Let us stand with them 
+as they stand with us.
+  Mr. HOYER. Mr. Chairman, I yield 45 seconds to the distinguished 
+gentlewoman from California (Ms. Solis).
+  Ms. SOLIS. Mr. Chairman, I rise also to convey my anger and disgust 
+with what I have seen occur here tonight on this floor. Twenty percent 
+of the constituents in my district are legal residents. Twenty-five 
+percent of them have just become U.S. citizens.
+  The message that they hear every single day on the news is that the 
+Republican Party, our friends from the other aisle, want them to be a 
+part of America. But tonight you are sending them the wrong signal. You 
+are driving a spear through their hearts, through their families, 
+because they have worked hard, they have worked lawfully.
+  My parents came here as legal immigrants to see their daughter rise 
+to become a Member of this House. So many
+
+[[Page H450]]
+
+people are waiting for the American dream. They pay taxes, they have 
+given their sons and daughters, they fight our wars. And they will 
+continue to do that because they have a strong belief in our 
+Constitution and the freedom that this country represents.
+  We cannot allow this amendment to go forward. I hope that Members on 
+the other side of the aisle will agree with me.
+  Mr. WICKER. Mr. Chairman, I yield 1\1/2\ minutes to the gentleman 
+from Georgia (Mr. Barr).
+  Mr. BARR of Georgia. I thank the gentleman for yielding me time.
+  Mr. Chairman, what is wrong with the Shays-Meehan picture? If a U.S. 
+citizen wishes to contribute voluntarily money for party building, for 
+grassroots activity, to get out the vote, to educate voters, they are 
+prohibited from seeing their money used for those lawful legitimate 
+laudable purposes by a political party at any time during a campaign 
+and by a grassroots organization during the final stages of a campaign. 
+Yet a noncitizen, somebody not allowed to vote in this country, can, 
+under Shays-Meehan, vote and influence political events in this country 
+by making a contribution.
+  Something is wrong with this picture, when we are taking rights away 
+from United States citizens in Shays-Meehan and allowing the right to 
+vote to influence the political process to noncitizens. That is what is 
+wrong with the picture.
+  It is a loophole that must be plugged. Vote for the Wicker amendment. 
+The Wicker amendment simply stands for the proposition, very simply, 
+that if you cannot vote, you should not be able to contribute and 
+influence directly the political process through money, when you do not 
+have the right to vote.
+  Mr. HOYER. Mr. Chairman, I yield myself 15 seconds.
+  Mr. Chairman, The gentleman is wrong on both points. It does not take 
+rights away from American citizens, and this bill neither gives nor 
+takes away from rights of people who legally live in this country. That 
+is the law today. You seek to take it away.
+  Mr. Chairman, I yield 30 seconds to the gentleman from New Jersey 
+(Mr. Pallone).
+  Mr. PALLONE. Mr. Chairman, I just want to give two faces to the 
+people that you would deny this right. I had one woman come into my 
+office from the former Soviet Union. She was in a country, it was a 
+dictatorship at the time, she was Jewish, she could not even exercise 
+her right to go to synagogue. She was so proud of the fact she could 
+come in my office, she could make phone calls, she could do mailings 
+and make a little contribution, I think it was $25.
+  She was so proud of that fact. She could not vote yet because she was 
+applying to be a citizen, but she wanted to participate in the process.
+  I had another woman who was a doctor at the local emergency room, an 
+Indian physician. She wanted to do the same thing.
+  What is wrong with letting these people exercise their rights? 
+Nothing.
+  Mr. HOYER. Mr. Chairman, I yield 30 seconds to the gentlewoman from 
+California (Ms. Pelosi), the Democratic whip.
+  Ms. PELOSI. Mr. Chairman, I thank the distinguished gentleman for 
+yielding me time and for his leadership on this important issue.
+  Mr. Chairman, I represent a district that is so beautiful because it 
+is so diverse. Our country is every day invigorated by the arrival of 
+newcomers on our shore. They bring with them their courage, their 
+commitment to family values, a commitment to the academic ethic, the 
+religious ethic, a sense of community, and a strong love of freedom and 
+patriotism, yes, to America.
+  I urge my colleagues to oppose this unfortunately mean-spirited 
+amendment because it is a poison pill and because it will deprive 
+minorities in our country of a right to participate in the freedom that 
+they have so courageously sought.
+  Mr. HOYER. Mr. Chairman, I yield 30 seconds to the distinguished 
+gentleman from Washington State (Mr. Inslee).
+  (Mr. INSLEE asked and was given permission to revise and extend his 
+remarks.)
+  Mr. INSLEE. Mr. Chairman, where are the smartest people in the world 
+going? They are going to America.
+
+                              {time}  2330
+
+  Physicists from Ireland, computer specialists from India, folks from 
+all over the world are coming to this country as the mecca of 
+democracy, and they are making our economy stronger. If my colleagues 
+want to know what it means, come to my district to see what it means 
+for Microsoft and real networks to make this economy boom. I will just 
+say one thing: The fellow who said Patrick Buchanan says that this is 
+hurting America, he is dead wrong, and we ought to reject it to put a 
+stake in the heart of that attitude in this country tonight.
+  Mr. HOYER. Mr. Chairman, I yield 15 seconds to the very distinguished 
+gentleman from the State of Oregon (Mr. Wu), the only Member of this 
+House born in Taiwan.
+  Mr. WU. Mr. Chairman, enemy of the State. Enemy of the State. I have 
+not heard much of this debate since hearing those words. I think that 
+the gentleman from Arizona, by labeling legal permanent residents of 
+America enemies of the State, by so doing has perpetrated a great evil 
+and consigned that perspective, I hope, to the dust heap of history.
+  Mr. WICKER. Mr. Chairman, I yield 1 minute and 10 seconds to the 
+gentleman from Georgia (Mr. Kingston).
+  Mr. KINGSTON. Mr. Chairman, I thank the gentleman for yielding.
+  I want to say that I am conflicted by this. I want to say to my 
+friends on the Democrat side, they have made a lot of good points. I 
+think there are a lot of good points that have been made by the 
+Republican side, too. I also want to remind my colleagues, because 
+there are a lot of new people here who have been speaking with lots of 
+righteous indignation about this, and I think their indignation is 
+sincere, but veterans over there and veterans over here may remember 
+September 14, 1999, when we had this exact same vote on a bipartisan 
+basis. It passed 242 to 181. I have the voting list in my hand. I will 
+be glad to share it with anybody. I do not choose to embarrass anybody 
+by reading names, but I can tell my colleagues that every third name on 
+here is a Democrat. I will say this to my Republican colleagues: Plenty 
+of them voted no last time.
+  This is not a bipartisan issue. This is not a finger-pointing issue, 
+and this is not a racist issue. If it is, we are indicting a lot more 
+than the author of this amendment, because plenty of folks voted yes 
+last time, and plenty of folks voted no last time in each party. I have 
+it right here in my hand.
+  So I am just saying this: As many of my colleagues know, I can be 
+just as partisan as some of the rest of us, but I am saying in this 
+case, this is not a partisan issue, this is not a mean-spirited 
+amendment. We have been down this path before. I think we had a much 
+better debate last time, but here is a copy of the results of that 
+debate, and I will share it with anybody.
+  Mr. WICKER. Mr. Chairman, how much time remains on each side?
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from 
+Mississippi (Mr. Wicker) has 1\1/2\ minutes remaining; the gentleman 
+from Maryland (Mr. Hoyer) has 1\3/4\ minutes remaining.
+  Mr. WICKER. Mr. Chairman, I would inquire of the gentleman from 
+Maryland as to the amount of speakers he has remaining.
+  Mr. HOYER. Mr. Chairman, I have two, but I will take 15 seconds, and 
+I will yield the balance of the time to the gentleman from Connecticut 
+(Mr. Shays).
+  Mr. WICKER. Mr. Chairman, if the gentleman would go ahead with his 
+one speaker, then I will conclude our portion of the debate.
+  Mr. HOYER. Mr. Chairman, I yield myself 15 seconds. First of all, let 
+me say that the information we currently have is that military 
+personnel can, in fact, contribute. They cannot solicit, but they can 
+contribute.
+  Second, I would say that when we say that I left my lamp beside the 
+golden door, it means that you are welcome. And when we say to 
+somebody, you are a legal permanent resident and you can pay taxes and 
+serve in the service, it means not only are you welcome, but you can 
+participate. Let us not shut that golden door tonight.
+  Mr. Chairman, I retain the balance of my time.
+  Mr. WICKER. Mr. Chairman, I yield myself such time as I may consume.
+
+[[Page H451]]
+
+  Mr. Chairman, I thank the gentleman from Maryland, who is my friend, 
+for the tone of his remarks, and I would assure him that when I was a 
+member of the United States Air Force, it may have been by statute, it 
+may have been by regulation, but members of the service were prohibited 
+from making contributions, and we were still good citizens.
+  Mr. Chairman, I regret the tone that this debate has taken tonight. I 
+am looking out at the faces of my colleagues. I know them, they know 
+me. I would hope they would not impugn a racist motive to an amendment 
+that I have offered on several occasions in this body and has been 
+adopted overwhelmingly on a bipartisan basis.
+  This is an issue of foreign campaign influence, and I regret that 
+tonight there have been attempts to turn it into a minority issue or a 
+racial issue, or an immigration issue, because it most certainly is 
+not. It is about the fact that really and truly, abuses have occurred, 
+and this legislation has been adopted by this body three times already 
+to address those abuses. It simply makes the statement and would make 
+the statement in the form of the Shays-Meehan bill that the election of 
+Federal officials is the duty of United States citizens, and that is 
+all the amendment does.
+  I urge the adoption of the amendment.
+  Mr. HOYER. Mr. Chairman, for the purposes of closing debate on this 
+important amendment, I yield the remaining time to the cosponsor of 
+this legislation, the distinguished gentleman from Connecticut (Mr. 
+Shays).
+  Mr. SHAYS. Mr. Chairman, I thank the gentleman for yielding me this 
+time.
+  I had fainted unless I believed to see the goodness of the Lord in 
+the land of the living, and I see this goodness in this House, and I 
+see a little anger, and I see little charges. My wife and I got to 
+serve in the Peace Corps. It was the best 2 years of our lives, serving 
+in another country and learning another culture.
+  George Bush gets it. He would oppose this amendment. He knows we live 
+in a pluralistic society, and he knows our party is not pluralistic. 
+Look at us. We are good people, but we do not look like that, and some 
+day my hope, some day my hope is that we will look like that, but 
+amendments like this make it very difficult for people of other 
+cultures to want to be a part of our party.
+  This amendment passed in the past because we confused foreign 
+nationals and the soft money they gave to legal permanent residents who 
+were giving legal contributions, and we got caught up in all of that 
+soft money given by foreign nationals. This is not about foreign 
+nationals. It is about legal permanent residents being allowed to 
+participate in our government.
+  Mr. WU. Mr. Chairman, this amendment is more than a poison pill to 
+campaign finance reform; it is a poison pill to our Constitution--to 
+our civil rights.
+  There is nothing in this Constitution that says that the protections 
+of the Bill of Rights extend only to United States citizens. Throughout 
+it there is reference to people, not just citizens. There have been 
+court decisions time and time again that have extended the protections 
+of the Constitution to all persons living within the United States.
+  We have had a great problem in the Congress making a distinction 
+between illegal residents and legal permanent residents. Legal 
+permanent residents have gone through all the processes. They have 
+spent years to even come to the United States. They have come here with 
+the purpose of being lawful, participating people in this great 
+democracy. They play important civic roles and pay federal, state and 
+local taxes. They serve in the military and are deeply affected by 
+political decisions.
+  Nearly 20,000 legal permanent residents are now serving voluntarily 
+in the military and playing key roles in our nation's defense against 
+terrorism. Moreover, more than 20 percent of the Congressional Medal of 
+Honor recipients in our nation's wars have been legal immigrants, many 
+of whom later became citizens of this country.
+  Why are we afraid of these legal residents? We should not be. We 
+should be welcoming them as participants in this democracy.
+  Let us not make a mockery of our Bill of Rights, of our Constitution, 
+and adopt an amendment that says we will let you live in our country, 
+but we will not allow you to participate.
+  Do not disgrace the Constitution by supporting this kind of 
+amendment.
+  The CHAIRMAN pro tempore. All time for debate has expired.
+  The question is on the amendment offered by the gentleman from 
+Mississippi (Mr. Wicker).
+  The question was taken; and the Chairman pro tempore announced that 
+the noes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. WICKER. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 160, 
+noes 268, not voting 6, as follows:
+
+                             [Roll No. 30]
+
+                               AYES--160
+
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barr
+     Bartlett
+     Barton
+     Bereuter
+     Biggert
+     Bilirakis
+     Blunt
+     Boehner
+     Bono
+     Boozman
+     Brown (SC)
+     Burr
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Deal
+     DeLay
+     DeMint
+     Doolittle
+     Duncan
+     Dunn
+     Ehrlich
+     Everett
+     Flake
+     Forbes
+     Fossella
+     Gallegly
+     Gekas
+     Gibbons
+     Gillmor
+     Goode
+     Goodlatte
+     Goss
+     Graham
+     Graves
+     Green (WI)
+     Grucci
+     Gutknecht
+     Hansen
+     Hart
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Hefley
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Holden
+     Hostettler
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Istook
+     Jenkins
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     Kingston
+     Knollenberg
+     Largent
+     Latham
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McHugh
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Ose
+     Otter
+     Oxley
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Royce
+     Ryun (KS)
+     Saxton
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shuster
+     Simpson
+     Skeen
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Stearns
+     Stump
+     Sununu
+     Tancredo
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Thomas
+     Tiahrt
+     Tiberi
+     Toomey
+     Upton
+     Vitter
+     Walden
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Whitfield
+     Wicker
+     Wilson (SC)
+     Young (AK)
+
+                               NOES--268
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barcia
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonilla
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Bryant
+     Burton
+     Capito
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     Davis, Tom
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Diaz-Balart
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Dreier
+     Edwards
+     Ehlers
+     Emerson
+     Engel
+     English
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Fletcher
+     Foley
+     Ford
+     Frank
+     Frelinghuysen
+     Frost
+     Ganske
+     Gephardt
+     Gilchrest
+     Gilman
+     Gonzalez
+     Gordon
+     Granger
+     Green (TX)
+     Greenwood
+     Gutierrez
+     Hall (OH)
+     Hall (TX)
+     Harman
+     Hastings (FL)
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holt
+     Honda
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Inslee
+     Israel
+     Issa
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     King (NY)
+     Kirk
+     Kleczka
+     Kolbe
+     Kucinich
+     LaFalce
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     LaTourette
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Mollohan
+     Moore
+     Moran (KS)
+     Moran (VA)
+     Morella
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Osborne
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Paul
+     Payne
+     Pelosi
+     Peterson (MN)
+     Phelps
+     Platts
+     Pombo
+     Pomeroy
+     Portman
+     Price (NC)
+     Quinn
+     Rahall
+     Ramstad
+     Rangel
+     Regula
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ros-Lehtinen
+     Ross
+     Rothman
+     Roybal-Allard
+
+[[Page H452]]
+
+
+     Rush
+     Ryan (WI)
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Shows
+     Simmons
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Souder
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Sweeney
+     Tanner
+     Tauscher
+     Terry
+     Thompson (CA)
+     Thompson (MS)
+     Thornberry
+     Thune
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Weldon (PA)
+     Weller
+     Wexler
+     Wilson (NM)
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+
+                             NOT VOTING--6
+
+     Brady (TX)
+     Cubin
+     Riley
+     Roukema
+     Traficant
+     Young (FL)
+
+                              {time}  2355
+
+  Mr. BALLENGER and Mr. CUNNINGHAM changed their vote from ``no'' to 
+``aye.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Texas (Mr. Armey).
+
+
+                Amendment No. 29 Offered by Mr. Reynolds
+
+  Mr. REYNOLDS. Mr. Chairman, I offer an amendment as the designee of 
+the gentleman from Texas (Mr. Armey).
+  THE CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 29 offered by Mr. Reynolds:
+       Amend section 402 to read as follows:
+
+     SEC. 402. EFFECTIVE DATE.
+
+       (a) In General.--Except as otherwise provided in this Act, 
+     this Act and the amendments made by this Act shall take 
+     effect February 14, 2002.
+       (b) Transition Rule for Spending of Funds by National 
+     Parties.--If a national committee of a political party 
+     described in section 323(a)(1) of the Federal Election 
+     Campaign Act of 1971 (as added by section 101(a)), including 
+     any person who is subject to such section, has received funds 
+     described in such section prior to the effective date 
+     described in subsection (a) which remain unexpended as of 
+     such date, the committee shall return the funds on a pro rata 
+     basis to the persons who provided the funds to the committee.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+334, the gentleman from New York (Mr. Reynolds) and the gentleman from 
+Florida (Mr. Davis) each will control 10 minutes.
+  The Chair recognizes the gentleman from New York (Mr. Reynolds).
+  (Mr. REYNOLDS asked and was given permission to revise and extend his 
+remarks.)
+  Mr. REYNOLDS. Mr. Chairman, I yield myself such time as I may 
+consume.
+  Mr. Chairman, throughout this day I have listened to many of my 
+colleagues rail on the evils of soft money. That is why it is time to 
+ensure the rhetoric matches the reality. And I am doing just that by 
+introducing an amendment that reverses a slick attempt to manipulate 
+existing law and which will end soft money now rather than election 
+day. By enacting this amendment, soft money will be banned tomorrow, 
+Valentine's Day; and that is fitting because it would put an end to 
+sweetheart deals being advanced by many of the supporters of Shays-
+Meehan.
+
+                              {time}  0000
+
+  I can certainly see why my colleagues on the other side of the aisle 
+do not want to end soft money now. They want a grace period that will 
+allow them to spend tens of millions of dollars in soft money this 
+year.
+  Just take a look at last year, where nearly 54 percent of all 
+contributions to Democrat committees were soft money contributions, 
+compared to only 35 percent for Republican committees; and I can see 
+why they may not want to close the loophole that would allow them to 
+use a $40 million soft money building fund as collateral for hard-money 
+dollars they could use in this year's campaigns.
+  If we do not approve this amendment, not only will it fail to do what 
+Shays-Meehan originally intended to accomplish, we would allow a 
+perversion of current law restricting the use of soft money.
+  Without this amendment, we would actually weaken current law, think 
+about that, weaken current law by allowing national political parties 
+to borrow hard money and repay it with soft money.
+  That is right, according to the commissioners of the Federal Election 
+Commission, and I am reading verbatim, the transition rule allowing 
+national party committees to spend soft money between November 6, 2002, 
+and January 1, 2003, does not prohibit the use of soft money to pay 
+debts related to Federal elections.
+  It is clear that this Congress would weaken existing law because, and 
+I am again citing FEC officials, the proposed bill effectively 
+invalidates the Federal Election Commission's soft-money allocation 
+regulations.
+  That is just one opinion. So let us hear another.
+  According to Common Cause lawyer Trevor Potter, former counsel to 
+Senator John McCain, the national parties may spend excess soft money 
+to pay off any outstanding debts, noting that the tax provides that 
+soft money could be used to retire outstanding debts, incurred solely 
+in an election occurring by November 5, 2002. It does not make 
+reference to contributions or expenditures or non-Federal, joint or 
+allocated activities.
+  Yet another opinion from election law expert Benjamin Ginsberg of 
+Patton Boggs: The lack of specificity in the language means that a 
+portion of hard dollar debt or obligations could be paid with soft 
+money. As a practical matter, the plain wording of the proposed 
+language would allow national party or committee to borrow hard 
+dollars, spend those dollars in the upcoming election, and then use the 
+remaining soft dollars to repay that debt.
+  With this kind of creative bookkeeping on the part of the Shays-
+Meehan supporters, I cannot help but wonder if Arthur Andersen helped 
+draft it.
+  Mr. Chairman, Webster's defines reform as to amend or improve by 
+change of form or removal of faults or abuses. Without this amendment, 
+there will not be reform because we do not remove faults or abuses. In 
+fact, this bill allows manipulation and subversion and gives 
+preferential treatment and sweetheart deals to many of those who claim 
+today that the system was fraught with those very vices.
+  Frankly, I do not see how making an exception to allow the Democratic 
+National Committee to manipulate a $40 million soft-money account to 
+help fund campaigns this year is reform by any definition, especially 
+when they would be prevented from doing so under the current law that 
+we stand under today.
+  I do not see how allowing parties to pay back hard-money campaign 
+expenditures with millions of dollars in soft money represents a ban by 
+any stretch of anyone's imagination.
+  A few months ago, the chief sponsor of this measure said, and I 
+quote, ``There is no reason to delay the demise of this indefensible 
+soft money system,'' end quote. Christopher Shays, May 1, 2001.
+  If soft money donations to national parties are as evil and corrosive 
+as Shays-Meehan proponents proclaim, then they should be stopped 
+immediately. I realize that Shays-Meehan today, in its fourth 
+incarnation, is not the Shays-Meehan that was first introduced. In 
+fact, these two bills have about as much in common as a Ford Escort and 
+a Ford Explorer. It is the same manufacturer, the same brand name, but 
+completely different vehicles. Worse, it weakens existing laws that 
+Shays-Meehan supporters claim are already too lax.
+  To my colleagues on the other side of the aisle who support Shays-
+Meehan, I ask only that they demonstrate that they believe in what they 
+told the American people today, by really, truly banning soft money and 
+banning it now.
+  To my colleagues on this side of the aisle who support Shays-Meehan, 
+I ask only for fairness and that they level the playing field by making 
+this an honest soft-money ban rather than creating special exemptions 
+and special deals for the other party.
+  Mr. Chairman, if we are going to end soft money, then let us end it 
+once and for all. Let us end it now, not months from now, when it is 
+more politically convenient. If we are going to stop using soft money 
+in campaigns, then let us make sure it is stopped in every campaign.
+  Without this amendment, the supporters of Shays-Meehan are saying
+
+[[Page H453]]
+
+that while soft money may be bad, it is not bad enough to ban right 
+here, right now. There is a word for that, Mr. Chairman, and it is 
+hypocrisy.
+  I urge approval of the amendment.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield 2 minutes to the 
+gentleman from Maryland (Mr. Hoyer), the distinguished ranking member.
+  Mr. HOYER. Mr. Chairman, I was not going to speak on this amendment, 
+but the gentleman from New York (Mr. Reynolds), my good friend, 
+mentioned hypocrisy. It is an interesting word.
+  We stand here with an amendment that says we ought to have a ban on 
+soft money tomorrow, today. Today is tomorrow, my friend from 
+Massachusetts tells me. What a wonderful proposition, from the party 
+whose President George Bush, the first, in 1991 vetoed campaign finance 
+reform, an amendment that says let us do it today from the party that 
+for 10 years has delayed the adoption of campaign finance reform.
+  My, my, my. Now with the practicality of implementing an entire new 
+program, that cannot possibly be done in the time frame set forth, 
+designed, therefore, to kill this bill, is put forward. My, my, my. I 
+say yes, hypocrisy is an interesting word.
+  Mr. REYNOLDS. Mr. Chairman, I yield myself such time as I may 
+consume.
+  It gets down to the bottom line we are not going to hide from this 
+vote anymore. We are going to have a vote tonight. The Democratic 
+majority had 40 years to bring about true campaign reform. It is going 
+to be passed by Republican votes tonight. I only can ask for a level 
+playing field. I ask that we ban it right now, right here, February 14, 
+reform.
+  Mr. Chairman, I yield 1 minute to the gentleman from Pennsylvania 
+(Mr. Toomey).
+  Mr. TOOMEY. Mr. Chairman, I thank the gentleman from New York (Mr. 
+Reynolds) for yielding me the time, and I rise in strong support of 
+this amendment, the reason being that this amendment would simply 
+correct what is probably the most egregious, perhaps even the most 
+cynical flaw in this badly flawed bill. And the flaw is simply this: 
+the Shays-Meehan bill allows a party to go out and borrow money now, 
+spend it in the upcoming election as though it were hard money, and 
+then repay the loan with the soft money that the bill is supposed to 
+ban. The fact is the Shays-Meehan bill has a money laundering 
+provision, a provision that allows them to convert from soft to hard 
+money.
+  Soft money is supposed to be this egregious evil. The bill allows the 
+parties to go out and raise it and then convert it and use it for a 
+broader purpose, basically enhance its value, spend it as though it 
+were hard money; and how convenient this is that the party that 
+overwhelmingly supports this bill just happens to be the party that is 
+relatively low on hard money these days, has an ample reserve of soft 
+money. This is a very cynical feature of this bill, and I commend the 
+gentleman from New York (Mr. Reynolds) for offering the amendment that 
+would correct it.
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from New 
+York (Mr. Reynolds) has 2\1/2\ minutes remaining. The gentleman from 
+Florida (Mr. Davis) has 8\1/2\ minutes remaining.
+  Mr. DAVIS of Florida. Mr. Chairman, I ask unanimous consent that the 
+gentleman from Connecticut (Mr. Shays) control 3 minutes of the time 
+allocated to me and have the ability to yield time.
+  The CHAIRMAN pro tempore. Is there objection to the request of the 
+gentleman from Florida?
+  There was no objection.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield 2 minutes to the 
+distinguished gentleman from Massachusetts (Mr. Frank).
+  Mr. FRANK. Mr. Chairman, first let us talk about the time. Yes, if 
+this bill had come up in a timely fashion last year, it would have been 
+effective for this cycle. The amendment purports to say let us put it 
+into effect right away.
+  Seventy House seats will be decided in primary in 3 weeks. The States 
+of California and Illinois between them have more than 70 House seats. 
+The primaries are in 3 weeks. Members can differ about a lot of this 
+bill, but it is simply not logically possible to argue that they are 
+for this bill and are going to have it go into effect 3 weeks before 
+primary which have been conducted heretofore under the old rule. That 
+is just not arguable, and to have someone say I am for the bill but I 
+want to make it take effect right away and then call me a hypocrite is 
+like being called silly by the Three Stooges. It simply does not make 
+any sense.
+  One cannot purport to be for this bill and say that they are now 
+going to put it into effect 3 weeks before 70-some-odd primaries.
+  The other point that the gentleman raised has some validity. There is 
+some ambiguity in the bill; and as Members know, it will be corrected 
+in a recommit. To the extent that there is an unintentional ambiguity 
+that would allow a hard-money, soft-money transfer, the recommit will 
+ban that. I understand that there is no worse news to give people who 
+have found a flaw in something they hate than to plan to correct a 
+flaw. I apologize. Maybe they should have held that they tortured the 
+language or did not torture the language, they came up with an 
+ambiguity.
+  The two sponsors of the bill are going to put an end to that 
+ambiguity. I understand why they want to talk about it now. It is about 
+to disappear, and they will miss it, I understand, because it will take 
+away from them that argument. So the fact is very simple. If my 
+colleagues voted for Shays-Meehan, how can they possibly now go to the 
+people and say yes I voted for this and I then voted to make it take 
+effect immediately 3 weeks before the primaries in which the rules have 
+already been under the other way? Then it has got to go to the Senate 
+and be signed by the President.
+  I hope this amendment is defeated and we will correct that error in 
+the recommit.
+  Mr. REYNOLDS. Mr. Chairman, I yield myself such time as I may 
+consume.
+  My colleagues keep getting confused between hard and soft money. Last 
+I knew a primary was won on hard money, not using soft money. I also 
+recollect that basically on some of the ambitions of some of the 
+Members of the other side of the aisle they killed the bill the last 
+time we had it in July, when we did not pass the rule, which I managed 
+on this very floor.
+  Mr. Chairman, I yield 2 minutes to the gentleman from Arizona (Mr. 
+Shadegg).
+  Mr. SHADEGG. Mr. Chairman, I thank the gentleman from New York (Mr. 
+Reynolds) for yielding me the time.
+  I spent almost a decade of my life doing campaign finance law before 
+being elected to the United States Congress, and in that tenure I never 
+advised a Republican Secretary of State, but I did advise two different 
+Democrat Secretaries of State, and I want to focus on this language 
+because I think it does matter.
+  I am glad that the gentleman from Massachusetts (Mr. Frank), my 
+colleague, has acknowledged that we are going to correct or they claim 
+they are going to correct this flaw, but all day long they have been 
+saying it was not a flaw. Indeed, this morning, the heat of debate, oh 
+no, this language is perfect, we would never do such a thing.
+  I want to walk us through the language. I began today by calling the 
+lawyer who replaced me as the adviser of the Arizona Secretary of 
+State, and I faxed her the language and said does this language allow 
+soft money to be used to repay a debt for dollars that were spent as 
+hard dollars? She reviewed the language and in a phone conversation 
+said to me, clearly, it does, there is no question about that.
+  Tonight we hear that in a last minute motion to recommit we are going 
+to correct an error that they denied all day. I guess my question is, 
+how many other errors are there?
+  It is interesting to me. I guess the gentleman from Massachusetts 
+(Mr. Frank) now says that the two letters that were produced today 
+saying this defect is not here, in fact, are wrong themselves. I am 
+glad he concedes that. As a matter of fact, the first of those two 
+letters says it is clear that under current Federal election law only 
+hard money can be used to pay off a loan where the money was used as 
+hard money. Well, yes, that is the law now
+
+[[Page H454]]
+
+but we changed the law, and he says under section 402(b), language that 
+I guess the gentleman from Massachusetts (Mr. Frank) now disagrees 
+with, that soft money can only be used to pay off soft-money 
+expenditures.
+  Except that is clearly not true, if my colleagues read the language; 
+and interestingly, neither of the letters of those who propose this 
+language offers a single citation to a single case making the point, 
+nor do they point to any sentence in the bill itself; but my colleagues 
+do not have to be a lawyer. All they have to do is read the bill. It is 
+plain language.
+
+                              {time}  0015
+
+  Mr. SHAYS. Mr. Chairman, I yield myself such time as I may consume.
+  We have three amendments, and that is it, and I cannot predict the 
+outcome of any of the three. But we have really two issues that are in 
+play right now. One of them is the issue of the delay to the start of 
+the next campaign season, November 6, and the other is soft money.
+  In regards to the issue of delay, we thought that after 16 months 
+already into this, whether we can blame one side or the other, we are 
+here now and not in July or January of last year. We are 16 months into 
+a 24-month election cycle, and by the time this bill becomes law, if it 
+does become law, it is 2 or 3 or 4 months from now, and then we only 
+have 4 months.
+  So I was asked, and others, does it make sense to have this bill take 
+effect now, and the answer was it really does not. And I have spoken to 
+some Members here who say the same thing. They know it. People on my 
+own side of the aisle know it does not make sense to have it take 
+effect today unless we want to kill the bill.
+  Now, on the issue of the soft money, I have been in pain all day, 
+because the one thing that I do not want is there to be any ambiguity 
+for any Member about any question of this bill. And the gentleman from 
+Arizona (Mr. Shadegg) was the final straw. He was the final straw. I 
+believe he believes so strongly about this, and I believe he has 
+influence over other Members, and so the motion to recommit is going to 
+make it clear that there cannot be any soft money used for hard money 
+expenses.
+  Now, the question my side of the aisle will have to answer is are 
+they going to vote for a motion on the other side to take care of a 
+problem they want to take care of? And that is going to be real 
+curious. Are my colleagues going to do it, or is it all rhetoric? We 
+are going to solve the problem about this issue in a motion to 
+recommit, and I hope my colleagues will support it because it will take 
+care of the problem of the feeling of ambiguity.
+  In my sense there is not a problem with it, but we want to make sure 
+there is no doubt. And the other reason we want to make sure there is 
+no doubt is the President has expressed concern about this, and we need 
+to make sure there is no doubt in the mind of the President.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield 2 minutes to the 
+gentleman from California (Mr. Sherman).
+  (Mr. SHERMAN asked and was given permission to revise and extend his 
+remarks.)
+  Mr. SHERMAN. Mr. Chairman, last week there was discussion as to what 
+the effective date should be, and the gentleman from Connecticut 
+describes his thought process. It might have been reasonable to have an 
+effective date as early as the date of enactment, the date the 
+President signs the bill. Maybe it would have been reasonable to have 
+it 30 days or 60 days thereafter. The most reasonable outcome is to 
+make it effective for the next election. But all of those alternatives 
+would be reasonable approaches.
+  What is clearly unreasonable is to make this bill effective today, 
+before the Senate acts, before the President acts. Not only is that 
+impractical, it is clearly unconstitutional. Article 1, section 9, 
+clause 3 tells this House not to pass an ex post facto law. Yet this 
+bill imposes criminal penalties on acts taken tomorrow, which are legal 
+tomorrow, but which would become retroactively illegal when the 
+President signs this bill.
+  Tomorrow soft money will be used for issue ads naming candidates on 
+the March 5 ballot in the primary in California and other early March 
+primaries around this country. These ads were legal yesterday. They 
+will be legal tomorrow. They will become illegal when the President 
+signs this bill. And if they become retroactively illegal, then people 
+can be put in jail for doing things which were legal at the time they 
+did them. Our Founding Fathers made it clear that this Congress should 
+never pass such a criminal statute. We have passed retroactive tax laws 
+providing benefits, but never have we Constitutionally passed a 
+retroactive bill imposing new criminal penalties. We cannot adopt an ex 
+post facto bill, nor should we.
+  This amendment is not a good faith effort to insulate the 2002 
+elections from soft money. It is, instead, an act designed to kill the 
+bill, and in doing so it violates the Constitution. Let us vote ``no'' 
+on this amendment.
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from New 
+York (Mr. Reynolds) has 15 seconds remaining, the gentleman from 
+Connecticut (Mr. Shays) has 30 seconds remaining, and the gentleman 
+from Florida (Mr. Davis) has 1\1/2\ minutes remaining and the right to 
+close.
+  Mr. REYNOLDS. Mr. Chairman, I reserve the balance of my time.
+  Mr. SHAYS. Mr. Chairman, I yield the balance of my time to the 
+gentleman from Florida (Mr. Davis).
+  The CHAIRMAN pro tempore. The gentleman from Florida (Mr. Davis) has 
+2 minutes remaining.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield 1 minute to the gentleman 
+from New Jersey (Mr. Holt).
+  Mr. HOLT. Mr. Chairman, I thank the gentleman for yielding me this 
+time.
+  There has been a steady stream of amendments today intended to kill 
+campaign finance reform. This is the latest one, and I am sure voters 
+will look at how Members vote on final passage to see if they really 
+want this to take effect, those who say they want it to take effect 
+immediately.
+  I want to make sure that we do not lose perspective, as my colleagues 
+talk about everything that is wrong with this. This is a bill that 
+creates possibilities. This is a first and necessary step to restore a 
+sense of the possibility of self-government to workers, to families, to 
+college students, to farmers.
+  When I arrived here in Washington, the first day I took the oath of 
+office, I sat down with the gentleman from Connecticut (Mr. Shays) and 
+the gentleman from Massachusetts (Mr. Meehan) to enlist in this effort 
+because it was apparent it is necessary to restore trust in government.
+  If the people of America do not have the trust in their ability to 
+run their government, not special interests, but ordinary people, then 
+America's gift to the world, this idea of self-government, will start 
+to disintegrate.
+  Mr. REYNOLDS. Mr. Chairman, I yield myself the balance of my time.
+  I have listened to whether this has constitutional questions. This 
+bill is riddled with constitutional questions. Even the sponsors have 
+said some of it will be thrown out by the courts.
+  But I do know this: Without this amendment the supporters of Shays-
+Meehan are saying that while soft money may be bad, it is not bad 
+enough to ban right here right now. There is a word for that, Mr. 
+Chairman. It is hypocrisy.
+  I urge approval of the amendment, and I will ask for a recorded vote.
+  Mr. DAVIS of Florida. Mr. Chairman, I yield myself the balance of my 
+time.
+  Mr. Chairman, this is a very important amendment. It has the 
+potential to derail the bill. We have seen through that masquerade all 
+night. I think the House deserves a substantive debate on the merits, 
+and we have had it, except we have not even had an attempt by the 
+sponsor of the amendment to respond to two of the most important points 
+made here.
+  We all understand when we are passing blatant unconstitutional bills. 
+Nobody needs a law degree to recognize that. There was not even an 
+attempt to respond to the argument by the gentleman from California 
+(Mr. Sherman) that we are criminalizing behavior that is currently 
+legal. There has been no attempt to respond to the point that it is 
+terribly impractical for us to even be thinking about passing a bill 
+that is supposed to take effect today when we all know rules have to be 
+developed and
+
+[[Page H455]]
+
+that the President has not even weighed in on this bill.
+  This has been a very good debate. It has exposed this amendment for 
+what it is. It is a thinly veiled attempt to sabotage a bill that is 
+demonstrating a lot of courage on the Republican side of the aisle for 
+true reform, matching the efforts of the Democrats have been leading 
+for years. Let us defeat this amendment and pass this bill tonight.
+  The CHAIRMAN pro tempore. The question is on the amendment offered by 
+the gentleman from New York (Mr. Reynolds).
+  The question was taken; and the Chairman pro tempore announced that 
+the noes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. REYNOLDS. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 190, 
+noes 238, not voting 7, as follows:
+
+                             [Roll No. 31]
+
+                               AYES--190
+
+     Aderholt
+     Akin
+     Armey
+     Baker
+     Ballenger
+     Barr
+     Bartlett
+     Barton
+     Bereuter
+     Biggert
+     Bilirakis
+     Blunt
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Brown (SC)
+     Bryant
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Ferguson
+     Flake
+     Fletcher
+     Foley
+     Forbes
+     Fossella
+     Frelinghuysen
+     Gallegly
+     Ganske
+     Gekas
+     Gibbons
+     Gillmor
+     Goode
+     Goodlatte
+     Goss
+     Granger
+     Graves
+     Green (WI)
+     Grucci
+     Gutknecht
+     Hansen
+     Hart
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hostettler
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     King (NY)
+     Kingston
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Moran (KS)
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Osborne
+     Ose
+     Otter
+     Oxley
+     Pence
+     Peterson (PA)
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Saxton
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shuster
+     Simpson
+     Skeen
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tauzin
+     Taylor (MS)
+     Taylor (NC)
+     Terry
+     Thomas
+     Thornberry
+     Thune
+     Tiahrt
+     Tiberi
+     Toomey
+     Vitter
+     Walden
+     Wamp
+     Watkins (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Young (AK)
+     Young (FL)
+
+                               NOES--238
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Bachus
+     Baird
+     Baldacci
+     Baldwin
+     Barcia
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Edwards
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Filner
+     Ford
+     Frank
+     Frost
+     Gephardt
+     Gilchrest
+     Gilman
+     Gonzalez
+     Gordon
+     Graham
+     Green (TX)
+     Greenwood
+     Gutierrez
+     Hall (OH)
+     Hall (TX)
+     Harman
+     Hastings (FL)
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holden
+     Holt
+     Honda
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Hulshof
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     Kirk
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     Lipinski
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Mollohan
+     Moore
+     Moran (VA)
+     Morella
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Paul
+     Payne
+     Pelosi
+     Peterson (MN)
+     Petri
+     Phelps
+     Platts
+     Pomeroy
+     Price (NC)
+     Quinn
+     Rahall
+     Ramstad
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ross
+     Rothman
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Shows
+     Simmons
+     Skelton
+     Slaughter
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Thompson (CA)
+     Thompson (MS)
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Upton
+     Velazquez
+     Visclosky
+     Walsh
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Watts (OK)
+     Waxman
+     Weiner
+     Wexler
+     Woolsey
+     Wu
+     Wynn
+
+                             NOT VOTING--7
+
+     Brady (TX)
+     Burr
+     Cubin
+     Hefley
+     Riley
+     Roukema
+     Traficant
+
+                              {time}  0042
+
+  Ms. WOOLSEY changed her vote from ``aye'' to ``no.''
+  So the amendment was rejected.
+  The result of the vote was announced as above recorded.
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Texas (Mr. Armey).
+
+
+                Amendment No. 25 Offered by Mr. Kingston
+
+  Mr. KINGSTON. Mr. Chairman, I offer an amendment as the designee of 
+the majority leader.
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment.
+  The text of the amendment is as follows:
+
+       Amendment No. 25 offered by Mr. Kingston:
+       Amend section 301(20) of the Federal Election Campaign Act 
+     of 1971, as proposed to be added by section 101(a) of the 
+     bill, to read as follows:
+       ``(20) Federal election activity.--
+       ``(A) In general.--The term `Federal election activity' 
+     means--
+       ``(i) voter registration activity during the period that 
+     begins on the date that is 120 days before the date a 
+     regularly scheduled Federal election is held and ends on the 
+     date of the election;
+       ``(ii) voter identification, get-out-the-vote activity, or 
+     generic campaign activity conducted in connection with an 
+     election in which a candidate for Federal office appears on 
+     the ballot (regardless of whether a candidate for State or 
+     local office also appears on the ballot);
+       ``(iii) a public communication that refers to a clearly 
+     identified candidate for Federal office (regardless of 
+     whether a candidate for State or local office is also 
+     mentioned or identified) and that promotes or supports a 
+     candidate for that office, or attacks or opposes a candidate 
+     for that office (regardless of whether the communication 
+     expressly advocates a vote for or against a candidate); or
+       ``(iv) services provided during any month by an employee of 
+     a State, district, or local committee of a political party 
+     who spends more than 25 percent of that individual's 
+     compensated time during that month on activities in 
+     connection with a Federal election.
+       ``(B) Excluded activity.--The term `Federal election 
+     activity' does not include an amount expended or disbursed by 
+     a State, district, or local committee of a political party 
+     for--
+       ``(i) a public communication that refers solely to a 
+     clearly identified candidate for State or local office, if 
+     the communication is not a Federal election activity 
+     described in subparagraph (A)(i) or (ii);
+       ``(ii) a contribution to a candidate for State or local 
+     office, provided the contribution is not designated to pay 
+     for a Federal election activity described in subparagraph 
+     (A);
+       ``(iii) the costs of a State, district, or local political 
+     convention; and
+       ``(iv) the costs of grassroots campaign materials, 
+     including buttons, bumper stickers, and yard signs, that name 
+     or depict only a candidate for State or local office.
+       In section 402(b), strike ``At any time after such 
+     effective date, the committee may spend such funds for 
+     activities which are solely to defray the costs of the 
+     construction or purchase of any office building or 
+     facility.'' and insert the following: ``At no time after such 
+     effective date may the committee spend any such funds for 
+     activities to defray the costs of the construction or 
+     purchase of any office building or facility.''.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentleman from Georgia (Mr. Kingston) and a Member opposed 
+each will control 10 minutes.
+
+[[Page H456]]
+
+  Mr. FATTAH. Mr. Chairman, I assert my right to claim the time in 
+opposition.
+  The CHAIRMAN pro tempore. The gentleman from Pennsylvania will be 
+recognized for 10 minutes.
+  The Chair recognizes the gentleman from Georgia (Mr. Kingston).
+  Mr. KINGSTON. Mr. Chairman, I yield myself such time as I may 
+consume.
+  Mr. Chairman, this is a real easy amendment. This is a fun amendment 
+at this time of night. Not much brain power is required on this one. 
+Just a fair amendment.
+  If you think about it for a minute, if you listen to the rhetorical 
+montage we have had today, you get real confused on who are the good 
+guys and who are the bad guys, a lot of finger pointing. But one thing 
+you conclude is soft money is bad; whether it is effective this 
+election or after it or before, today or tomorrow, soft money is bad.
+  Therefore, my good friends, I would not want to see anybody build a 
+building with this bad soft money. It would mean the building would be 
+bad. It would mean the building would be corrupted. It would mean from 
+the very beginning all the phone calls that were made from that 
+building would be tainted.
+  Let me just say this: I want to say there are a lot of folks over 
+there on that side of the aisle that think we do not like Democrats; 
+and I want you to know, I like Democrats. I admire Democrats. I love 
+the audacity of some of the Democrat Party.
+  There was a story of a young man who graduated from the University of 
+Georgia, went to work for Sun Trust Bank, one of the great Georgia 
+institutions. At the end of the first day of 8 hours, he went to the 
+boss and said, Boss, there is an opening over at the Coca-Cola Company. 
+I would like you to write me a letter of recommendation.
+  The boss looked at him and said, You are out of your mind. You just 
+started here. This is your first day. You have barely completed 8 
+hours. You want me to write you a letter of recommendation?
+  He said, Yes. Coca-Cola doesn't have opportunities that often, and I 
+want to go work for them. Can't you think of something good to say 
+about me?
+  And the boss got a piece of paper and said, To whom it may concern: I 
+like his nerve.
+  I want to say this, I like your nerve.
+  Let me tell my friends what is in this bill. This says you have got 
+to get rid of all your soft money 30 days after the ban is completed or 
+the new regulations are completed, so you have until December, except 
+any time after the effective date the committee may spend such funds 
+for activities which are solely to defray the cost of construction or 
+purchase any office building.
+  Well, I am sure most of you do not know that is in there. As much 
+nerve as you have, I am sure that would embarrass some of you, so we 
+are going to take that out with this amendment. And that is all it 
+does, Mr. Chairman.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. FATTAH. Mr. Chairman, I ask unanimous consent to yield 3 minutes 
+to the gentleman from Connecticut (Mr. Shays) and have him have the 
+ability to yield that time.
+  The CHAIRMAN pro tempore. Is there objection to the request of the 
+gentleman from Pennsylvania?
+  There was no objection.
+  Mr. FATTAH. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, let me rise in opposition to this amendment. For I 
+guess 10 times tonight or today we have been confronted with any manner 
+of amendment seeking to derail the opportunity for this House to join 
+our colleagues in the Senate and to give this President, who committed 
+himself to be a reformer with results, an opportunity to put his 
+signature on a campaign finance reform bill.
+
+                              {time}  0050
+
+  We have had people come at this issue from every different 
+conceivable direction. Now we have this final attempt. I am sure my 
+colleague and my friend would not be willing to amend his amendment to 
+have both parties accede ownership of any properties ever built with 
+soft money, any television stations, any other facilities. This notion 
+that somehow during this transition period the majority would prefer 
+that this money be spent on campaigns attacking its members rather than 
+to be put towards refurbishing a party headquarters; this bill allows 
+either party to take the extra soft money, not spend it on campaigns, 
+but to invest it in infrastructure as we move to ban it completely. It 
+is not dissimilar to other transitions and other reform measures that 
+we have dealt with in the past. So, Mr. Chairman, let us enjoy another 
+what will be failed attempt to derail this House from meeting its date 
+with destiny, and that is we will pass Shays-Meehan, and we will do it 
+tonight.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. KINGSTON. Mr. Chairman, I yield 2\1/2\ minutes to the gentleman 
+from Missouri (Mr. Blunt), the distinguished deputy whip.
+  Mr. BLUNT. Mr. Chairman, of course I rise in support of the 
+amendment. I do not know why this amendment would derail the bill. The 
+Senate I do not think had it in their bill; it was not in the original 
+Shays-Meehan bill. In fact, under the original bill, the parties had to 
+get rid of all soft money in their accounts beginning 30 days after 
+enactment. This was added, I think, at a later time to really put a big 
+loophole in this bill so that the parties could retain soft money.
+  Now, this does not really affect both parties the same way, because 
+only one party has the money in the account right now to build a 
+building. It has already been pointed out that if this money is, in 
+fact, corrupting, it would seem it would be corrupting for all 
+purposes. Money that was bad to use for voter registration, money that 
+was bad to use for party-building, money that was bad to use to turn 
+out the vote, one would think that same money would be bad to use to 
+build a building for one of the parties.
+  Now, I hope that the plan, and we have talked about this a lot today, 
+but I hope the plan is not to take this building fund and use it to pay 
+off hard money that might be borrowed during the campaign, the campaign 
+we are in right now. Certainly it would be nice collateral for a loan 
+that then one could turn around and pay off that loan. That is what at 
+least two Commissioners of the FEC say that could be done with this 
+building fund. Why not eliminate this building fund controversy?
+  This is an area where if the parties are not going to be negatively 
+impacted by soft money, let us be aboveboard on that; let us do the 
+same thing for all party-building, including the parties building an 
+actual building. Let us ban soft money, let us take this out of the 
+bill. It was not in the Senate bill. It was not in the Senate bill, and 
+we have talked so much today about how we need to have things that are 
+compatible. We cannot amend the bill, we cannot go to conference, we 
+cannot do anything with this bill because the Senate needs to accept 
+it. This is a wholly grown idea on this side of the building.
+  I think it ought to be eliminated from the bill. I encourage my 
+colleagues on both sides of the aisle to vote for this amendment and 
+get rid of this soft money to be used only for this one purpose, only 
+to benefit one party.
+  Mr. FATTAH. Mr. Chairman, I yield 1 minute to the gentleman from the 
+Commonwealth of Massachusetts (Mr. Meehan), one of the prime sponsors.
+  Mr. MEEHAN. Mr. Chairman, here we have another amendment, it is about 
+10 minutes of 1:00, another attempt to try to break the fragile 
+coalition, but let us be clear. Soft money has always been available 
+for party-building. It has always been available for physical 
+buildings.
+  Now, would not the Republicans be so lucky if we are going to enact 
+this bill the day after the next election. Does anyone really think the 
+parties are going to commit soft money not for television ads, but to 
+build parties? The reality is this was put into the bill in July so 
+that either party who had expenses relative to buildings could pay 
+them.
+  Now, if this bill does not go into effect until after this election, 
+I hardly think that it will be an advantage to either party if one of 
+the parties keeps soft money and, rather than put them into 30-second 
+spots, pays off a building with it.
+
+[[Page H457]]
+
+  The reality is the soft money influence has ballooned by 100 percent 
+every 4 years because of television ads. The reason why soft money is 
+an issue is because of television ads, 30-second spots. That is what we 
+attempt to eliminate, and we do.
+  Mr. FATTAH. Mr. Chairman, I reserve the balance of my time.
+  Mr. KINGSTON. Mr. Chairman, I yield 30 seconds to the gentleman from 
+Virginia (Mr. Tom Davis).
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, I think there is a 
+misunderstanding on this side of the aisle over how this money could be 
+used if it were not utilized for building money. The bulk of this money 
+in both parties' campaign funds come from contributions from Freddie 
+Mac and Fannie Mae. These are federally chartered organizations, and 
+the only contributions they give parties has to be used for building 
+funds. It could never be used under existing law for campaign ads.
+  So when we say it could be or better be used, I do not think we 
+understand the nature of this money and the nature of the limitations 
+that it has under the law. I just wanted to clarify that. This money 
+has to be used for building under current law. Unless we change this on 
+motion to recommit, we would be allowing it to pay off a soft dollar 
+debt.
+  Mr. FATTAH. Mr. Chairman, I yield myself such time as I may consume.
+  I am glad that the gentleman seeks to clarify, because much of what 
+has happened by those who are opponents to this bill today has been an 
+attempt to misinform; all the way from the White House press room to 
+the floor of the House, an attempt to misinform people about the intent 
+of this bill.
+  But a bipartisan majority has found its way through every single one 
+of these amendments, and we are going to continue to do so.
+  Mr. Chairman, I reserve the balance of my time.
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from Georgia 
+(Mr. Kingston) has 4\1/2\ minutes remaining; the gentleman from 
+Connecticut (Mr. Shays) has 3 minutes remaining; the gentleman from 
+Pennsylvania (Mr. Fattah) has 4 minutes remaining.
+  Mr. SHAYS. Mr. Chairman, I yield myself such time as I may consume.
+  I am getting a little concerned because some people are getting a 
+little cocky here, and we have two amendments to go, and I cannot tell 
+my colleagues the outcome. But I can tell my colleagues this: In 1974, 
+the Federal Elections Campaign Act of 1974 provided an exemption to 
+allow political parties to raise soft money to purchase or construct a 
+building. It has existed since 1974. In fact, that was the way soft 
+money kind of entered its way in. It was to build buildings; it was not 
+really for campaigns, it was ultimately to get out the vote. It was not 
+for races.
+  What this provision does in our bill is say that if a party has any 
+soft money left on November 6, they can only use it to build or 
+purchase a building.
+  Our bill makes it very clear that they cannot raise any more soft 
+money for this or any purpose after November 6.
+  Now, my logic was, if Terry McAuliffe and the Democratic side of the 
+aisle wants to use soft money to build a building and not use it to run 
+against candidates, I am happy to have them do it. That was my simple 
+logic. I am curious as to why our side of the aisle wants him to use 
+this money only to run against us.
+  So that is the way my simple mind is working, I guess, at 1 o'clock 
+in the morning. I am hoping this amendment is defeated. I hope Terry 
+McAuliffe and anybody else he can convince will build buildings instead 
+of running races.
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, will the gentleman yield?
+  Mr. SHAYS. I yield to the gentleman from Virginia.
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, just to understand, building 
+fund dollars are dollars that come for the most part from two 
+organizations. Those monies cannot be used for ads. They can only be 
+used for buildings. If this money does not fail, before November 5, 
+both party committees would have to use that money to buy buildings or 
+equipment. That is the way it would work. But they could not be used in 
+ads; I just wanted to clarify that.
+
+                              {time}  0100
+
+  Mr. SHAYS. Mr. Chairman, I yield myself such time as I may consume.
+  I have looked at the latest FEC report and what we have down in the 
+building fund for the RNC is $1.8 million and the DNC is $3.2 million.
+  Now, I will acknowledge to my colleague, again, the gentleman from 
+Arizona, he has asked, well, there is this talk of $40 million. I am 
+trying to nail down where $40 million comes from, but I look at the FEC 
+report and this is what I see. So then what they would have to be doing 
+is they would have to be raising money right now for soft money for a 
+building instead of spending it on a campaign.
+  Now, I do not know if there is some $40 million that does not show up 
+in the FEC. I stand ready to comment on it, but that is what we have 
+got.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. FATTAH. Mr. Chairman, I yield 1 minute and 15 seconds to the 
+gentleman from Maryland (Mr. Hoyer).
+  Mr. HOYER. Mr. Chairman, I thank the gentleman for yielding me time.
+  Mr. Chairman, when the gentleman from Virginia (Mr. Tom Davis), the 
+chairman of the Republican Campaign Committee, raised the issue, I went 
+to find out because I do not know much about this issue.
+  First of all, let me tell him that most of the funds, at least on our 
+side, I do not know what is in your accounts, are non-Freddie Mac, 
+Fannie Mae funds, soft dollars. The overwhelming majority of them, 
+number one. Number two, clearly what this is is under the present 
+system we have, I presume from time to time my colleagues have, they 
+may not be doing so now, raised money for the purposes of either 
+rehabing or constructing headquarters. My colleagues have a major 
+headquarters. We have a headquarters. What the provision obviously 
+says, if my colleagues have done that, as we have and I presume my 
+colleagues have, and we have that money in the account for the purposes 
+of building a building, we will be allowed to do that. We cannot raise 
+more soft money, but you will be allowed to spend that money for the 
+purposes of completing that project. It seems to me that we do that in 
+almost all legislation that we pass. It is fair for both sides; and 
+while it may seem to be a politically advantageous argument to make, as 
+if it is some special deal, in fact, it is a transition provision that 
+not only applies to our parties when we change the rules, but applies 
+to almost every facet of business, and we do it in Ways and Means tax 
+bills all the time.
+  So I suggest that we defeat this amendment and move on with the 
+substance of this legislation.
+  Mr. KINGSTON. Mr. Chairman, how much time is remaining?
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from Georgia 
+(Mr. Kingston) has 4\1/2\ minutes remaining. The gentleman from 
+Pennsylvania (Mr. Fattah) has 2\3/4\ minutes remaining. The gentleman 
+from Connecticut (Mr. Shays) has 15 seconds remaining.
+  Mr. KINGSTON. Mr. Chairman, I yield 1 minute to the gentleman from 
+Pennsylvania (Mr. Weldon).
+  (Mr. WELDON of Pennsylvania asked and was given permission to revise 
+and extend his remarks.)
+  Mr. WELDON of Pennsylvania. Mr. Chairman, I thank my colleague for 
+yielding me time.
+  I am confused and I am troubled. I have supported Shays-Meehan, and I 
+have opposed almost all of the amendments because I have been told this 
+is a very carefully crafted compromise. Now I find out late last night 
+we have put this provision in at somebody's request that was not in the 
+Senate bill. Unless somebody can tell me that is wrong, I would ask my 
+colleagues to say. My side says it was added in and it was not in the 
+Senate bill.
+  Mr. HOYER. Mr. Chairman, will the gentleman yield?
+  Mr. WELDON of Pennsylvania. I yield to the gentleman from Maryland.
+  Mr. HOYER. Mr. Chairman, I do not know a whole lot about this, but 
+the gentleman from Massachusetts (Mr. Meehan) and maybe the gentleman 
+from Connecticut (Mr. Shays), this was added in July.
+  Mr. WELDON of Pennsylvania. The gentleman from Connecticut (Mr. 
+Shays) told me last night.
+  Mr. SHAYS. Mr. Chairman, if the gentleman will yield, this amendment
+
+[[Page H458]]
+
+was part of our July amendment and it is a part of the record.
+  Mr. WELDON of Pennsylvania. But it was not in the Senate bill?
+  Mr. SHAYS. It was not in the Senate bill; that is correct.
+  Mr. WELDON of Pennsylvania. Mr. Chairman, I can tell you what I am 
+going to do, I will vote in favor of it and I encourage other people 
+who have been supportive of Shays-Meehan to do the same thing because 
+this is not what we were led to believe. I am voting ``yes.''
+  Mr. FATTAH. Mr. Chairman, do I have the right to close?
+  The CHAIRMAN pro tempore. The gentleman is correct.
+  Mr. FATTAH. Mr. Chairman, I reserve the balance of my time.
+  Mr. KINGSTON. Mr. Chairman, I yield 2 minutes to the distinguished 
+gentleman from Louisiana (Mr. Tauzin).
+  Mr. TAUZIN. Mr. Chairman, I thank the gentleman for yielding me time.
+  Let me point out two factors about this provision that I think 
+require us to pass this amendment. The first is that the provision 
+allows not only the keeping of this soft money for the building of a 
+building, but the keeping of it so long as you never build that 
+building. There is no time limits on how long this money can be kept. 
+So if one decides just not to use it, one can simply put it in a CD and 
+just keep it around.
+  Now, why would one do that? Well, there are no provisions against 
+using this money as collateral for other loans. So, therefore, this 
+money could be kept in a CD, this soft money, this money that is 
+supposed to be bad and corrupting, in a CD, collateralize loans. And 
+then because the loans are made to the committee, the committee can use 
+that loan money as hard money and spend it on ads or whatever other 
+purposes for campaign money you want in effect. Because soft money like 
+all money is fungible, it can be cleverly, and there are some 
+accountants around to help you, and I assure you from the hearings we 
+conducted, there are accountants around that can help one do it if one 
+wants to do it, keep this soft money indefinitely. Use it as 
+collateral. Every time one runs into trouble, just borrow against it, 
+spend it for campaigns, spend it for ads. Do all the things my 
+colleagues say they want to make outlawed.
+  If Members believe soft money is so corrupting, why would they want 
+to keep it around and perhaps use it for that purpose, simply not build 
+the building, constantly borrow against it? Pay off the loan when one 
+could, but constantly borrow against it as collateral whenever extra 
+money was needed for a campaign? In effect, converting soft money into 
+hard money through the process of using as collateral.
+  That is what this bill currently allows to be done. Now, why would 
+either party want to allow that to happen if, in fact, Members want to 
+get rid of soft money as a corrupting feature in future campaigns? This 
+amendment is necessary to correct this defect in the bill that the 
+Senate was clever enough not to include in their legislation, and we 
+ought to adopt the amendment.
+  Mr. FATTAH. Mr. Chairman, I yield myself such time as I may consume.
+  First of all, I know at least for myself I would rather be home with 
+my wife on Valentine's Day, but we are here and in order to clean out 
+the creek, we have to get the hogs out of the water first. What we need 
+to focus in on here, we have heard from the gentleman from Connecticut 
+(Mr. Shays). He is against this amendment. We have heard from the 
+gentleman from Massachusetts (Mr. Meehan). He is against it.
+  The people who are the promoters of campaign finance here in the 
+House are against this amendment and those people who have spent every 
+amount of energy and intellect on trying to stop and derail this bill, 
+they are for this amendment. So, now we should not need, as the 
+gentleman from Georgia (Mr. Kingston) said when he opened this debate, 
+to bring a great deal of intellectual curiosity of this. The co-
+sponsors of the bill are against the amendment. They said it did not 
+show up last night. It was in in July. Either when that information was 
+offered, the gentleman from Pennsylvania (Mr. Weldon) who was arguing 
+that point, still said, well, I am going to vote for it anyway. Do not 
+let the facts get in your way. Let us try nonetheless if we can to 
+honor our two colleagues who have worked so hard to bring us to this 
+moment, and let us take their word for what it is they are trying to 
+accomplish. Those of us who support Shays-Meehan, let us vote against 
+this amendment.
+  Mr. KINGSTON. Mr. Chairman, how much time remains?
+  The CHAIRMAN pro tempore. The gentleman from Georgia (Mr. Kingston) 
+has 1\1/2\ minutes remaining. The gentleman from Pennsylvania (Mr. 
+Fattah) has 1\1/2\ minutes remaining. The gentleman from Connecticut 
+(Mr. Shays) has 15 seconds remaining.
+  Mr. KINGSTON. Mr. Chairman, I yield myself such time as I may 
+consume.
+  I just want to say if we are going to clean out the water, we cannot 
+just get the hogs out. We have to get the little piglets out as well. I 
+think this amendment helps get one of the piglets out, a defect that 
+may have been overlooked by my good friend from Pennsylvania.
+  Mr. Chairman, I yield 30 seconds to the gentleman from Pennsylvania 
+(Mr. Weldon).
+  Mr. WELDON of Pennsylvania. Mr. Chairman, my colleague and friend 
+mentioned me but mischaracterized what I said. I did not say that this 
+was added in last night. I said this was not in the Senate bill. That 
+is what I said. And that has, in fact, been said by both sides.
+  I was told that this bill was identical to what the Senate passed and 
+that is in fact not the case. So I have been misled. But I do not like 
+the fact that the gentleman misrepresented what I said. I urge my 
+colleagues who voted for Shays-Meehan to support this amendment because 
+this was stuck in because obviously someone sees a financial advantage 
+that the Senate did not see. It is wrong and it is not in the spirit of 
+what campaign finance reform is all about.
+  Mr. SHAYS. Mr. Chairman, I yield myself such time as I may consume.
+  I just want to say honestly to this Chamber that I believe that the 
+comments made by the gentleman from Virginia (Mr. Tom Davis) were 
+correct. I am going to be voting against this amendment, but I do 
+believe his point that my colleagues can raise them from the FHA and 
+others is an accurate point and makes it easier to raise that soft 
+money for those purposes.
+
+                              {time}  0110
+
+  Mr. KINGSTON. Mr. Chairman, I yield 30 seconds to the gentleman from 
+Virginia (Mr. Tom Davis).
+  Mr. TOM DAVIS of Virginia. Mr. Chairman, let me understand the 
+accounting. I know this as chairman of our committee, and my 
+colleague's committee operates separately. We have several different 
+funds that we keep at both committees. There are hard-dollar funds, 
+Federal-dollar funds. Then there are three soft-money accounts. There 
+is a corporate soft-dollar account, a personal soft-dollar account that 
+could be spent differently in different States.
+  Then there is a building-fund soft-dollar account. Those moneys are, 
+for the most part, I mean, 90-plus percent, moneys that are earmarked 
+from corporations, particularly Freddie Mac and Fanny Mae, who have 
+restrictions on the dollars they can give. They have given millions of 
+dollars through the years, and I think we ought to just get to spend 
+it.
+  This is not a poison pill amendment. This amendment I think is a free 
+vote for Members, but it is a special carve out; and I just call that 
+to Members' attention.
+  Mr. KINGSTON. Mr. Chairman, I yield myself the remaining time.
+  Let me just urge Members to support this amendment. The situation 
+with this entire bill is we hear soft money is bad but not this soft 
+money, not that soft money. It is a confusing bill. That is why it is a 
+long bill, and what this amendment simply says is that the money cannot 
+be used for any time to set in an account to build a building after 
+soft money is banned by it.
+  Mr. Chairman, I yield back the time remaining.
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from 
+Pennsylvania (Mr. Fattah) has 1\1/2\ minutes remaining.
+  Mr. FATTAH. Mr. Chairman, I yield 45 seconds to the gentleman from 
+Texas (Mr. Bentsen).
+  Mr. BENTSEN. Mr. Chairman, I am not sure why we are debating this
+
+[[Page H459]]
+
+amendment in the first place; but the fact that we are, I think there 
+is one flawed argument that has been made. If one cannot use the money 
+for hard purposes in the first place, I do not think one can pledge it 
+as a collateral for hard purposes because if they had a default, the 
+money would be illegal at that point. I think the argument that was 
+made was wrong in the first place, but I think it is sort of a 
+meaningless amendment as it is.
+  Mr. FATTAH. Mr. Chairman, I yield myself the remainder of my time.
+  I feel almost in the role of Joshua, but I want to choose to be with 
+Shays and Meehan this day, and I would hope that my colleagues would 
+follow.
+  The CHAIRMAN pro tempore. The question is on the amendment offered by 
+the gentleman from Georgia (Mr. Kingston).
+  The question was taken; and the Chairman pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. FATTAH. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 232, 
+noes 196, not voting 7, as follows:
+
+                             [Roll No. 32]
+
+                               AYES--232
+
+     Abercrombie
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barr
+     Bartlett
+     Barton
+     Bass
+     Bereuter
+     Berkley
+     Biggert
+     Bilirakis
+     Blunt
+     Boehlert
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Brown (SC)
+     Bryant
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Carson (OK)
+     Castle
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Condit
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeFazio
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Edwards
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Ferguson
+     Flake
+     Fletcher
+     Foley
+     Forbes
+     Fossella
+     Frelinghuysen
+     Gallegly
+     Ganske
+     Gekas
+     Gibbons
+     Gilchrest
+     Gillmor
+     Gilman
+     Goode
+     Goodlatte
+     Goss
+     Graham
+     Granger
+     Graves
+     Green (WI)
+     Greenwood
+     Grucci
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Horn
+     Hostettler
+     Houghton
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jackson-Lee (TX)
+     Jenkins
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     Kind (WI)
+     King (NY)
+     Kingston
+     Kirk
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     LaTourette
+     Leach
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     LoBiondo
+     Lucas (OK)
+     Manzullo
+     Matheson
+     McCrery
+     McHugh
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, George
+     Miller, Jeff
+     Moore
+     Moran (KS)
+     Morella
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Osborne
+     Ose
+     Otter
+     Oxley
+     Pence
+     Peterson (PA)
+     Petri
+     Pickering
+     Pitts
+     Platts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Quinn
+     Radanovich
+     Ramstad
+     Regula
+     Rehberg
+     Reynolds
+     Roemer
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Sanders
+     Saxton
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shuster
+     Simmons
+     Simpson
+     Skeen
+     Smith (MI)
+     Smith (NJ)
+     Smith (TX)
+     Snyder
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tauzin
+     Taylor (NC)
+     Terry
+     Thomas
+     Thornberry
+     Thune
+     Tiahrt
+     Tiberi
+     Tierney
+     Toomey
+     Upton
+     Vitter
+     Walden
+     Walsh
+     Wamp
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weldon (PA)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wolf
+     Young (AK)
+     Young (FL)
+
+                               NOES--196
+
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barcia
+     Barrett
+     Becerra
+     Bentsen
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Bonior
+     Borski
+     Boswell
+     Boucher
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Filner
+     Ford
+     Frank
+     Frost
+     Gephardt
+     Gonzalez
+     Gordon
+     Green (TX)
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holden
+     Holt
+     Honda
+     Hooley
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jefferson
+     John
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     Lee
+     Levin
+     Lewis (GA)
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Mink
+     Mollohan
+     Moran (VA)
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Paul
+     Payne
+     Pelosi
+     Peterson (MN)
+     Phelps
+     Pomeroy
+     Price (NC)
+     Rahall
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Ross
+     Rothman
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sandlin
+     Sawyer
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Shows
+     Skelton
+     Slaughter
+     Smith (WA)
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Taylor (MS)
+     Thompson (CA)
+     Thompson (MS)
+     Thurman
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Wexler
+     Woolsey
+     Wu
+     Wynn
+
+                             NOT VOTING--7
+
+     Brady (TX)
+     Burr
+     Cubin
+     Hefley
+     Riley
+     Roukema
+     Traficant
+
+                              {time}  0132
+
+  Messrs. MATHESON, MOORE, SANDERS, ABERCROMBIE, GEORGE MILLER of 
+California, DeFAZIO, Mrs. JOHNSON of Connecticut, Messrs. SNYDER, 
+ROEMER, KIND, Ms. JACKSON-LEE of Texas, and Mr. CONDIT changed their 
+vote from ``no'' to ``aye.''
+  So the amendment was agreed to.
+  The result of the vote was announced as above recorded.
+  The CHAIRMAN pro tempore (Mr. Thornberry). Pursuant to the order of 
+the House of Tuesday, February 12, 2002, it is now in order to consider 
+an amendment by the gentleman from Texas (Mr. Armey).
+
+
+   Amendment In The Nature of a Substitute No. 26 Offered by Mr. Ney
+
+  Mr. NEY. Mr. Chairman, as the designee of the gentleman from Texas 
+(Mr. Armey), I offer an amendment in the nature of a substitute.
+  The CHAIRMAN pro tempore. The Clerk will designate the amendment in 
+the nature of a substitute.
+  The text of the amendment in the nature of a substitute is as 
+follows:
+
+       Amendment in the nature of a substitute No. 26 offered by 
+     Mr. Ney:
+       Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
+
+       (a) Short Title.--This Act may be cited as the ``Campaign 
+     Reform and Citizen Participation Act of 2002''.
+       (b) Table of Contents.--The table of contents for this Act 
+     is as follows:
+
+Sec. 1. Short title; table of contents.
+
+                TITLE I--SOFT MONEY OF NATIONAL PARTIES
+
+Sec. 101. Restrictions on soft money of national political parties.
+
+             TITLE II--MODIFICATION OF CONTRIBUTION LIMITS
+
+Sec. 201. Increase in limits on certain contributions.
+Sec. 202. Increase in limits on contributions to State parties.
+Sec. 203. Treatment of contributions to national party under aggregate 
+              annual limit on individual contributions.
+Sec. 204. Exemption of costs of volunteer campaign materials produced 
+              and distributed by parties from treatment as 
+              contributions and expenditures.
+Sec. 205. Indexing.
+Sec. 206. Permitting national parties to establish accounts for making 
+              expenditures in excess of limits on behalf of candidates 
+              facing wealthy opponents.
+
+        TITLE III--DISCLOSURE OF ELECTION-RELATED COMMUNICATIONS
+
+Sec. 301. Disclosure of information on communications broadcast prior 
+              to election.
+Sec. 302. Disclosure of information on targeted mass communications.
+
+                        TITLE IV--EFFECTIVE DATE
+
+Sec. 401. Effective date.
+
+                TITLE I--SOFT MONEY OF NATIONAL PARTIES
+
+     SEC. 101. RESTRICTIONS ON SOFT MONEY OF NATIONAL POLITICAL 
+                   PARTIES.
+
+       Title III of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 431 et seq.) is amended by adding at the end the 
+     following new section:
+
+[[Page H460]]
+
+               ``soft money of national political parties
+
+       ``Sec. 323. (a) Prohibiting Use of Soft Money for Federal 
+     Election Activity.--A national committee of a political party 
+     (including a national congressional campaign committee of a 
+     political party) may not solicit, receive, or direct to 
+     another person a contribution, donation, or transfer of funds 
+     or any other thing of value for Federal election activity, or 
+     spend any funds for Federal election activity, that are not 
+     subject to the limitations, prohibitions, and reporting 
+     requirements of this Act.
+       ``(b) Limit on Amount of Nonfederal Funds Provided to Party 
+     by Any Person for Any Purpose.--
+       ``(1) Limit on amount.--No person shall make contributions, 
+     donations, or transfers of funds which are not subject to the 
+     limitations, prohibitions, and reporting requirements of this 
+     Act to a political committee established and maintained by a 
+     national political party in any calendar year in an aggregate 
+     amount equal to or greater than $20,000.
+       ``(2) Prohibiting provision of nonfederal funds by 
+     individuals.--No individual may make any contribution, 
+     donation, or transfer of funds which are not subject to the 
+     limitations, prohibitions, and reporting requirements of this 
+     Act to a political committee established and maintained by a 
+     national political party.
+       ``(c) Applicability.-- This subsection shall apply to any 
+     political committee established and maintained by a national 
+     political party, any officer or agent of such a committee 
+     acting on behalf of the committee, and any entity that is 
+     directly or indirectly established, maintained, or controlled 
+     by such a national committee.
+       ``(d) Definitions.--
+       ``(1) Federal election activity.--
+       ``(A) In general.--The term `Federal election activity' 
+     means--
+       ``(i) voter registration activity during the period that 
+     begins on the date that is 120 days before the date a 
+     regularly scheduled Federal election is held and ends on the 
+     date of the election, unless the activity constitutes generic 
+     campaign activity;
+       ``(ii) voter identification or get-out-the-vote activity 
+     conducted in connection with an election in which a candidate 
+     for Federal office appears on the ballot (regardless of 
+     whether a candidate for State or local office also appears on 
+     the ballot), unless the activity constitutes generic campaign 
+     activity;
+       ``(iii) any public communication that refers to or depicts 
+     a clearly identified candidate for Federal office (regardless 
+     of whether a candidate for State or local office is also 
+     mentioned or identified) and that promotes or supports a 
+     candidate for that office, or attacks or opposes a candidate 
+     for that office (regardless of whether the communication 
+     expressly advocates a vote for or against a candidate); or
+       ``(iv) any public communication made by means of any 
+     broadcast, cable, or satellite communication.
+       ``(B) Exception for certain administrative activities.--The 
+     term `Federal election activity' does not include any 
+     activity relating to establishment, administration, or 
+     solicitation costs of a political committee established and 
+     maintained by a national political party, so long as the 
+     funds used to carry out the activity are derived from funds 
+     or payments made to the committee which are segregated and 
+     used exclusively to defray the costs of such activities.
+       ``(2) Generic campaign activity.--The term `generic 
+     campaign activity' means any activity that does not mention, 
+     depict, or otherwise promote a clearly identified Federal 
+     candidate.
+       ``(3) Public communication.--The term `public 
+     communication' means a communication by means of any 
+     broadcast, cable, or satellite communication, newspaper, 
+     magazine, outdoor advertising facility, or direct mail.
+       ``(4) Direct mail.--The term `direct mail' means a mailing 
+     by a commercial vendor or any mailing made from a commercial 
+     list.''.
+
+             TITLE II--MODIFICATION OF CONTRIBUTION LIMITS
+
+     SEC. 201. INCREASE IN LIMITS ON CERTAIN CONTRIBUTIONS.
+
+       (a) Contributions by Committees to National Parties.--
+     Section 315(a)(2)(B) of such Act (2 U.S.C. 441a(a)(2)(B)) is 
+     amended by striking ``$15,000'' and inserting ``$30,000''.
+       (b) Aggregate Annual Limit on Contributions by 
+     Individuals.--Section 315(a)(3) of such Act (2 U.S.C. 
+     441a(a)(3)) is amended by striking ``$25,000'' and inserting 
+     ``$37,500''.
+
+     SEC. 202. INCREASE IN LIMITS ON CONTRIBUTIONS TO STATE 
+                   PARTIES.
+
+       (a) Contributions by Individuals.--Section 315(a)(1) of the 
+     Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(1)) 
+     is amended--
+       (1) in subparagraph (B), by striking ``or'' at the end;
+       (2) in subparagraph (C)--
+       (A) by inserting ``(other than a committee described in 
+     subparagraph (D))'' after ``committee''; and
+       (B) by striking the period at the end and inserting ``; 
+     or''; and
+       (3) by adding at the end the following:
+       ``(D) to a political committee established and maintained 
+     by a State committee of a political party in any calendar 
+     year which, in the aggregate, exceed $10,000.''.
+       (b) Contributions by Committees.--Section 315(a)(2) of the 
+     Federal Election Campaign Act of 1971 (2 U.S.C. 441a(a)(2)) 
+     is amended--
+       (1) in subparagraph (B), by striking ``or'' at the end;
+       (2) in subparagraph (C)--
+       (A) by inserting ``(other than a committee described in 
+     subparagraph (D))'' after ``committee''; and
+       (B) by striking the period at the end and inserting ``; 
+     or''; and
+       (3) by adding at the end the following:
+       ``(D) to a political committee established and maintained 
+     by a State committee of a political party in any calendar 
+     year which, in the aggregate, exceed $10,000.''.
+
+     SEC. 203. TREATMENT OF CONTRIBUTIONS TO NATIONAL PARTY UNDER 
+                   AGGREGATE ANNUAL LIMIT ON INDIVIDUAL 
+                   CONTRIBUTIONS.
+
+       Section 315(a)(3) of the Federal Election Campaign Act of 
+     1971 (2 U.S.C. 441(a)(3)) is amended--
+       (1) by striking ``(3)'' and inserting ``(3)(A)''; and
+       (2) by adding at the end the following new subparagraph:
+       ``(B) Subparagraph (A) shall not apply with respect to any 
+     contribution made to any political committee established and 
+     maintained by a national political party which is not the 
+     authorized political committee of any candidate.''.
+
+     SEC. 204. EXEMPTION OF COSTS OF VOLUNTEER CAMPAIGN MATERIALS 
+                   PRODUCED AND DISTRIBUTED BY PARTIES FROM 
+                   TREATMENT AS CONTRIBUTIONS AND EXPENDITURES.
+
+       (a) Treatment as Contributions.--Section 301(8)(B)(x) of 
+     the Federal Election Campaign Act of 1971 (2 U.S.C. 
+     431(8)(B)(x)) is amended by striking ``a State or local 
+     committee of a political party of the costs of'' and 
+     inserting ``a national, State, or local committee of a 
+     political party of the costs of producing and distributing''.
+       (b) Treatment as Expenditures.--Section 301(9)(B)(viii) of 
+     the Federal Election Campaign Act of 1971 (2 U.S.C. 
+     431(9)(B)(viii)) is amended by striking ``a State or local 
+     committee of a political party of the costs of'' and 
+     inserting ``a national, State, or local committee of a 
+     political party of the costs of producing and distributing''.
+
+     SEC. 205. INDEXING.
+
+       Section 315(c) of the Federal Election Campaign Act of 1971 
+     (2 U.S.C. 441a(c)) is amended--
+       (1) in paragraph (1)--
+       (A) by striking the second and third sentences;
+       (B) by inserting ``(A)'' before ``At the beginning''; and
+       (C) by adding at the end the following:
+       ``(B) Except as provided in subparagraph (C), in any 
+     calendar year after 2002--
+       ``(i) a limitation established by subsections (a), (b), 
+     (d), or (h) shall be increased by the percent difference 
+     determined under subparagraph (A);
+       ``(ii) each amount so increased shall remain in effect for 
+     the calendar year; and
+       ``(iii) if any amount after adjustment under clause (i) is 
+     not a multiple of $100, such amount shall be rounded to the 
+     nearest multiple of $100.
+       ``(C) In the case of limitations under subsections (a) and 
+     (h), increases shall only be made in odd-numbered years and 
+     such increases shall remain in effect for the 2-year period 
+     beginning on the first day following the date of the last 
+     general election in the year preceding the year in which the 
+     amount is increased and ending on the date of the next 
+     general election.''; and
+       (2) in paragraph (2)(B), by striking ``means the calendar 
+     year 1974'' and inserting ``means--
+       ``(i) for purposes of subsections (b) and (d), calendar 
+     year 1974; and
+       ``(ii) for purposes of subsections (a) and (h), calendar 
+     year 2001''.
+
+     SEC. 206. PERMITTING NATIONAL PARTIES TO ESTABLISH ACCOUNTS 
+                   FOR MAKING EXPENDITURES IN EXCESS OF LIMITS ON 
+                   BEHALF OF CANDIDATES FACING WEALTHY OPPONENTS.
+
+       (a) Establishment of Accounts.--Section 315(d) of the 
+     Federal Election Campaign Act of 1971 (2 U.S.C. 441a(d)) is 
+     amended by adding at the end the following new paragraph:
+       ``(4)(A) Subject to subparagraph (B), the national 
+     committee of a political party may make expenditures in 
+     connection with the general election campaign of a candidate 
+     for Federal office (other than a candidate for President) who 
+     is affiliated with such party in an amount in excess of the 
+     limit established under paragraph (3) if--
+       ``(i) the candidate's opponent in the general election 
+     campaign makes expenditures of personal funds in connection 
+     with the campaign in an amount in excess of $100,000 (as 
+     provided in the notifications submitted under section 
+     304(a)(6)(B)); and
+       ``(ii) the expenditures are made from a separate account of 
+     the party used exclusively for making expenditures pursuant 
+     to this paragraph.
+       ``(B) The amount of expenditures made in accordance with 
+     subparagraph (A) by the national committee of a political 
+     party in connection with the general election campaign of a 
+     candidate may not exceed the amount of expenditures of 
+     personal funds made by the candidate's opponent in connection 
+     with the campaign (as provided in the notifications submitted 
+     under section 304(a)(6)(B)).''.
+       (b) Waiver of Limits on Contributions to Accounts.--Section 
+     315(a) of such Act (2 U.S.C. 441a(a)) is amended by adding at 
+     the end the following new paragraph:
+       ``(9) The limitations imposed by paragraphs (1)(B), (2)(B), 
+     and (3) shall not apply
+
+[[Page H461]]
+
+     with respect to contributions made to the national committee 
+     of a political party which are designated by the donor to be 
+     deposited solely into the account established by the party 
+     under subsection (d)(4).''.
+       (c) Notification of Expenditures of Personal Funds.--
+     Section 304(a)(6) of such Act (2 U.S.C. 434(a)(6)) is 
+     amended--
+       (1) by redesignating subparagraph (B) as subparagraph (C); 
+     and
+       (2) by inserting after subparagraph (A) the following new 
+     subparagraph:
+       ``(B)(i) The principal campaign committee of a candidate 
+     (other than a candidate for President) shall submit the 
+     following notifications relating to expenditures of personal 
+     funds by such candidate (including contributions by the 
+     candidate or the candidate's spouse to such committee and 
+     funds derived from loans made by the candidate or the 
+     candidate's spouse to such committee):
+       ``(I) A notification of the first such expenditure (or 
+     contribution) by which the aggregate amount of personal funds 
+     expended (or contributed) with respect to an election exceeds 
+     $100,000.
+       ``(II) After the notification is made under subclause (I), 
+     a notification of each such subsequent expenditure (or 
+     contribution) which, taken together with all such subsequent 
+     expenditures (and contributions) in any amount not included 
+     in the most recent report under this subparagraph, totals 
+     $5,000 or more.
+       ``(ii) Each of the notifications submitted under clause 
+     (i)--
+       ``(I) shall be submitted not later than 24 hours after the 
+     expenditure or contribution which is the subject of the 
+     notification is made;
+       ``(II) shall include the name of the candidate, the office 
+     sought by the candidate, and the date of the expenditure or 
+     contribution and amount of the expenditure or contribution 
+     involved; and
+       ``(III) shall include the total amount of all such 
+     expenditures and contributions made with respect to the same 
+     election as of the date of expenditure or contribution which 
+     is the subject of the notification.''.
+
+        TITLE III--DISCLOSURE OF ELECTION-RELATED COMMUNICATIONS
+
+     SEC. 301. DISCLOSURE OF INFORMATION ON COMMUNICATIONS 
+                   BROADCAST PRIOR TO ELECTION.
+
+       Section 304 of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 434) is amended by adding at the end the following new 
+     subsection:
+       ``(e) Disclosure of Information on Certain Communications 
+     Broadcast Prior to Elections.--
+       ``(1) In general.--Any person who makes a disbursement for 
+     a communication described in paragraph (3) shall, not later 
+     than 24 hours after making the disbursement, file with the 
+     Commission a statement containing the information required 
+     under paragraph (2).
+       ``(2) Contents of statement.--Each statement required to be 
+     filed under this subsection shall be made under penalty of 
+     perjury and shall contain the following information:
+       ``(A) The identification of the person making the 
+     disbursement, of any individual or entity sharing or 
+     exercising direction or control over the activities of such 
+     person, and of the custodian of the books and accounts of the 
+     person making the disbursement.
+       ``(B) The principal place of business and phone number of 
+     the person making the disbursement, if not an individual.
+       ``(C) The amount of the disbursement.
+       ``(D) The clearly identified candidate or candidates to 
+     which the communication pertains and the names (if known) of 
+     the candidates identified or to be identified in the 
+     communication.
+       ``(E) The text of the communication involved.
+       ``(3) Communications described.--
+       ``(A) In general.--A communication described in this 
+     paragraph is any communication--
+       ``(i) which is disseminated to the public by means of any 
+     broadcast, cable, or satellite communication during the 120-
+     day period ending on the date of a Federal election; and
+       ``(ii) which mentions a clearly identified candidate for 
+     such election (by name, image, or likeness).
+       ``(B) Exception.--A communication is not described in this 
+     paragraph if--
+       ``(i) the communication appears in a news story, 
+     commentary, or editorial distributed through the facilities 
+     of any broadcasting station, unless such facilities are owned 
+     or controlled by any political party, political committee, or 
+     candidate; or
+       ``(ii) the communication constitutes an expenditure under 
+     this Act.
+       ``(4) Coordination with other requirements.--Any 
+     requirement to file a statement under this subsection shall 
+     be in addition to any other reporting requirement under this 
+     Act.
+       ``(5) Clarification of treatment of vendors.--A person 
+     shall not be considered to have made a disbursement for a 
+     communication under this subsection if the person made the 
+     disbursement solely as a vendor acting pursuant to a 
+     contractual agreement with the person responsible for 
+     sponsoring the communication.''.
+
+     SEC. 302. DISCLOSURE OF INFORMATION ON TARGETED MASS 
+                   COMMUNICATIONS.
+
+       Section 304 of the Federal Election Campaign Act of 1971 (2 
+     U.S.C. 434), as amended by section 301, is further amended by 
+     adding at the end the following new subsection:
+       ``(f) Disclosure of Information on Targeted Mass 
+     Communications.--
+       ``(1) In general.--Any person who makes a disbursement for 
+     targeted mass communications in an aggregate amount in excess 
+     of $50,000 during any calendar year shall, within 24 hours of 
+     each disclosure date, file with the Commission a statement 
+     containing the information described in paragraph (2).
+       ``(2) Contents of statement.--Each statement required to be 
+     filed under this subsection shall be made under penalty of 
+     perjury and shall contain the following information:
+       ``(A) The identification of the person making the 
+     disbursement, of any individual or entity sharing or 
+     exercising direction or control over the activities of such 
+     person, and of the custodian of the books and accounts of the 
+     person making the disbursement.
+       ``(B) The principal place of business and phone number of 
+     the person making the disbursement, if not an individual.
+       ``(C) The amount of each such disbursement of more than 
+     $200 made by the person during the period covered by the 
+     statement and the identification of the person to whom the 
+     disbursement was made.
+       ``(D) The clearly identified candidate or candidates to 
+     which the communication pertains and the names (if known) of 
+     the candidates identified or to be identified in the 
+     communication.
+       ``(E) The text of the communication involved.
+       ``(3) Targeted mass communication defined.--
+       ``(A) In general.--In this subsection, the term `targeted 
+     mass communication' means any communication--
+       ``(i) which is disseminated during the 120-day period 
+     ending on the date of a Federal election;
+       ``(ii) which refers to or depicts a clearly identified 
+     candidate for such election (by name, image, or likeness); 
+     and
+       ``(iii) which is targeted to the relevant electorate.
+       ``(B) Targeting to relevant electorate.--
+       ``(i) Broadcast communications.--For purposes of this 
+     paragraph, a communication disseminated to the public by 
+     means of any broadcast, cable, or satellite communication 
+     which refers to or depicts a clearly identified candidate for 
+     Federal office is `targeted to the relevant electorate' if 
+     the communication is disseminated by a broadcaster whose 
+     audience includes--
+
+       ``(I) a substantial number of residents of the district the 
+     candidate seeks to represent (as determined in accordance 
+     with regulations of the Commission), in the case of a 
+     candidate for Representative in, or Delegate or Resident 
+     Commissioner to, the Congress; or
+       ``(II) a substantial number of residents of the State the 
+     candidate seeks to represent (as determined in accordance 
+     with regulations of the Commission), in the case of a 
+     candidate for Senator.
+
+       ``(ii) Other communications.--For purposes of this 
+     paragraph, a communication which is not described in clause 
+     (i) which refers to or depicts a clearly identified candidate 
+     for Federal office is `targeted to the relevant electorate' 
+     if--
+
+       ``(I) more than 10 percent of the total number of intended 
+     recipients of the communication are members of the electorate 
+     involved with respect to such Federal office; or
+       ``(II) more than 10 percent of the total number of members 
+     of the electorate involved with respect to such Federal 
+     office receive the communication.
+
+       ``(C) Exceptions.--The term `targeted mass communication' 
+     does not include--
+       ``(i) a communication appearing in a news story, 
+     commentary, or editorial distributed through the facilities 
+     of any broadcasting station, newspaper, magazine, or other 
+     periodical publication, unless such facilities are owned or 
+     controlled by any political party, political committee, or 
+     candidate;
+       ``(ii) a communication made by any membership organization 
+     (including a labor organization) or corporation solely to its 
+     members, stockholders, or executive or administrative 
+     personnel, if such membership organization or corporation is 
+     not organized primarily for the purpose of influencing the 
+     nomination for election, or election, of any individual to 
+     Federal office; or
+       ``(iii) a communication which constitutes an expenditure 
+     under this Act.
+       ``(4) Disclosure date.--For purposes of this subsection, 
+     the term `disclosure date' means--
+       ``(A) the first date during any calendar year by which a 
+     person has made disbursements for targeted mass 
+     communications aggregating in excess of $50,000; and
+       ``(B) any other date during such calendar year by which a 
+     person has made disbursements for targeted mass 
+     communications aggregating in excess of $50,000 since the 
+     most recent disclosure date for such calendar year.
+       ``(5) Coordination with other requirements.--Any 
+     requirement to report under this subsection shall be in 
+     addition to any other reporting requirement under this Act.
+       ``(6) Clarification of treatment of vendors.--A person 
+     shall not be considered to have made a disbursement for a 
+     communication under this subsection if the person made the 
+     disbursement solely as a vendor acting pursuant to a 
+     contractual agreement with the person responsible for 
+     sponsoring the communication.''.
+
+[[Page H462]]
+
+                        TITLE IV--EFFECTIVE DATE
+
+     SEC. 401. EFFECTIVE DATE.
+
+       The amendments made by this Act shall take effect on the 
+     date of the enactment of this Act.
+
+  The CHAIRMAN pro tempore. Pursuant to section 3 of House Resolution 
+344, the gentleman from Ohio (Mr. Ney) and the gentleman from Maryland 
+(Mr. Hoyer) each will control 10 minutes.
+  The Chair recognizes the gentleman from Ohio (Mr. Ney).
+  Mr. NEY. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, this is the Ney-Wynn amendment, and this will be the 
+last chance tonight, and this is not a poison pill. This amendment 
+embodies campaign finance reform principles that respect our 
+Constitution. It does not seek to punish or discourage those citizens 
+who exercise their constitutional rights to participate in the 
+political process.
+  This amendment bans the national parties from raising or using soft 
+money for Federal election activities, including broadcast issue 
+advertising. However, it would permit the national parties to continue 
+to raise and use soft money for generic voter registration, which I 
+believe we all know is important, and get-out-the-vote activities. The 
+parties would also preserve the right to use such funds for fund-
+raising and overhead expenses.
+  The principal complaint leveled against so-called soft money is that 
+it is unlimited and unregulated. This amendment addresses that 
+complaint by limiting it and regulating it. With the passage of this 
+amendment, no donor could contribute an amount over $20,000 to any 
+political committee. As I previously indicated, the use of the funds 
+would be restricted to certain activities.
+  Shays-Meehan does absolutely nothing to restrict how unions and 
+corporations spend soft money. Under current law, unions and 
+corporations can spend unlimited amounts of soft money communicating 
+with their members, soliciting those members for contributions and 
+engaging in such political activities as registering voters and getting 
+out the vote. Shays-Meehan would not stop these groups from using their 
+soft dollars in this way. What Shays-Meehan would do is prevent the 
+national parties from using so-called soft dollars in a similar 
+fashion.
+  I really do not think we should restrict the ability of our parties, 
+the existing parties and any parties that want to rise up and blossom 
+in our country, from registering and getting voters to the polls while 
+leaving unions and corporations free to do so without restriction. 
+Hamstringing our parties, and thereby enhancing the power of unions and 
+corporations, does not accomplish the stated goal of some to reduce the 
+power of the special interests. I think we should be making our parties 
+stronger, not weaker.
+  There is no rationale for denying our national parties access to 
+funds that we are willing to allow States to receive. The principal 
+difference between this amendment and the bill before us is that this 
+amendment would allow the national parties to raise some soft dollars, 
+while the Shays bill would allow only the State and local parties to do 
+so. The choice is not between one bill that allows soft money and a 
+second bill that bans it. I think that is perfectly clear tonight. 
+Shays-Meehan, as we know, has soft money. Both the Shays bill and this 
+amendment permit limited amounts of soft money. This amendment simply 
+says if we are going to allow the State parties to accept soft dollars, 
+we ought to allow the national parties to do the same.
+  Members need to be aware that the contribution limits in this 
+amendment have been significantly reduced in comparison to the previous 
+amendment we had in the summer. Inflated claims about the usual amounts 
+of money that could be donated under this amendment do not apply to 
+this amendment as it is drafted.
+
+                              {time}  0140
+
+  It has to be pointed out there are thousands of State and local 
+parties, and there are six national parties to which the contributions 
+can be given. So if you support the underlying bill, but oppose this 
+amendment, you are basically saying it is perfectly acceptable for a 
+corporation to give millions of dollars to a multitude of State and 
+local parties, but it is somehow corrupt for them to give a limited 
+amount to six national party interests. There is no logical reason that 
+I can find for this distinction.
+  This amendment also provides for increased disclosure, which we all 
+want, for targeted mass communications. The person who pays for the 
+communication would have to disclose their identity within 24 hours of 
+the purchase. That I believe is what the American people want. I would 
+note that this disclosure provision is broader than that contained in 
+the underlying bill, which applies only to broadcast communications. 
+Disclosure provisions in this amendment would apply to all forms of 
+communication, including newspaper ads, phone banks, et cetera.
+  Having described what is in the amendment, I take a moment to 
+describe what is not in it and why. Most importantly, this amendment 
+does not seek to ban issue advocacy. Twenty-five years of court 
+decisions, from the Supreme Court on down, have made it perfectly clear 
+that our Constitution does not permit the Federal Government to 
+regulate issue advertisements.
+  Our first amendment protects the right of every American to speak out 
+on issues of public concern, and it has been that way since the 
+creation of this Nation. Politicians may want to use the power of 
+government to attempt to silence their critics, which is what Shays-
+Meehan does, but I do not believe we should participate in that 
+endeavor.
+  Real campaign finance reform encourages citizen participation. Real 
+campaign finance reform protects our cherished rights to freely speak 
+and associate. Real campaign finance reform preserves the important 
+role our political parties play in our democracy. This amendment 
+accomplishes these goals.
+  I want to thank the gentleman from Maryland (Mr. Wynn) for drafting 
+this and supporting it. I urge support of the amendment.
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. HOYER. Mr. Chairman, I ask unanimous consent that the gentleman 
+from Connecticut (Mr. Shays) may control 5 minutes of the time 
+allocated to me, and that he may yield such time as he determines.
+  The CHAIRMAN pro tempore (Mr. Thornberry). Is there objection to the 
+request of the gentleman from Maryland?
+  There was no objection.
+  Mr. HOYER. Mr. Chairman, I yield myself such time as I may consume.
+  Mr. Chairman, I rise in opposition to this amendment. The chairman of 
+this committee, as I have said in the past, has been, in my opinion, as 
+good a chairman as I could possibly work with on the Committee on House 
+Administration. He is open, he is fair, he is a pleasure to work with. 
+We have worked very closely on election reform.
+  This House overwhelmingly passed election reform. It is now in the 
+Senate. Hopefully, they will pass it soon, we will have a conference, 
+and we will have a bill that we can all be very proud of. We agreed on 
+that legislation. The gentleman made compromises; I made compromises.
+  On campaign finance reform, however, we have differed. Essentially it 
+has been his position to oppose the Shays-Meehan alternative. In fact, 
+the Shays-Meehan alternative could not be favorably reported out of 
+committee. In my view, the Ney-Wynn amendment, which was changed last 
+night, as I understand it, to reduce the limits, but, nevertheless, 
+still has soft-money payments to the national committees, is in effect 
+Shays-Meehan extraordinarily light, and in fact does not cover most of 
+what Shays-Meehan covers. Furthermore, notwithstanding the reduction in 
+the $75,000 to $20,000, it still provides for very, very, very 
+substantial payments of soft money to various party committees, 
+substantially more than does Shays-Meehan.
+  So if you want real campaign finance reform, you need to defeat this 
+amendment, pass a motion to recommit, and pass Shays-Meehan finally and 
+send that bill to the Senate, and then hopefully soon thereafter to the 
+President of the United States for signature.
+  Mr. Chairman, I would say to my colleagues, we are coming to the end 
+of the evening. We have defeated almost all of the amendments that were 
+designed to undermine and defeat Shays-Meehan. We have one more step to 
+take. I urge my colleagues to take it.
+
+[[Page H463]]
+
+  Mr. Chairman, I reserve the balance of my time.
+  Mr. NEY. Mr. Chairman, I yield 3 minutes to my distinguished 
+colleague, the gentleman from Maryland (Mr. Wynn).
+  Mr. WYNN. Mr. Chairman, I thank the gentleman for yielding me time. 
+Let me initially say it has been a pleasure working with him. He has 
+been very responsive to a wide variety of points of view, and he has 
+tried to craft a compromise.
+  I have to say tonight that I am always very disturbed when I hear 
+people say our way is the only way, whether it comes from some sort of 
+fanatic or whether it comes from a so-called reformer. The fact of the 
+matter is that politics is the art of compromise, and we, in working 
+with the Ney-Wynn amendment, have tried to fashion a serious 
+compromise.
+  Let us talk first about soft money. Under the current law it is 
+reported in today's paper the top 10 contributors have given between 
+$1.3 million and $3.6 million. Under Ney-Wynn, we first said $75,000 
+per contributor to the national party. In the spirit of compromise, we 
+reduced that significantly down to $20,000 per contributor to the 
+national party. I do not think anyone can say that this is not a 
+significant reduction in soft money or a legitimate attempt to address 
+the concerns, nor a legitimate attempt at compromise.
+  In addition to that, we limited the use of the money. People said we 
+are concerned about national party attack ads. We prohibit national 
+party attack ads. But we do say the soft dollars, this limited amount 
+of soft dollars, can be used for legitimate party-building activities, 
+that political parties ought to be able to do voter registration, voter 
+registration and get-out-the-vote activities. Those are the only uses 
+for the limited amount of soft money used in this bill, legitimate 
+party-building.
+  I note particularly that minorities, African Americans, Hispanics and 
+others, are increasing their voter participation; and as members of the 
+two national parties, we feel it is very important that there be funds 
+available for these get-out-the-vote activities, voter outreach 
+activities. So, again, we believe the Ney-Wynn approach is a better 
+compromise.
+  On the subject of the first amendment, we do not restrict advocacy 
+groups in terms of broadcast ads during the final 60 days of a 
+election. That is when the voters should be paying the most attention, 
+should be needing the most information. We want people to be able to 
+provide that information. We do not want to infringe upon their first 
+amendment rights.
+  Now, you will probably hear someone say they can have ads through PAC 
+money. Well, what if you do not have a PAC? What if your PAC does not 
+have any money? The point is, you should not have to have a PAC in 
+order to express your first amendment rights; and we, under Ney-Wynn, 
+do not interfere with those rights.
+  Finally, we do not interfere with State parties. There has been no 
+hearings, no evidence, to suggest that State parties are not competent 
+to regulate their own campaign financing. Ney-Wynn says let State 
+parties regulate State party activities. There is no reason to 
+federalize campaign fund-raising at the State level.
+  We believe this is a fair compromise addressing soft money, party 
+building, first amendment rights and protecting the interests of the 
+States. We do not feel we have to be stampeded into voting for my-way-
+or-the-highway legislation just to avoid a conference committee. Every 
+other piece of legislation that comes through this body goes through a 
+conference committee. This House has the right to work its will and 
+send it through a thoughtful compromise. I believe that is Ney-Wynn, 
+and I urge its adoption.
+  Mr. SHAYS. Mr. Chairman, I yield myself such time as I may consume.
+  Let me first say, Mr. Chairman, you have been an extraordinary person 
+at the helm, and I thank you for the graciousness you have shown to 
+both sides.
+  I would also like to extend my gratitude to the gentleman from 
+Illinois (Mr. LaHood) for the way he did it previous to you. It has 
+been a long, long, long, long day.
+  Mr. Chairman, I yield 1 minute to the gentleman from New York (Mr. 
+Houghton).
+  Mr. HOUGHTON. Mr. Chairman, I will make this brief. I am opposed to 
+this amendment. I am for the Shays-Meehan approach, and I will tell you 
+for three reasons.
+  First of all, we have a financial crisis in this country augmented by 
+Enron and Arthur Andersen. Somehow we have got to get the credibility 
+in the system back again. Frankly, I think the Shays-Meehan approach 
+will help us in a political way, not just in an economic way.
+  Secondly, I remember when I first got interested in Republican 
+politics, when Ronald Reagan came in. There was no soft money. We did 
+not use that then. There was no necessity for it. It worked perfectly 
+under the old rules. I think we ought to go back to those rules.
+
+                              {time}  0150
+
+  The third reason is this: When I was in business, we never, never, 
+never used soft money, and I know that a lot of people came to us and 
+said we were unpatriotic, we were not supporting the different parties. 
+Crazy. Wrong.
+  What we did is we marshaled our plants and our sales offices and our 
+laboratories and got people out, raised the money, got them involved.
+  I am for Shays-Meehan.
+  The CHAIRMAN pro tempore (Mr. Thornberry). The gentleman from Ohio 
+(Mr. Ney) has 1\1/2\ minutes remaining; the gentleman from Maryland 
+(Mr. Hoyer) has 2\1/2\ minutes remaining; the gentleman from 
+Connecticut (Mr. Shays) has 3\1/2\ minutes remaining.
+  Mr. SHAYS. Mr. Chairman, I yield the balance of the time to the 
+gentleman from Tennessee (Mr. Wamp), an extraordinary leader and a very 
+courageous person.
+  Mr. WAMP. Mr. Chairman, I thank all of the Members of the House for 
+their patience and their tolerance. I think throughout history the 
+House of Representatives is really no better than its Speaker. I think 
+our House today has the highest approval rating in modern history, in 
+large part because of the dignity, the humility, and the genuine 
+leadership of our Speaker, and I thank him for everything he does for 
+the people of the House.
+  This issue of soft money is central to this entire debate. Fifteen 
+years ago, I was elected as a local Republican Party chairman in 
+Chattanooga, Tennessee. I think that the three best national chairmen 
+that our party has had in the modern era were Lee Atwater, Haley 
+Barbour, and a guy named Bill Brock, who served in the House seat that 
+I serve in now, went on to the United States Senate and serve our party 
+extremely well when Ronald Reagan was elected President.
+  Here is what he says now about soft money. Quote: ``In truth, parties 
+were stronger and closer to their roots before the advent of the soft 
+money loophole than they are today. Far from invigorating the parties 
+themselves, soft money has simply strengthened certain specific 
+candidates and the few donors who can make huge contributions, while 
+distracting parties from traditional grassroots work.''
+  Both of our political parties will be better served by weaning 
+ourselves from soft money and returning to the people, returning to the 
+foot power, returning to the grassroots. Writing big checks is actually 
+the easy way out for people that want to participate in this process. 
+The harder way is to involve people. We rarely see ads saying, this is 
+what our party stands for. Join our party. Be a part of our platform. 
+Get involved. We mostly see ads that are degrading and divisive.
+  Mr. Chairman, I believe our parties will be better off with this most 
+important step, and I believe there are a lot of people of goodwill in 
+this House that agree. We are going to come together tonight. I believe 
+we are going to finish this business. I believe the President will sign 
+this bill, and I think this will be an important step to restoring the 
+public trust. To my friends over here, I may be wrong, but I think we 
+will be better off because we will all be better off and our country 
+will be better off.
+  The CHAIRMAN pro tempore. The gentleman from Ohio (Mr. Ney) has 1\1/
+2\ minutes remaining; the gentleman from Maryland (Mr. Hoyer) has 2\1/
+2\ minutes remaining and the right to close.
+  Mr. NEY. Mr. Chairman, I yield myself the balance of my time.
+  Mr. Chairman, we have heard all day about ``sham issue ads'' that are 
+really just attack ads designed to influence
+
+[[Page H464]]
+
+the election. It is said that these ads have ``undermined the intent'' 
+of the 1974 Federal Election Campaign Act which was supposed to 
+regulate campaign-related expenditures. I will tell my colleagues 
+something. I am not too concerned about what the Democrats who 
+controlled this Congress in 1974 intended when they wrote the Federal 
+Election Campaign Act. I am concerned about what the founders of this 
+country intended when they wrote the Bill of Rights in 1791.
+  I want my colleagues to consider something. Imagine if King of 
+England had written to James Madison and said, ``James, this whole 
+revolution thing has been a big misunderstanding. I have seen a draft 
+of your proposed Bill of Rights and I think we can resolve our 
+differences. I do not have any problem with freedom of speech, and I am 
+willing to let you criticize me and my policies any way you want. All I 
+ask is that you report to me the names of all people who share your 
+opinions. Also, while I am willing to let you say anything you want 
+about me, I would ask that you not disseminate your criticism too 
+widely. One hundred critical pamphlets is enough; 1,000 is just piling 
+on. If you have to send 1,000 I just ask that you raise the money to 
+finance the printing costs in small chunks from a broad group of 
+donors. I know this may be inconvenient and could hinder your ability 
+to get your message out, but I really do not think it is an 
+unreasonable request. Please, let us be reasonable and work together on 
+this issue.''
+  We all know what Madison's reaction would have been: No thank you, 
+Your Highness.
+  That is why the first amendment to our Constitution begins, 
+``Congress shall make no law abridging the freedom of speech.'' The 
+freedom of our citizens to criticize their elected leaders makes us the 
+greatest democracy in the world, and that is what makes us different 
+from dictators. Yet, now today in the name of ``reform,'' we are asked 
+to turn our back on that great legacy.
+  Well, I am not going to do it. Like every Member of this body, I took 
+an oath to preserve, protect, and defend the Constitution of the United 
+States of America. I do not intend to break the oath to satisfy the 
+editorial board of the New York Times, and neither should you. Support 
+Ney-Wynn.
+  Mr. HOYER. Mr. Chairman, I yield myself the balance of the time to 
+close.
+  Mr. Chairman, this has been a long day, a long night, and an early 
+morning. I think the quality of debate, for the most part, has been 
+very good. I think there has been respect on not only both sides of the 
+aisle, but there has been a bipartisanship of action. On behalf, I 
+think, of all of us, I want to congratulate the gentleman from 
+Massachusetts (Mr. Meehan) and the gentleman from Connecticut (Mr. 
+Shays). Whether we agree or disagree with either one of them, they have 
+fought a long and good fight. They have kept the faith with their 
+principles and their premises, and I think that they have acted in the 
+highest traditions of legislators seeking to put forward policies to 
+make their country better. I, on behalf of all of us, want to thank 
+both the gentleman from Connecticut (Mr. Shays) and the gentleman from 
+Massachusetts (Mr. Meehan) for their work.
+  We now end this debate. As I said at the beginning, if we adopt this 
+amendment, we essentially start over. At least eight times we have made 
+a determination not to do this. This is the ninth time. Let us once 
+again say that we are prepared to move. We are prepared to act. We are 
+prepared to take a step in reforming campaign finance reform. We are 
+prepared to take a step to raise the confidence of Americans that their 
+representatives, their government, their policies that are adopted by 
+all of us are theirs.
+  This is an historic night. Rarely do we have the opportunity to vote 
+on such significant historical change. I ask my colleagues to vote 
+``no'' on Ney-Wynn and to vote ``yes'' for final passage of Shays-
+Meehan.
+  Mr. Chairman, I yield back the balance of my time.
+  The CHAIRMAN pro tempore. The question is on the amendment in the 
+nature of a substitute offered by the gentleman from Ohio (Mr. Ney).
+  The question was taken; and the Chairman pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. HOYER. Mr. Chairman, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 181, 
+noes 248, not voting 6, as follows:
+
+                             [Roll No. 33]
+
+                               AYES--181
+
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barcia
+     Bartlett
+     Barton
+     Biggert
+     Bilirakis
+     Blunt
+     Boehner
+     Bonilla
+     Bono
+     Boozman
+     Boucher
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Capito
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Ehlers
+     Ehrlich
+     English
+     Everett
+     Ferguson
+     Flake
+     Fletcher
+     Forbes
+     Fossella
+     Frost
+     Gekas
+     Gibbons
+     Gillmor
+     Goode
+     Goodlatte
+     Goss
+     Granger
+     Graves
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Herger
+     Hilleary
+     Hobson
+     Hoekstra
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     John
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     King (NY)
+     Kingston
+     Knollenberg
+     Kolbe
+     Latham
+     LaTourette
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Moran (KS)
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Otter
+     Oxley
+     Paul
+     Pence
+     Peterson (PA)
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Ros-Lehtinen
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Schaffer
+     Schrock
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shows
+     Shuster
+     Simpson
+     Skeen
+     Smith (MI)
+     Smith (NJ)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tauzin
+     Taylor (NC)
+     Terry
+     Thomas
+     Thornberry
+     Tiahrt
+     Tiberi
+     Toomey
+     Upton
+     Vitter
+     Walden
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Wynn
+     Young (AK)
+     Young (FL)
+
+                               NOES--248
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barr
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Bereuter
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonior
+     Borski
+     Boswell
+     Boyd
+     Brady (PA)
+     Brown (FL)
+     Brown (OH)
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     Deal
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Edwards
+     Emerson
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Filner
+     Foley
+     Ford
+     Frank
+     Frelinghuysen
+     Gallegly
+     Ganske
+     Gephardt
+     Gilchrest
+     Gilman
+     Gonzalez
+     Gordon
+     Graham
+     Green (TX)
+     Green (WI)
+     Greenwood
+     Grucci
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hart
+     Hastings (FL)
+     Hill
+     Hilliard
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holden
+     Holt
+     Honda
+     Hooley
+     Horn
+     Hostettler
+     Houghton
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     Kirk
+     Kleczka
+     Kucinich
+     LaFalce
+     LaHood
+     Lampson
+     Langevin
+     Lantos
+     Largent
+     Larsen (WA)
+     Larson (CT)
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Mollohan
+     Moore
+     Moran (VA)
+     Morella
+     Murtha
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Osborne
+     Ose
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pelosi
+     Peterson (MN)
+     Petri
+     Phelps
+     Platts
+     Pomeroy
+     Price (NC)
+     Quinn
+     Rahall
+     Ramstad
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ross
+     Rothman
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Saxton
+     Schakowsky
+     Schiff
+     Scott
+     Serrano
+     Shays
+     Sherman
+     Simmons
+     Skelton
+     Slaughter
+     Smith (TX)
+     Smith (WA)
+     Snyder
+     Solis
+
+[[Page H465]]
+
+
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Taylor (MS)
+     Thompson (CA)
+     Thompson (MS)
+     Thune
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Weldon (PA)
+     Wexler
+     Wolf
+     Woolsey
+     Wu
+
+                             NOT VOTING--6
+
+     Brady (TX)
+     Cubin
+     Hefley
+     Riley
+     Roukema
+     Traficant
+
+                              {time}  0218
+
+  So the amendment in the nature of a substitute was rejected.
+  The result of the vote was announced as above recorded.
+  The CHAIRMAN pro tempore (Mr. Thornberry). There being no further 
+amendments, under the rule, the Committee rises.
+  Accordingly, the Committee rose; and the Speaker pro tempore (Mr. 
+Hastings of Washington) having assumed the chair, Mr. Thornberry, 
+Chairman pro tempore of the Committee of the Whole House on the State 
+of the Union, reported that that Committee, having had under 
+consideration the bill (H.R. 2356) to amend the Federal Election 
+Campaign Act of 1971 to provide bipartisan campaign reform, pursuant to 
+House Resolution 344, he reported the bill, as amended by the final 
+adoption of the amendment in the nature of a substitute numbered 9 
+pursuant to that rule, back to the House with sundry further amendments 
+adopted by the Committee of the Whole.
+  The SPEAKER pro tempore. Under the rule, the previous question is 
+ordered.
+  Is a separate vote demanded on any amendment? If not, the Chair will 
+put them en gros.
+  The amendments were agreed to.
+
+                              {time}  0220
+
+  The SPEAKER pro tempore (Mr. Hastings of Washington). The question is 
+on the engrossment and third reading of the bill.
+  The bill was ordered to be engrossed and read a third time, and was 
+read the third time.
+
+
+                Motion to Recommit Offered by Mr. Meehan
+
+  Mr. MEEHAN. Mr. Speaker, I offer a motion to recommit.
+  The SPEAKER pro tempore. Is the gentleman opposed to the bill?
+  Mr. MEEHAN. In its current form.
+  The SPEAKER pro tempore. The Clerk will report the motion to 
+recommit.
+  The Clerk read as follows:
+
+       Mr. Meehan moves to recommit the bill H.R. 2356 to the 
+     Committee on House Administration with instructions to report 
+     the same back to the House forthwith with the following 
+     amendment:
+       Amend section 402(b)(1) to read as follows:
+       (1) Prior to January 1, 2003, the committee may spend such 
+     funds to retire outstanding debts or obligations incurred 
+     prior to such effective date, so long as such debts or 
+     obligations were incurred solely in connection with an 
+     election held on or before November 5, 2002 (or any runoff 
+     election or recount resulting from an election in 2002) and 
+     so long as such debts or obligations were not incurred for 
+     any expenditures (activities required to be paid for with 
+     ``hard money'') under such Act. Nothing in this paragraph may 
+     allow such funds (commonly known as ``soft money'') to be 
+     used to pay for any debts or obligations incurred for any 
+     Federal election expenditures under such Act (``hard money'' 
+     activities).
+
+  The SPEAKER pro tempore. The gentleman from Massachusetts (Mr. 
+Meehan) is recognized for 5 minutes.
+  Mr. MEEHAN. Mr. Speaker, I have a motion to recommit the bill to the 
+Committee on House Administration forthwith with instructions to 
+clarify language related to the effective date, specifically how 
+national parties may spend soft money on hand after November 6.
+  It was clearly our intent that such soft money could not be used to 
+pay off hard money debt. In fact, I continue to believe our language 
+accomplishes that. However, others have argued that the language was 
+ambiguous on this issue. Accordingly, this motion to recommit would 
+make it crystal clear that the national parties could not used any 
+leftover soft money to pay off hard debts. I ask that the Members who 
+so kindly pointed this out to us join me in voting for this motion.
+  In addition to that, as we end this debate, I want to thank all the 
+Members for their cooperation, including the gentleman from Ohio (Mr. 
+Ney), last night and also this morning. I want to thank all the 
+courageous members of our bipartisan coalition. I want to thank the 
+minority leader and the minority whip. I want to thank all the Members 
+who signed the discharge petition. And, lastly, I want to thank my 
+partner in this effort, the leader of our effort on the Republican 
+side, the gentleman from Connecticut (Mr. Shays).
+  In addition to that, I want to thank the gentleman from Maryland (Mr. 
+Hoyer) and the others who were so gracious in giving people time 
+tonight, and thank all the Members for their cooperation in this most 
+difficult but historic occasion.
+  Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. Who seeks time in opposition?
+  Mr. NEY. Mr. Speaker, I rise to agree with the gentleman.
+  The SPEAKER pro tempore. Without objection, the gentleman is 
+recognized for 5 minutes.
+  There was no objection.
+  Mr. NEY. Mr. Speaker, again, I stand to advise my side that I agree 
+with this motion to recommit.
+  Let me just say that this has been an energetic give and take of 
+public debate for quite a long time through the committee process, and 
+we have many people that we can thank for giving of their spirit and 
+their energy and their time, whichever side of the issue they were on. 
+We all will move on, but I just want to thank everybody involved with 
+this on the floor today.
+  Our democracy works through debate, and that is what makes us great.
+  Mr. Speaker, I yield back the balance of my time.
+  The SPEAKER pro tempore. Without objection, the previous question is 
+ordered on the motion to recommit.
+  There was no objection.
+  The SPEAKER pro tempore. The question is on the motion to recommit.
+  The motion to recommit was agreed to.
+  Mr. NEY. Mr. Speaker, pursuant to the instructions of the House on 
+the motion to recommit, and on behalf of the Committee on House 
+Administration, I report the bill, H.R. 2356, back to the House with an 
+amendment.
+  The SPEAKER pro tempore. The Clerk will report the amendment.
+  The Clerk read as follows:
+
+       Amendment:
+       Amend section 402(b)(1) to read as follows:
+       (1) Prior to January 1, 2003, the committee may spend such 
+     funds to retire outstanding debts or obligations incurred 
+     prior to such effective date, so long as such debts or 
+     obligations were incurred solely in connection with an 
+     election held on or before November 5, 2002 (or any runoff 
+     election or recount resulting from an election in 2002) and 
+     so long as such debts or obligations were not incurred for 
+     any expenditures (activities required to be paid for with 
+     ``hard money'') under such Act. Nothing in this paragraph may 
+     allow such funds (commonly known as ``soft money'') to be 
+     used to pay for any debts or obligations incurred for any 
+     Federal election expenditures under such Act (``hard money'' 
+     activities).
+
+  Mr. HOYER (during the reading). Mr. Speaker, I ask unanimous consent 
+that the amendment be considered as read and printed in the Record.
+  The SPEAKER pro tempore. Is there objection to the request of the 
+gentleman from Maryland?
+  There was no objection.
+  The SPEAKER pro tempore. The question is on the amendment.
+  The amendment was agreed to.
+  The SPEAKER pro tempore. The question is on the engrossment and third 
+reading of the bill.
+  The bill was ordered to be engrossed and read a third time, and was 
+read the third time.
+  The SPEAKER pro tempore. The question is on the passage of the bill.
+  The question was taken; and the Speaker pro tempore announced that 
+the ayes appeared to have it.
+
+
+                             Recorded Vote
+
+  Mr. HOYER. Mr. Speaker, I demand a recorded vote.
+  A recorded vote was ordered.
+  The vote was taken by electronic device, and there were--ayes 240, 
+noes 189, not voting 6, as follows:
+
+                             [Roll No. 34]
+
+                               AYES--240
+
+     Abercrombie
+     Ackerman
+     Allen
+     Andrews
+     Baca
+     Baird
+     Baldacci
+     Baldwin
+     Barrett
+     Bass
+     Becerra
+     Bentsen
+     Bereuter
+     Berkley
+     Berman
+     Berry
+     Bishop
+     Blagojevich
+     Blumenauer
+     Boehlert
+     Bonior
+     Bono
+     Borski
+     Boswell
+     Boyd
+     Brady (PA)
+     Brown (FL)
+
+[[Page H466]]
+
+
+     Brown (OH)
+     Capito
+     Capps
+     Capuano
+     Cardin
+     Carson (IN)
+     Carson (OK)
+     Castle
+     Clay
+     Clayton
+     Clement
+     Clyburn
+     Condit
+     Conyers
+     Costello
+     Coyne
+     Cramer
+     Crowley
+     Cummings
+     Davis (CA)
+     Davis (FL)
+     Davis (IL)
+     DeFazio
+     DeGette
+     Delahunt
+     DeLauro
+     Deutsch
+     Dicks
+     Dingell
+     Doggett
+     Dooley
+     Doyle
+     Edwards
+     Engel
+     Eshoo
+     Etheridge
+     Evans
+     Farr
+     Fattah
+     Ferguson
+     Filner
+     Foley
+     Ford
+     Frank
+     Frelinghuysen
+     Frost
+     Ganske
+     Gephardt
+     Gilchrest
+     Gilman
+     Gonzalez
+     Gordon
+     Graham
+     Green (TX)
+     Greenwood
+     Grucci
+     Gutierrez
+     Hall (OH)
+     Harman
+     Hastings (FL)
+     Hill
+     Hinchey
+     Hinojosa
+     Hoeffel
+     Holden
+     Holt
+     Honda
+     Hooley
+     Horn
+     Houghton
+     Hoyer
+     Inslee
+     Israel
+     Jackson (IL)
+     Jackson-Lee (TX)
+     Jefferson
+     John
+     Johnson (CT)
+     Johnson (IL)
+     Johnson, E. B.
+     Jones (OH)
+     Kanjorski
+     Kaptur
+     Kennedy (RI)
+     Kildee
+     Kilpatrick
+     Kind (WI)
+     Kirk
+     Kleczka
+     Kucinich
+     LaFalce
+     Lampson
+     Langevin
+     Lantos
+     Larsen (WA)
+     Larson (CT)
+     LaTourette
+     Leach
+     Lee
+     Levin
+     Lewis (GA)
+     LoBiondo
+     Lofgren
+     Lowey
+     Lucas (KY)
+     Luther
+     Lynch
+     Maloney (CT)
+     Maloney (NY)
+     Markey
+     Mascara
+     Matheson
+     Matsui
+     McCarthy (MO)
+     McCarthy (NY)
+     McCollum
+     McDermott
+     McGovern
+     McHugh
+     McIntyre
+     McKinney
+     McNulty
+     Meehan
+     Meek (FL)
+     Meeks (NY)
+     Menendez
+     Millender-McDonald
+     Miller, George
+     Mink
+     Moore
+     Moran (VA)
+     Morella
+     Nadler
+     Napolitano
+     Neal
+     Oberstar
+     Obey
+     Olver
+     Ortiz
+     Osborne
+     Ose
+     Owens
+     Pallone
+     Pascrell
+     Pastor
+     Payne
+     Pelosi
+     Petri
+     Phelps
+     Platts
+     Pomeroy
+     Price (NC)
+     Quinn
+     Ramstad
+     Rangel
+     Reyes
+     Rivers
+     Rodriguez
+     Roemer
+     Ros-Lehtinen
+     Ross
+     Rothman
+     Roybal-Allard
+     Rush
+     Sabo
+     Sanchez
+     Sanders
+     Sandlin
+     Sawyer
+     Schakowsky
+     Schiff
+     Serrano
+     Shays
+     Sherman
+     Simmons
+     Skelton
+     Slaughter
+     Smith (MI)
+     Smith (WA)
+     Snyder
+     Solis
+     Spratt
+     Stark
+     Stenholm
+     Strickland
+     Stupak
+     Tanner
+     Tauscher
+     Taylor (MS)
+     Thompson (CA)
+     Thune
+     Thurman
+     Tierney
+     Towns
+     Turner
+     Udall (CO)
+     Udall (NM)
+     Upton
+     Velazquez
+     Visclosky
+     Walsh
+     Wamp
+     Waters
+     Watson (CA)
+     Watt (NC)
+     Waxman
+     Weiner
+     Weldon (PA)
+     Wexler
+     Wolf
+     Woolsey
+     Wu
+     Wynn
+
+                               NOES--189
+
+     Aderholt
+     Akin
+     Armey
+     Bachus
+     Baker
+     Ballenger
+     Barcia
+     Barr
+     Bartlett
+     Barton
+     Biggert
+     Bilirakis
+     Blunt
+     Boehner
+     Bonilla
+     Boozman
+     Boucher
+     Brown (SC)
+     Bryant
+     Burr
+     Burton
+     Buyer
+     Callahan
+     Calvert
+     Camp
+     Cannon
+     Cantor
+     Chabot
+     Chambliss
+     Coble
+     Collins
+     Combest
+     Cooksey
+     Cox
+     Crane
+     Crenshaw
+     Culberson
+     Cunningham
+     Davis, Jo Ann
+     Davis, Tom
+     Deal
+     DeLay
+     DeMint
+     Diaz-Balart
+     Doolittle
+     Dreier
+     Duncan
+     Dunn
+     Ehlers
+     Ehrlich
+     Emerson
+     English
+     Everett
+     Flake
+     Fletcher
+     Forbes
+     Fossella
+     Gallegly
+     Gekas
+     Gibbons
+     Gillmor
+     Goode
+     Goodlatte
+     Goss
+     Granger
+     Graves
+     Green (WI)
+     Gutknecht
+     Hall (TX)
+     Hansen
+     Hart
+     Hastert
+     Hastings (WA)
+     Hayes
+     Hayworth
+     Herger
+     Hilleary
+     Hilliard
+     Hobson
+     Hoekstra
+     Hostettler
+     Hulshof
+     Hunter
+     Hyde
+     Isakson
+     Issa
+     Istook
+     Jenkins
+     Johnson, Sam
+     Jones (NC)
+     Keller
+     Kelly
+     Kennedy (MN)
+     Kerns
+     King (NY)
+     Kingston
+     Knollenberg
+     Kolbe
+     LaHood
+     Largent
+     Latham
+     Lewis (CA)
+     Lewis (KY)
+     Linder
+     Lipinski
+     Lucas (OK)
+     Manzullo
+     McCrery
+     McInnis
+     McKeon
+     Mica
+     Miller, Dan
+     Miller, Gary
+     Miller, Jeff
+     Mollohan
+     Moran (KS)
+     Murtha
+     Myrick
+     Nethercutt
+     Ney
+     Northup
+     Norwood
+     Nussle
+     Otter
+     Oxley
+     Paul
+     Pence
+     Peterson (MN)
+     Peterson (PA)
+     Pickering
+     Pitts
+     Pombo
+     Portman
+     Pryce (OH)
+     Putnam
+     Radanovich
+     Rahall
+     Regula
+     Rehberg
+     Reynolds
+     Rogers (KY)
+     Rogers (MI)
+     Rohrabacher
+     Royce
+     Ryan (WI)
+     Ryun (KS)
+     Saxton
+     Schaffer
+     Schrock
+     Scott
+     Sensenbrenner
+     Sessions
+     Shadegg
+     Shaw
+     Sherwood
+     Shimkus
+     Shows
+     Shuster
+     Simpson
+     Skeen
+     Smith (NJ)
+     Smith (TX)
+     Souder
+     Stearns
+     Stump
+     Sununu
+     Sweeney
+     Tancredo
+     Tauzin
+     Taylor (NC)
+     Terry
+     Thomas
+     Thompson (MS)
+     Thornberry
+     Tiahrt
+     Tiberi
+     Toomey
+     Vitter
+     Walden
+     Watkins (OK)
+     Watts (OK)
+     Weldon (FL)
+     Weller
+     Whitfield
+     Wicker
+     Wilson (NM)
+     Wilson (SC)
+     Young (AK)
+     Young (FL)
+
+                             NOT VOTING--6
+
+     Brady (TX)
+     Cubin
+     Hefley
+     Riley
+     Roukema
+     Traficant
+
+                              {time}  0242
+
+  So the bill was passed.
+  The result of the vote was announced as above recorded.
+  A motion to reconsider was laid on the table.
+
+                          ____________________
+```
