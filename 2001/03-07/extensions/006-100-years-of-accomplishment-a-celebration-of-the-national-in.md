@@ -1,0 +1,133 @@
+---
+granule: CREC-2001-03-07-pt1-PgE294-2
+date: 2001-03-07
+edition: CREC
+section: EXTENSIONS
+page: E294
+citation: 147 Cong. Rec. E294
+---
+
+# 100 YEARS OF ACCOMPLISHMENT--A CELEBRATION OF THE NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY'S 100TH BIRTHDAY
+
+**Speaking:** Boehlert, Sherwood (B000586) [R-NY]
+
+```
+100 YEARS OF ACCOMPLISHMENT--A CELEBRATION OF THE NATIONAL INSTITUTE OF 
+               STANDARDS AND TECHNOLOGY'S 100TH BIRTHDAY
+
+                                 ______
+                                 
+
+                       HON. SHERWOOD L. BOEHLERT
+
+                              of new york
+
+                    in the house of representatives
+
+                        Wednesday, March 7, 2001
+
+  Mr. BOEHLERT. Mr. Speaker, last night I had the honor to participate 
+in the celebration of the 100th birthday of the National Institute of 
+Standards and Technology (NIST). As I noted in my remarks at the event, 
+NIST was one of the very first and one of the most important actions 
+Congress took at the beginning of the 20th Century.
+  NIST was established to help bring rationality to the profusion of 
+standards that were plaguing this country at the turn of the last 
+century. As to its future, it could be anything from looking at the 
+molecular structure of ceramics or the security of our computers or 
+guidance to a small manufacturer on how to update operations. We are 
+indebted to NIST for what it has done in the past as I am sure we will 
+be for what It provides us in the future.
+  Mr. Speaker, I doubt that very many people are aware of NIST, its 
+history and its importance to the nation. Since I touched on many of 
+these points in my address last night, I insert the full text of my 
+remarks for the information of my colleagues at this point in the 
+Record.
+
+              Statement on NIST Anniversary, March 6, 2001
+
+       It's a delight and a privilege to join with you this 
+     evening to celebrate the 100th birthday of the National 
+     Institute of Standards and Technology. And I have to say that 
+     the timing of this event is auspicious for me, in particular. 
+     It's great to be assuming the chairmanship of the House 
+     Science Committee as NIST is celebrating its centenary 
+     because the existence of NIST is concrete proof that Congress 
+     can get some things right when it comes to science and 
+     technology policy.
+       Establishing NIST was one the very first and one of the 
+     most important actions Congress took at the dawn of the 20th 
+     Century--a century that was to see technology and 
+     standardization change our world as never before. And we are 
+     still reaping the rewards of that foresight as we begin the 
+     21st Century.
+       I have to note, though, that while NIST is richly deserving 
+     of tonight's gala; the festivities are a little out of 
+     character for NIST, which from the start has gone about its 
+     business in an unassuming, even inconspicuous way. Even the 
+     law that created the laboratory didn't have a name--it was 
+     known by the rather plain and workaday designation, ``the Act 
+     of March 3, 1901''--a date that has lived in neither infamy 
+     nor fame, a date that no schoolchild has been forced to 
+     memorize.
+       Given NIST's ``nose-to-the-grindstone'' work ethic, its 
+     stream of consistent productivity without fanfare, its focus 
+     on the essential but largely invisible foundations of modern 
+     technology, one might think that a good title for a history 
+     of NIST's first century would be ``One Hundred Years of 
+     Solitude.''
+       But how extraordinarily misleading that would be--because 
+     the actual secret of NIST's success has been its 
+     ``partnerships''--partnerships with the private sector, 
+     partnerships with other federal agencies and laboratories, 
+     partnerships with state and local governments. NIST is well 
+     known to the people who keep our economy healthy, and it's 
+     NIST's ability to work with just about anybody that has kept 
+     it fresh, vital and valuable--as fundamental a key to 
+     American prosperity as it was the day it was created.
+       NIST is a worthy and needed partner because its mission is 
+     problem-solving. NIST was established to help bring 
+     rationality to the profusion of standards that were 
+     afflicting the United States at the turn of the last 
+     century--a profusion that could have tragic consequences 
+     when, for example, major fires could not be extinguished 
+     because of varying standards for hoses and hydrants. And that 
+     problem-solving ethos has been maintained to this very day--
+     whether NIST is probing abstruse questions about the 
+     molecular structure of ceramics, or helping to ensure the 
+     security of our computers, or providing guidance to a small 
+     manufacturer on how to update his operations through the 
+     Manufacturing Extension Program.
+       And we also still draw on NIST's expertise to solve 
+     problems that are endemic to the economy as a whole--with the 
+     Advanced Technology Program, for example, which has helped a 
+     wide variety of companies pass through the so-called ``valley 
+     of death'' that can prevent good research ideas from becoming 
+     good processes or products.
+       But tonight's focus is not on the past--although NIST's 
+     record accomplishment provides plenty of cause for 
+     celebration. We're really here to make a downpayment on the 
+     future by showing all the current and former directors and 
+     staff at NIST how grateful we are for their dedication, their 
+     imagination and their insight. Working steadily and 
+     fruitfully outside the limelight, they have enabled our 
+     nation's reputation for technological progress to shine.
+       Now it's hard to know what the technology of tomorrow will 
+     look like. History is littered with embarrassingly misguided 
+     predictions--a few of them even uttered in hearings before 
+     the House Science Committee. But I think it's safe to say 
+     that, whatever
+
+[[Page E295]]
+
+     the technology of the future is, NIST will have played a role 
+     in its creation, enhancement or propagation.
+       So I want again to thank everyone who has made NIST a 
+     success and to pledge to all of you that I will do my best to 
+     ensure that NIST continues to set the standard for what a 
+     federal lab should be.
+
+     
+
+                          ____________________
+```
