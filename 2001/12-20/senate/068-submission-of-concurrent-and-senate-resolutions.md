@@ -1,0 +1,41 @@
+---
+granule: CRECB-2001-pt20-Pg27808
+date: 2001-12-20
+edition: CRECB
+section: SENATE
+page: 27808
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. BROWNBACK:
+       S. Res. 194. A resolution congratulating the people and 
+     government of Kazakhstan on the tenth anniversary of the 
+     independence of the Republic of Kazakhstan; considered and 
+     agreed to.
+           By Mr. DASCHLE (for himself and Mr. Lott):
+       S. Res. 195. A resolution tendering the thanks of the 
+     Senate to the Vice President for the courteous, dignified, 
+     and impartial manner in which he has presided over the 
+     deliberations of the Senate; considered and agreed to.
+           By Mr. DASCHLE (for himself and Mr. Lott):
+       S. Res. 196. A resolution tendering the thanks of the 
+     Senate to the President pro tempore for the courteous, 
+     dignified, and impartial manner in which he has presided over 
+     the deliberations of the Senate; considered and agreed to.
+           By Mr. LOTT:
+       S. Res. 197. A resolution to commend the exemplary 
+     leadership of the Majority Leader; considered and agreed to.
+           By Mr. DASCHLE:
+       S. Res. 198. A resolution to commend the exemplary 
+     leadership of the Republican Leader; considered and agreed 
+     to.
+
+                          ____________________
+```
