@@ -1,0 +1,24 @@
+---
+granule: CREC-2001-11-01-pt2-PgH7719
+date: 2001-11-01
+edition: CREC
+section: HOUSE
+page: H7719
+citation: 147 Cong. Rec. H7719
+---
+
+# DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+**Measures:** H.R. 981
+
+```
+        DELETIONS OF SPONSORS FROM PUBLIC BILLS AND RESOLUTIONS
+
+  Under clause 7 of rule XII, sponsors were deleted from public bills 
+and resolutions as follows:
+
+       H.R. 981: Mr. Callahan, Mr. Kolbe, Mrs. Northup, Mr. Skeen, 
+     Mr. LaHood, and Mr. Goode.
+
+                          ____________________
+```
