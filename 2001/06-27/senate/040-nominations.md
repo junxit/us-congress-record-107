@@ -1,0 +1,39 @@
+---
+granule: CRECB-2001-pt9-Pg12085-4
+date: 2001-06-27
+edition: CRECB
+section: SENATE
+page: 12085
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 27, 2001:
+
+
+                  NATIONAL TRANSPORTATION SAFETY BOARD
+
+       JOHN ARTHUR HAMMERSCHMIDT, OF ARKANSAS, TO BE A MEMBER OF 
+     THE NATIONAL TRANSPORTATION SAFETY BOARD FOR THE REMAINDER OF 
+     THE TERM EXPIRING DECEMBER 31, 2002, VICE JAMES E. HALL, 
+     RESIGNED.
+
+
+                     DEPARTMENT OF VETERANS AFFAIRS
+
+       CLAUDE M. KICKLIGHTER, OF GEORGIA, TO BE AN ASSISTANT 
+     SECRETARY OF VETERANS AFFAIRS (POLICY AND PLANNING), VICE 
+     DENNIS M. DUFFY, RESIGNED.
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+June 27, 2001
+```
