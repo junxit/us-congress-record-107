@@ -1,0 +1,28 @@
+---
+granule: CREC-2001-07-30-pt1-PgS8371-2
+date: 2001-07-30
+edition: CREC
+section: SENATE
+page: S8371
+citation: 147 Cong. Rec. S8371
+---
+
+# prayer
+
+```
+                                 prayer
+
+  The Chaplain, Dr. Lloyd John Ogilvie, offered the following prayer:
+  Almighty God, You have told us that to whom much is given much is 
+required. Thank You that You have taught us also that to whom much is 
+required, much shall be given. Lord, You require a great deal of the 
+women and men of this Senate. Provide them with an extra measure of 
+Your strength, wisdom, and discernment for the crucial work of this 
+week. Help them to know what You want and then to want what they know; 
+to say what they mean and mean what they say. Give them resoluteness 
+and intentionality. Free them to listen to You so intently that they 
+can speak with courage and conviction. Keep them in the battle for 
+truth. In Your all-powerful name. Amen.
+
+                          ____________________
+```
