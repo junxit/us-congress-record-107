@@ -1,0 +1,16 @@
+---
+granule: CRECB-2001-pt1-Pg995-3
+date: 2001-01-30
+edition: CRECB
+section: HOUSE
+page: 995
+---
+
+# CORRECTION TO THE CONGRESSIONAL RECORD OF SATURDAY, JANUARY 20, 2001 AT PAGE H67
+
+```
+CORRECTION TO THE CONGRESSIONAL RECORD OF SATURDAY, JANUARY 20, 2001 AT 
+PAGE H67
+
+                          ____________________
+```

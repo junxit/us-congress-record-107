@@ -1,0 +1,37 @@
+---
+granule: CRECB-2001-pt1-Pg970
+date: 2001-01-30
+edition: CRECB
+section: HOUSE
+page: 970
+---
+
+# COMMUNICATION FROM THE HONORABLE DAVID DREIER, MEMBER OF CONGRESS
+
+```
+   COMMUNICATION FROM THE HONORABLE DAVID DREIER, MEMBER OF CONGRESS
+
+  The SPEAKER laid before the House the following communication from 
+the Honorable David Dreier, Member of Congress:
+                                               Committee on Rules,
+
+
+                                     House of Representatives,
+
+                                 Washington, DC, January 10, 2001.
+     Hon. J. Dennis Hastert,
+     Speaker, House of Representatives,
+     Washington, DC.
+       Dear Mr. Speaker: This is to formally notify you that, 
+     pursuant to Rule VIII of the Rules of the House of 
+     Representatives, I have been served with a grand jury 
+     subpoena for documents issued by the U.S. District Court for 
+     the Central District of California.
+       After consultation with the Office of General Counsel, I 
+     have determined that compliance with the subpoena is 
+     consistent with the precedents and privileges of the House.
+           Sincerely,
+     David Dreier.
+
+                          ____________________
+```
