@@ -1,0 +1,34 @@
+---
+granule: CRECB-2001-pt1-Pg1394-3
+date: 2001-02-06
+edition: CRECB
+section: SENATE
+page: 1394
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  EXECUTIVE NOMINATION CONFIRMED BY THE SENATE FEBRUARY 6, 2001:
+
+
+                   EXECUTIVE OFFICE OF THE PRESIDENT
+
+       ROBERT B. ZOELLICK, OF VIRGINIA, TO BE UNITED STATES TRADE 
+     REPRESENTATIVE, WITH THE RANK OF AMBASSADOR EXTRAORDINARY AND 
+     PLENIPOTENTIARY.
+
+
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+February 6, 2001
+```
