@@ -1,0 +1,29 @@
+---
+granule: CRECB-2001-pt9-Pg12958-2
+date: 2001-07-11
+edition: CRECB
+section: SENATE
+page: 12958
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate July 10, 2001:
+
+
+                             THE JUDICIARY
+
+       JAMES E. GRITZNER, OF IOWA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE SOUTHERN DISTRICT OF IOWA, VICE CHARLES R. 
+     WOLLE, RETIRED.
+       MICHAEL J. MELLOY, OF IOWA, TO BE UNITED STATES CIRCUIT 
+     JUDGE FOR THE EIGHTH CIRCUIT, VICE GEORGE G. FAGG, RETIRED.
+       MICHAEL P. MILLS, OF MISSISSIPPI, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF MISSISSIPPI, VICE 
+     NEAL B. BIGGERS, RETIRED.
+
+                          ____________________
+```
