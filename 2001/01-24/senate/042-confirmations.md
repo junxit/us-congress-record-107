@@ -1,0 +1,39 @@
+---
+granule: CRECB-2001-pt1-Pg678-2
+date: 2001-01-24
+edition: CRECB
+section: SENATE
+page: 678
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  EXECUTIVE NOMINATIONS CONFIRMED BY THE SENATE JANUARY 24, 2001:
+
+
+                DEPARTMENT OF HEALTH AND HUMAN SERVICES
+
+       TOMMY G. THOMPSON, OF WISCONSIN, TO BE SECRETARY OF HEALTH 
+     AND HUMAN SERVICES.
+
+
+                      DEPARTMENT OF TRANSPORTATION
+
+       NORMAN Y. MINETA, OF CALIFORNIA, TO BE SECRETARY OF 
+     TRANSPORTATION.
+
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+
+January 24, 2001
+```
