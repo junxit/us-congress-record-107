@@ -1,0 +1,70 @@
+---
+granule: CRECB-2002-pt4-Pg5401
+date: 2002-04-23
+edition: CRECB
+section: SENATE
+page: 5401
+---
+
+# NATIONAL CRIME VICTIMS RIGHTS WEEK
+
+```
+                   NATIONAL CRIME VICTIMS RIGHTS WEEK
+
+● Mr. JOHNSON. Mr. President, statistics show that a woman is 
+raped every 5 minutes in the United States and that one in every three 
+adult women experiences at least one physical assault by a partner 
+during adulthood. In fact, more women are injured by domestic violence 
+each year than by automobile accidents and cancer deaths combined. 
+Statistics that report the abuse of our children are equally 
+staggering. Nationwide, an estimated 826,000 children are victims of 
+abuse and neglect, a number greater than the population of my home 
+State of South Dakota.
+  April is recognized as both Child Abuse Prevention Month and Sexual 
+Assault Awareness Month. This week, the week of April 21-27, is 
+National Crime Victims Rights Week and is a good time to take a serious 
+look at the progress we have made in addressing the problem of abuse 
+against women and children in our communities. In 1983, I introduced 
+legislation in the South Dakota State Legislature to use marriage 
+license fees to help fund domestic abuse shelters. At that time, 
+thousands of South Dakota women and children were in need of shelters 
+and programs to help them. However, few people wanted to acknowledge 
+that domestic abuse occurred in their communities, or even in their 
+homes.
+  During the last 7 years, I have led efforts in the U.S. Congress to 
+authorize the original Violence Against Women Act, VAWA, and, most 
+recently, expand and improve the program to assist rural communities. 
+South Dakota has received over $8 million in VAWA funds for women's 
+shelters and family violence prevention services. In addition, the law 
+has doubled prison time for repeat sex offenders, established mandatory 
+restitution to victims of violence against women, and strengthened 
+interstate enforcement of violent crimes against women. South Dakotans 
+can also call a nationwide toll-free hotline for immediate crisis 
+intervention help and free referrals to local services. The number to 
+call for help is 1-800-799-SAFE.
+  In South Dakota last year, over 5,500 women were provided assistance 
+in domestic violence shelters and outreach centers thanks, in part, to 
+VAWA funds. While I am pleased that we have made significant progress 
+in getting resources to thousands of South Dakota women in need, it is 
+important to look beyond the numbers. Mr. President, 5,500 neighbors, 
+sisters, daughters, and wives in South Dakota were victimized by abuse 
+last year. Thousands of other women are abused and do not seek help. We 
+must also recognize that the problem is multiplied on the reservations 
+where Native American women are abused at two-and-a-half times the 
+national rate and are more than twice as likely to be rape victims as 
+any other race of women.
+  The words of a domestic abuse survivor may best illustrate the need 
+to remain vigilant in Congress and in our communities on preventing 
+domestic abuse. A woman from my State wrote me and explained that she 
+was abused as a child, raped as a teenager, and emotionally abused as a 
+wife. Her grandchildren were also abused. In her letter, she pleaded:
+
+       Don't let another woman go through what I went through, and 
+     please don't let another child go through what my 
+     grandchildren have gone through. You can make a difference.
+
+  We all can make a difference by protecting women and children from 
+violence and abuse.●
+
+                          ____________________
+```
