@@ -1,0 +1,83 @@
+---
+granule: CRECB-2001-pt7-Pg10012-3
+date: 2001-06-06
+edition: CRECB
+section: HOUSE
+page: 10012
+---
+
+# AMENDMENTS
+
+```
+                               AMENDMENTS
+
+  Under clause 8 of rule XVIII, proposed amendments were submitted as 
+follows:
+
+                               H.R. 1699
+
+                        Offered By: Mrs. Biggert
+
+       Amendment No. 4: At the end of the bill add the following:
+
+     SEC. __. ASSISTANCE FOR MARINE SAFETY STATION ON CHICAGO 
+                   LAKEFRONT.
+
+       (a) Assistance Authorized.--The Secretary of Transportation 
+     may use amounts authorized under this section to provide 
+     financial assistance to the City of Chicago, Illinois, to pay 
+     the Federal share of the cost of a project to demolish the 
+     Old Coast Guard Station, located at the north end of the 
+     inner Chicago Harbor breakwater at the foot of Randolph 
+     Street, and to construct a new facility at that site for use 
+     as a marine safety station on the Chicago lakefront.
+       (b) Cost Sharing.--
+       (1) Federal share.--The Federal share of the cost of a 
+     project carried out with assistance under this section may 
+     not exceed one third of the total cost of the project.
+       (2) Non-federal share.--There shall not be applied to the 
+     non-Federal share of a project carried out with assistance 
+     under this section--
+       (A) the value of land and existing facilities used for the 
+     project; and
+       (B) any costs incurred for site work performed before the 
+     date of the enactment of this Act, including costs for 
+     reconstruction of the east breakwater wall and associated 
+     utilities.
+       (c) Authorization of Appropriations.--In addition to the 
+     other amounts authorized by this Act, for providing financial 
+     assistance under this section there is authorized to be 
+     appropriated to the Secretary of Transportation $2,000,000 
+     for fiscal year 2002, to remain available until expended.
+
+                               H.R. 1699
+
+                       Offered By: Mr. Traficant
+
+       Amendment No. 5: At the end of the bill add the following:
+
+     SEC. __. REQUIREMENT TO CONSTRUCT ONLY AMERICAN-MADE VESSELS.
+
+       Any new vessel constructed for the Coast Guard with amounts 
+     made available under this Act--
+       (1) shall be constructed in the United States;
+       (2) shall not be constructed using any steel other than 
+     steel made in the United States; and
+       (3) shall be constructed in compliance with the Buy 
+     American Act.
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+This ``bullet'' symbol identifies statements or insertions 
+which are not spoken by a member of the Senate on the floor.
+
+
+
+June 6, 2001
+                                                            June 6, 2001
+```
