@@ -1,0 +1,46 @@
+---
+granule: CRECB-2001-pt2-Pg2480
+date: 2001-02-28
+edition: CRECB
+section: SENATE
+page: 2480
+---
+
+# ADDITIONAL STATEMENTS
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+                TRIBUTE TO MR. ROBERT C. McWILLIAMS III
+
+● Mr. HUTCHINSON. Mr. President, I rise today to pay tribute to 
+a man who through his service and dedication made a significant 
+difference in the lives of those who work at the Pine Bluff Arsenal in 
+my home State of Arkansas. Mr. Robert C. McWilliams passed away 
+recently, and the State will mourn his loss.
+  Robert McWilliams, was commissioned into the Army in 1964 as a second 
+lieutenant of armor. He served two tours in Vietnam as an Army aviator 
+and was awarded the Distinguished Flying Cross, Air Medal, Bronze Star 
+Medal, Army Commendation Medal, National Defense Service Medal and was 
+decorated with Senior Aviator Wings. After his service in Vietnam, he 
+was stationed at Pine Bluff Arsenal, where he served as Provost 
+Marshal, Chief of Security, and finally president of the local chapter 
+of the American Federation of Government Employees.
+  It was in that last position that Bob truly emerged as a tireless 
+advocate for the hundreds of men and women who work at the Pine Bluff 
+Arsenal, toiling on behalf of our nation's security. I enjoyed the many 
+conversations I had with Bob, for he never wasted an opportunity to 
+argue for higher wages and more job security for those he represented. 
+I knew that whenever I needed a candid opinion of how decisions made in 
+Washington, D.C., would affect life in Jefferson County, I could call 
+on him. Now that he is gone, I will miss him.
+  Robert C. McWilliams served his nation with dignity and honor. To 
+those who knew him, he is remembered with fondness. I wish to extend my 
+deepest sympathies for his passing to his family and loved 
+ones.●
+
+                          ____________________
+```
