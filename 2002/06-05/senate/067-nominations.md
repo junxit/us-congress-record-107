@@ -1,0 +1,441 @@
+---
+granule: CREC-2002-06-05-pt1-PgS5059-3
+date: 2002-06-05
+edition: CREC
+section: SENATE
+page: S5059
+citation: 148 Cong. Rec. S5059
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate June 5, 2002:
+
+
+             Chemical Safety and Hazard Investigation Board
+
+       Carolyn W. Merritt, of Illinois, to be Chairperson of the 
+     Chemical Safety and Hazard Investigation Board for a term of 
+     five years, vice Paul L . Hill, Jr.
+       Carolyn W. Merritt, of Illinois, to be a Member of the 
+     Chemical Safety and Hazard Investigation Board for a term of 
+     five years, vice Paul L. Hill, Jr.
+
+
+                          Department of State
+
+       James Irvin Gadsden, of Maryland, a Career Member of the 
+     Senior Foreign Service, Class of Minister-Counselor, to be 
+     Ambassador Extraordinary and Plenipotentiary of the United 
+     States of America to the Republic of Iceland.
+       John Randle Hamilton, of North Carolina, a Career Member of 
+     the Senior Foreign Service, Class of Minister-Counselor, to 
+     be Ambassador Extraordinary and Plenipotentiary of the United 
+     States of America to the Republic of Guatemala.
+       Michael Klosson, of Maryland, a Career Member of the Senior 
+     Foreign Service, Class of Minister-Counselor, to be 
+     Ambassador Extraordinary and Plenipotentiary of the United 
+     States of America to the Republic of Cyprus.
+
+[[Page S5060]]
+
+       Larry Leon Palmer, of Georgia, a Career Member of the 
+     Senior Foreign Service, Class of Counselor, to be Ambassador 
+     Extraordinary and Plenipotentiary of the United States of 
+     America to the Republic of Honduras.
+       Randolph Bell, of Virginia, a Career Member of the Senior 
+     Foreign Service, Class of Minister-Counselor, for the rank of 
+     Ambassador during his tenure of service as Special Envoy for 
+     Holocaust Issues.
+
+
+                         Asian Development Bank
+
+       Paul William Speltz, of Texas, to be United States Director 
+     of the Asian Development Bank, with the rank of Ambassador, 
+     vice N. Cinnamon Dornsife, resigned.
+
+
+                              In the Army
+
+       The following named officer for appointment as Assistant 
+     Surgeon General/Chief of the Dental Corps, United States Army 
+     and for appointment to the grade indicated under title 10, 
+     U.S.C., section 3039:
+
+                          To be major general
+
+Brig. Gen. Joseph G. Webb Jr., 0000
+
+       The following named officer for appointment as permanent 
+     professor, United States Military Academy, under title 10, 
+     U.S.C., section 4333(b):
+
+                        To be lieutenant colonel
+
+Michael J. Meese, 0000
+
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                             To be colonel
+
+STEVEN A. BEYER, 0000
+MATTHEW L. MURPHY, 0000
+JASON K. PSALTIDES, 0000
+JAMES F. ROTH, 0000
+
+       The following named officer for appointment to the grade 
+     indicated in the Reserve of the Army under title 10, U.S.C., 
+     section 12203:
+
+                             To be colonel
+
+Jay A. Jupiter, 0000
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Army Medical Corps under title 
+     10, U.S.C., sections 624 and 3064:
+
+                              To be major
+
+Andrew D. Magnet, 0000
+
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                             To be colonel
+
+BERNARD COLEMAN, 0000
+LARRY D. FOSTER, 0000
+CHARLES E. JACKSON, 0000
+EDELTRAUD K. LAMAR, 0000
+HARRY E. MEADE, 0000
+ROY I. NOMEY JR., 0000
+JERRY D. PARKER, 0000
+JOSEPH G. SCHMITZ, 0000
+MICHAEL A. STONE, 0000
+
+                              In the Navy
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+BARNEY R BARENDSE, 0000
+CHRISTINE BOLTZ, 0000
+DENISE M BOREN, 0000
+PATRICIA H CRADDOCK, 0000
+SAMUEL E DIXON, 0000
+MARY K JACKSON, 0000
+DENNIS L JEPSEN, 0000
+JAMES E KOHL, 0000
+REBECCA J MCCORMICKBOYLE, 0000
+DENISE S MCDOWELL, 0000
+KAREN T MCKINSEY, 0000
+JOSEPH F MURRAY, 0000
+HELEN V PEARLMAN, 0000
+FAYE M PYLES, 0000
+MARIE S SENZIG, 0000
+NANCY A SIMMONS, 0000
+KATHERINE A SURMAN, 0000
+SHEILA M WEIBERT, 0000
+KRISTIANE M WILEY, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+MICHAEL J BOOCK, 0000
+MARTIN J EVANS, 0000
+JONATHAN E FINK, 0000
+ERIC E GEISER, 0000
+ALAN G KAUFMAN, 0000
+MARK D LAWTON, 0000
+FREDERICK D MITCHELL, 0000
+MOIRA D MODZELEWSKI, 0000
+DANIEL E OTOOLE, 0000
+RAUL A F PEDROZO, 0000
+MICHAEL I QUINN, 0000
+MICHAEL A WATERS, 0000
+ALEXANDER W WHITAKER IV, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+STEPHEN T AHLERS, 0000
+WILLIAM K ALEXANDER, 0000
+JOHN K BAIRD, 0000
+MARK F BERNIER, 0000
+MARK E BROUKER, 0000
+RODERICK L CLAYTON, 0000
+LEE L CORNFORTH, 0000
+MU YING H DOW, 0000
+ANDREW T ENGLE, 0000
+CARROLL D FORCINO, 0000
+SCOTT E FOSTER, 0000
+RUFUS E GODWIN, 0000
+CELIA H HORTON, 0000
+GRAHAM D ININNS, 0000
+PATRICIA W IRELAND, 0000
+DAVID B MILLER, 0000
+DONNA M MURDOCH, 0000
+PAUL R SCHRATZ JR., 0000
+RICHARD F STOLTZ, 0000
+KERRY R THOMPSON, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+DANIEL C ALDER, 0000
+CHARLES F BAXTER JR., 0000
+MONTE L BIBLE, 0000
+DAVID A BRADSHAW, 0000
+HARPREET S BRAR, 0000
+ANTHONY J CAMEROTA, 0000
+FRANK J CARLSON, 0000
+RONALD F CENTNER, 0000
+FRANK A CHAPMAN, 0000
+SUSAN L CHITTUM, 0000
+LAUREL B S CLARK, 0000
+BRUCE COHEN, 0000
+WALTER J COYLE, 0000
+CRAIG L CUPP, 0000
+MICHAEL J CURRAN, 0000
+DAVID L DAUGHERTY, 0000
+MURRAY S DONOVAN, 0000
+TERRENCE X DWYER, 0000
+RICHARD C EDWARDS, 0000
+DANIEL R ELIZONDO, 0000
+SCOTT D FLINN, 0000
+MICHAEL J FRANCIS, 0000
+KEVIN L GALLAGHER, 0000
+SCOTT J GRAHAM, 0000
+THOMAS M GUDEWICZ, 0000
+TERRY A HARRISON, 0000
+ROBERT E HERSH, 0000
+BRIANA M HILL, 0000
+MARK P HONIG, 0000
+PETER A JOHNSTONE, 0000
+KELLY S KEEFE, 0000
+RANDALL KELLEY, 0000
+KERRY J KING, 0000
+KENNETH D KLIONS, 0000
+JOHN J LEE, 0000
+PETER E LINZ, 0000
+ERIC R LOVELL, 0000
+PAUL A LUCHA, 0000
+RANDALL C MAPES, 0000
+MARTIN MCCAFFREY, 0000
+MICHAEL C MCCARTHY, 0000
+SCOTT K MCCLATCHEY, 0000
+ROBERT J MENDEZ, 0000
+BRUCE C MENELEY, 0000
+BRIAN P MONAHAN, 0000
+VERNON D MORGAN, 0000
+MICHAEL MULDOON, 0000
+CHRISTOPHER L OLCH, 0000
+JOHN C OLSEN, 0000
+JOHN S PARRISH, 0000
+JEFFERY W PAULSON, 0000
+PAUL PEARIGEN, 0000
+PABLO D PIZARRO, 0000
+CRAIG C POWELL, 0000
+TERRY L PUCKETT, 0000
+RAYMOND M PUMAREJO, 0000
+EDWARD V ROSS JR., 0000
+JOSEPH E SARACHENE, 0000
+ANN R SECORD, 0000
+WYATT S SMITH, 0000
+ROBERT J SUCSY, 0000
+THOMAS K TANDY III, 0000
+GARY A TANNER, 0000
+STEVEN M TEMERLIN, 0000
+JON K THIRINGER, 0000
+GEORGE G ULRICH, 0000
+AMY G WANDEL, 0000
+LYNN E WELLING, 0000
+JERRY W WHITE, 0000
+HENRY C WONG, 0000
+EDWARD A WOODS, 0000
+ERIC J ZINTZ, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+ALAN T BAKER, 0000
+HAROLD W BURRELL, 0000
+WILLIAM F CUDDY JR., 0000
+JOHN S EVANS, 0000
+JAMES R FISHER JR., 0000
+BRIAN F KELLY, 0000
+RONNIE C KING, 0000
+DAVID G KLOAK, 0000
+PETER W MCGEORY, 0000
+DALE W PARKER, 0000
+MARK L TIDD, 0000
+DOUGLAS J WAITE, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+MICHAEL L BLOUNT, 0000
+DAVID M BOONE, 0000
+DAVID M BURNES, 0000
+FRANCIS P CASTALDO, 0000
+MASON CRUM, 0000
+DAVID L FLEISCH, 0000
+PAUL T FULIGNI, 0000
+KATHERINE L GREGORY, 0000
+APRIL F HEINZE, 0000
+HUGH R HEMSTREET, 0000
+KEVIN A LINDSEY, 0000
+BARRY K LOVELESS, 0000
+GERALD R MANLEY, 0000
+ROGER M NATSUHARA, 0000
+MICHAEL J OCONNOR, 0000
+ERIC S ODDERSTOL, 0000
+ROBERT P WALDEN, 0000
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Naval Reserve under title 10, 
+     U.S.C., section 12203:
+
+                             To be captain
+
+James T. Conen, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVAL RESERVE UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                             To be captain
+
+JOSEPH D. CALDERONE, 0000
+JOHN M. HACKWORTH, 0000
+JOHN D. HENDERSON, 0000
+MICHAEL J. INOUYE, 0000
+ARNOLD C. JOHNSON, 0000
+RONALD M. KLOSE, 0000
+RICHARD A. WILLIAMS, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVAL RESERVE UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                             To be captain
+
+TIMOTHY G. ALBERT, 0000
+DAVID E. BEARDMORE, 0000
+JAMES E. CAMPBELL II, 0000
+FRANKLIN B. CARVER, 0000
+NANCY J. CATHEY, 0000
+JOHNNY L. DODD, 0000
+JANICE M. STACYWASHINGTON, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVAL RESERVE UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                             To be captain
+
+WARREN WOODWARD RICE, 0000
+MARK J. SAKOWSKI, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVAL RESERVE UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                             To be captain
+
+BARBARA S. BLACK, 0000
+PAUL T. BROERE, 0000
+THOMAS A. CORWIN, 0000
+ROBERT A. GANDOLA, 0000
+DANIEL J. NEUMANN, 0000
+DAVID A. OBRIEN, 0000
+JOHN H. WATTS, 0000
+DOUGLAS D. WRIGHT, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+MICHAEL R. BONNETTE, 0000
+DAVID C. PHILLIPS, 0000
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+JOSE R ALMAGUER, 0000
+DEAN A BEATTY, 0000
+GEORGE J BINGHAM, 0000
+DAVID A BITONTI, 0000
+MICHAEL R BRENYO, 0000
+NATHANIEL C BRYANT, 0000
+THOMAS A CADE, 0000
+DANIEL G EHRICH, 0000
+BYRON C ESCOE, 0000
+PAUL W GERHARDT, 0000
+JAMES H GHERARDINI JR., 0000
+LYNDA D GROSSMAN, 0000
+GARY J HAMMOND, 0000
+RICHARD A JORALMON, 0000
+JAMES V KEENAN, 0000
+
+[[Page S5061]]
+
+RANDALL W KULNIS, 0000
+JOHN P LABANC, 0000
+JOHN J LAUTEN JR., 0000
+THOMAS M LEIENDECKER, 0000
+WILLIAM J LEONARD, 0000
+CLARA Y LLODRA, 0000
+JAMES C MARTIN, 0000
+JOHN L MCGINLEY, 0000
+ALICE P MORAN, 0000
+BLAINE E MOWREY, 0000
+JOHN H MUMFORD, 0000
+TOM R NEIHART, 0000
+LEE E NIEMEYER, 0000
+STEPHEN M PARKER, 0000
+JOHN P PIERCE JR., 0000
+MATTHEW W POMMER JR., 0000
+PAUL D REAGAN, 0000
+DAVID N RICKEY, 0000
+DEBRA M RYKEN, 0000
+TIMOTHY J SHEA, 0000
+THOMAS R SPRADLIN, 0000
+LOREN J STEENSON, 0000
+KENNETH M STINCHFIELD, 0000
+
+                          ____________________
+```

@@ -1,0 +1,198 @@
+---
+granule: CREC-2002-06-05-pt1-PgS5052-2
+date: 2002-06-05
+edition: CREC
+section: SENATE
+page: S5052
+citation: 148 Cong. Rec. S5052
+---
+
+# Introductory Statement on S. 2590
+
+**Speaking:** Jeffords, James M. (J000072) [I-VT], Frist, William H. (F000439) [R-TN]
+
+**Measures:** S. 2590
+
+```
+      By Mr. JEFFORDS (for himself, Mr. Frist, Mr. Breaux, and Mr. 
+        Gregg):
+  S. 2590. A bill to amend title IX of the Public Heath Service Act to 
+provide for the improvement of patient safety and to reduce the 
+incidence of events that adversely effect patient safety; to the 
+Committee on Health, Education, Labor, and Pensions.
+  Mr. FRIST. Mr. President, I am pleased to join today with my 
+colleagues Senators Jeffords, Breaux, and Gregg in introducing crucial 
+legislation, the Patient Safety and Quality Improvement Act.
+  Each year, as many as 98,000 people in the United States die as a 
+result of medical errors. More Americans die each year from medical 
+errors than from breast cancer, AIDS, or motor vehicle accidents. As a 
+physician who has taken the Hippocratic oath ``To do no harm,'' the 
+status quo is simply unacceptable. As the Institute of Medicine wrote 
+in its landmark 1999 report, To Err is Human: ``[I]t is simply not 
+acceptable for patients to be harmed by the same health care system 
+that is supposed to offer healing and comfort.''
+  The legislation we are introducing today will go a long way toward 
+preventing many of these tragedies. Although a variety of patient 
+safety initiatives are underway in the private sector as well as within 
+the Department of Health and Human Services, and in the states, 
+Congress has an important role to play in reinforcing, encouraging, and 
+enhancing these efforts.
+  The major contribution of this legislation is to foster an open, 
+collaborative environment where doctors, nurses, and other health 
+professionals can share information freely and analyze it thoroughly. 
+Health care providers should not be punished for trying to learn from 
+their mistakes, reduce medical errors, and improve the quality of care 
+they deliver to patients.
+  As a physician and a scientist, I know first hand about the enormous 
+complexities of medicine today and the intricate system in which 
+providers deliver care. I also recognize the need to examine medical 
+errors closely in order to determine where the system has failed 
+patients, and how it can be improved. Yet, adequate protections do not 
+exist today to foster this type of learning and improvement 
+environment. For example, hospitals currently rely upon Mortality and 
+Morbidity Conference to share information about medical errors that 
+occur with respect to individual patients. Unfortunately, because these 
+conferences are focused
+
+[[Page S5053]]
+
+on events involving individual patients within a single hospital, it is 
+impossible to address system-wide quality and safety problems that may 
+exist across hospital systems and within broader communities. Fear of 
+litigation is the primary barrier to sharing and analyzing information 
+that could save lives and improve treatment within the broader health 
+care community.
+  We have seen this type of non-punitive reporting model work to vastly 
+improve safety in other situations. In 1975, the Federal Aviation 
+Administration established the Aviation Safety Reporting System, ASRS, 
+to encourage pilots, controllers, flight attendants, mechanics, and the 
+public to voluntarily report actual or potential discrepancies and 
+deficiencies involving the safety of aviation operations. Because this 
+information was widely shared and analyzed, the ASRS helped to 
+significantly improve aviation safety in the United States. The risk of 
+dying in a domestic jet flight decreased from one in two million in 
+1967 to 1976 to only one in eight million in the 1990s.
+  The Institute of Medicine, as well as many experts who have testified 
+before Congress during the past few years, have strongly recommended 
+that Congress provide the same type of legal protections for 
+information gathered and reported to improve health care quality and 
+increase patient safety. Without these protections, patient safety 
+improvements will continue to be hampered by fears of retribution and 
+recrimination. If we are to change the health care culture from ``name, 
+shame, and blame'' to a culture of safety and continuous quality 
+improvement, we must provide these basic protections.
+  In extending these protections, we have tried to encourage widespread 
+voluntary error reporting while continuing to allow access to medical 
+records and other information that should be available to patients for 
+litigation or other purposes. Protecting data reported to a certified 
+patient safety reporting system does not mean that such information 
+cannot be obtained through other avenues if it is important to securing 
+redress for harm. At the same time, information generated by this new 
+reporting system designed specifically to reduce errors and broadly 
+benefit patients should not become fodder for increased litigation. 
+Moreover, the legislation expressly allows for patient safety 
+information to be disclosed in the context of a disciplinary proceeding 
+or criminal case where it is 1. material to the proceeding; 2. within 
+the public interest; and 3. not available from any other source.
+  I want to thank Senators Jeffords, Breaux, and Gregg for their 
+support, and input into this legislation. I look forward to working 
+with them, Senator Kennedy, and my other colleagues in both the House 
+and Senate, to pass legislation that will advance patient safety 
+efforts.
+  I also value the leadership of the Bush Administration on this 
+critical issue. The Administration's efforts to improve patient safety 
+are underscored by the commitment, support and direct involvement of 
+both Secretary Thompson of the Department of Health and Human Services 
+and Secretary O'Neill of the Department of Treasury in helping to shape 
+this legislation.
+  Americans take pride in offering the most advanced medical care in 
+the world. A bounty of new devices, new treatments, and new techniques 
+offer the hope of living longer and healthier than ever before. Yet, 
+medical mistakes continue to take thousands of lives and cost billions 
+of dollars each year. We must not let the miracle of modern medicine be 
+extinguished by medical errors. This bill will make the changes in 
+culture and communications that are needed to increase the safety of 
+America's health care system, and improve the quality of care delivered 
+to America's patients.
+  Mr. JEFFORDS. Mr. President, I am happy to have the opportunity today 
+to speak on the vital issue of patient safety and medical errors, and 
+to introduce legislation that will ensure better health care for all 
+Americans. In 1999, the Institute of Medicine published a classic 
+reference book titled To Err is Human, which reported that hospital 
+medical errors contribute to approximately 100,000 deaths a year.
+  This troubling statistic has been verified by research done by the 
+Commonwealth Foundation and reviewed by articles in the Journal of the 
+American Medical Association, the Annals of Internal Medicine, and the 
+New England Journal of Medicine. This statistic shows that medical 
+errors are a more common cause of death than motor vehicle accidents or 
+breast cancer, and it puts medical errors as the eighth leading cause 
+of death in the United States.
+  This is totally unacceptable and it need not be occuring at all. 
+Today, I am pleased to introduce legislation with my colleagues 
+Senators Frist, Breaux, and Gregg, the ``Patient Safety and Quality 
+Improvement Act,'' that will put us on the path to correcting these 
+medical errors.
+  The ``Patient Safety and Quality Improvement Act'' lays the 
+groundwork for preventing these unnecessary deaths and injuries. Only 
+by providing a framework through which medical errors can be reported 
+and analyzed will we be able to make changes, strengthen and improve 
+our health-care system and reduce morbidity and mortality.
+  Since the 106th Congress, the Senate Health, Education, Labor, and 
+Pensions Committee has held five hearings on this important issue. The 
+testimony given during these hearings reflected an overwelling 
+agreement with the IOM report and the ``Patient Safety and Quality 
+Improvement Act,'' acts upon the IOM's findings and recommendations
+  Key elements of To Err is Human call for improvements in patient 
+safety by developing a learning, rather than a punitive environment; 
+legal protections of privacy and privilege that would foster care 
+systems to be reviewed and appropriate collaborations to occur in 
+developing and implementing patient safety improvement strategies.
+  Our legislation addresses all of these concerns. Currently, adequate 
+legal protections and a non-punitive environment do not exist to foster 
+the exchange of information and the analysis that is needed to deal 
+with the complex issues of improving patient safety. Our measure 
+creates opportunities for higher standards of continuous safety 
+improvement, and encourages a new culture of patient safety dialogue to 
+insure that safety information will be shared voluntarily and that 
+appropriate collaboration and analysis will occur. It can not be overly 
+stress that an environment where information, data, process, and 
+recommendations enjoy legal protection and privilege it is essential to 
+any safety organization.
+  These are the key elements of what the ``Patient Safety and Quality 
+Improvement Act'' will do. It promotes a ``culture of safety'' in our 
+health care system by providing for the legal protection of information 
+reported voluntarily for the purposes of quality improvement and 
+patient safety. It creates incentives for creating voluntary reporting 
+systems that are non-punitive and promote learning. It recognizes that 
+to be effective, these systems must have the buy-in, trust, and 
+cooperation of the health care providers. It recognizes the Agency for 
+Healthcare Research and Quality (AHRQ) as the leader in patient; safety 
+for funding research and for dissemination of information learned about 
+improving patient safety; and finally, it complements many ongoing 
+patient safety initiatives in the public and private sector.
+  Finally, I want to point out what the bill does not do: It does not 
+change existing remedies available to injured patients or limit a 
+patient's access to their medical record; it does not ``shield'' or put 
+patient information that is otherwise available beyond the reach for 
+the purposes of disciplinary, civil or criminal proceedings; it does 
+not change current regulatory processes or add new regulatory 
+requirements; and it does not create mandatory, punitive reporting 
+systems.
+  Our bill enjoys widespread endorsement by over 40 hospital, patient, 
+doctor, and consumer advocacy organizations, and this degree of support 
+underscores the broad appeal and essential nature of this proposed 
+legislation. It is my strong desire that this bill receive the prompt 
+attention that the issue clearly deserves.
+  All of us are justifiably proud of our hospital system and the 
+wonders of medicine and technology. But we can no longer ignore the 
+well documented incidence of medical errors, which waste needed medical 
+resources and
+
+[[Page S5054]]
+
+cause excessive medical complications and unacceptable loss of life. 
+Without attention to this matter, it is reasonable to expect that 
+thousands of innocents will suffer unnecessarily in our hospitals. We 
+simply must not allow this to happen.
+                                 ______
+```

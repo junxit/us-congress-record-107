@@ -1,0 +1,813 @@
+---
+granule: CREC-2002-06-05-pt1-PgH3208
+date: 2002-06-05
+edition: CREC
+section: HOUSE
+page: H3208
+citation: 148 Cong. Rec. H3208
+---
+
+# REPEAL SUNSET PROVISION OF INHERITANCE TAX REPEAL
+
+**Speaking:** Weldon, Dave (W000267) [R-FL], Brown, Henry E., Jr. (B001235) [R-SC], Wilson, Joe (W000795) [R-SC], Cunningham, Randy (Duke) (C000994) [R-CA], Hayworth, J. D. (H000413) [R-AZ], Terry, Lee (T000459) [R-NE]
+
+**Measures:** H.R. 1, H.R. 2143
+
+```
+           REPEAL SUNSET PROVISION OF INHERITANCE TAX REPEAL
+
+  The SPEAKER pro tempore (Mr. Shuster). Under the Speaker's announced 
+policy of January 3, 2001, the gentleman from Florida (Mr. Weldon) is 
+recognized for 60 minutes as the designee of the majority leader.
+  Mr. WELDON of Florida. Mr. Speaker, I rise to address the body 
+regarding the very, very critical issue of repealing the sunset 
+provision of the inheritance tax repeal. As many Americans know, last 
+year we passed a very, very important tax bill. It reduced taxes on 
+working families, it reduced marginal tax rates, it increased the child 
+tax credit, and it had many, many, very, very good provisions.
+  Indeed, I have been hearing from constituents, particularly parents, 
+in my congressional district about how the tax reductions, even though 
+they are phased in and, for example, the child tax credit only went 
+from $500 to $600 in the first year, are helping. They tell me, 
+particularly parents, where one spouse works, typically the father, and 
+the mother is home with small children, struggling with the burden of 
+trying to raise a family, that these tax reductions are really helping 
+them make ends meet.
+  Naturally, of course, with the Nation in a recession, these tax 
+reductions have been very helpful in blunting the severity of the 
+recession. Many economists claim that if our tax reductions had not 
+gone into place, this recession would have been much, much worse. We 
+just heard from the gentlewoman from Ohio how State income taxes being 
+down because of the decline in the economy are hurting education 
+expenses. Imagine where we would be as a Nation if this recession was 
+much, much worse. And I think the tax reductions have been very, very 
+helpful in putting more money into the economy and, therefore, helping 
+create jobs and in protecting jobs.
+  But, Mr. Speaker, I rise tonight specifically to address one 
+particular feature of that bill. In the other body there is a rule that 
+says we cannot make any provisions of the Tax Code permanent unless we 
+have 60 votes. So all of these tax reductions which are phased in over 
+several years essentially sunset in 2011. This is an unfortunate 
+feature, and I was disappointed that we were not able to get the 
+necessary votes to make it permanent. Essentially, it is a tax increase 
+that is hanging out there over the heads of the American people, 
+somewhat like the Sword of Damocles.
+  For most Americans, I do not think it affects behavior. I do not 
+think people will not have a child because their child tax credit might 
+decline from $1,000 to $500 per child in 2011. I do not think that 
+because marginal rates could potentially go up in 2011 that people will 
+change their behavior in the sense that they will not pursue personal 
+gain or they will not pursue career enhancements. But the one feature I 
+think that is the most pernicious in all of this is the impact on the 
+inheritance tax. The inheritance tax affects behavior now.
+  People, today, who are affected by the inheritance tax, engage in 
+extensive planning to mitigate the severity of the inheritance tax on 
+their business and on their family. This was driven home loud and clear 
+to me when I called a constituent of mine who is an auto dealer. Bruce 
+Deardorf is his name. Shortly after we passed the tax cuts of last 
+year, I called Bruce and he said to me, I am glad you passed it, it is 
+a great step; but, he said, I do not know what to do about my estate 
+planning.
+  Bruce is like hundreds of thousands, probably millions, of small 
+businessmen all over the country. He started out really with nothing. 
+He scrimped and saved and managed to save up $60,000 and used that as 
+the downpayment, then took out a big loan to open his first auto 
+dealership many, many years ago. He has been successful and was able to 
+acquire a second, a third, and now a fourth auto dealership. He employs 
+400 people. He has sent millions and millions of tax dollars to 
+Washington, D.C., both from his personal withholding and all the jobs 
+that he has created. All those 400 people of course pay Social Security 
+tax.
+  Now, this is not a story that is unique to my congressional district 
+in central Florida; it is common all over the country. Really, the 
+prosperity
+
+[[Page H3209]]
+
+that enables us to pay for all the features of our government, from 
+defense to education programs to local taxes that are collected is 
+generated by entrepreneurs and family farmers that are going out 
+working every day and creating jobs and creating prosperity.
+  And Bruce Deardorf said to me over the phone, I do not know what to 
+do with the estate plan I have established. This feature of the bill, 
+this sunset provision, which basically repeals the inheritance tax by 
+2010 and then brings it back in 2011, makes it impossible for me to 
+retire all the estate planning that I have generated, and I am going to 
+have to keep it all in place.
+  This is very, very inefficient. Most of the estate planning, granted, 
+generates work for estate planners, accountants, and lawyers; but it is 
+not in the productive side of our economy. And, indeed, I think this is 
+an inefficiency that we have burdened our economy with. So I believe 
+very, very strongly that we need to make the repeal of the inheritance 
+tax permanent. It is impossible for people to plan, and I think it is 
+the right thing to do.
+  Now, I supported the bill that we passed last month that made all of 
+the sunset provisions on all the features of the tax bill go away. If 
+we cannot get that enacted into law, I think minimally we need to enact 
+this provision.
+  Mr. Speaker, I would like to now recognize my colleague, the 
+gentleman from South Carolina (Mr. Brown). I understand that the 
+gentleman wanted to speak to this issue on the inheritance tax repeal, 
+and so I yield to the gentleman.
+  Mr. BROWN of South Carolina. Mr. Speaker, I thank the gentleman from 
+Florida for yielding; and I rise in support of making the death tax 
+relief permanent and, quite frankly, with much puzzlement that we 
+really need to debate this on the House floor today.
+  On the one hand, it is simply a matter of fairness. The taxes being 
+wrenched from the families is money that has already been taxed before. 
+As an issue of morality, it is hard enough for a family to lose a loved 
+one without having to endure the additional grief and burden that the 
+Federal Government delivers to them. Too often business owners are 
+forced to sell their businesses, and family farms are broken up so 
+families can come up with the cash they need to pay the death tax.
+  Moreover, as a practical matter, when people are planning their 
+estates, it creates tremendous uncertainty when one does not know 
+whether or not the death tax will resurrect itself within 10 years. 
+Surely the Congress would never tell the American people that it is 
+much more economic to die in the year 2010 than in the year 2011. But 
+if nothing is done to make this relief permanent and the death tax is 
+allowed to rise again, that is the sad reality of the policy we have 
+created.
+  We must be decisive on this issue and continue the good work we did 
+in enacting the President's tax cuts. Not acting to make this relief 
+permanent would be a dereliction of duty to the constituents we 
+represent.
+  Mr. Speaker, I would hope that the Congress would do the right thing 
+and make this death tax relief permanent.
+  Mr. WELDON of Florida. Mr. Speaker, I thank the gentleman from South 
+Carolina for his very important input; and I believe the gentleman's 
+colleague, the gentleman from South Carolina (Mr. Wilson), also would 
+like to add to the gentleman's statement on this very important issue; 
+and so I yield to the gentleman.
+  Mr. WILSON of South Carolina. Mr. Speaker, it is a real honor for me 
+to be here with my colleague, the gentleman from Florida (Mr. Weldon), 
+and an honor to be here with my colleague, the gentleman South Carolina 
+(Mr. Brown). I was very honored to serve with him in the General 
+Assembly of South Carolina. He served as the chairman of the Committee 
+on Ways and Means in the House of Representatives, which was one of the 
+highest positions of our State, and we are just very fortunate that he 
+was elected 2 years ago to serve here in Congress. Those of us from 
+South Carolina are proud of the gentleman from South Carolina (Mr. 
+Brown).
+  I am very happy and honored to have been elected more recently. I ran 
+in the primary last October. I was elected on December 18; and, in 
+fact, I am the second most recent Member of Congress. I am number 434 
+out of 435. And with that distinction, the point I want to make is that 
+I also have the most recent experience, some of us would call it real-
+life experience, of being with the public in a private position in my 
+job. And I was very proud of my employment as an attorney. I served as 
+a real estate attorney, and I was a probate attorney until December 18 
+last year when I was elected to Congress.
+  My experience in civilian life of being a real estate attorney, 
+probate attorney, is that I heard so much about death taxes and that is 
+why I want to commend my colleague, the gentleman from Florida, for his 
+leadership in working to eliminate death taxes in the United States. 
+This needs to be done. Because I know firsthand how this has chilled 
+the value of real estate, it has chilled development, it has chilled 
+home building, and it has had a negative effect for businesses, 
+particularly small businesses in our country.
+  Additionally, I know that it has created confusion for those of us 
+who work in preparing wills and assisting people in preparation of 
+wills. But the ultimate confusion has been a law which will provide, as 
+the gentleman correctly indicated, a tax increase. That tax increase 
+will take place on January 1, 2011, when it just kicks in. So what we 
+have is an indeterminate law, in effect, which is the worst kind.
+  I know from being recently in campaigns, talking with people, meeting 
+with people in their businesses, in their homes, on the street, at 
+meetings, that this is a key issue. And I want to commend the gentleman 
+for bringing this up, and I really look forward to the vote tomorrow.
+  I also had the experience of looking back at the debate involving a 
+wonderful colleague, the gentleman from Arizona (Mr. Hayworth), who 
+spoke on this last year. And I want to commend the membership for 
+passing the tax cuts last year. It was a year ago, on June 6, 2001, 
+when the reforms were put in place to eliminate the death taxes and 
+reduce other taxes.
+  The way this tax cut would work that was passed provides that there 
+would be a phase-out of the death taxes over the next 9 years, and then 
+it would completely disappear in the 10th year. However, the sunset 
+provision that the gentleman explained provides that after December 31, 
+2010, on the very next day, the taxes would be fully put back into 
+place, a tax increase, as the gentleman has said correctly. So persons 
+would almost have to plan, which cannot be done, and we do not want it 
+to be done, to pass away on December 31, 2010. It is not only just 
+illogical, it is immoral.
+  In other words, unless we want to make the tax elimination permanent, 
+we need to vote positively tomorrow, and I look forward to doing so. 
+What we have is a situation where if people did pass away prior to 
+December 31, 2010, they would not pay a death tax. But if they live 1 
+day more, to January 1, 2011, they would pay a tax, possibly equal to 
+60 percent of all their assets.
+  I believe that the death tax is possibly the most ethically 
+disgraceful tax which is levied by the Federal Government; and then, in 
+fact, most States also have adopted this tax through tax conformity.
+
+                              {time}  1715
+
+  So this can really be beneficial. Not only what we are doing on the 
+Federal level; the impact will be to eliminate death taxes at the 
+Federal and State level. You have tax on assets already taxed. We need 
+to vote tomorrow to permanently eliminate the death tax.
+  Another definition of the death tax would be taxes on the property 
+owned at the date of death. When someone dies, the surviving family, 
+not the deceased, and there is some debate, we can call it an 
+inheritance tax, but the general term is death tax. The surviving 
+family pays a tax up to 60 percent on all assets currently over 
+$675,000.
+  When we hear about $675,000, I know from personal experience working 
+with people who are of average means, they do not realize that their 
+homes have appreciated substantially. They could immediately be put 
+into a taxable situation. Many people do not realize that insurance is 
+included within the estate and provides immediately for taxes to be 
+assessed.
+  For the past 20 years, as a member of the Army National Guard, I have 
+been
+
+[[Page H3210]]
+
+traveling all over South Carolina with legal counseling teams assisting 
+people in preparing wills and powers of attorney in the event that they 
+were mobilized. Person after person has had property that has 
+appreciated. It is real estate which was formerly in rural areas, and 
+is now in resort areas. This could result in people having to cut 
+timber early, which would be negative. Timber has been a phenomenal 
+resource which appreciates in value so quickly that immediately people 
+who are of average means become taxed upon the death of a loved one.
+  I think that another point that needs to be made is that the Federal 
+death tax was enacted in 1916 to provide for funds to fight World War 
+I. We heard a few minutes ago that it needs to be reformed and not 
+eliminated. I will say that reform is simply a code word for keeping 
+the door open for abuse.
+  The best way to handle any tax is to eliminate the tax. It may sound 
+good that we would reform it and it would apply to a very tiny 
+percentage, but we all know that that is leaving it alive so that in 
+the future it could be increased and they could come back and have it 
+on the books and simply say this is a technical amendment, we 
+understand what that means, and suddenly we have taxes which are 
+increased in all directions.
+  The real question on this is in regard to grandparents. They should 
+be encouraged to save for their children and for their grandchildren. 
+To me this is an assault on grandparents who have worked hard all their 
+lives. They want to provide for their families and want to pass it on. 
+Tomorrow I will be looking forward to voting on this for the 
+grandparents of America.
+  The bottom line, a good question, is that normally government will 
+tax gains. That is assets that are appreciating by gains. But why does 
+the government have a right to tax the ultimate loss, which is 
+someone's life?
+  Mr. WELDON of Florida. Mr. Speaker, I thank the gentleman for the 
+leadership he is providing on this issue. I want to just underscore 
+that this is also a jobs issue. This poster I have here says it quite 
+clearly. More than 70 percent of family businesses do not survive to 
+the second generation. I was talking earlier about an auto dealer in my 
+district. He has created his dealership and three others, and 70 
+percent of family businesses passed from the founder to the children do 
+not survive. Eighty-seven percent did not make it to the third 
+generation.
+  Mr. Speaker, why is that? One of the principal reasons is the 
+inheritance tax. When businesses go under, it means a loss of jobs. 
+Sixty percent of small business owners report that they would create 
+new jobs over the coming year if the estate tax were permanently 
+repealed. Why is that? It is directly related to what I was talking 
+about earlier.
+  My friend has estate planning in order to mitigate his death tax when 
+he tries to pass his business on to his son. If he did not have to do 
+that, to employ those kinds of vehicles, he would have more money, and 
+most of his money is tied up in his business, what would he probably 
+do? He would probably sow it back into the business and create more 
+jobs, which generates more taxpayers.
+  The theme of the evening is the permanent repeal of the inheritance 
+tax or death tax. Before we go on with that and before I recognize the 
+gentleman from Arizona (Mr. Hayworth), and I deeply respect his 
+leadership on the Committee on Ways and Means. The gentleman has been 
+instrumental in bringing this permanent repeal to the floor of the 
+House, but I know that the gentleman from California (Mr. Cunningham) 
+wanted to speak to some of the education issues that were brought up 
+earlier this evening.
+  Mr. Speaker, I yield to the gentleman from California (Mr. 
+Cunningham) to speak to this issue.
+  Mr. CUNNINGHAM. Mr. Speaker, I thank the gentleman for letting me go 
+out of order to speak on education. I would tell the gentleman I grew 
+up in Missouri, and many of the folks who pass away, they try to pass 
+down their farms, and they have to sell off the farm that they have had 
+in their family for 200 years because they cannot afford to pay the 
+taxes on it, up to 55 percent.
+  Mr. Speaker, this is the silly season. It is election time. We hear 
+tax breaks for the rich. We hear the Republicans are cutting education. 
+The White House is cutting education. Do not let the facts get in the 
+way of the truth. The gentlewoman from Ohio (Ms. Kaptur) just spoke, 
+and I would like to address some of the things that the gentlewoman 
+said.
+  I was in the committee hearing with the gentlewoman when Secretary 
+Paige came and she made the same accusations. The Secretary, point by 
+point, refuted every single claim that the gentlewoman from Ohio was 
+making that we are cutting education, or that the President's budget 
+cuts education.
+  We here on the House floor had a very bipartisan H.R. 1 vote. The 
+President's primary concern is that no child is left behind. My wife is 
+a special assistant to the Secretary for Education for Management, a 
+position that the Clinton administration totally did away with and 
+caused a lot of the fraud, waste and abuse. The Secretary told the 
+gentlewoman from Ohio (Ms. Kaptur) point by point where the gentlewoman 
+is wrong. The Democrats have a number for education, an increased 
+number for education. No matter what it is, the Democrats will add to 
+that number. They claim to be the great fiscal responsibility party; 
+but when we look, every single budget, except for defense, they want to 
+increase it out here beyond the budget and actually take money out of 
+Social Security.
+  We came up with an increase in education. We increased Pell Grants. 
+We increased money for IDEA. The maximum amount that my colleagues on 
+the other side of the aisle ever funded IDEA for was 6 percent. We 
+quadrupled that.
+  Pell Grants, all the way down the line, we have increased dollars. 
+And something else that the President did and now that the Department 
+of Education is in Republican hands, what they are doing, they are 
+driving the money to the local school districts so that the parents, 
+the teachers, and the administrators can control those dollars instead 
+of the bureaucrats that the Democrats want to control the money. They 
+want more money in an election cycle so they can pass it down and have 
+bigger bureaucracies. We want to get it down to the classrooms.
+  The President is also making sure that there is accountability with 
+those dollars. My wife sits on the management team over there in the 
+Department of Education. Do Members realize under the Clinton 
+administration the folks that worked over there had over $400,000 on 
+their credit cards? There were over 40 of them that charged houses and 
+furniture and personal items on their credit cards. There is one lady 
+still working with her job. The department may be afraid to go after 
+her, but I am going to go after her donkey, and she is not going to 
+have that job after I am through with her. It is fraud, waste and 
+abuse.
+  Mr. WELDON of Florida. Mr. Speaker, did I hear the gentleman 
+correctly to say that there are employees at the Department of 
+Education that have used government credit cards to charge personal 
+items?
+  Mr. CUNNINGHAM. Personal items, furniture, housing equipment, 
+personal items, movies, all kinds of things. One of them still is 
+working over there, and I am going to make sure that she is not working 
+there in the future.
+  But the bottom line is the President is not cutting education. Tax 
+breaks for the rich, we will hear over and over. Again, do not let the 
+facts get away with the truth. Alan Greenspan said the Democrats tried 
+to go after the President for the recession and the economy. Guess 
+what, tax relief helped stop that. That is not the Republicans talking, 
+that is OMB, that is Alan Greenspan, our economist.
+  All Democrats want is an item for the election, and they cannot do 
+it. They tried to get the President on Enron, and it did not work. They 
+said he should have helped with Enron on the other end. That did not 
+work. The majority leader in the Senate went after the President on the 
+war, and that did not work. They are trying everything they can in this 
+election year to have leverage and make an issue.
+  Mr. Speaker, we are not cutting education. The Secretary pointed out 
+to the gentlewoman from Ohio point by point that her statements were 
+false.
+  I would like to thank the gentleman. I ran over here because I serve 
+on that committee, and it is upsetting in an
+
+[[Page H3211]]
+
+election year to make false claims that the President is doing 
+something when he is not. We may not be adding as much as the 
+gentlewoman wants, but we are staying within the budget.
+  Mr. WELDON of Florida. Mr. Speaker, that is precisely the issue at 
+hand. Many Democrats want to increase it 10 percent, and we put through 
+an increase of 5 percent or 4 percent, and they call that a cut. 
+Indeed, we saw that for years and years and years in this body. I know 
+the gentleman from Arizona (Mr. Hayworth) got elected with me in 1994. 
+That was one of the things in 1994 that I campaigned on. For years 
+politicians in Washington would increase something by 5 percent, but 
+the bureaucrats at the agency would say that they needed a 10 percent 
+funding increase.
+  Mr. CUNNINGHAM. If the gentleman would yield, not only was the money 
+increased, but the accountability was not there. The Department of 
+Education had $50 million in student loans that they could not account 
+for. Their books were unauditable. The Democrats and their group at the 
+Department of Education, $12 million in direct student loans went to 
+the wrong students, and so they then had to give another $12 million 
+up. We are shoring that up. We are not only increasing the money for 
+education, we are making sure that it gets down to the children, and 
+that the parents have control of it.
+  Mr. WELDON of Florida. Mr. Speaker, I thank the gentleman for the 
+critical leadership he is providing on education. Educating our 
+children is perhaps one of the most important issues that we perform 
+here in Washington, although I believe that is really a priority for 
+parents and local school districts, although we need to do everything 
+that we can to try to help.
+  The issue of the evening is the very important debate we will be 
+having tomorrow. Tomorrow the House of Representatives will take up a 
+piece of legislation that I introduced last year. It is to make the 
+repeal of the estate tax permanent. It is H.R. 2143. It would not have 
+been possible to get this piece of legislation moved to the floor if we 
+did not have the support of a lot of people. Obviously the leadership 
+of the Speaker of the House of Representatives, the majority leader, 
+and all of our leadership team. Critical as well was the chairman of 
+the Committee on Ways and Means, and on that committee one of the 
+people actively pushing to bring this bill to the floor was the 
+gentleman from Arizona (Mr. Hayworth). I now yield to the gentleman.
+  Mr. HAYWORTH. Mr. Speaker, I thank the gentleman for allowing us to 
+share this time. I thank the gentleman from California (Mr. Cunningham) 
+who again talked about education and the importance, yes, of dollars, 
+but also the importance of accountability. It is very interesting the 
+differences we see. My son is now 8 years of age, and I remember when 
+he came home from school at 7, and he was talking about the concept of 
+infinity.
+
+                              {time}  1730
+
+  And he said, You know, Dad, you will never reach it because you can 
+always add more to it. And indeed it seems, sadly sometimes, along 
+partisan lines the notion is whatever figure is arrived at, oh, no, we 
+can always spend more. The key of course is not just the right 
+allocation of resources. It also of course is accountability. And, Mr. 
+Speaker, now it is time to become accountable to the American family, 
+to family-owned businesses, to ranches and farms and so many different 
+concerns where the scourge of the death tax has come like a thief in 
+the night, not only death robbing people of their lives but the death 
+tax robbing families of their future.
+  Our good friend who sadly is departing this Chamber, the gentleman 
+from Colorado (Mr. Schaffer), once borrowed Patrick Henry's admonition. 
+Said my good friend, ``No taxation without respiration,'' and I think 
+that is evocative not only of history but something very practical. It 
+was one of our great founders, Ben Franklin, gifted in so many 
+different ways, almost with the incredible prescience to see what would 
+come in this constitutional Republic, but even Dr. Franklin with his 
+incredible foresight never predicted that the constitutional Republic 
+he helped to found would tax people upon their death. Remember his days 
+as a humorist writing in ``Poor Richard's Almanac,'' he said: ``There 
+are only two certainties in life, death and taxes.''
+  But even Dr. Franklin did not foresee that this Republic would one 
+day tax a person upon the event of his death and of course realty does 
+not affect that person but that person's family. And lest anyone think 
+this is a partisan issue, Mr. Speaker, we would thank those across the 
+aisle who have joined with us to understand how this unfair tax should 
+be eliminated; and we should point out for those, Mr. Speaker, who 
+wonder why we are returning to this, it is because my colleague from 
+Florida very capably pointed out that a rule difference, and again I am 
+not directing this at the other body, but a rule difference did not 
+allow for the implementation on a permanent basis of this particular 
+repeal.
+  And so we have the curious situation, while we made a profound move 
+to repeal the death tax, to roll it back, as my friend from South 
+Carolina outlined, as my friend from Florida recognizes, we have almost 
+an absurd situation now where if one is going to die, he had better do 
+it in the year 2010 to realize the complete benefit of repeal of the 
+death tax. For if we do nothing, whoom, here it is back again in the 
+year 2011. That is why I salute my friend from Florida bringing forward 
+this notion, serving as a catalyst to make this repeal permanent.
+  And again lest anyone think this is a partisan concern, I would point 
+out that the one-time standard bearer of the Democratic Party in the 
+State of Arizona for the office of Governor back in 1994 approached me 
+2 years ago saying ``Congressman, you have got to get rid of this death 
+tax.'' Why? Whatever political disagreements we had in other areas, the 
+gentleman correctly understood his business, his livelihood, of family-
+owned enterprise, of grocery stores, the capital involved in that 
+business, the fact that so much of the assets are tied up in bricks and 
+mortar and quite literally in the groceries on the shelves, and unless 
+the death tax is repealed, then a business that had been in his family 
+would be in danger of having to be sold off to pay the taxman.
+  It is even more pronounced in the rural communities I have been 
+honored to represent for the better part of a decade, with farmers and 
+ranchers and so many small businesses owned by families but especially 
+when we come to the whole notion of agriculture and farms and ranches 
+and how quite literally so many families are land rich and cash poor. 
+So much of their assets are tied up in real estate, tied up in farm 
+machinery, tied up in those very tangible assets; and so often we have 
+a situation where, to satisfy this tax bill, people were forced to 
+liquidate their assets, to sell off the family farm, to sell off the 
+family business to satisfy the tax needs of Uncle Sam.
+  While we are thinking about this, Mr. Speaker, something else we 
+should point out, over the years it has become painfully apparent that 
+the American people do not rely on this death tax. Indeed, as we look 
+back over the last few years, the death tax on an annual basis only 
+accounts for about 1 percent of the revenue that comes in to the 
+Federal Government. Yet three-quarters of that 1 percent is spent 
+pursuing the families of the farmers and ranchers who pass away, the 
+families of the people who created these small businesses, to have them 
+pay a bill that for them is insurmountable, it seems, but in the scheme 
+of things only accounts for about 1 percent of the revenue that comes 
+in to the Federal Government on an annual basis.
+  No, Mr. Speaker, we can be smarter. This House in a bipartisan way 
+took that important step toward that great day with eventual repeal of 
+the death tax, but we need to make it permanent. Permanency is 
+important, for if we fail to do that, you will have the absurdity of in 
+2010 seeing it completely repealed but in 2011 the Grim Reaper comes 
+back with a vengeance. I know none of us here advocate state-sponsored 
+euthanasia; yet that is the absurdity we would have if we failed to 
+move to enact permanent death tax relief.
+
+  Mr. Speaker, lest you think this is exclusively the domain of family-
+owned businesses, farmers and ranchers, certainly it is important and 
+perhaps it is more pronounced there, but I would tell you the story of 
+a lady I encountered in Tucson, Arizona. Down on a visit there to that 
+part of our State, a lady came up and spoke of her father's experience. 
+Here was a man who
+
+[[Page H3212]]
+
+worked hard, indeed, in a career that very seldom do we see anymore 
+with the modern marketing techniques, but he was a milkman. He worked 
+for a dairy. He came back from World War II and worked hard delivering 
+milk every day, not exactly a highbrow occupation. Certainly there is 
+dignity in every form of work, but very few people would think about 
+that gentleman as being a captain of industry or someone with vast 
+financial resources, but what that gentleman did was incredibly 
+exemplary and so symptomatic of the American experience. The money he 
+made, he was able to save judiciously. He made some wise investments 
+coming home from World War II, getting involved, working as a milkman. 
+His hard work and wise investments paid off in an estate that was worth 
+millions of dollars.
+  But there is just one catch here. As wise as he was with investments, 
+he did not understand that, oh, gee, you have got to work on estate 
+planning. He did not seek out a team of lawyers to sit down and make 
+all the proper machinations to change the situation to save the funds. 
+And so when he contracted a terminal illness, only then in the twilight 
+of his days did he realize, despite such an exemplary life, hard work, 
+thrift, industry, doing the right thing for his family, only then did 
+he come to the shocking realization that somehow, despite that hard 
+work and industry, his planning had been incomplete.
+  His daughter told me the story how her father called her in and her 
+sibling in and not only the challenge and the pain of a terminal 
+illness but the realization that he was leaving them in essence with a 
+gigantic tax bill to pay because of this death tax.
+  Mr. Speaker, if you work hard and play by the rules, must we all be 
+captains of high finance? I understand a modicum of estate planning. I 
+understand the importance of insurance. Certainly having moved from 
+broadcasting, into that profession before coming into public life, I 
+understand the importance of life insurance and financial planning, but 
+must we ask everyone to deal with the machinations and brain power and 
+inner workings of complicated financial measures? No, it should be 
+simple and this should be repealed permanently because it is wrong.
+  Mr. WELDON of Florida. Mr. Speaker, the story the gentleman told was 
+very, very moving. Before I yield to my good friend from the great 
+State of Nebraska, I want to tell another real-life story. I think it 
+is so important when we make things like this understandable from real-
+life experiences.
+  I want to talk about a florist in Kissimmee, Florida. His name is 
+Danny Sexton. A lot of people on the east coast have passed through 
+Kissimmee because it is right outside Disney World. Danny started out 
+with a floral shop. His uncle had been established in the floral 
+business in Kissimmee for many years, had a much bigger shop; he had 
+about 20 employees and his uncle died, and Danny was the sole heir. 
+Danny inherited his uncle's floral shop.
+  Danny, like so many small businessmen, employed just a small number 
+of people, five or six people. He had been involved in his community 
+for years, giving to the United Way and other charitable programs. He 
+really knew nothing about the death tax. Suddenly he found himself in 
+charge of not only his floral shop, but his uncle's floral shop, which 
+had been established many years earlier, was much bigger, had a lot of 
+commercial accounts and he inherited all these employees. Lo and 
+behold, he discovered that he was going to have to pay a tax bill, and 
+the death tax was $160,000. But what was the real shocker, what was the 
+real corker in all this is that you do not just take the floral shop 
+and just give it to Danny, you have got to do a lot of other things. 
+Lawyers got involved. There were $60,000 in lawyers' fees, there was 
+$14,000 of accountants fees, there was a $15,000 bill for just 
+miscellaneous expenses. And then this one here I thought was really 
+kind of interesting, an IRS fee. I think that was to appraise the value 
+of this floral business.
+
+  If anybody knows, if you run something like a floral shop, the 
+margins are kind of tight and he had to go out and borrow $253,000 to 
+be able to pay for all of this. It was a real burden on him. He ended 
+up having to lay off, I think, two or three of the employees in the 
+shop. He additionally had to ask a number of the employees that he 
+retained to take a cut in salary. Indeed, it was so bad for him 
+initially that they went the whole summer in the office without the air 
+conditioner. The air conditioner broke. If any of you have ever spent a 
+summer in Florida, you know it is very humid. It is not only hot, it is 
+very humid. And they had to totally cut off charitable contributions 
+and helping out the Boy Scouts and the United Way when they would come 
+around and they would have a special banquet or an event.
+  Danny is pulling out of this. I know he is going to be okay. But this 
+is really what it is all about. Danny's uncle had employed 20 people 
+for years. Danny's uncle had paid a lot of money to the Federal 
+Government in personal, Federal withholding, in the FICA tax. What is 
+even more so is that all the employees who worked for him were also 
+paying their taxes, their Social Security, their Medicare tax year 
+after year after year. The Federal Government had actually gotten 
+probably millions of dollars of revenue off of the enterprise that had 
+been created by his uncle. And then for him to die and then for the 
+Federal Government to come along and say, No, you've got to give us 
+some more, I think, is taxing that is immoral. It is immoral to tax 
+after you have taxed.
+  Mr. Speaker, I yield to my good friend from Nebraska, another Member 
+whom I believe has played a critical role in helping us bring this 
+issue to the floor of the House making the repeal of the inheritance 
+tax permanent law, because until you do that, you are not going to 
+affect really all the estate planning that has to go on to prevent 
+people from being burdened with this tax on their death.
+
+                              {time}  1745
+
+  Mr. TERRY. I thank the gentleman from Florida for yielding.
+  Mr. Speaker, our good friend from Arizona here, he has been a great 
+leader, like the gentleman from Florida has, on this important issue. 
+It is important to a lot of people in Nebraska now.
+  Before I talk about some of the stories that I have heard as I have 
+gone around and talked to businesses in Omaha, small businesses, 
+family-owned businesses, and share our similar experiences, the 
+gentleman from Arizona mentioned that in the totality of our budget, 
+the revenue that is received from the death tax is less than 1 percent, 
+but yet there are a lot of our colleagues here that just fight to keep 
+that money in.
+  I think it exemplifies why all three of us ran for this office and 
+why we fight to come back every year, is to stop that type of 
+mentality, which is ``we need more money, more money, more money.'' So 
+when we try and reduce spending here by reducing taxation, because it 
+is the only principle here, that budgets fill the money that we have, 
+that if we tax more, we will spend more, but if we tax less, we will 
+spend less, it is a simple proposition.
+  So of the greater taxing policies of the Nation, I think it is 
+important that we realize the simple premise that the more money we 
+take in from people, the more we are going to spend. So I appreciate 
+the gentleman bringing up that important point.
+  Now, why? We have all said in our own words why it is bad policy. Why 
+is the death tax bad policy? Well, think about the very principles that 
+this country was founded on, the principles of independence and freedom 
+and entrepreneurship, where people worked hard to build their little 
+businesses, and some worked day and night, day and night, seven days a 
+week, and they were able to build it up and build it up, and maybe even 
+the next generation of family members were able to help build it up as 
+well. I mean, that is the American spirit, is working hard and 
+realizing, you realizing, the rewards of your work.
+  So, what is the policy? The U.S. Government comes, and many States, 
+by the way, have followed suit, and said, you know, because of our 
+spending habits and our need for more revenues, upon the death and the 
+transfer we are going to confiscate, and I use that word, confiscate a 
+portion of what you have worked hard to build up in your lifetime.
+  I would say to the gentlemen, I believe that people should keep the 
+rewards. Yes, we have to pay our taxes,
+
+[[Page H3213]]
+
+but, my gosh, just taking up to 55 percent of somebody's wealth that 
+they have built up through hard work, through the American dream, and 
+just taking it for our spending needs, is absolutely wrong.
+  Mr. HAYWORTH. If the gentleman from Florida will yield, I just wanted 
+to point out again that observation that our friend from Florida made. 
+There is a situation at work here that is so myopic, it is almost to be 
+penny wise and pound foolish. Because, as was pointed out in the case 
+of Mr. Sexton and the flower shop, 20 employees, payroll taxes, people 
+paying their income taxes, though this was a considerable hardship, the 
+money devoted to handle all the details and red tape and the death tax 
+itself in the long term, did it not cost the government more revenue?
+  You see, here is the difference. And I appreciate the concept that my 
+friend from Nebraska brings forward about taxing more, spending more; 
+taxing less, spending less. But there is something else at work here 
+that we have to understand about the reduction of the tax bill. When 
+the American people have more money to put to work, when the death tax 
+is repealed and more people are at work, guess what? Revenues to the 
+Federal Government will actually increase, because more money is being 
+put to work. It is called the principle of growth.
+  So we have to be very careful here, and that is the myopia; in 
+addition to the unfairness and injustice, lack of justice, injustice of 
+the death tax, is that really in the long term it actually costs 
+revenue. It is inefficient, as well as immoral.
+  Mr. TERRY. Mr. Speaker, I appreciate that. I have just become so 
+focused. As the gentleman from Florida (Mr. Weldon) said, the morality 
+of just confiscating one's work product for the sake of having 
+revenues, we leave out the economic component of in essence taking away 
+a business.
+  We hear speakers, and we are going to hear them tomorrow when the 
+bill comes up, that say that this is not real; that people do not 
+really have to sell their businesses to meet the death tax; that it is 
+a phony argument.
+  Well, I want to read an article from the Omaha World-Herald from 
+December 11, 2001. So it is not like we have to go back to the archives 
+of years past to come up with an article that is relevant to our 
+discussion today. But it is about a ranch in western Nebraska, of which 
+kind of the theme of it was Ted Turner buying another ranch in 
+Nebraska.
+
+  Let me just read some highlights from this article in the Omaha 
+World-Herald, and I will give them their copyright credits here. It is 
+talking about media mogul Ted Turner added another 12,300 acres of 
+Cherry County grazing land to his bison ranching empire. The purchase 
+was to be finalized on Monday. It gives Turner about 234,000 acres in 
+three counties in Nebraska, making him the largest private landowner in 
+Nebraska, as he is in the United States, owning about 1.75 million 
+acres in New Mexico, Montana, South Dakota and Nebraska.
+  The Coble family, I am going to get to and read this verbatim from 
+the Omaha World-Herald article, Bill Coble of Leewood, Kansas, a 
+grandson of the Cobles, said that the death in August of Doris Coble 
+precipitated the sale. It was necessary to pay off the inheritance 
+taxes, Bill Coble said. The only way you can make it work is with an 
+added amount of life insurance and to work the ranch yourself, Coble 
+said. The purchase ends a 100-year Sand Hills operation of the Coble 
+family. A 100-year tradition of the Coble family gone, because when the 
+operator, Doris Coble, the last of the parents, died, the grandson 
+could not take over the property. He had to sell it to pay off the 
+inheritance taxes. This is a family that did not purchase the millions 
+of dollars of life insurance policy to protect itself. My family buys 
+life insurance to protect our family. Here you buy life insurance to 
+pay your taxes. That is wrong.
+  Mr. WELDON of Florida. Mr. Speaker, reclaiming my time, I am glad the 
+gentleman brought this up, because I wanted to get at some of the 
+arguments we are going to hear on the floor tomorrow from the 
+opposition. What the gentleman was just talking about, I think, segues 
+very nicely into that.
+  They are going to put forward an alternative proposal. The 
+inheritance tax repeal we passed last year phases in over 8 or 9 years, 
+and then the reason why we have got this bill on the floor tomorrow is 
+in the 10th year it just comes back in its full force.
+  What the minority will put forward is the notion we should just have 
+a $3 million exemption and we could enact that immediately. They may 
+point to the farmers and the ranchers and say if we just had this $3 
+million exemption, the Coble family that the gentleman cited is a good 
+example, they would be covered, and they could pass the ranch on. Danny 
+Sexton would not have encountered the problem he had. He could have 
+inherited the floral shop from his uncle.
+  The problem with that is that if your asset is worth more than $3 
+million, then everything over $3 million gets taxed at something like a 
+50 percent tax rate. We have inflation, and these farms and ranches 
+that they say now are valued at less than $3 million, what are they 
+going to be worth 10 years from now, what are they going to be worth 15 
+years from now?
+  It obviously picks winners and losers, and that is the main gripe 
+that I have. It is basically saying, well, if you have created a small 
+business and it is only worth $3 million or less, then we will not tax 
+you. But if you have been really successful, or if you have farmland 
+in, say, Napa, California, where it is valued at incredible prices, no, 
+we are going to tax you. I just think that is totally wrong.
+  Let me also point out, 60 percent of the top black-owned businesses 
+today in America are valued at over $2 million. That means in another 5 
+or 7 years, those assets are going to be worth probably over $3 
+million, and, boom, they are going to get hit by the inheritance tax.
+  Another point is a point that I think the gentleman from Arizona (Mr. 
+Hayworth) was alluding to earlier, that they look at making the 
+inheritance tax repeal permanent and they say we are going to lose $99 
+billion. That does not take into consideration at all the fact that if 
+you leave that money in the economy, you are going to put more money in 
+the economy and it is going to create jobs and it is going to create 
+wealth and that we would be able to then tax that.
+
+  Indeed, it is estimated by economic analysts that the inheritance tax 
+actually costs, and this is what the gentleman said earlier, I believe, 
+it actually costs us, because it takes money out of the economy, money 
+that would be flowing around the economy; it forces people to sell 
+small businesses; it forces small business owners to take out a loan to 
+pay the inheritance tax; and then their small business does not operate 
+sufficiently.
+  I yield to the gentleman from Arizona. I think we have about 5 
+minutes left.
+  Mr. HAYWORTH. Mindful of that as a broadcaster, the old time clock on 
+the wall, it is important for us to pass permanent repeal, no matter 
+the siren song of seduction saying ``let us set a temporary level that 
+will accommodate some folks.'' Maybe this is a fundamental 
+philosophical difference.
+  When you get in the realm of targeted tax cuts, you are asking this 
+Federal Government to pick winners and losers, and you do nothing for 
+the business owners, the grocery store owners, the farm machinery 
+dealership owners, the automobile dealership owners, who have 
+significant capital sunk into that business, who literally are asset-
+rich and cash-poor. You exacerbate the problem. Our purpose is not to 
+set American against American, not to get wrapped up in the I believe 
+ultimately misguided notion of class warfare, but to allow everyone to 
+succeed.
+  There is one other note undergirding all of this. It is especially 
+pronounced in Arizona, where one of our local newspapers is concerned 
+about the price of sprawl at an acre an hour. Why do you think farms 
+are being sold off? To satisfy the death tax. Gone is a lot of our 
+agricultural land. That is a real problem in States like Arizona and 
+Florida and across the country. That is another reason to make this 
+repeal permanent.
+  Mr. WELDON of Florida. I thank the gentleman for his input on this 
+special order. I yield to the gentleman from Nebraska for the last 
+word.
+  Mr. TERRY. Well, I will let the gentleman have the last word, and 
+thank him for bringing this to the floor. One
+
+[[Page H3214]]
+
+of the other points, though, I want to make with that is the cost of 
+the machinery. When we talk about our farms and ranches, we have a 
+plant that manufactures farm equipment. The price of some of that 
+equipment coming out is several hundred thousand dollars.
+  Mr. WELDON of Florida. Like a combine.
+  Mr. TERRY. $200,000 to $300,000, and even more if you go to some of 
+the other equipment. A small family-owned printing company that I 
+toured last summer when I was home, one printer runs hundreds of 
+thousands of dollars, half a million dollars for a printer. So when you 
+talk about what level do you set this, if you do not eliminate it, and 
+picking the winners and losers, you fail to recognize that they are 
+eking out a small living with very expensive equipment, but yet we tax 
+on the value of that equipment, not the living that a father and mother 
+and maybe a son and a daughter can make off of that. That is why it 
+remains fundamentally unfair.
+  Mr. WELDON of Florida. Mr. Speaker, reclaiming my time, I thank both 
+of my colleagues for their input on this very important issue.
+  Let me just close with one very important point. We will also hear 
+that making the inheritance tax repeal permanent will hurt donations to 
+charity.
+
+                              {time}  1800
+
+  The assumption there in that argument is that people are only giving 
+to charity so they do not have to give it to the Federal Government.
+  I just think that is not true. If we look at what happened after the 
+Reagan tax cuts in the 1980s, giving to charity skyrocketed. I think 
+wealthy people are motivated by the best intentions when they give. If 
+they do not have to give as much money at death, I think they will give 
+even more money to charity, and that America's charities will benefit 
+from the permanent repeal of the inheritance tax.
+
+                          ____________________
+```
