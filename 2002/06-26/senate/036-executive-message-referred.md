@@ -1,0 +1,25 @@
+---
+granule: CRECB-2002-pt8-Pg11568-5
+date: 2002-06-26
+edition: CRECB
+section: SENATE
+page: 11568
+---
+
+# EXECUTIVE MESSAGE REFERRED
+
+```
+                       EXECUTIVE MESSAGE REFERRED
+
+  As in executive session the Presiding Officer laid before the Senate 
+messages
+
+[[Page 11569]]
+
+from the President of the United States submitting sundry nominations 
+which were referred to the appropriate committees.
+  (The nominations received today are printed at the end of the Senate 
+proceedings.)
+
+                          ____________________
+```
