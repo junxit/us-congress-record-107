@@ -1,0 +1,55 @@
+---
+granule: CRECB-2001-pt3-Pg4033
+date: 2001-03-20
+edition: CRECB
+section: SENATE
+page: 4033
+---
+
+# CONFIRMATIONS
+
+```
+                      CONFIRMATIONS
+
+
+  Executive nominations confirmed by the Senate March 20, 2001:
+
+
+                           IN THE COAST GUARD
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT AS COMMANDER, 
+     ATLANTIC AREA, UNITED STATES COAST GUARD, AND TO THE GRADE 
+     INDICATED UNDER TITLE 14, U.S.C., SECTION 50:
+
+                           To be vice admiral
+
+REAR ADM. THAD W. ALLEN, 0000
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD TO THE GRADE INDICATED UNDER TITLE 14, 
+     U.S.C., SECTION 271:
+
+                    To be rear admiral (lower half)
+
+CAPT. HARVEY E. JOHNSON JR., 0000
+CAPT. SALLY BRICE-O'HARA, 0000
+
+
+                           IN THE COAST GUARD
+
+       COAST GUARD NOMINATIONS BEGINNING TIMOTHY AGUIRRE, AND 
+     ENDING WILLIAM J. ZIEGLER, WHICH NOMINATIONS WERE RECEIVED BY 
+     THE SENATE AND APPEARED IN THE CONGRESSIONAL RECORD ON 
+     JANUARY 3, 2001.
+
+
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+March 20, 2001
+```
