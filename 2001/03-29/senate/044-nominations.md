@@ -1,0 +1,51 @@
+---
+granule: CRECB-2001-pt4-Pg5116-4
+date: 2001-03-29
+edition: CRECB
+section: SENATE
+page: 5116
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate March 29, 2001:
+
+
+                         DEPARTMENT OF DEFENSE
+
+       CHARLES S. ABELL, OF VIRGINIA, TO BE AN ASSISTANT SECRETARY 
+     OF DEFENSE, VICE ALPHONSO MALDON, JR.
+
+
+                         DEPARTMENT OF COMMERCE
+
+       GRANT D. ALDONAS, OF VIRGINIA, TO BE UNDER SECRETARY OF 
+     COMMERCE FOR INTERNATIONAL TRADE, VICE ROBERT S. LARUSSA.
+       BRENDA L. BECKER, OF VIRGINIA, TO BE AN ASSISTANT SECRETARY 
+     OF COMMERCE, VICE DEBORAH K. KILMER, RESIGNED.
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                           To Be Vice Admiral
+
+REAR ADM. KEITH W. LIPPERT, 0000
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+
+March 29, 2001
+```
