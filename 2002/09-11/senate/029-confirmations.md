@@ -1,0 +1,25 @@
+---
+granule: CRECB-2002-pt12-Pg16566-2
+date: 2002-09-11
+edition: CRECB
+section: SENATE
+page: 16566
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate September 11, 2002:
+       MARION C. BLAKEY, OF MISSISSIPPI, TO BE ADMINISTRATOR OF 
+     THE FEDERAL AVIATION ADMINISTRATION FOR THE TERM OF FIVE 
+     YEARS.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       DENNY WADE KING, OF TENNESSEE, TO BE UNITED STATES MARSHAL 
+     FOR THE MIDDLE DISTRICT OF TENNESSEE FOR THE TERM OF FOUR 
+     YEARS.
+```
