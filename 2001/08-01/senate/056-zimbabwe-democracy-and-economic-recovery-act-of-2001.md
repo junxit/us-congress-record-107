@@ -1,0 +1,230 @@
+---
+granule: CREC-2001-08-01-pt2-PgS8627-3
+date: 2001-08-01
+edition: CREC
+section: SENATE
+page: S8627
+citation: 147 Cong. Rec. S8627
+---
+
+# ZIMBABWE DEMOCRACY AND ECONOMIC RECOVERY ACT OF 2001
+
+**Speaking:** Reid, Harry (R000146) [D-NV]
+
+**Measures:** S. 494
+
+```
+          ZIMBABWE DEMOCRACY AND ECONOMIC RECOVERY ACT OF 2001
+
+  Mr. REID. Madam President, I ask unanimous consent that the Senate 
+proceed to the consideration of Calendar No. 90, S. 494.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The assistant legislative clerk read as follows:
+
+       A bill (S. 494) to provide for a transition to democracy 
+     and to promote economic recovery in Zimbabwe.
+
+  There being no objection, the Senate proceeded to consider the bill 
+which had been reported from the Committee on Foreign Relations with an 
+amendment to strike all after the enacting clause and insert in lieu 
+thereof the following:
+  [Strike out all after the enacting clause and insert the part printed 
+in black italic.]
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Zimbabwe Democracy and 
+     Economic Recovery Act of 2001''.
+
+     SEC. 2. STATEMENT OF POLICY.
+
+       It is the policy of the United States to support the people 
+     of Zimbabwe in their struggle to effect peaceful, democratic 
+     change, achieve broad-based and equitable economic growth, 
+     and restore the rule of law.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) International financial institutions.--The term 
+     ``international financial institutions'' means the 
+     multilateral development banks and the International Monetary 
+     Fund.
+       (2) Multilateral development banks.--The term 
+     ``multilateral development banks'' means the International 
+     Bank for Reconstruction and Development, the International 
+     Development Association, the International Finance 
+     Corporation, the Inter-American Development Bank, the Asian 
+     Development Bank, the Inter-American Investment Corporation, 
+     the African Development Bank, the African Development Fund, 
+     the European Bank for Reconstruction and Development, and the 
+     Multilateral Investment Guaranty Agency.
+
+     SEC. 4. SUPPORT FOR DEMOCRATIC TRANSITION AND ECONOMIC 
+                   RECOVERY.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) Through economic mismanagement, undemocratic practices, 
+     and the costly deployment of troops to the Democratic 
+     Republic of the Congo, the Government of Zimbabwe has 
+     rendered itself ineligible to participate in International 
+     Bank for Reconstruction and Development and International 
+     Monetary Fund programs, which would otherwise be providing 
+     substantial resources to assist in the recovery and 
+     modernization of Zimbabwe's economy. The people of Zimbabwe 
+     have thus been denied the economic and democratic benefits 
+     envisioned by the donors to such programs, including the 
+     United States.
+       (2) In September 1999 the IMF suspended its support under a 
+     ``Stand By Arrangement'', approved the previous month, for 
+     economic adjustment and reform in Zimbabwe.
+       (3) In October 1999, the International Development 
+     Association (in this section referred to as the ``IDA'') 
+     suspended all structural adjustment loans, credits, and 
+     guarantees to the Government of Zimbabwe.
+       (4) In May 2000, the IDA suspended all other new lending to 
+     the Government of Zimbabwe.
+       (5) In September 2000, the IDA suspended disbursement of 
+     funds for ongoing projects under previously-approved loans, 
+     credits, and guarantees to the Government of Zimbabwe.
+       (b) Support for Democratic Transition and Economic 
+     Recovery.--Upon receipt by the appropriate congressional 
+     committees of a certification described in subsection (d), 
+     the following shall apply:
+       (1) Debt relief and other financial assistance.--The 
+     Secretary of the Treasury shall--
+       (A) undertake a review of the feasibility of restructuring, 
+     rescheduling, or eliminating the sovereign debt of Zimbabwe 
+     held by any agency of the United States Government;
+       (B) direct the United States executive director of each 
+     multilateral development bank to propose that the bank should 
+     undertake a review of the feasibility of restructuring, 
+     rescheduling, or eliminating the sovereign debt of Zimbabwe 
+     held by that bank; and
+       (C) direct the United States executive director of each 
+     international financial institution to which the United 
+     States is a member to propose to undertake financial and 
+     technical support for Zimbabwe, especially support that is 
+     intended to promote Zimbabwe's economic recovery and 
+     development, the stabilization of the Zimbabwean dollar, and 
+     the viability of Zimbabwe's democratic institutions.
+       (2) Establishment of a southern africa finance center.--The 
+     President should direct the establishment of a Southern 
+     Africa Finance Center located in Zimbabwe that will include 
+     regional offices of the Overseas Private Investment 
+     Corporation, the Export-Import Bank of the United States, and 
+     the Trade and Development Agency for the purpose of 
+     facilitating the development of commercial projects in 
+     Zimbabwe and the southern Africa region.
+       (c) Multilateral Financing Restriction.--Until the 
+     President makes the certification described in subsection 
+     (d), and except as may be required to meet basic human needs 
+     or for good governance, the Secretary of the Treasury shall 
+     instruct the United States executive director to each 
+     international financial institution to oppose and vote 
+     against--
+       (1) any extension by the respective institution of any 
+     loan, credit, or guarantee to the Government of Zimbabwe; or
+       (2) any cancellation or reduction of indebtedness owed by 
+     the Government of Zimbabwe to the United States or any 
+     international financial institution.
+       (d) Presidential Certification That Certain Conditions Are 
+     Satisfied.--A certification under this subsection is a 
+     certification transmitted to the appropriate congressional 
+     committees of a determination made by the President that the 
+     following conditions are satisfied:
+       (1) Restoration of the rule of law.--The rule of law has 
+     been restored in Zimbabwe, including respect for ownership 
+     and title to property, freedom of speech and association, and 
+     an end to the lawlessness, violence, and intimidation 
+     sponsored, condoned, or tolerated by the Government of 
+     Zimbabwe, the ruling party, and their supporters or entities.
+       (2) Election or pre-election conditions.--Either of the 
+     following two conditions is satisfied:
+       (A) Presidential election.--Zimbabwe has held a 
+     presidential election that is widely accepted as free and 
+     fair by independent international monitors, and the 
+     president-elect is free to assume the duties of the office.
+       (B) Pre-election conditions.--In the event the 
+     certification is made before the presidential election takes 
+     place, the Government of Zimbabwe has sufficiently improved 
+     the pre-election environment to a degree consistent with 
+     accepted international standards for security and freedom 
+     of movement and association.
+       (3) Commitment to equitable, legal, and transparent land 
+     reform.--The Government of Zimbabwe has demonstrated a 
+     commitment to an equitable, legal, and transparent land 
+     reform program consistent with agreements reached at the 
+     International Donors' Conference on Land Reform and 
+     Resettlement in Zimbabwe held in Harare, Zimbabwe, in 
+     September 1998.
+       (4) Fulfillment of agreement ending war in democratic 
+     republic of congo.--The Government of Zimbabwe is making a 
+     good faith effort to fulfill the terms of the Lusaka, Zambia, 
+     agreement on ending the war in the Democratic Republic of 
+     Congo.
+       (5) Military and national police subordinate to civilian 
+     government.--The Zimbabwean Armed Forces, the National Police 
+     of Zimbabwe, and other state security forces are responsible 
+     to and serve the elected civilian government.
+       (e) Waiver.--The President may waive the provisions of 
+     subsection (b) or subsection (c), if the President determines 
+     that it is in the national interest of the United States to 
+     do so.
+
+[[Page S8628]]
+
+     SEC. 5. SUPPORT FOR DEMOCRATIC INSTITUTIONS, THE FREE PRESS 
+                   AND INDEPENDENT MEDIA, AND THE RULE OF LAW.
+
+       (a) In General.--The President is authorized to provide 
+     assistance under part I and chapter 4 of part II of the 
+     Foreign Assistance Act of 1961 to--
+       (1) support an independent and free press and electronic 
+     media in Zimbabwe;
+       (2) support equitable, legal, and transparent mechanisms of 
+     land reform in Zimbabwe, including the payment of costs 
+     related to the acquisition of land and the resettlement of 
+     individuals, consistent with the International Donors' 
+     Conference on Land Reform and Resettlement in Zimbabwe held 
+     in Harare, Zimbabwe, in September 1998, or any subsequent 
+     agreement relating thereto; and
+       (3) for democracy and governance programs in Zimbabwe.
+       (b) Funding.--Of the funds authorized to be appropriated to 
+     carry out part I and chapter 4 of part II of the Foreign 
+     Assistance Act of 1961 for fiscal year 2002--
+       (1) $20,000,000 is authorized to be available to provide 
+     the assistance described in subsection (a)(2); and
+       (2) $6,000,000 is authorized to be available to provide the 
+     assistance described in subsection (a)(3).
+       (c) Supersedes Other Laws.--The authority in this section 
+     supersedes any other provision of law.
+
+     SEC. 6. SENSE OF CONGRESS ON THE ACTIONS TO BE TAKEN AGAINST 
+                   INDIVIDUALS RESPONSIBLE FOR VIOLENCE AND THE 
+                   BREAKDOWN OF THE RULE OF LAW IN ZIMBABWE.
+
+       It is the sense of Congress that the President should begin 
+     immediate consultation with the governments of European Union 
+     member states, Canada, and other appropriate foreign 
+     countries on ways in which to--
+       (1) identify and share information regarding individuals 
+     responsible for the deliberate breakdown of the rule of law, 
+     politically motivated violence, and intimidation in Zimbabwe;
+       (2) identify assets of those individuals held outside 
+     Zimbabwe;
+       (3) implement travel and economic sanctions against those 
+     individuals and their associates and families; and
+       (4) provide for the eventual removal or amendment of those 
+     sanctions.
+
+  Mr. REID. Madam President, I ask unanimous consent that the committee 
+substitute be agreed to, the bill, as amended, be read a third time and 
+passed, the motion to reconsider be laid upon the table, and any 
+statements relating to the bill be printed in the Record.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee amendment in the nature of a substitute was agreed to.
+  The bill (S. 494), as amended, was read the third time and passed.
+
+                          ____________________
+```
