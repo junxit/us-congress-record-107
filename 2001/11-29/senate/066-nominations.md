@@ -1,0 +1,33 @@
+---
+granule: CRECB-2001-pt17-Pg23594-4
+date: 2001-11-29
+edition: CRECB
+section: SENATE
+page: 23594
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate November 29, 2001:
+
+
+                EXPORT-IMPORT BANK OF THE UNITED STATES
+
+       J. JOSEPH GRANDMAISON, OF NEW HAMPSHIRE, TO BE A MEMBER OF 
+     THE BOARD OF DIRECTORS OF THE EXPORT-IMPORT BANK OF THE 
+     UNITED STATES FOR A TERM EXPIRING JANUARY 20, 2005, VICE RITA 
+     M. RODRIGUEZ.
+
+
+                             THE JUDICIARY
+
+       JEANETTE J. CLARK, OF THE DISTRICT OF COLUMBIA, TO BE AN 
+     ASSOCIATE JUDGE OF THE SUPERIOR COURT OF THE DISTRICT OF 
+     COLUMBIA FOR THE TERM OF FIFTEEN YEARS, VICE GEORGE W. 
+     MITCHELL, DECEASED.
+
+                          ____________________
+```
