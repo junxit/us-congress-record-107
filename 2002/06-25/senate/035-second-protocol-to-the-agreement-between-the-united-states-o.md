@@ -1,0 +1,63 @@
+---
+granule: CRECB-2002-pt8-Pg11311-5
+date: 2002-06-25
+edition: CRECB
+section: SENATE
+page: 11311
+---
+
+# SECOND PROTOCOL TO THE AGREEMENT BETWEEN THE UNITED STATES OF AMERICA AND THE KINGDOM OF THE NETHERLANDS ON SOCIAL SECURITY--PM 100
+
+```
+ SECOND PROTOCOL TO THE AGREEMENT BETWEEN THE UNITED STATES OF AMERICA 
+     AND THE KINGDOM OF THE NETHERLANDS ON SOCIAL SECURITY--PM 100
+
+  The PRESIDING OFFICER laid before the Senate the following message 
+from the President of the United States, together with an accompanying 
+report; which was referred to the Committee on Finance:
+
+To the Congress of the United States:
+  Pursuant to section 233(e)(1) of the Social Security Act, as amended 
+by the Social Security Amendments of 1977 (Public Law 95-216, 42 U.S.C. 
+433(e)(1)), I transmit herewith the Second Protocol to the Agreement 
+Between the United States of America and the Netherlands on Social 
+Security (the ``Second Protocol''). The Second Protocol was signed at 
+The Hague on August 30, 2001, and is intended to modify certain 
+provisions of the original U.S.-Netherlands Agreement, signed December 
+9, 1987, as amended by the Protocol of December 7, 1989 (the ``U.S.-
+Netherlands Agreement'').
+  The U.S-Netherlands Agreement as amended by the Second Protocol is 
+similar in objective to the social security agreements that are also in 
+force with Austria, Belgium, Canada, Chile, Finland, France, Germany, 
+Greece, Ireland, Italy, Korea, Luxembourg, Norway, Portugal, Spain, 
+Sweden, Switzerland, and the United Kingdom. Such bilateral agreements 
+provide for limited coordination between the United States and foreign 
+social security systems to eliminate dual social security coverage and 
+taxation and to help prevent the loss of benefits that can occur when 
+workers divide their careers between two countries. The U.S.-
+Netherlands Agreement as amended by the Second Protocol contains all 
+provisions mandated by section 233 and other provisions that I deem 
+appropriate to carry out the purposes of section 233, pursuant to 
+section 233(c)(4).
+  I also transmit for the information of the Congress a report prepared 
+by the Social Security Administration explaining the key points of the 
+Second Protocol with a paragraph-by-paragraph explanation of the 
+provisions of the Second Protocol (Annex A). Also annexed to this 
+report is the report required by section 233(e)(1) of the Social 
+Security Act, a report on the effect of the Second Protocol on income 
+and expenditures of the U.S. Social Security program and the number of 
+individuals affected by the Second Protocol (Annex B), and a composite 
+text of the U.S.-Netherlands Agreement showing the changes that will be 
+made as a result of the Second Protocol. The Department of State and 
+the Social Security Administration have recommended the Second Protocol 
+and related documents to me.
+
+[[Page 11312]]
+
+  I commend the Second Protocol to the United States-Netherlands Social 
+Security Agreement and related documents.
+                                                      George W. Bush.  
+The White House, June 25, 2002.
+
+                          ____________________
+```
