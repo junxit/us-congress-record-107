@@ -1,0 +1,29 @@
+---
+granule: CREC-2002-04-16-pt1-PgH1293-2
+date: 2002-04-16
+edition: CREC
+section: HOUSE
+page: H1293
+citation: 148 Cong. Rec. H1293
+---
+
+# EQUAL PAY DAY: CLOSING THE WAGE GAP
+
+**Speaking:** Davis, Danny K. (D000096) [D-IL]
+
+```
+                  EQUAL PAY DAY: CLOSING THE WAGE GAP
+
+  (Mr. DAVIS of Illinois asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. DAVIS of Illinois. Mr. Speaker, I rise today to urge Congress to 
+pass legislation that will guarantee equal pay for equal work for 
+women. Equal pay for equal work should not even be a question in the 
+year 2002. Yet women earn only 73 percent of wages earned by men for 
+doing the same work with the same qualifications. For African American 
+women, it is only 64 cents on a dollar; and for Hispanic women, 52 
+cents for every dollar earned by men. The time for pay equity is now. 
+Let us do the right thing: pass equal pay for women.
+
+                          ____________________
+```
