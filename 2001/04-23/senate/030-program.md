@@ -1,0 +1,29 @@
+---
+granule: CREC-2001-04-23-pt1-PgS3792-4
+date: 2001-04-23
+edition: CREC
+section: SENATE
+page: S3792
+citation: 147 Cong. Rec. S3792
+---
+
+# PROGRAM
+
+**Speaking:** Voinovich, George V. (V000126) [R-OH]
+
+**Measures:** S. 1
+
+```
+                                PROGRAM
+
+  Mr. VOINOVICH. For the information of all Senators, it is hoped that 
+the Senate can begin consideration of S. 1, the education bill, 
+tomorrow morning. Negotiations have been ongoing during the recess and 
+throughout the day today. It may be possible to begin consideration of 
+the education legislation shortly after convening on Tuesday. Any 
+Senator who desires to speak on the issue of education is encouraged to 
+come to the floor tomorrow to participate in the debate. Votes are 
+therefore possible during tomorrow afternoon's session.
+
+                          ____________________
+```
