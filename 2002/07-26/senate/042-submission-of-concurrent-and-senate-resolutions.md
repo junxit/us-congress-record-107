@@ -1,0 +1,50 @@
+---
+granule: CREC-2002-07-26-pt1-PgS7430-2
+date: 2002-07-26
+edition: CREC
+section: SENATE
+page: S7430
+citation: 148 Cong. Rec. S7430
+---
+
+# SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+**Measures:** S.Con.Res. 132, S.Res. 307, S.Res. 308, S.Res. 309, S.Res. 310
+
+```
+            SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS
+
+  The following concurrent resolutions and Senate resolutions were 
+read, and referred (or acted upon), as indicated:
+
+           By Mr. TORRICELLI:
+       S. Res. 307. A resolution reaffirming support of the 
+     Convention on the Prevention and Punishment of the Crime of 
+     Genocide and anticipating the commemoration of the 15th 
+     anniversary of the enactment of the Genocide Convention 
+     Implementation Act of 1987 (the Proxmire Act) on November 4, 
+     2003; to the Committee on the Judiciary.
+           By Mrs. CLINTON:
+       S. Res. 308. A resolution expressing the sense of the 
+     Senate regarding the ``Once-a-Day'' program to promote local 
+     farm products; to the Committee on Agriculture, Nutrition, 
+     and Forestry.
+           By Mr. BIDEN (for himself, Mr. McCain, and Mrs. 
+             Feinstein):
+       S. Res. 309. A resolution expressing the sense of the 
+     Senate that Bosnia and Herzegovina should be congratulated on 
+     the 10th anniversary of its recognition by the United States; 
+     to the Committee on Foreign Relations.
+           By Mr. HARKIN (for himself, Mr. Kennedy, Mr. Hatch, and 
+             Mr. Gregg):
+       S. Res. 310. A resolution honoring Justin W. Dart, Jr. as a 
+     champion of the rights of individuals with disabilities; 
+     considered and agreed to.
+           By Mr. DASCHLE:
+       S. Con. Res. 132. A concurrent resolution providing for a 
+     conditional adjournment or recess of the Senate and a 
+     conditional adjournment of the House of Representatives; 
+     considered and agreed to.
+
+                          ____________________
+```

@@ -1,0 +1,75 @@
+---
+granule: CREC-2002-07-26-pt1-PgS7417-3
+date: 2002-07-26
+edition: CREC
+section: SENATE
+page: S7417
+citation: 148 Cong. Rec. S7417
+---
+
+# REVISED ALLOCATION TO SUBCOMMITTEES FOR FISCAL YEAR 2003
+
+**Speaking:** Byrd, Robert C. (B001210) [D-WV], Reid, Harry (R000146) [D-NV]
+
+**Measures:** H.R. 4775
+
+```
+        REVISED ALLOCATION TO SUBCOMMITTEES FOR FISCAL YEAR 2003
+
+  Mr. BYRD. Mr. President, on Thursday, June 27, the Senate Committee 
+on Appropriations, by a unanimous rollcall vote of 29 to 0, approved 
+the allocation to subcommittees for fiscal year 2003.
+  On Wednesday, July 24--just this past Wednesday--Congress adopted the 
+conference report to accompany H.R. 4775, the fiscal year 2002 
+supplemental appropriations bill.
+  Today, I submit a revised allocation which has been modified, 
+primarily, to conform outlays for each subcommittee with the outcome on 
+the supplemental.
+  These revised allocations were prepared in consultation with my 
+colleague, Senator Stevens, the distinguished ranking member of the 
+committee, who stands with me committee to presenting bills to the 
+Senate consistent with the allocations.
+  Furthermore, we stand committed to oppose any amendments that would 
+breach the allocations.
+  I ask unanimous consent that a table setting forth the revised 
+allocation to subcommittees be printed in the Record.
+  There being no objection, the material was ordered to be printed in 
+the Record, as follows:
+
+    SENATE COMMITTEE ON APPROPRIATIONS--REVISED FY 2003 SUBCOMMITTEE
+                   ALLOCATIONS DISCRETIONARY SPENDING
+                        [In millions of dollars]
+------------------------------------------------------------------------
+                                                    Budget
+                  Subcommittee                     authority    Outlays
+------------------------------------------------------------------------
+Agriculture.....................................      17,980      18,273
+Commerce........................................      43,475      43,174
+Defense.........................................     355,139     350,549
+District of Columbia............................         517         586
+Energy & Water..................................      26,300      26,060
+Foreign Operations..............................      16,350      16,657
+Interior........................................      18,926      18,610
+Labor-HHS-Education.............................     134,132     126,373
+Legislative Branch..............................       3,413       3,467
+Military Construction...........................      10,622      10,127
+Transportation..................................      21,300      62,101
+Treasury, General Gov't.........................      18,501      18,231
+VA, HUD.........................................      91,434      97,314
+Deficiencies....................................      10,000      12,369
+------------------------------------------------------------------------
+    Total.......................................     768,089     803,891
+------------------------------------------------------------------------
+Revised on July 25, 2002.
+
+  Mr. BYRD. Mr. President, I thank the Chair and I suggest the absence 
+of a quorum.
+  The PRESIDING OFFICER. The clerk will call the roll.
+  The legislative clerk proceeded to call the roll.
+  Mr. REID. Mr. President, I ask unanimous consent that the order for 
+the quorum call be rescinded.
+  The PRESIDING OFFICER (Mr. Wyden). Without objection, it is so 
+ordered.
+
+                          ____________________
+```
