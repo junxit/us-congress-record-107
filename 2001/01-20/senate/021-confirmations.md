@@ -1,0 +1,66 @@
+---
+granule: CRECB-2001-pt1-Pg159-10
+date: 2001-01-20
+edition: CRECB
+section: SENATE
+page: 159
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  EXECUTIVE NOMINATIONS CONFIRMED BY THE SENATE JANUARY 20, 2001:
+
+
+                       DEPARTMENT OF AGRICULTURE
+
+       ANN MARGARET VENEMAN, OF CALIFORNIA, TO BE SECRETARY OF 
+     AGRICULTURE.
+
+
+                         DEPARTMENT OF DEFENSE
+
+       DONALD HENRY RUMSFELD, OF ILLINOIS, TO BE SECRETARY OF 
+     DEFENSE.
+
+
+                         DEPARTMENT OF COMMERCE
+
+       DONALD LOUIS EVANS, OF TEXAS, TO BE SECRETARY OF COMMERCE.
+
+[[Page 160]]
+
+
+
+
+                          DEPARTMENT OF ENERGY
+
+       SPENCER ABRAHAM, OF MICHIGAN, TO BE SECRETARY OF ENERGY.
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       PAUL HENRY O'NEILL, OF PENNSYLVANIA, TO BE SECRETARY OF THE 
+     TREASURY.
+
+
+                          DEPARTMENT OF STATE
+
+       COLIN LUTHER POWELL, OF VIRGINIA, TO BE SECRETARY OF STATE.
+
+
+                        DEPARTMENT OF EDUCATION
+
+       RODERICK R. PAIGE, OF TEXAS, TO BE SECRETARY OF EDUCATION.
+
+
+             CONGRESSIONAL RECORD 
+
+                United States
+                 of America
+
+
+January 20, 2001
+```
