@@ -1,0 +1,35 @@
+---
+granule: CRECB-2001-pt12-Pg17966-2
+date: 2001-09-25
+edition: CRECB
+section: EXTENSIONS
+page: 17966
+---
+
+# PERSONAL EXPLANATION
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                          HON. J.C. WATTS, JR.
+
+                              of oklahoma
+
+                    in the house of representatives
+
+                      Tuesday, September 25, 2001
+
+  Mr. WATTS of Oklahoma. Mr. Speaker, due to tornado warnings, my 
+flight was diverted to Philadelphia, and I was unavoidably detained on 
+September 24, 2001. As a result, I missed Recorded Votes #349 (H.R. 
+717, Duchenne Muscular Dystrophy Childhood Assistance, Research and 
+Education Amendments of 2001), and #350 (H.J. Res. 65, Continuing 
+Appropriations for FY2002).
+  I ask that the Record reflect that, had I been present, I would have 
+voted ``aye'' on all of the above motions on September 24, 2001.
+
+                          ____________________
+```
