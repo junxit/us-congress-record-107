@@ -1,0 +1,37 @@
+---
+granule: CRECB-2002-pt4-Pg5096-3
+date: 2002-04-18
+edition: CRECB
+section: SENATE
+page: 5096
+---
+
+# TRIBUTE TO PAUL GAGNE
+
+```
+                         TRIBUTE TO PAUL GAGNE
+
+● Mr. SMITH of New Hampshire. Mr. President, today I show my 
+support for Paul Gagne of New Hampshire. His heroic actions, combined 
+with help from Jeffrey Morse, saved a woman and numerous animals. He 
+put his life on the line to rescue others from a burning house.
+  In September of 2001, the two telephone technicians were working on a 
+cable problem when they noticed smoke coming from a nearby house. They 
+raced to the scene of the fire. Paul hurried to call the emergency 
+rescue services, while Jeffrey used a garden hose to prevent the flames 
+from spreading. Jeffrey then noticed a sign indicating that live 
+animals were living in the house, so he kicked down the door to the 
+building and retrieved a cat.
+  After the animal was brought to safety, the two men heard screams. 
+Paul and Jeffrey entered the burning building and worked their way 
+through the thick smoke to find a choking woman. The two men picked her 
+up and carried her to safety. They returned for a final trip to ensure 
+everyone had been rescued.
+  I commend the acts of Paul Gagne. It takes true courage and honor to 
+put somebody else's life above one's own. I am confident that as long 
+as we have people like Paul, our Nation will continue to be strong. New 
+Hampshire is proud to have such a dedicated citizen. It is an honor to 
+represent Paul Gagne in the U.S. Senate.●
+
+                          ____________________
+```
