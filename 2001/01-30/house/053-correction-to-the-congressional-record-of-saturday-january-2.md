@@ -1,0 +1,17 @@
+---
+granule: CREC-2001-01-30-pt1-PgH103
+date: 2001-01-30
+edition: CREC
+section: HOUSE
+page: H103
+citation: 147 Cong. Rec. H103
+---
+
+# CORRECTION TO THE CONGRESSIONAL RECORD OF SATURDAY, JANUARY 20, 2001 AT PAGE H67
+
+```
+CORRECTION TO THE CONGRESSIONAL RECORD OF SATURDAY, JANUARY 20, 2001 AT 
+PAGE H67
+
+                          ____________________
+```
