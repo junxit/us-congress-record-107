@@ -1,0 +1,22 @@
+---
+granule: CRECB-2002-pt1-Pg63-4
+date: 2002-01-23
+edition: CRECB
+section: SENATE
+page: 63
+---
+
+# EXECUTIVE MESSAGES REFERRED
+
+```
+                      EXECUTIVE MESSAGES REFERRED
+
+  As in executive session the Presiding Officer laid before the Senate 
+messages from the President of the United States submitting a 
+withdrawal and sundry nominations which were referred to the 
+appropriate committees.
+  (The nominations received today are printed at the end of the Senate 
+proceedings.)
+
+                          ____________________
+```
